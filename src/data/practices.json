@@ -1,0 +1,5 @@
+{
+  "_schema": "data-schema-v1",
+  "description": "Structured practice records: id, name, chinese, pinyin, tradition, page, evidence, related[]",
+  "items": []
+}

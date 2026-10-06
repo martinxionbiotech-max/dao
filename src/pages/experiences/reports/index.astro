@@ -1,0 +1,21 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const entries = (await getCollection('experiences'))
+  .filter((e) => e.data.sourceType === 'report' && e.data.status === 'published')
+  .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
+---
+
+<Base title="Experience Reports" description="Substantial anonymized practitioner experience reports.">
+  <h1>Experience Reports</h1>
+  <p class="lede">Substantial individual experiences — 400–1500+ words, anonymized.</p>
+  {entries.length === 0 && <p class="meta">No published reports yet.</p>}
+  {entries.map((e) => (
+    <div class="card">
+      <h2><a href={`/experiences/reports/${e.id}/`}>{e.data.title}</a></h2>
+      {e.data.description && <p>{e.data.description}</p>}
+      <p class="meta">{e.data.practice && <span class="tag">{e.data.practice}</span>}<span class="tag">practitioner report</span></p>
+    </div>
+  ))}
+</Base>

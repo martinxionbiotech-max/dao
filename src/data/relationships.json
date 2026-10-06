@@ -1,0 +1,5 @@
+{
+  "_schema": "data-schema-v1",
+  "description": "Knowledge graph edges: from, to, relation (belongs_to / related_to / described_in / translated_as / associated_with / concerns / derived_from / investigates / discusses)",
+  "items": []
+}

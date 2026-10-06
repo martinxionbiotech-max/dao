@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Sitemap: https://example.com/sitemap-index.xml
+
+# AI crawlers welcome — this site is built for retrieval
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /

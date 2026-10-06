@@ -1,0 +1,5 @@
+{
+  "_schema": "data-schema-v1",
+  "description": "Source registry: id, title, type (primary_text/scholarship/research/community), language, url, pages_used_in[]",
+  "items": []
+}

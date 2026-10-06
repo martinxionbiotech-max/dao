@@ -1,0 +1,27 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const entries = (await getCollection('patterns'))
+  .filter((e) => e.data.status === 'published')
+  .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
+---
+
+<Base title="Experience Patterns" description="Recurring phenomena across independent anonymized practitioner reports.">
+  <h1>Experience Patterns</h1>
+  <p class="lede">
+    When multiple independent reports describe similar phenomena, a pattern is recorded.
+    Language: "Recurring reports in the practitioner archive" — never "scientifically proven".
+  </p>
+  {entries.length === 0 && <p class="meta">No published patterns yet.</p>}
+  {entries.map((e) => (
+    <div class="card">
+      <h2><a href={`/experiences/patterns/${e.id}/`}>{e.data.title}</a></h2>
+      {e.data.description && <p>{e.data.description}</p>}
+      <p class="meta">
+        {e.data.reportCount != null && <span class="tag">{e.data.reportCount} reports</span>}
+        <span class="tag">{e.data.evidenceBasis}</span>
+      </p>
+    </div>
+  ))}
+</Base>

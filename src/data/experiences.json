@@ -1,0 +1,5 @@
+{
+  "_schema": "data-schema-v1",
+  "description": "Structured experience records (anonymized): experience_id, practice, tradition, evidence_type, page, publication_status",
+  "items": []
+}

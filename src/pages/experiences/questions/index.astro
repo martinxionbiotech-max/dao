@@ -1,0 +1,20 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+const entries = (await getCollection('questions'))
+  .filter((e) => e.data.status === 'published')
+  .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
+---
+
+<Base title="Questions" description="Real practitioner questions worth preserving and investigating.">
+  <h1>Practitioner Questions</h1>
+  <p class="lede">Real questions from practice — question discovery signals for deeper content.</p>
+  {entries.length === 0 && <p class="meta">No published questions yet.</p>}
+  {entries.map((e) => (
+    <div class="card">
+      <h2><a href={`/experiences/questions/${e.id}/`}>{e.data.question}</a></h2>
+      <p class="meta"><span class="tag">{e.data.answerState}</span></p>
+    </div>
+  ))}
+</Base>

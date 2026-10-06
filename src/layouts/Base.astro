@@ -1,0 +1,122 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description } = Astro.props;
+const pageTitle = title ? `${title} — Dao Knowledge Base` : 'Dao Knowledge Base';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <meta name="robots" content="index, follow" />
+    <style is:global>
+      :root {
+        --ink: #1a1a1a;
+        --muted: #6b6b6b;
+        --bg: #faf9f6;
+        --card: #ffffff;
+        --line: #e5e2da;
+        --accent: #7a5c3e;
+      }
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+      body {
+        font-family: Georgia, 'Times New Roman', serif;
+        color: var(--ink);
+        background: var(--bg);
+        line-height: 1.7;
+      }
+      a { color: var(--accent); text-decoration: none; }
+      a:hover { text-decoration: underline; }
+      .wrap { max-width: 880px; margin: 0 auto; padding: 0 20px; }
+      header {
+        border-bottom: 1px solid var(--line);
+        background: var(--card);
+      }
+      header .wrap { display: flex; align-items: center; justify-content: space-between; padding: 18px 20px; }
+      .brand { font-size: 1.3rem; font-weight: bold; letter-spacing: 0.02em; }
+      nav { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.85rem; display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; padding: 10px 20px 14px; }
+      nav a { color: var(--muted); }
+      nav a:hover { color: var(--accent); }
+      main { padding: 36px 0 64px; }
+      h1 { font-size: 1.9rem; margin-bottom: 12px; }
+      h2 { font-size: 1.35rem; margin: 28px 0 10px; }
+      h3 { font-size: 1.1rem; margin: 22px 0 8px; }
+      p { margin: 10px 0; }
+      .lede { color: var(--muted); font-size: 1.05rem; }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 6px;
+        padding: 18px 20px;
+        margin: 14px 0;
+      }
+      .card h2 { margin: 0 0 6px; font-size: 1.15rem; }
+      .meta { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; color: var(--muted); }
+      .tag {
+        display: inline-block;
+        font-family: ui-sans-serif, system-ui, sans-serif;
+        font-size: 0.72rem;
+        color: var(--muted);
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 1px 9px;
+        margin: 2px 3px 2px 0;
+      }
+      table { width: 100%; border-collapse: collapse; margin: 14px 0; font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.9rem; }
+      th, td { border: 1px solid var(--line); padding: 8px 10px; text-align: left; vertical-align: top; }
+      th { background: var(--card); }
+      footer { border-top: 1px solid var(--line); padding: 28px 0 40px; color: var(--muted); font-size: 0.85rem; }
+      .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 14px; margin: 18px 0; }
+      .grid .card { margin: 0; }
+      code, pre { font-family: ui-monospace, monospace; background: #f2efe9; border-radius: 4px; }
+      code { padding: 1px 5px; font-size: 0.85em; }
+      pre { padding: 12px; overflow-x: auto; margin: 12px 0; }
+      blockquote { border-left: 3px solid var(--line); padding-left: 14px; color: var(--muted); margin: 12px 0; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <a class="brand" href="/">道 Dao Knowledge Base</a>
+      </div>
+      <nav>
+        <a href="/concepts/">Concepts</a>
+        <a href="/practices/">Practices</a>
+        <a href="/problems/">Problems</a>
+        <a href="/comparisons/">Comparisons</a>
+        <a href="/texts/">Texts</a>
+        <a href="/translations/">Translations</a>
+        <a href="/people/">People</a>
+        <a href="/stories/">Stories</a>
+        <a href="/research/">Research</a>
+        <a href="/glossary/">Glossary</a>
+        <a href="/timeline/">Timeline</a>
+        <a href="/guides/">Guides</a>
+        <a href="/tools/">Tools</a>
+        <a href="/experiences/">Experiences</a>
+        <a href="/data/">Data</a>
+        <a href="/blog/">Blog</a>
+      </nav>
+    </header>
+    <main>
+      <div class="wrap">
+        <slot />
+      </div>
+    </main>
+    <footer>
+      <div class="wrap">
+        <p>
+          An English-language knowledge infrastructure for Chinese contemplative
+          traditions — connecting texts, history, concepts, practices, research and
+          anonymized practitioner experience. Evidence is classified; uncertainty is preserved.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

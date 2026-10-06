@@ -1,0 +1,28 @@
+---
+import Base from '../../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('experiences');
+  return entries
+    .filter((e) => e.data.sourceType === 'note' && e.data.status !== 'draft' && e.data.status !== 'internal')
+    .map((e) => ({ params: { slug: e.id }, props: { entry: e } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+---
+
+<Base title={d.title} description={d.description}>
+  <h1>{d.title}</h1>
+  <p class="meta"><span class="tag">experience note</span><span class="tag">{d.anonymity}</span>{d.practice && <span class="tag">{d.practice}</span>}{d.confidence && <span class="tag">confidence: {d.confidence}</span>}</p>
+  <Content />
+  {(d.practitionerInterpretation || d.traditionalInterpretation) && (
+    <>
+      <h2>Interpretations</h2>
+      {d.practitionerInterpretation && <p><strong>Practitioner:</strong> {d.practitionerInterpretation}</p>}
+      {d.traditionalInterpretation && <p><strong>Traditional:</strong> {d.traditionalInterpretation}</p>}
+    </>
+  )}
+</Base>

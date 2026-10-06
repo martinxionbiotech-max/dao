@@ -1,0 +1,39 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('stories');
+  return entries
+    .filter((e) => e.data.status !== 'draft' && e.data.status !== 'internal')
+    .map((e) => ({ params: { slug: e.id }, props: { entry: e } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const ev = (d.evidence || []).length ? d.evidence : undefined;
+---
+
+<Base title={d.title} description={d.description}>
+  <h1>{d.title}</h1>
+  {d.description && <p class="lede">{d.description}</p>}
+  {(d.chinese || d.pinyin || d.tradition || d.period || d.dynasty || d.author) && (
+    <p class="meta">
+      {d.chinese && <span>中文: {d.chinese} &middot; </span>}
+      {d.pinyin && <span>{d.pinyin} &middot; </span>}
+      {d.tradition && <span>{d.tradition} &middot; </span>}
+      {d.period && <span>{d.period} &middot; </span>}
+      {d.dynasty && <span>{d.dynasty} &middot; </span>}
+      {d.author && <span>{d.author}</span>}
+    </p>
+  )}
+  {ev && <p class="meta">{ev.map((v) => <span class="tag">{v}</span>)}</p>}
+  <Content />
+  {(d.sources?.length > 0) && (
+    <>
+      <h2>Sources</h2>
+      <ul>{d.sources.map((s) => <li>{s}</li>)}</ul>
+    </>
+  )}
+</Base>
