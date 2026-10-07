@@ -1505,6 +1505,47 @@
    "pages_used_in": [
     "/translations/daodejing-12/"
    ]
+  },
+  {
+   "id": "yuyan-zhiyan-editions",
+   "title": "Zhuangzi ch. 27 (Yu Yan), the opening self-summary of the three modes of speech (yuyan/zhongyan/zhiyan), verified against the Wikisource full chapter and the Tsinghua literary research center close reading (quoting the Guo Qingfan punctuated text), with the commentary tradition registered from the Guangming Daily study by Song Xiaoke (Chinawriter reprint: Sima Biao, Guo Xiang, Cheng Xuanying, Luo Miandao readings plus the modern Li Binghai and Guo Changbao proposals)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%AF%93%E8%A8%80",
+   "pages_used_in": [
+    "/stories/zhi-yan/",
+    "/glossary/hua/"
+   ]
+  },
+  {
+   "id": "dasheng-huangong-editions",
+   "title": "Zhuangzi ch. 19 (Da Sheng), the Duke Huan ghost passage, verified against the Wikisource full chapter, the with.org chapter text, the Wang Xianqian jijie edition (zdic, with Lu Deming glosses, Sima Biao ghost names, the vermillion-cap variant, and the Guo Xiang chapter note), and the ctext parallel passage",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%81%94%E7%94%9F",
+   "pages_used_in": [
+    "/stories/huan-gong-jian-gui/"
+   ]
+  },
+  {
+   "id": "daodejing-13-editions",
+   "title": "Daodejing ch. 13, verified against the Mawangdui silk A collation (6dsy.cn, recording the 贵为身于为天下 and 宠之为下 readings), the Shandong University chapter page, the Qstheory reprint of the Guangming Daily study by Zhang Jing (Gao Heng, Chen Guying, Zhang Songhui, Feng Youlan, Ren Jiyu interpretations; the two idioms both from this chapter), and the Daodejing.org chapter page",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://6dsy.cn/daodejing-boshujiaben-13zhang",
+   "pages_used_in": [
+    "/translations/daodejing-13/"
+   ]
+  },
+  {
+   "id": "cheng-xuanying-sources",
+   "title": "Cheng Xuanying (608-669): the Baidu Baike Zhuangzi zhushu biographical entry (Zishi, Shanzhou, Xihua fashi title Zhenguan 5, Yuntai mountain retreat, Chongxuan school, the three works); the Daoist Culture Centre database record of the Nanhua zhenjing zhushu (35 juan, Zhengtong Daozang, Guo Qingfan incorporation, Zhonghua shuju 1998 edition); the Gong Pengcheng study of his Buddhist absorption (Chengguan's charge, the huahu thesis, the Wude 7 three-teachings debates)",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://zh.daoinfo.org/index.php?title=%E5%8D%97%E8%8F%AF%E7%9C%9F%E7%B6%93%E6%B3%A8%E7%96%8F%EF%BC%88%E9%83%AD%E8%B1%A1%E3%80%81%E6%88%90%E7%8E%84%E8%8B%B1%EF%BC%89",
+   "pages_used_in": [
+    "/people/cheng-xuanying/"
+   ]
   }
  ]
 }

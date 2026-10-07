@@ -4826,6 +4826,311 @@
    "from": "daodejing-12",
    "to": "xu",
    "relation": "concerns"
+  },
+  {
+   "from": "zhi-yan",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "zhi-yan",
+   "to": "three-in-the-morning",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-yan",
+   "to": "butterfly-dream",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-yan",
+   "to": "ren-gongzi-fishing",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-yan",
+   "to": "tian-jun",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-yan",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-yan",
+   "to": "bao-guang",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-yan",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-yan",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-gong-jian-gui",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "huan-gong-jian-gui",
+   "to": "huzi-jixian",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-gong-jian-gui",
+   "to": "zhuangzi-skeleton",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-gong-jian-gui",
+   "to": "qinshi-mourning",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-gong-jian-gui",
+   "to": "seeing-light-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-gong-jian-gui",
+   "to": "exp-020-false-first-dhyana",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-gong-jian-gui",
+   "to": "xushi-sheng-bai",
+   "relation": "related_to"
+  },
+  {
+   "from": "hua",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "hua",
+   "to": "da-kuai",
+   "relation": "related_to"
+  },
+  {
+   "from": "hua",
+   "to": "tian-ji",
+   "relation": "related_to"
+  },
+  {
+   "from": "hua",
+   "to": "butterfly-dream",
+   "relation": "related_to"
+  },
+  {
+   "from": "hua",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "hua",
+   "to": "daye-zhu-jin",
+   "relation": "related_to"
+  },
+  {
+   "from": "hua",
+   "to": "zhi-yan",
+   "relation": "related_to"
+  },
+  {
+   "from": "hua",
+   "to": "daodejing-40",
+   "relation": "related_to"
+  },
+  {
+   "from": "hua",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-zhong",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "huan-zhong",
+   "to": "tian-jun",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-zhong",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-zhong",
+   "to": "zhen-zai",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-zhong",
+   "to": "zhi-shui",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-zhong",
+   "to": "yongxin-ruo-jing-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-zhong",
+   "to": "qiwulun-wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-zhong",
+   "to": "three-in-the-morning",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-zhong",
+   "to": "xuzhou-empty-boat",
+   "relation": "related_to"
+  },
+  {
+   "from": "huan-zhong",
+   "to": "huzi-jixian",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-13",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-13",
+   "to": "daodejing-07",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-13",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-13",
+   "to": "wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-13",
+   "to": "jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-13",
+   "to": "should-i-meditate-when-sick",
+   "relation": "related_to"
+  },
+  {
+   "from": "cheng-xuanying",
+   "to": "guo-xiang",
+   "relation": "related_to"
+  },
+  {
+   "from": "cheng-xuanying",
+   "to": "wang-bi",
+   "relation": "related_to"
+  },
+  {
+   "from": "cheng-xuanying",
+   "to": "tao-hongjing",
+   "relation": "related_to"
+  },
+  {
+   "from": "cheng-xuanying",
+   "to": "xuan",
+   "relation": "related_to"
+  },
+  {
+   "from": "cheng-xuanying",
+   "to": "bao-guang",
+   "relation": "related_to"
+  },
+  {
+   "from": "cheng-xuanying",
+   "to": "daodejing-01",
+   "relation": "related_to"
+  },
+  {
+   "from": "cheng-xuanying",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "cheng-xuanying",
+   "to": "zhuangzi",
+   "relation": "related_to"
+  },
+  {
+   "from": "cheng-xuanying",
+   "to": "daodejing",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "how-long-until-results",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "exp-012-restless-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "exp-020-false-first-dhyana",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "exp-024-standing-and-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "tu-long-zhi-ji",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "ren-gongzi-fishing",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "marsh-pheasant",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "daodejing-64",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-keep-quitting",
+   "to": "drowsiness-vs-stillness",
+   "relation": "related_to"
   }
  ]
 }
