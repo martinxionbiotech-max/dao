@@ -451,6 +451,51 @@
       "from": "jingzuo",
       "to": "zuowang",
       "relation": "contrasts_with"
+    },
+    {
+      "from": "xu",
+      "to": "xinzhai",
+      "relation": "related_to"
+    },
+    {
+      "from": "xu",
+      "to": "zuowang",
+      "relation": "related_to"
+    },
+    {
+      "from": "xu",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "xinzhai",
+      "to": "xu",
+      "relation": "derived_from"
+    },
+    {
+      "from": "neiguan",
+      "to": "zuowang",
+      "relation": "related_to"
+    },
+    {
+      "from": "neiguan",
+      "to": "neiguan-jing",
+      "relation": "described_in"
+    },
+    {
+      "from": "seeing-light-in-sitting",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "seeing-light-in-sitting",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "seeing-light-in-sitting",
+      "to": "zhuangzi",
+      "relation": "described_in"
     }
   ]
 }

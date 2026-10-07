@@ -359,6 +359,17 @@
         "/glossary/tiaoxi/",
         "/problems/drowsiness-in-sitting/"
       ]
+    },
+    {
+      "id": "wikisource-zhuangzi-renjianshi",
+      "title": "Zhuangzi ch. 4 (Renjian shi), Wikisource",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/莊子/人間世",
+      "pages_used_in": [
+        "/concepts/xu/",
+        "/problems/seeing-light-in-sitting/"
+      ]
     }
   ]
 }
