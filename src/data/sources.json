@@ -447,7 +447,8 @@
       "language": "zh",
       "url": "https://zh.wikisource.org/wiki/莊子/秋水",
       "pages_used_in": [
-        "/stories/fish-happiness/"
+        "/stories/fish-happiness/",
+        "/stories/handan-walk/"
       ]
     },
     {
@@ -525,7 +526,8 @@
       "type": "primary_text",
       "language": "zh",
       "pages_used_in": [
-        "/stories/peng-bird/"
+        "/stories/peng-bird/",
+        "/stories/useless-gourd/"
       ]
     },
     {
@@ -534,7 +536,8 @@
       "type": "primary_text",
       "language": "zh",
       "pages_used_in": [
-        "/texts/liezi/"
+        "/texts/liezi/",
+        "/timeline/liezi-compilation/"
       ]
     },
     {
@@ -555,6 +558,35 @@
       "url": "https://www.163.com/dy/article/G59VFFCR0545316K.html",
       "pages_used_in": [
         "/experiences/exp-009-dissolving-void/"
+      ]
+    },
+    {
+      "id": "wei-huacun-biography",
+      "title": "Wei Huacun biographical tradition (251/252-334; Wei Shu's daughter; posthumous titles Wei Furen / Nanyue Furen); Shangqing revelation lineage",
+      "type": "traditional_record",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/wei-huacun/"
+      ]
+    },
+    {
+      "id": "shidian-daodejing-25",
+      "title": "Daodejing ch. 25, Heshang Gong recension (Shidian Guji edition)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-25/"
+      ]
+    },
+    {
+      "id": "163-taishi-28",
+      "title": "Taishi cultivation Q&A no. 28 (163.com community column, 2021)",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G2V23JGP0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-010-lotus-pain/",
+        "/questions/must-i-sit-cross-legged/"
       ]
     }
   ]

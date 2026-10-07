@@ -1206,6 +1206,111 @@
       "from": "exp-009-dissolving-void",
       "to": "three-languages",
       "relation": "related_to"
+    },
+    {
+      "from": "handan-walk",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "handan-walk",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "handan-walk",
+      "to": "fish-happiness",
+      "relation": "related_to"
+    },
+    {
+      "from": "handan-walk",
+      "to": "combine-zuowang-mindfulness",
+      "relation": "concerns"
+    },
+    {
+      "from": "useless-gourd",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "useless-gourd",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "useless-gourd",
+      "to": "peng-bird",
+      "relation": "related_to"
+    },
+    {
+      "from": "wei-huacun",
+      "to": "huangting-jing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "wei-huacun",
+      "to": "cunsi",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-25",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-25",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-25",
+      "to": "daodejing-16",
+      "relation": "related_to"
+    },
+    {
+      "from": "must-i-sit-cross-legged",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "must-i-sit-cross-legged",
+      "to": "sitting-protocol",
+      "relation": "related_to"
+    },
+    {
+      "from": "must-i-sit-cross-legged",
+      "to": "exp-010-lotus-pain",
+      "relation": "related_to"
+    },
+    {
+      "from": "must-i-sit-cross-legged",
+      "to": "leg-numbness-pain",
+      "relation": "related_to"
+    },
+    {
+      "from": "liezi-compilation",
+      "to": "liezi",
+      "relation": "concerns"
+    },
+    {
+      "from": "liezi-compilation",
+      "to": "zhuangzi-compilation",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-010-lotus-pain",
+      "to": "leg-numbness-pain",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-010-lotus-pain",
+      "to": "jiafuzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "exp-010-lotus-pain",
+      "to": "must-i-sit-cross-legged",
+      "relation": "related_to"
     }
   ]
 }
