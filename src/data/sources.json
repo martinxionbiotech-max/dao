@@ -342,7 +342,8 @@
         "/translations/artisan-qing-passage/",
         "/blog/three-craftsmen-dazheng/",
         "/glossary/shen/",
-        "/stories/boatman/"
+        "/stories/boatman/",
+        "/stories/swimmer-lvliang/"
       ]
     },
     {
@@ -451,7 +452,9 @@
         "/stories/fish-happiness/",
         "/stories/handan-walk/",
         "/stories/jingdi-zhiwa/",
-        "/stories/wangyang-xingtan/"
+        "/stories/wangyang-xingtan/",
+        "/stories/phoenix-and-owl/",
+        "/stories/turtle-in-the-mud/"
       ]
     },
     {
@@ -600,7 +603,8 @@
       "pages_used_in": [
         "/stories/fish-in-the-dry-spring/",
         "/glossary/liang-wang/",
-        "/translations/yingning-passage/"
+        "/translations/yingning-passage/",
+        "/glossary/zhaoche/"
       ]
     },
     {
@@ -733,6 +737,44 @@
       "url": "https://www.163.com/dy/article/G3C19JPB0545316K.html",
       "pages_used_in": [
         "/experiences/exp-013-buddhist-daoist-boundary/"
+      ]
+    },
+    {
+      "id": "shidian-yihai-zuanwei-qiushui",
+      "title": "Nanhua Zhenjing Yihai Zuanwei (Shidian Guji edition), Qiushui chapter with Guo Xiang/Lu/other commentary chain (turtle and phoenix passages)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/turtle-in-the-mud/",
+        "/stories/phoenix-and-owl/"
+      ]
+    },
+    {
+      "id": "daodejing-01-editions",
+      "title": "Daodejing ch. 1: received text with teaching editions, full-text 81-chapter edition, and the punctuation-variant discussion (Wang Bi cutting vs received cutting)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-01/"
+      ]
+    },
+    {
+      "id": "heshang-gong-sources",
+      "title": "Heshang Gong dossier: Shenxian Zhuan ch. 8 (Ctext edition), Global Daoist database entry (dao.jic.io), Shuge edition note (Lu Zuqian recension), Shiji Yue Yi liezhuan transmission line",
+      "type": "traditional_record",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/heshang-gong/"
+      ]
+    },
+    {
+      "id": "163-taishi-25",
+      "title": "Taishi cultivation Q&A no. 25 (163.com community column, 2021): why double-lotus is required",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G2SOIJDD0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-014-double-lotus-doctrine/"
       ]
     }
   ]

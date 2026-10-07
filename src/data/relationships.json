@@ -1656,6 +1656,156 @@
       "from": "exp-013-buddhist-daoist-boundary",
       "to": "combine-zuowang-mindfulness",
       "relation": "related_to"
+    },
+    {
+      "from": "phoenix-and-owl",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "phoenix-and-owl",
+      "to": "carpenter-shi",
+      "relation": "related_to"
+    },
+    {
+      "from": "phoenix-and-owl",
+      "to": "fish-happiness",
+      "relation": "related_to"
+    },
+    {
+      "from": "phoenix-and-owl",
+      "to": "turtle-in-the-mud",
+      "relation": "related_to"
+    },
+    {
+      "from": "turtle-in-the-mud",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "turtle-in-the-mud",
+      "to": "zhuang-zhou",
+      "relation": "related_to"
+    },
+    {
+      "from": "turtle-in-the-mud",
+      "to": "tao-hongjing",
+      "relation": "related_to"
+    },
+    {
+      "from": "turtle-in-the-mud",
+      "to": "phoenix-and-owl",
+      "relation": "related_to"
+    },
+    {
+      "from": "swimmer-lvliang",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "swimmer-lvliang",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "swimmer-lvliang",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "swimmer-lvliang",
+      "to": "boatman",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhaoche",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "zhaoche",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "zhaoche",
+      "to": "yingning",
+      "relation": "concerns"
+    },
+    {
+      "from": "zhaoche",
+      "to": "yingning-passage",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-01",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-01",
+      "to": "dao",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-01",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-01",
+      "to": "guan",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-01",
+      "to": "daodejing-25",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-01",
+      "to": "qingjing-jing-opening",
+      "relation": "related_to"
+    },
+    {
+      "from": "heshang-gong",
+      "to": "laozi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "heshang-gong",
+      "to": "daodejing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "heshang-gong",
+      "to": "ge-hong",
+      "relation": "associated_with"
+    },
+    {
+      "from": "heshang-gong",
+      "to": "daodejing-25",
+      "relation": "related_to"
+    },
+    {
+      "from": "heshang-gong",
+      "to": "daodejing-05",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-014-double-lotus-doctrine",
+      "to": "must-i-sit-cross-legged",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-014-double-lotus-doctrine",
+      "to": "exp-010-lotus-pain",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-014-double-lotus-doctrine",
+      "to": "exp-012-restless-body",
+      "relation": "related_to"
     }
   ]
 }
