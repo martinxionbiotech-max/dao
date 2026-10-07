@@ -1325,6 +1325,66 @@
    "pages_used_in": [
     "/experiences/exp-024-standing-and-sitting/"
    ]
+  },
+  {
+   "id": "quqie-editions",
+   "title": "Zhuangzi ch. 10 (Qu Qie, outer chapter), the Robber Zhi passage and the chapter argument, verified against the Wikisource full text, the Chinese Text Project parallel text, the Zhihu full-text column, and the Zhuangzi kouyi (Shidian guji, SK2166), which agree verbatim",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E8%83%A0%E7%AF%8B",
+   "pages_used_in": [
+    "/stories/dao-yi-you-dao/"
+   ]
+  },
+  {
+   "id": "dasheng-shanbao-editions",
+   "title": "Zhuangzi ch. 19 (Da Sheng), the Shan Bao and Zhang Yi passage, verified against the Wikisource full text, the Zhihu full-text commentary, the 8bei8 reading text, the Wang Xianqian Zhuangzi jijie (zdic.net), and the Chinese Text Project parallel text, which agree verbatim (游/游 and 縣/悬 gloss variants registered)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%81%94%E7%94%9F",
+   "pages_used_in": [
+    "/stories/shanbao-zhangyi/"
+   ]
+  },
+  {
+   "id": "xiaoyaoyou-xiaoyao-editions",
+   "title": "Zhuangzi ch. 1 (Xiao Yao You), the closing tree passage and the Guo Xiang commentary, verified against the Wikisource full text and the Zhuangzi yi (Shidian guji, DZ1487, verbatim, including the commentary defining xiaoyao as non-dependence); plus the ch. 19 Bianzi usage from the same session; plus the HK EDB recommended-passages PDF",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A",
+   "pages_used_in": [
+    "/glossary/xiaoyao/"
+   ]
+  },
+  {
+   "id": "daodejing-11-editions",
+   "title": "Daodejing ch. 11, received text, verified against four independent reproductions that agree (the Zhihu full-text edition; the Jingangjin bilingual edition; the Daodejing.org chapter page with glosses; the Chinese Text Project Heshang Gong zhangju parallel, whose chapter title is Wu Yong)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.daodejing.org/11.html",
+   "pages_used_in": [
+    "/translations/daodejing-11/"
+   ]
+  },
+  {
+   "id": "zhang-boduan-sources",
+   "title": "Zhang Boduan (984-1082): Global Daoism database (dao.jic.io, citing the Wuzhen pian prefaces and Qing Xitai); Shaoyang Yuqing Gong biography (quoting the preface verbatim, the Lu Yanfu record, the death-verse); Zheng Weiyi study in Hongdao 58 (2014) on the two threes in the postface; Airiti thesis abstract on the Wuzhen pian; Zhejiang CPPCC cultural-history entry (1075 completion, Yongzheng enfeoffment); Baidu Baike",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://dao.jic.io/figures/zhang-boduan",
+   "pages_used_in": [
+    "/people/zhang-boduan/"
+   ]
+  },
+  {
+   "id": "daodejing-07-editions",
+   "title": "Daodejing ch. 7, received text, verified against four independent reproductions that agree (the Daodejing.org chapter page; the Vocus bilingual edition printing the Mawangdui variants; the Taiwan Education Ministry dictionary entry for 外身身存 with the commentary tradition; the Zhihu silk-text edition with gloss)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.daodejing.org/7.html",
+   "pages_used_in": [
+    "/translations/daodejing-07/"
+   ]
   }
  ]
 }

@@ -3921,6 +3921,301 @@
    "from": "exp-024-standing-and-sitting",
    "to": "tiaoxi",
    "relation": "concerns"
+  },
+  {
+   "from": "dao-yi-you-dao",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "dao-yi-you-dao",
+   "to": "bole-horses",
+   "relation": "related_to"
+  },
+  {
+   "from": "dao-yi-you-dao",
+   "to": "tushan-shuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "dao-yi-you-dao",
+   "to": "cao-shang",
+   "relation": "related_to"
+  },
+  {
+   "from": "dao-yi-you-dao",
+   "to": "dao",
+   "relation": "related_to"
+  },
+  {
+   "from": "dao-yi-you-dao",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "dao-yi-you-dao",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "shanbao-zhangyi",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "shanbao-zhangyi",
+   "to": "mountain-tree-goose",
+   "relation": "related_to"
+  },
+  {
+   "from": "shanbao-zhangyi",
+   "to": "zhili-shu",
+   "relation": "related_to"
+  },
+  {
+   "from": "shanbao-zhangyi",
+   "to": "sitting-protocol",
+   "relation": "related_to"
+  },
+  {
+   "from": "shanbao-zhangyi",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "shanbao-zhangyi",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "xiaoyao",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "xiaoyao",
+   "to": "useless-gourd",
+   "relation": "related_to"
+  },
+  {
+   "from": "xiaoyao",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "xiaoyao",
+   "to": "handan-walk",
+   "relation": "related_to"
+  },
+  {
+   "from": "xiaoyao",
+   "to": "bole-horses",
+   "relation": "related_to"
+  },
+  {
+   "from": "xiaoyao",
+   "to": "zhili-shu",
+   "relation": "related_to"
+  },
+  {
+   "from": "xiaoyao",
+   "to": "what-is-stillness",
+   "relation": "related_to"
+  },
+  {
+   "from": "xiaoyao",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "xiaoyao",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-11",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-11",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-11",
+   "to": "daodejing-05",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-11",
+   "to": "xu",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-11",
+   "to": "bao-guang",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-11",
+   "to": "zhi-shui",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-11",
+   "to": "useless-gourd",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-11",
+   "to": "dao-yi-you-dao",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-11",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "zhang-boduan",
+   "to": "lu-xiujing",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-boduan",
+   "to": "sima-chengzhen",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-boduan",
+   "to": "zhiyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-boduan",
+   "to": "jing-qi-shen",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-boduan",
+   "to": "daoshu-neiguan-zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "how-long-until-results",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "i-feel-nothing-when-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "exp-016-nine-dhyanas-map",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "exp-020-false-first-dhyana",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "exp-021-prostrations-channel-circuit",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "exp-023-breath-is-the-key",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "exp-024-standing-and-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "drowsiness-vs-stillness",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "tiaoxi",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "shanbao-zhangyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "exp-004-emotional-surfacing",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "exp-018-halflotus-to-full-lotus",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "exp-022-its-all-theatre",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "related_to"
+  },
+  {
+   "from": "what-counts-as-progress",
+   "to": "qi-belief-necessary",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-07",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-07",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-07",
+   "to": "daodejing-08",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-07",
+   "to": "daodejing-22",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-07",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-07",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-07",
+   "to": "wuwei",
+   "relation": "concerns"
   }
  ]
 }
