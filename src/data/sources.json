@@ -1749,6 +1749,57 @@
    "pages_used_in": [
     "/experiences/exp-029-the-human-body/"
    ]
+  },
+  {
+   "id": "zhibeiyou-22-editions",
+   "title": "Zhuangzi ch. 22 (Zhi Bei You, outer chapter), Wikisource full chapter (retrieved 2026-10-07): the opening passage (Knowledge's three questions to Wuwei Wei, Mad Bend's forgotten answer, the Yellow Emperor's full answer and self-verdict) and the Dongguo Zi passage (the Way in mole-crickets, weeds, tiles, dung; the market-inspector pig; every-lower-more-evident; the three names one reality; the thing-er of things)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/知北遊",
+   "pages_used_in": [
+    "/stories/zhi-wen-wuwei/",
+    "/stories/dongguo-zi-asks/"
+   ]
+  },
+  {
+   "id": "yangshengzhu-03-editions",
+   "title": "Zhuangzi ch. 3 (Yang Sheng Zhu, inner chapter), opening lines with the commentary trail: Wikisource full chapter (retrieved 2026-10-07) and the Shidianguji Zhuangzi Yi edition carrying Guo Xiang's notes (缘督以为经者，顺中以为常也), plus the China Daoist Association study and the Renmin University philosophy faculty essay carrying Guo Xiang, Cheng Xuanying, Zhao Yifu, Wang Fuzhi, and Zhu Xi's recorded critique",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+   "pages_used_in": [
+    "/glossary/yuan-du-yi-wei-jing/"
+   ]
+  },
+  {
+   "id": "daodejing-42-editions",
+   "title": "Daodejing ch. 42, verified against multiple independent reproductions agreeing on the received text (Baidu Baike chapter page; mindiver.se full-chapter study; Shandong University chapter page; Apple Podcasts chapter reading; h2o-china comparative study; Taiwan Ministry of Education reference entry on 道生一); variant registered: 冲气/中气 (Mawangdui silk-text reading reported by the h2o-china study), 不榖/不谷",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.daodejing.org/42.html",
+   "pages_used_in": [
+    "/translations/daodejing-42/"
+   ]
+  },
+  {
+   "id": "ma-yu-sources",
+   "title": "Biographical records on Ma Yu (马钰, Danyang Zi, 1123-1183; Wikipedia 1123-1185 registered): Baidu Baike Quanzhen-seven entry, Chinese Wikipedia, China Daoist Association profile, Weihai municipal government Quanzhen founding story, Sohu survey, Kaiwind survey — agreeing on the Ninghai wealth, the Quanzhen Hermitage funding, the renaming, the 1170 coffin journey, the three-year mourning, and the Yuxian branch",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://baike.baidu.com/item/全真七子/142146",
+   "pages_used_in": [
+    "/people/ma-yu/"
+   ]
+  },
+  {
+   "id": "taiguanglin-ep31-163",
+   "title": "Taishi Q&A episode 31 (太师修行问答31：双盘时身体的反应，各种痛感汇总), NetEase Hao repost dated 2021-02-18, full text retrieved 2026-10-07 from 163.com: the cell-turnover schedule (skin 28 days, muscle 2-3 years, sinew 3-4 years, bone 7+ years), the 90-minute-to-two-hour pain window, the two-hour sit justification, the ankle-knee-hip sequence, the three-months-heat vs 2-3-years-dhyana account, the head-sweating explanation, the demon-subduing/lotus leg assignment, the whole-body pain sequence, the prostrations-for-spine answer, the teacher's own hip injury from one-sided hoeing, and the reader exchanges",
+   "type": "community_archive",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G345DDVI0545316K.html",
+   "pages_used_in": [
+    "/experiences/exp-030-the-pain-ledger/"
+   ]
   }
  ]
 }

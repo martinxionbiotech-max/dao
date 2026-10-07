@@ -6236,6 +6236,281 @@
    "from": "daodejing-45",
    "to": "yun-jin-cheng-feng",
    "relation": "related_to"
+  },
+  {
+   "from": "zhi-wen-wuwei",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "zhi-wen-wuwei",
+   "to": "dongguo-zi-asks",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-wen-wuwei",
+   "to": "butterfly-dream",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-wen-wuwei",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-wen-wuwei",
+   "to": "dao",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-wen-wuwei",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-wen-wuwei",
+   "to": "qi",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-wen-wuwei",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-wen-wuwei",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhi-wen-wuwei",
+   "to": "daodejing-48",
+   "relation": "related_to"
+  },
+  {
+   "from": "dongguo-zi-asks",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "dongguo-zi-asks",
+   "to": "zhi-wen-wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "dongguo-zi-asks",
+   "to": "tushan-shuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "dongguo-zi-asks",
+   "to": "dao",
+   "relation": "related_to"
+  },
+  {
+   "from": "dongguo-zi-asks",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "dongguo-zi-asks",
+   "to": "xiaoyao",
+   "relation": "related_to"
+  },
+  {
+   "from": "dongguo-zi-asks",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "dongguo-zi-asks",
+   "to": "xu",
+   "relation": "related_to"
+  },
+  {
+   "from": "yuan-du-yi-wei-jing",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "yuan-du-yi-wei-jing",
+   "to": "dao",
+   "relation": "related_to"
+  },
+  {
+   "from": "yuan-du-yi-wei-jing",
+   "to": "xu",
+   "relation": "related_to"
+  },
+  {
+   "from": "yuan-du-yi-wei-jing",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "yuan-du-yi-wei-jing",
+   "to": "cook-ding",
+   "relation": "related_to"
+  },
+  {
+   "from": "yuan-du-yi-wei-jing",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-42",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-42",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-42",
+   "to": "daodejing-22",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-42",
+   "to": "daodejing-25",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-42",
+   "to": "daodejing-40",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-42",
+   "to": "daodejing-45",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-42",
+   "to": "qi",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-42",
+   "to": "xu",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-42",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-42",
+   "to": "dao",
+   "relation": "related_to"
+  },
+  {
+   "from": "ma-yu",
+   "to": "wang-chongyang",
+   "relation": "related_to"
+  },
+  {
+   "from": "ma-yu",
+   "to": "qiu-chuji",
+   "relation": "related_to"
+  },
+  {
+   "from": "ma-yu",
+   "to": "wang-chuyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "ma-yu",
+   "to": "lin-hui-qi-bi",
+   "relation": "related_to"
+  },
+  {
+   "from": "ma-yu",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-see-lights",
+   "to": "warmth-tingling-when-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-see-lights",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-see-lights",
+   "to": "exp-020-false-first-dhyana",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-see-lights",
+   "to": "exp-016-nine-dhyanas-map",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-see-lights",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-see-lights",
+   "to": "xinzhai",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-do-i-see-lights",
+   "to": "xu",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-030-the-pain-ledger",
+   "to": "exp-003-leg-pain-filling",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-030-the-pain-ledger",
+   "to": "exp-006-leg-numbness",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-030-the-pain-ledger",
+   "to": "exp-010-lotus-pain",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-030-the-pain-ledger",
+   "to": "exp-018-halflotus-to-full-lotus",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-030-the-pain-ledger",
+   "to": "exp-029-the-human-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-030-the-pain-ledger",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-030-the-pain-ledger",
+   "to": "must-i-sit-cross-legged",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-030-the-pain-ledger",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-030-the-pain-ledger",
+   "to": "jingzuo",
+   "relation": "related_to"
   }
  ]
 }
