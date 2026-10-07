@@ -1,5 +1,26 @@
 {
   "_schema": "data-schema-v1",
   "description": "Structured practice records: id, name, chinese, pinyin, tradition, page, evidence, related[]",
-  "items": []
+  "items": [
+    {
+      "id": "zuowang",
+      "name": "Zuowang (practice)",
+      "chinese": "坐忘",
+      "pinyin": "zuòwàng",
+      "tradition": "Daoist",
+      "page": "/practices/zuowang/",
+      "evidence": "PRIMARY SOURCE",
+      "related": ["zhuangzi", "xinzhai", "wuwei", "qi"]
+    },
+    {
+      "id": "jingzuo",
+      "name": "Jingzuo (practice)",
+      "chinese": "静坐",
+      "pinyin": "jìngzuò",
+      "tradition": "Neo-Confucian",
+      "page": "/practices/jingzuo/",
+      "evidence": "PRIMARY SOURCE",
+      "related": ["zuowang", "xinzhai", "shouyi"]
+    }
+  ]
 }

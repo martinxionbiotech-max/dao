@@ -1,5 +1,22 @@
 {
   "_schema": "data-schema-v1",
   "description": "Knowledge graph edges: from, to, relation (belongs_to / related_to / described_in / translated_as / associated_with / concerns / derived_from / investigates / discusses)",
-  "items": []
+  "items": [
+    { "from": "zuowang", "to": "zhuangzi", "relation": "described_in" },
+    { "from": "xinzhai", "to": "zhuangzi", "relation": "described_in" },
+    { "from": "wuwei", "to": "daodejing", "relation": "described_in" },
+    { "from": "shouyi", "to": "daodejing", "relation": "described_in" },
+    { "from": "qi", "to": "zhuangzi", "relation": "described_in" },
+    { "from": "qi", "to": "daodejing", "relation": "described_in" },
+    { "from": "zuowang", "to": "xinzhai", "relation": "related_to" },
+    { "from": "zuowang", "to": "wuwei", "relation": "related_to" },
+    { "from": "zuowang", "to": "qi", "relation": "associated_with" },
+    { "from": "jingzuo", "to": "zuowang", "relation": "related_to" },
+    { "from": "jingzuo", "to": "xinzhai", "relation": "related_to" },
+    { "from": "jingzuo", "to": "shouyi", "relation": "related_to" },
+    { "from": "shouyi", "to": "wuwei", "relation": "related_to" },
+    { "from": "shouyi", "to": "qi", "relation": "associated_with" },
+    { "from": "shouyi", "to": "zuowang", "relation": "related_to" },
+    { "from": "wuwei", "to": "zuowang", "relation": "related_to" }
+  ]
 }

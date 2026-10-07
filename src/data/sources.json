@@ -1,5 +1,118 @@
 {
   "_schema": "data-schema-v1",
   "description": "Source registry: id, title, type (primary_text/scholarship/research/community), language, url, pages_used_in[]",
-  "items": []
+  "items": [
+    {
+      "id": "zhuangzi",
+      "title": "Zhuangzi (received text, Guo Xiang recension)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://ctext.org/zhuangzi",
+      "pages_used_in": ["/concepts/zuowang/", "/concepts/xinzhai/", "/concepts/qi/", "/texts/zhuangzi/"]
+    },
+    {
+      "id": "daodejing",
+      "title": "Daodejing (received Wang Bi text, 81 chapters)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://ctext.org/dao-de-jing",
+      "pages_used_in": ["/concepts/wuwei/", "/concepts/shouyi/", "/concepts/qi/", "/texts/daodejing/"]
+    },
+    {
+      "id": "zuowang-lun",
+      "title": "Sima Chengzhen, Zuowang lun (Treatise on Sitting in Oblivion)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": null,
+      "pages_used_in": ["/concepts/zuowang/", "/practices/zuowang/"]
+    },
+    {
+      "id": "taiping-jing",
+      "title": "Taiping Jing (Scripture of Great Peace)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": null,
+      "pages_used_in": ["/concepts/shouyi/", "/problems/wandering-mind-in-sitting/", "/problems/restlessness-in-sitting/"]
+    },
+    {
+      "id": "zhuzi-yulei",
+      "title": "Zhu Xi yulei (Classified Conversations of Master Zhu), juan 116",
+      "type": "primary_text",
+      "language": "zh",
+      "url": null,
+      "pages_used_in": ["/concepts/jingzuo/", "/practices/jingzuo/", "/problems/wandering-mind-in-sitting/"]
+    },
+    {
+      "id": "er-cheng-waishu",
+      "title": "Er Cheng waishu (Outer Collection of the Two Chengs), juan 12",
+      "type": "primary_text",
+      "language": "zh",
+      "url": null,
+      "pages_used_in": ["/concepts/jingzuo/", "/practices/jingzuo/"]
+    },
+    {
+      "id": "kohn-2010",
+      "title": "Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010",
+      "type": "scholarship",
+      "language": "en",
+      "url": "https://archive.org/details/sitting-in-oblivion-daoist-meditation-livia-kohn",
+      "pages_used_in": ["/concepts/zuowang/", "/practices/zuowang/"]
+    },
+    {
+      "id": "slingerland-2003",
+      "title": "Slingerland, Edward. Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China. Oxford University Press, 2003",
+      "type": "scholarship",
+      "language": "en",
+      "url": null,
+      "pages_used_in": ["/concepts/wuwei/"]
+    },
+    {
+      "id": "robinet-1993",
+      "title": "Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993",
+      "type": "scholarship",
+      "language": "en",
+      "url": null,
+      "pages_used_in": ["/concepts/shouyi/"]
+    },
+    {
+      "id": "taylor-1988",
+      "title": "Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988",
+      "type": "scholarship",
+      "language": "en",
+      "url": null,
+      "pages_used_in": ["/concepts/jingzuo/", "/practices/jingzuo/"]
+    },
+    {
+      "id": "watson-1968",
+      "title": "Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968",
+      "type": "scholarship",
+      "language": "en",
+      "url": null,
+      "pages_used_in": ["/texts/zhuangzi/", "/concepts/zuowang/"]
+    },
+    {
+      "id": "iep-zhuangzi",
+      "title": "Internet Encyclopedia of Philosophy, 'Zhuangzi'",
+      "type": "scholarship",
+      "language": "en",
+      "url": "https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher",
+      "pages_used_in": ["/texts/zhuangzi/"]
+    },
+    {
+      "id": "henricks-1989",
+      "title": "Henricks, Robert G., trans. Lao-Tzu Te-Tao Ching (Mawangdui text). Ballantine, 1989",
+      "type": "scholarship",
+      "language": "en",
+      "url": null,
+      "pages_used_in": ["/texts/daodejing/"]
+    },
+    {
+      "id": "cook-2012",
+      "title": "Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012",
+      "type": "scholarship",
+      "language": "en",
+      "url": null,
+      "pages_used_in": ["/texts/daodejing/"]
+    }
+  ]
 }

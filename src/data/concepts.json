@@ -1,5 +1,66 @@
 {
   "_schema": "data-schema-v1",
   "description": "Structured concept records: id, name, chinese, pinyin, tradition, page, evidence, related[]",
-  "items": []
+  "items": [
+    {
+      "id": "zuowang",
+      "name": "Zuowang",
+      "chinese": "坐忘",
+      "pinyin": "zuòwàng",
+      "tradition": "Daoist",
+      "page": "/concepts/zuowang/",
+      "evidence": "PRIMARY SOURCE",
+      "related": ["zhuangzi", "xinzhai", "wuwei", "qi", "jingzuo"]
+    },
+    {
+      "id": "xinzhai",
+      "name": "Xinzhai",
+      "chinese": "心斋",
+      "pinyin": "xīnzhāi",
+      "tradition": "Daoist",
+      "page": "/concepts/xinzhai/",
+      "evidence": "PRIMARY SOURCE",
+      "related": ["zhuangzi", "zuowang", "qi", "wuwei"]
+    },
+    {
+      "id": "wuwei",
+      "name": "Wuwei",
+      "chinese": "无为",
+      "pinyin": "wúwéi",
+      "tradition": "Daoist",
+      "page": "/concepts/wuwei/",
+      "evidence": "PRIMARY SOURCE",
+      "related": ["daodejing", "zuowang", "xinzhai", "qi"]
+    },
+    {
+      "id": "jingzuo",
+      "name": "Jingzuo",
+      "chinese": "静坐",
+      "pinyin": "jìngzuò",
+      "tradition": "Neo-Confucian",
+      "page": "/concepts/jingzuo/",
+      "evidence": "PRIMARY SOURCE",
+      "related": ["zuowang", "shouyi", "xinzhai"]
+    },
+    {
+      "id": "shouyi",
+      "name": "Shouyi",
+      "chinese": "守一",
+      "pinyin": "shǒuyī",
+      "tradition": "Daoist",
+      "page": "/concepts/shouyi/",
+      "evidence": "PRIMARY SOURCE",
+      "related": ["daodejing", "wuwei", "qi", "zuowang", "jingzuo"]
+    },
+    {
+      "id": "qi",
+      "name": "Qi",
+      "chinese": "气",
+      "pinyin": "qì",
+      "tradition": "Pan-Chinese",
+      "page": "/concepts/qi/",
+      "evidence": "PRIMARY SOURCE",
+      "related": ["zhuangzi", "daodejing", "xinzhai", "zuowang", "shouyi", "wuwei"]
+    }
+  ]
 }
