@@ -1021,6 +1021,101 @@
       "from": "cunsi-or-zuowang",
       "to": "shouyi",
       "relation": "concerns"
+    },
+    {
+      "from": "painter-unrobed",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "painter-unrobed",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "painter-unrobed",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "painter-unrobed",
+      "to": "artisan-qing",
+      "relation": "related_to"
+    },
+    {
+      "from": "drumming-basin",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "drumming-basin",
+      "to": "qi",
+      "relation": "concerns"
+    },
+    {
+      "from": "drumming-basin",
+      "to": "butterfly-dream",
+      "relation": "related_to"
+    },
+    {
+      "from": "zuochi",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "zuochi",
+      "to": "zuowang",
+      "relation": "related_to"
+    },
+    {
+      "from": "zuochi",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "virtual-room-passage",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "virtual-room-passage",
+      "to": "xinzhai",
+      "relation": "concerns"
+    },
+    {
+      "from": "virtual-room-passage",
+      "to": "seeing-light-in-sitting",
+      "relation": "concerns"
+    },
+    {
+      "from": "schlosser-2019",
+      "to": "lindahl-2017",
+      "relation": "related_to"
+    },
+    {
+      "from": "schlosser-2019",
+      "to": "farias-adverse-events-2020",
+      "relation": "related_to"
+    },
+    {
+      "from": "warmth-tingling-when-sitting",
+      "to": "qi",
+      "relation": "concerns"
+    },
+    {
+      "from": "warmth-tingling-when-sitting",
+      "to": "dantian",
+      "relation": "concerns"
+    },
+    {
+      "from": "warmth-tingling-when-sitting",
+      "to": "schlosser-2019",
+      "relation": "related_to"
+    },
+    {
+      "from": "warmth-tingling-when-sitting",
+      "to": "jingzuo",
+      "relation": "concerns"
     }
   ]
 }

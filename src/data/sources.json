@@ -459,6 +459,46 @@
       "pages_used_in": [
         "/stories/carpenter-shi/"
       ]
+    },
+    {
+      "id": "wikisource-zhuangzi-tianzifang",
+      "title": "Zhuangzi ch. 21 (Tian Zifang), received text (Wikisource)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/painter-unrobed/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-zhile",
+      "title": "Zhuangzi ch. 18 (Zhile), received text (Wikisource / Shidian Guji)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/drumming-basin/"
+      ]
+    },
+    {
+      "id": "sxu-zhuangzi-renjianshi",
+      "title": "Zhuangzi ch. 4 (Renjianshi) full text and translation (Shanxi University Philosophy Dept)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zxxy.sxu.edu.cn/zxypt/zlxz1/52285330952e4f7fa870891ef868295b.htm",
+      "pages_used_in": [
+        "/translations/virtual-room-passage/",
+        "/glossary/zuochi/"
+      ]
+    },
+    {
+      "id": "plos-one-e0216643",
+      "title": "Schlosser et al. 2019, PLoS ONE 14(5): e0216643",
+      "type": "academic_study",
+      "language": "en",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216643",
+      "pages_used_in": [
+        "/research/schlosser-2019/",
+        "/questions/warmth-tingling-when-sitting/"
+      ]
     }
   ]
 }
