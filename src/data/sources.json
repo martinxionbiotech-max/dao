@@ -338,7 +338,9 @@
       "pages_used_in": [
         "/stories/wooden-rooster/",
         "/stories/artisan-qing/",
-        "/stories/cicada-catcher/"
+        "/stories/cicada-catcher/",
+        "/translations/artisan-qing-passage/",
+        "/blog/three-craftsmen-dazheng/"
       ]
     },
     {
@@ -348,7 +350,8 @@
       "language": "zh",
       "url": "https://zh.wikisource.org/wiki/黃庭內景經",
       "pages_used_in": [
-        "/glossary/dantian/"
+        "/glossary/dantian/",
+        "/timeline/huangting-jing-dantian/"
       ]
     },
     {
@@ -359,7 +362,8 @@
       "url": "https://zh.wikisource.org/wiki/修習止觀坐禪法要",
       "pages_used_in": [
         "/glossary/tiaoxi/",
-        "/problems/drowsiness-in-sitting/"
+        "/problems/drowsiness-in-sitting/",
+        "/timeline/xiao-zhiguan-five-adjustments/"
       ]
     },
     {
@@ -371,6 +375,17 @@
       "pages_used_in": [
         "/concepts/xu/",
         "/problems/seeing-light-in-sitting/"
+      ]
+    },
+    {
+      "id": "daoshu",
+      "title": "Daoshu (道枢), comp. Zeng Zao, Southern Song",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/道樞",
+      "pages_used_in": [
+        "/timeline/daoshu-neiguan-zuowang/",
+        "/glossary/neiguan/"
       ]
     }
   ]

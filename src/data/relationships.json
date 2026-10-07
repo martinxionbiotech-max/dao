@@ -531,6 +531,61 @@
       "from": "cicada-catcher",
       "to": "shouyi",
       "relation": "concerns"
+    },
+    {
+      "from": "huangting-jing-dantian",
+      "to": "dantian",
+      "relation": "concerns"
+    },
+    {
+      "from": "huangting-jing-dantian",
+      "to": "huangting-jing",
+      "relation": "described_in"
+    },
+    {
+      "from": "xiao-zhiguan-five-adjustments",
+      "to": "tiaoxi",
+      "relation": "concerns"
+    },
+    {
+      "from": "xiao-zhiguan-five-adjustments",
+      "to": "xiao-zhiguan",
+      "relation": "described_in"
+    },
+    {
+      "from": "daoshu-neiguan-zuowang",
+      "to": "neiguan",
+      "relation": "concerns"
+    },
+    {
+      "from": "daoshu-neiguan-zuowang",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "daoshu-neiguan-zuowang",
+      "to": "daoshu",
+      "relation": "described_in"
+    },
+    {
+      "from": "artisan-qing-passage",
+      "to": "zhuangzi",
+      "relation": "translated_as"
+    },
+    {
+      "from": "artisan-qing-passage",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "three-craftsmen-dazheng",
+      "to": "zhuangzi",
+      "relation": "discusses"
+    },
+    {
+      "from": "three-craftsmen-dazheng",
+      "to": "wuwei",
+      "relation": "concerns"
     }
   ]
 }
