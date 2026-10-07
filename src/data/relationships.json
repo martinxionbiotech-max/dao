@@ -676,6 +676,101 @@
       "from": "combine-zuowang-mindfulness",
       "to": "mindfulness-meta-analysis-2014",
       "relation": "references"
+    },
+    {
+      "from": "cunsi",
+      "to": "huangting-jing",
+      "relation": "described_in"
+    },
+    {
+      "from": "cunsi",
+      "to": "shouyi",
+      "relation": "contrasts_with"
+    },
+    {
+      "from": "cunsi",
+      "to": "dantian",
+      "relation": "concerns"
+    },
+    {
+      "from": "taixi",
+      "to": "tiaoxi",
+      "relation": "concerns"
+    },
+    {
+      "from": "taixi",
+      "to": "exp-008-breath-stopping",
+      "relation": "concerns"
+    },
+    {
+      "from": "taixi",
+      "to": "qi",
+      "relation": "concerns"
+    },
+    {
+      "from": "wheelwright-bian",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "wheelwright-bian",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "shen",
+      "to": "jing-qi-shen",
+      "relation": "concerns"
+    },
+    {
+      "from": "xuan",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "xuan",
+      "to": "qingjing-jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "lindahl-2017",
+      "to": "can-sitting-go-wrong",
+      "relation": "informs"
+    },
+    {
+      "from": "lindahl-2017",
+      "to": "farias-adverse-events-2020",
+      "relation": "related_to"
+    },
+    {
+      "from": "how-long-should-i-sit",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "how-long-should-i-sit",
+      "to": "drowsiness-in-sitting",
+      "relation": "concerns"
+    },
+    {
+      "from": "zuowang-vs-shouyi",
+      "to": "zuowang",
+      "relation": "contrasts_with"
+    },
+    {
+      "from": "zuowang-vs-shouyi",
+      "to": "shouyi",
+      "relation": "contrasts_with"
+    },
+    {
+      "from": "three-languages",
+      "to": "qi",
+      "relation": "concerns"
+    },
+    {
+      "from": "three-languages",
+      "to": "jingzuo",
+      "relation": "concerns"
     }
   ]
 }

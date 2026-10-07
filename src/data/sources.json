@@ -340,7 +340,8 @@
         "/stories/artisan-qing/",
         "/stories/cicada-catcher/",
         "/translations/artisan-qing-passage/",
-        "/blog/three-craftsmen-dazheng/"
+        "/blog/three-craftsmen-dazheng/",
+        "/glossary/shen/"
       ]
     },
     {
@@ -386,6 +387,26 @@
       "pages_used_in": [
         "/timeline/daoshu-neiguan-zuowang/",
         "/glossary/neiguan/"
+      ]
+    },
+    {
+      "id": "lindahl-2017",
+      "title": "Lindahl et al., The varieties of contemplative experience, PLoS ONE 12(5):e0176239 (2017)",
+      "type": "research",
+      "language": "en",
+      "url": "https://doi.org/10.1371/journal.pone.0176239",
+      "pages_used_in": [
+        "/research/lindahl-2017/"
+      ]
+    },
+    {
+      "id": "baopuzi-shizhi",
+      "title": "Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://ctext.org/baopuzi",
+      "pages_used_in": [
+        "/practices/taixi/"
       ]
     }
   ]
