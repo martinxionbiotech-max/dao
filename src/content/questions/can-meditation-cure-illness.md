@@ -7,7 +7,7 @@ answerState: answered
 answerScope: "At the boundary layer (what the site does and does not endorse). The evidence layers are detailed below."
 status: published
 date: 2026-10-07
-evidence: ["MODERN RESEARCH", "TRADITIONAL", "PRACTITIONER EXPERIENCE"]
+evidence: ["MODERN RESEARCH", "TRADITIONAL / LINEAGE INTERPRETATION", "PRACTITIONER EXPERIENCE"]
 relatedResearch: ["mindfulness-meta-analysis-2014", "farias-adverse-events-2020"]
 relatedExperiences: ["exp-019-one-remedy-body", "exp-014-double-lotus-doctrine"]
 relatedTexts: ["taiping-jing", "baopuzi"]
