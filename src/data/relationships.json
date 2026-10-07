@@ -1806,6 +1806,186 @@
       "from": "exp-014-double-lotus-doctrine",
       "to": "exp-012-restless-body",
       "relation": "related_to"
+    },
+    {
+      "from": "qinshi-mourning",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "qinshi-mourning",
+      "to": "laozi",
+      "relation": "related_to"
+    },
+    {
+      "from": "qinshi-mourning",
+      "to": "confucius-meets-laozi",
+      "relation": "related_to"
+    },
+    {
+      "from": "qinshi-mourning",
+      "to": "four-friends",
+      "relation": "related_to"
+    },
+    {
+      "from": "qinshi-mourning",
+      "to": "drumming-basin",
+      "relation": "related_to"
+    },
+    {
+      "from": "four-friends",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "four-friends",
+      "to": "qinshi-mourning",
+      "relation": "related_to"
+    },
+    {
+      "from": "four-friends",
+      "to": "drumming-basin",
+      "relation": "related_to"
+    },
+    {
+      "from": "four-friends",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "jian-du",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "jian-du",
+      "to": "dao",
+      "relation": "concerns"
+    },
+    {
+      "from": "jian-du",
+      "to": "zhaoche",
+      "relation": "related_to"
+    },
+    {
+      "from": "jian-du",
+      "to": "yingning-passage",
+      "relation": "related_to"
+    },
+    {
+      "from": "jian-du",
+      "to": "daodejing-25",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-37",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-37",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-37",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-37",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-37",
+      "to": "daodejing-48",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-37",
+      "to": "daodejing-01",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-37",
+      "to": "daodejing-10-shouyi",
+      "relation": "related_to"
+    },
+    {
+      "from": "heshang-gong-commentary",
+      "to": "daodejing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "heshang-gong-commentary",
+      "to": "heshang-gong",
+      "relation": "associated_with"
+    },
+    {
+      "from": "heshang-gong-commentary",
+      "to": "laozi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "heshang-gong-commentary",
+      "to": "daodejing-01",
+      "relation": "related_to"
+    },
+    {
+      "from": "heshang-gong-commentary",
+      "to": "daodejing-25",
+      "relation": "related_to"
+    },
+    {
+      "from": "heshang-gong-commentary",
+      "to": "daodejing-05",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-015-heat-sweat-qi",
+      "to": "exp-002-warmth-rotation",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-015-heat-sweat-qi",
+      "to": "exp-007-digestive-release",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-015-heat-sweat-qi",
+      "to": "exp-012-restless-body",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-015-heat-sweat-qi",
+      "to": "exp-014-double-lotus-doctrine",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-015-heat-sweat-qi",
+      "to": "warmth-and-qi-sensations",
+      "relation": "related_to"
+    },
+    {
+      "from": "tian-jun",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "tian-jun",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "tian-jun",
+      "to": "three-in-the-morning",
+      "relation": "related_to"
+    },
+    {
+      "from": "tian-jun",
+      "to": "qiwulun-wu-sang-wo",
+      "relation": "related_to"
     }
   ]
 }

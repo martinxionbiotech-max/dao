@@ -523,7 +523,8 @@
       "type": "primary_text",
       "language": "zh",
       "pages_used_in": [
-        "/stories/three-in-the-morning/"
+        "/stories/three-in-the-morning/",
+        "/glossary/tian-jun/"
       ]
     },
     {
@@ -604,7 +605,9 @@
         "/stories/fish-in-the-dry-spring/",
         "/glossary/liang-wang/",
         "/translations/yingning-passage/",
-        "/glossary/zhaoche/"
+        "/glossary/zhaoche/",
+        "/stories/four-friends/",
+        "/glossary/jian-du/"
       ]
     },
     {
@@ -764,7 +767,8 @@
       "type": "traditional_record",
       "language": "zh",
       "pages_used_in": [
-        "/people/heshang-gong/"
+        "/people/heshang-gong/",
+        "/timeline/heshang-gong-commentary/"
       ]
     },
     {
@@ -775,6 +779,52 @@
       "url": "https://www.163.com/dy/article/G2SOIJDD0545316K.html",
       "pages_used_in": [
         "/experiences/exp-014-double-lotus-doctrine/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-yangshengzhu",
+      "title": "Zhuangzi ch. 3 (Yangsheng Zhu), Wikisource full text",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/qinshi-mourning/"
+      ]
+    },
+    {
+      "id": "shidian-zhuangzi-yi-dz1487",
+      "title": "Zhuangzi Yi (DZ1487, Jiao Hong edition with Guo Xiang commentary), Shidian Guji, Yangsheng Zhu chapter",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/qinshi-mourning/"
+      ]
+    },
+    {
+      "id": "daodejing-37-editions",
+      "title": "Daodejing ch. 37: received text editions and the Guodian manuscript variant (道恒无为也, without 而无不为)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-37/"
+      ]
+    },
+    {
+      "id": "163-taishi-34",
+      "title": "Taishi cultivation Q&A no. 34 (163.com community column, 2021): bodily responses in double-lotus — heat, sweat, qi-sensations",
+      "type": "community",
+      "language": "zh",
+      "url": "https://m.163.com/dy/article_cambrian/G39KI8J90545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-015-heat-sweat-qi/"
+      ]
+    },
+    {
+      "id": "pedia-cloud-edu-yangshengzhu",
+      "title": "Education encyclopedia (pedia.cloud.edu.tw) entry on Yangsheng Zhu: the chapter's structure and the 帝之悬解 gloss",
+      "type": "reference",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/qinshi-mourning/"
       ]
     }
   ]
