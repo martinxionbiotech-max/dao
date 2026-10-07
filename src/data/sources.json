@@ -1597,6 +1597,48 @@
     "/experiences/exp-026-diet-gate/",
     "/questions/does-diet-matter/"
    ]
+  },
+  {
+   "id": "shanmu-chapter-editions",
+   "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Beigong She and Shinan Yiliao passages, verified against the Wikisource full chapter and the Zhihu chapter-verse reading (agreeing on the Beigong She passage: 北宫奢为卫灵公赋敛以为锺…一之间，无敢设也…既雕既琢，复归于朴…来者勿禁，往者勿止…因其自穷…豪毛不挫, and carrying the Shinan Yiliao passage: 市南宜僚见鲁侯…丰狐文豹…其皮为之灾也。今鲁国，独非君之皮邪…建德之国…无形倨无留居以为君车…送君者皆自崖而反…有人者累见有于人者忧), with the gushiwen famous-line page carrying the same 既雕既琢，复归于朴 and its standard gloss",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%B1%B1%E6%9C%A8",
+   "pages_used_in": [
+    "/stories/bei-gong-she/",
+    "/stories/shinan-yiliao/"
+   ]
+  },
+  {
+   "id": "daodejing-46-editions",
+   "title": "Daodejing ch. 46, verified against three independent reproductions that agree on the received text (the Zhihu chapter study with glosses: 天下有道，却走马以粪。天下无道，戎马生于郊。罪莫大于可欲；祸莫大于不知足；咎莫大于欲得。故知足之足，常足矣; the Baidu Baike chapter page; the Shandong University chapter page), with the variant registered (the Zhihu text carries the first superlative 罪莫大于可欲 and the Baike text omits it)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zhuanlan.zhihu.com/p/388526071",
+   "pages_used_in": [
+    "/translations/daodejing-46/"
+   ]
+  },
+  {
+   "id": "bai-yuchan-sources",
+   "title": "Bai Yuchan (1134-1229): Wikipedia, the Guwendao author page, and the Daoist Culture Centre database (agreeing on the biography: born Ge Changgeng, adopted Bai, Qiongzhou birth, the prodigy record, the examination failure, the flight to Wuyi after a killing, nine years with Chen Nan, the Luofu transmission of 1212, the disciples of 1217, the open teaching seat, the Ningzong title, the Yulong Palace state jiao, the Lin-an memorial and the heterodox-arts accusation; the essence-breath-spirit and thunder-rites doctrine; the collections and the Palace Museum calligraphy), with the Daozhan source registering the birth-date dispute (1134 vs 1194) and the sohu biography carrying the 道情 poem",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%8E%89%E8%9F%BE",
+   "pages_used_in": [
+    "/people/bai-yuchan/"
+   ]
+  },
+  {
+   "id": "taiguanglin-zuochan-hongchen-11",
+   "title": "Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 11 on worldly matters, section 11, Finding a teacher (full text retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02-22 through 2014-02-26): the teacher-student bond doctrine, the aspiration rule, the try-and-see rule, the precepts-as-teacher answer to the demonic-practice question, the swindler warning, the support teaching, the ladder of teachers, the no-shortcut rule, the fraud analysis, and the reposted silent-illumination teacher dialogue with the meta-reaction",
+   "type": "web_archive",
+   "language": "zh",
+   "url": "https://taiguanglin.org/",
+   "pages_used_in": [
+    "/experiences/exp-027-finding-a-teacher/",
+    "/questions/do-i-need-a-teacher/"
+   ]
   }
  ]
 }

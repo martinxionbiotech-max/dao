@@ -5421,6 +5421,266 @@
    "from": "exp-026-diet-gate",
    "to": "drowsiness-vs-stillness",
    "relation": "related_to"
+  },
+  {
+   "from": "bei-gong-she",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "bei-gong-she",
+   "to": "qiu-hao",
+   "relation": "related_to"
+  },
+  {
+   "from": "bei-gong-she",
+   "to": "xuzhou-empty-boat",
+   "relation": "related_to"
+  },
+  {
+   "from": "bei-gong-she",
+   "to": "ren-gongzi-fishing",
+   "relation": "related_to"
+  },
+  {
+   "from": "bei-gong-she",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "bei-gong-she",
+   "to": "hua",
+   "relation": "related_to"
+  },
+  {
+   "from": "bei-gong-she",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "bei-gong-she",
+   "to": "daodejing-32",
+   "relation": "related_to"
+  },
+  {
+   "from": "shinan-yiliao",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "shinan-yiliao",
+   "to": "marsh-pheasant",
+   "relation": "related_to"
+  },
+  {
+   "from": "shinan-yiliao",
+   "to": "xuzhou-empty-boat",
+   "relation": "related_to"
+  },
+  {
+   "from": "shinan-yiliao",
+   "to": "mountain-tree-goose",
+   "relation": "related_to"
+  },
+  {
+   "from": "shinan-yiliao",
+   "to": "phoenix-and-owl",
+   "relation": "related_to"
+  },
+  {
+   "from": "shinan-yiliao",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "shinan-yiliao",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "shinan-yiliao",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "shinan-yiliao",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "liang-xing",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "liang-xing",
+   "to": "tian-jun",
+   "relation": "related_to"
+  },
+  {
+   "from": "liang-xing",
+   "to": "huan-zhong",
+   "relation": "related_to"
+  },
+  {
+   "from": "liang-xing",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "liang-xing",
+   "to": "zhen-zai",
+   "relation": "related_to"
+  },
+  {
+   "from": "liang-xing",
+   "to": "three-in-the-morning",
+   "relation": "related_to"
+  },
+  {
+   "from": "liang-xing",
+   "to": "zhi-yan",
+   "relation": "related_to"
+  },
+  {
+   "from": "liang-xing",
+   "to": "yongxin-ruo-jing-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-46",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-46",
+   "to": "daodejing-33",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-46",
+   "to": "daodejing-12",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-46",
+   "to": "daodejing-32",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-46",
+   "to": "zhi-shui",
+   "relation": "related_to"
+  },
+  {
+   "from": "bai-yuchan",
+   "to": "zhang-boduan",
+   "relation": "related_to"
+  },
+  {
+   "from": "bai-yuchan",
+   "to": "qiu-chuji",
+   "relation": "related_to"
+  },
+  {
+   "from": "bai-yuchan",
+   "to": "wang-chongyang",
+   "relation": "related_to"
+  },
+  {
+   "from": "bai-yuchan",
+   "to": "jing-qi-shen",
+   "relation": "related_to"
+  },
+  {
+   "from": "bai-yuchan",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "bai-yuchan",
+   "to": "daodejing",
+   "relation": "related_to"
+  },
+  {
+   "from": "bai-yuchan",
+   "to": "exp-021-prostrations-channel-circuit",
+   "relation": "related_to"
+  },
+  {
+   "from": "do-i-need-a-teacher",
+   "to": "zuowang-safety-without-teacher",
+   "relation": "related_to"
+  },
+  {
+   "from": "do-i-need-a-teacher",
+   "to": "does-practice-need-faith",
+   "relation": "related_to"
+  },
+  {
+   "from": "do-i-need-a-teacher",
+   "to": "is-sitting-religious",
+   "relation": "related_to"
+  },
+  {
+   "from": "do-i-need-a-teacher",
+   "to": "exp-027-finding-a-teacher",
+   "relation": "related_to"
+  },
+  {
+   "from": "do-i-need-a-teacher",
+   "to": "exp-017-why-he-began",
+   "relation": "related_to"
+  },
+  {
+   "from": "do-i-need-a-teacher",
+   "to": "exp-025-lying-down-innovation",
+   "relation": "related_to"
+  },
+  {
+   "from": "do-i-need-a-teacher",
+   "to": "zhao-che",
+   "relation": "related_to"
+  },
+  {
+   "from": "do-i-need-a-teacher",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "do-i-need-a-teacher",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-027-finding-a-teacher",
+   "to": "exp-021-prostrations-channel-circuit",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-027-finding-a-teacher",
+   "to": "exp-017-why-he-began",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-027-finding-a-teacher",
+   "to": "exp-025-lying-down-innovation",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-027-finding-a-teacher",
+   "to": "do-i-need-a-teacher",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-027-finding-a-teacher",
+   "to": "zuowang-safety-without-teacher",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-027-finding-a-teacher",
+   "to": "jingzuo",
+   "relation": "related_to"
   }
  ]
 }
