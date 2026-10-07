@@ -297,6 +297,47 @@
       "pages_used_in": [
         "/stories/cook-ding/"
       ]
+    },
+    {
+      "id": "farias-2020",
+      "title": "Farias et al., 'Adverse events in meditation practices and meditation-based therapies: a systematic review', Acta Psychiatr Scand 142(5):374-393 (2020)",
+      "type": "research",
+      "language": "en",
+      "url": "https://doi.org/10.1111/acps.13225",
+      "pages_used_in": [
+        "/research/farias-adverse-events-2020/",
+        "/questions/can-sitting-go-wrong/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-zaiyou",
+      "title": "Zhuangzi ch. 11 (Zaiyou), Wikisource",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/莊子/在宥",
+      "pages_used_in": [
+        "/stories/guangchengzi/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-yingdiwang",
+      "title": "Zhuangzi ch. 7 (Ying diwang), Wikisource",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/莊子/應帝王",
+      "pages_used_in": [
+        "/stories/huzi-jixian/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-dasheng",
+      "title": "Zhuangzi ch. 19 (Dasheng), Wikisource",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/莊子/達生",
+      "pages_used_in": [
+        "/stories/wooden-rooster/"
+      ]
     }
   ]
 }

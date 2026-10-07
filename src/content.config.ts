@@ -29,6 +29,7 @@ const base = {
   relatedTexts: z.array(z.string()).optional(),
   relatedPeople: z.array(z.string()).optional(),
   relatedQuestions: z.array(z.string()).optional(),
+  relatedResearch: z.array(z.string()).optional(),
   sources: z.array(z.string()).optional(),
 };
 

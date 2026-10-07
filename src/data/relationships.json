@@ -316,6 +316,81 @@
       "from": "falling-asleep-during-meditation",
       "to": "drowsiness-vs-stillness",
       "relation": "derived_from"
+    },
+    {
+      "from": "guangchengzi",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "huzi-jixian",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "wooden-rooster",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "guangchengzi",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "guangchengzi",
+      "to": "shouyi",
+      "relation": "concerns"
+    },
+    {
+      "from": "huzi-jixian",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "huzi-jixian",
+      "to": "qi",
+      "relation": "concerns"
+    },
+    {
+      "from": "wooden-rooster",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "wooden-rooster",
+      "to": "shouyi",
+      "relation": "concerns"
+    },
+    {
+      "from": "jingzuo",
+      "to": "farias-adverse-events-2020",
+      "relation": "investigates"
+    },
+    {
+      "from": "farias-adverse-events-2020",
+      "to": "mindfulness-meta-analysis-2014",
+      "relation": "related_to"
+    },
+    {
+      "from": "can-sitting-go-wrong",
+      "to": "farias-adverse-events-2020",
+      "relation": "derived_from"
+    },
+    {
+      "from": "can-sitting-go-wrong",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "EXP-007",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "EXP-008",
+      "to": "jingzuo",
+      "relation": "concerns"
     }
   ]
 }

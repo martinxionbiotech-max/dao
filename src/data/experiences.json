@@ -61,6 +61,26 @@
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
       "page": "/experiences/exp-006-leg-numbness/"
+    },
+    {
+      "id": "EXP-007",
+      "title": "Belching, Passing Wind, and a Calmer Stomach in Sitting",
+      "practice": "Buddhist-style seated meditation",
+      "tradition": "Buddhist-influenced",
+      "anonymity": "anonymous",
+      "evidence_type": "PRACTITIONER EXPERIENCE",
+      "publication_status": "published",
+      "page": "/experiences/exp-007-digestive-release/"
+    },
+    {
+      "id": "EXP-008",
+      "title": "The Breath That Seems to Stop on Its Own",
+      "practice": "Daoist-style quiet sitting",
+      "tradition": "Daoist",
+      "anonymity": "anonymous",
+      "evidence_type": "PRACTITIONER EXPERIENCE",
+      "publication_status": "published",
+      "page": "/experiences/exp-008-breath-stopping/"
     }
   ]
 }
