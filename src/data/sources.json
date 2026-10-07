@@ -1385,6 +1385,66 @@
    "pages_used_in": [
     "/translations/daodejing-07/"
    ]
+  },
+  {
+   "id": "waiwu-rengongzi-editions",
+   "title": "Zhuangzi ch. 26 (Wai Wu, miscellaneous chapter), the Lord Ren passage, verified against the Wikisource full chapter, the Xueqiu full-text column, the Guwendao reading text with translation, and the Baidu Baike entry, which agree (variants: 会稽/会嵇, 骛/惊, 累/纍)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%A4%96%E7%89%A9",
+   "pages_used_in": [
+    "/stories/ren-gongzi-fishing/"
+   ]
+  },
+  {
+   "id": "zhibeiyou-chuigou-editions",
+   "title": "Zhuangzi ch. 22 (Zhi Bei You), the hook-forger passage, verified against the Shidian guji Zhuangzi gu text, the Wang Xianqian Zhuangzi jijie (zdic.net, carrying Cheng Xuanying, Guo Xiang, Sima, Wang Niansun and Su Yu glosses; Wang Niansun: shou is the old reading of dao), the 8bei8 full-text edition, and the Baidu Baike entry",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://gj.zdic.net/zibu/476/12113.html",
+   "pages_used_in": [
+    "/stories/chui-gou-zhe/"
+   ]
+  },
+  {
+   "id": "qiwulun-wusangwo-editions",
+   "title": "Zhuangzi ch. 2 (Qi Wu Lun), the opening wu sang wo passage, verified against the Wikisource full chapter, the Zhihu full-text column, and the Dudianji text, with the Guo Xiang commentary registered from the tradition (wu sang wo = self-forgetting, the dissolution of the paired body)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%8A%E7%89%A9%E8%AB%96",
+   "pages_used_in": [
+    "/glossary/wu-sang-wo/"
+   ]
+  },
+  {
+   "id": "daodejing-36-editions",
+   "title": "Daodejing ch. 36, received text, verified against four independent reproductions that agree (the Shandong University page with glosses; the Zhihu Wang Bi Laozi Daodejing zhu column; the Daodejing.org chapter page; the Baidu Baike entry with the interpretive tradition), variant qu zhi/duo zhi registered",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.daodejing.org/36.html",
+   "pages_used_in": [
+    "/translations/daodejing-36/"
+   ]
+  },
+  {
+   "id": "zhang-sanfeng-sources",
+   "title": "Zhang Sanfeng: the Ming Shi Fangji zhuan (juan 299) official biography (name, sobriquet, appearance, Wudang prophecy and rebuilding, Jintai guan death-and-revival, the emperors searches, the Yingzong title); the Wudang Daoist Association biography (Zhenwu dream-transmission and bird-and-snake legends, quiet-mind nurturing-nature doctrine); Baidu Baike local traditions (1248 birth claim, 1314 Fire Dragon Zhenren initiation, attributed works); Wikipedia survey (disputed dates and birthplace, contested Taijiquan attribution)",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E4%B8%89%E4%B8%B0",
+   "pages_used_in": [
+    "/people/zhang-sanfeng/"
+   ]
+  },
+  {
+   "id": "163-taishi-26",
+   "title": "Taishi Q&A episode 26 (lying-down practice and the innovation question), full text retrieved from the 163 news mirror on 2026-10-07: practitioner letter (contemporary liberation-stages framework, lying-down practice argument) and teacher reply (armchair-theory charge, eighteen-heavens challenge, dreaming diagnosis, auspicious-reclining as provisional method, time-conditions ladder, Buddha fasting narrative, anti-innovation rule)",
+   "type": "community_archive",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G2SPN49Q0545316K.html",
+   "pages_used_in": [
+    "/experiences/exp-025-lying-down-innovation/"
+   ]
   }
  ]
 }

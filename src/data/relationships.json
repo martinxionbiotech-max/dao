@@ -4216,6 +4216,341 @@
    "from": "daodejing-07",
    "to": "wuwei",
    "relation": "concerns"
+  },
+  {
+   "from": "ren-gongzi-fishing",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "ren-gongzi-fishing",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "ren-gongzi-fishing",
+   "to": "jingdi-zhiwa",
+   "relation": "related_to"
+  },
+  {
+   "from": "ren-gongzi-fishing",
+   "to": "useless-gourd",
+   "relation": "related_to"
+  },
+  {
+   "from": "ren-gongzi-fishing",
+   "to": "cao-shang",
+   "relation": "related_to"
+  },
+  {
+   "from": "ren-gongzi-fishing",
+   "to": "shanbao-zhangyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "ren-gongzi-fishing",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "ren-gongzi-fishing",
+   "to": "da-kuai",
+   "relation": "related_to"
+  },
+  {
+   "from": "ren-gongzi-fishing",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "chui-gou-zhe",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "chui-gou-zhe",
+   "to": "cicada-catcher",
+   "relation": "related_to"
+  },
+  {
+   "from": "chui-gou-zhe",
+   "to": "cook-ding",
+   "relation": "related_to"
+  },
+  {
+   "from": "chui-gou-zhe",
+   "to": "wheelwright-bian",
+   "relation": "related_to"
+  },
+  {
+   "from": "chui-gou-zhe",
+   "to": "artisan-qing",
+   "relation": "related_to"
+  },
+  {
+   "from": "chui-gou-zhe",
+   "to": "shanbao-zhangyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "chui-gou-zhe",
+   "to": "daodejing-11",
+   "relation": "related_to"
+  },
+  {
+   "from": "chui-gou-zhe",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "chui-gou-zhe",
+   "to": "xin",
+   "relation": "concerns"
+  },
+  {
+   "from": "wu-sang-wo",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "wu-sang-wo",
+   "to": "tian-lai",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-sang-wo",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-sang-wo",
+   "to": "xinzhai",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-sang-wo",
+   "to": "butterfly-dream",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-sang-wo",
+   "to": "qiwulun-wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-sang-wo",
+   "to": "zuowang-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-sang-wo",
+   "to": "xushi-sheng-bai",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-sang-wo",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-36",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-36",
+   "to": "daodejing-22",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-36",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-36",
+   "to": "daodejing-11",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-36",
+   "to": "bao-guang",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-36",
+   "to": "dao-yi-you-dao",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-36",
+   "to": "fish-in-the-dry-spring",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-36",
+   "to": "exp-021-prostrations-channel-circuit",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-36",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "zhang-sanfeng",
+   "to": "zhang-boduan",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-sanfeng",
+   "to": "chen-tuan",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-sanfeng",
+   "to": "jing-qi-shen",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-sanfeng",
+   "to": "daoshu-neiguan-zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "is-sitting-religious",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "qi-belief-necessary",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "xinzhai",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "xinzhai-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "zuowang-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "jing-qi-shen",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "lu-xiujing",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "zhang-boduan",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "dao",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-practice-need-faith",
+   "to": "exp-016-nine-dhyanas-map",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "exp-016-nine-dhyanas-map",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "exp-014-double-lotus-doctrine",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "exp-018-halflotus-to-full-lotus",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "exp-022-its-all-theatre",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "exp-023-breath-is-the-key",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "does-practice-need-faith",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "drowsiness-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "drowsiness-vs-stillness",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "breath-stopping-anxiety",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "can-meditation-cure-illness",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-025-lying-down-innovation",
+   "to": "farias-adverse-events-2020",
+   "relation": "related_to"
   }
  ]
 }
