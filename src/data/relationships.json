@@ -2921,6 +2921,216 @@
       "from": "exp-020-false-first-dhyana",
       "to": "farias-adverse-events-2020",
       "relation": "related_to"
+    },
+    {
+      "from": "zhao-che",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "zhao-che",
+      "to": "jian-du",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhao-che",
+      "to": "yingning",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhao-che",
+      "to": "daodejing-48",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhao-che",
+      "to": "seeing-light-in-sitting",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-06",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-06",
+      "to": "xuan-pin",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-06",
+      "to": "tuoyue",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-06",
+      "to": "daodejing-01",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-06",
+      "to": "daodejing-22",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-06",
+      "to": "does-daoism-believe-in-a-creator",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-06",
+      "to": "i-feel-nothing-when-i-sit",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-06",
+      "to": "yingning-passage",
+      "relation": "related_to"
+    },
+    {
+      "from": "i-feel-nothing-when-i-sit",
+      "to": "qi-belief-necessary",
+      "relation": "related_to"
+    },
+    {
+      "from": "i-feel-nothing-when-i-sit",
+      "to": "falling-asleep-during-meditation",
+      "relation": "related_to"
+    },
+    {
+      "from": "i-feel-nothing-when-i-sit",
+      "to": "warmth-tingling-when-sitting",
+      "relation": "related_to"
+    },
+    {
+      "from": "i-feel-nothing-when-i-sit",
+      "to": "drowsiness-vs-stillness",
+      "relation": "related_to"
+    },
+    {
+      "from": "i-feel-nothing-when-i-sit",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "i-feel-nothing-when-i-sit",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "bao-weng-guan-qi",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "bao-weng-guan-qi",
+      "to": "hundun",
+      "relation": "related_to"
+    },
+    {
+      "from": "bao-weng-guan-qi",
+      "to": "xushi-sheng-bai",
+      "relation": "related_to"
+    },
+    {
+      "from": "bao-weng-guan-qi",
+      "to": "zuochi",
+      "relation": "related_to"
+    },
+    {
+      "from": "bao-weng-guan-qi",
+      "to": "xinzhai",
+      "relation": "concerns"
+    },
+    {
+      "from": "bao-weng-guan-qi",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "zhuangzi-skeleton",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "zhuangzi-skeleton",
+      "to": "drumming-basin",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhuangzi-skeleton",
+      "to": "sanghu-friends",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhuangzi-skeleton",
+      "to": "butterfly-dream",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhuangzi-skeleton",
+      "to": "does-daoism-believe-in-a-creator",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhuangzi-skeleton",
+      "to": "can-meditation-cure-illness",
+      "relation": "related_to"
+    },
+    {
+      "from": "li-ao",
+      "to": "fu-yi",
+      "relation": "related_to"
+    },
+    {
+      "from": "li-ao",
+      "to": "zhiyi",
+      "relation": "related_to"
+    },
+    {
+      "from": "li-ao",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "li-ao",
+      "to": "zhuzi-yulei-jingzuo",
+      "relation": "related_to"
+    },
+    {
+      "from": "li-ao",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "li-ao",
+      "to": "qingjing-jing",
+      "relation": "related_to"
+    },
+    {
+      "from": "li-ao",
+      "to": "exp-013-buddhist-daoist-boundary",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-021-prostrations-channel-circuit",
+      "to": "exp-019-one-remedy-body",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-021-prostrations-channel-circuit",
+      "to": "exp-018-halflotus-to-full-lotus",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-021-prostrations-channel-circuit",
+      "to": "exp-016-nine-dhyanas-map",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-021-prostrations-channel-circuit",
+      "to": "can-meditation-cure-illness",
+      "relation": "related_to"
     }
   ]
 }

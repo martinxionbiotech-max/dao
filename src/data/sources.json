@@ -1113,6 +1113,52 @@
       "pages_used_in": [
         "/experiences/exp-020-false-first-dhyana/"
       ]
+    },
+    {
+      "id": "tiandi-baoweng-editions",
+      "title": "Zhuangzi ch. 12 (Tiandi), Han-shade gardener passage: a Cambridge Chinese studies reading-group PDF with running glosses (citing Li Mian's Zhuangzi zonglun for 卬/挈/泆/槔 readings); CText parallel-text snippet; People's Daily essay (2024-05); the chapter's authorship noted as disputed in the study notes",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/bao-weng-guan-qi/"
+      ]
+    },
+    {
+      "id": "zhile-skeleton-editions",
+      "title": "Zhuangzi ch. 18 (Zhile), skull passage: Zhihu annotated edition, Baidu Baike full text, Ziyexing full text, CText parallel snippet (dream dialogue verified verbatim across all four); an education-encyclopedia entry (pedia.cloud.edu.tw) on the chapter's two-skull structure",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/zhuangzi-skeleton/"
+      ]
+    },
+    {
+      "id": "li-ao-sources",
+      "title": "Li Ao dossier: Gushiwen author biography (772-841, Xizhi, Didao in Longxi, Han Yu's student, anti-Buddhist-Daoist, Fuxing Shu); Gushiwen page for 'To the Eminent Monk Weiyan of Yaoshan' (both poems with variants, Jingde chuandeng lu ch. 14 background); Baidu Baike entry on 'cloud in the blue sky, water in the bottle'",
+      "type": "historical",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/li-ao/"
+      ]
+    },
+    {
+      "id": "163-taishi-46",
+      "title": "Taishi cultivation Q&A no. 46 (163.com community column): the channel circuit, the 864-prostration regime, the thermostat explanation, and the anti-display joke",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G50IOBL70545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-021-prostrations-channel-circuit/"
+      ]
+    },
+    {
+      "id": "daodejing-06-editions",
+      "title": "Daodejing ch. 6 (received text): Gushiwen teaching edition with translation and gloss (玄牝 = source that breeds the ten thousand things; 勤 = 尽), as documented on the xuan-pin glossary page",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-06/"
+      ]
     }
   ]
 }
