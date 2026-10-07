@@ -8,7 +8,12 @@
       "type": "primary_text",
       "language": "zh",
       "url": "https://ctext.org/zhuangzi",
-      "pages_used_in": ["/concepts/zuowang/", "/concepts/xinzhai/", "/concepts/qi/", "/texts/zhuangzi/"]
+      "pages_used_in": [
+        "/concepts/zuowang/",
+        "/concepts/xinzhai/",
+        "/concepts/qi/",
+        "/texts/zhuangzi/"
+      ]
     },
     {
       "id": "daodejing",
@@ -16,7 +21,12 @@
       "type": "primary_text",
       "language": "zh",
       "url": "https://ctext.org/dao-de-jing",
-      "pages_used_in": ["/concepts/wuwei/", "/concepts/shouyi/", "/concepts/qi/", "/texts/daodejing/"]
+      "pages_used_in": [
+        "/concepts/wuwei/",
+        "/concepts/shouyi/",
+        "/concepts/qi/",
+        "/texts/daodejing/"
+      ]
     },
     {
       "id": "zuowang-lun",
@@ -24,7 +34,11 @@
       "type": "primary_text",
       "language": "zh",
       "url": null,
-      "pages_used_in": ["/concepts/zuowang/", "/practices/zuowang/"]
+      "pages_used_in": [
+        "/concepts/zuowang/",
+        "/practices/zuowang/",
+        "/texts/zuowang-lun/"
+      ]
     },
     {
       "id": "taiping-jing",
@@ -32,7 +46,11 @@
       "type": "primary_text",
       "language": "zh",
       "url": null,
-      "pages_used_in": ["/concepts/shouyi/", "/problems/wandering-mind-in-sitting/", "/problems/restlessness-in-sitting/"]
+      "pages_used_in": [
+        "/concepts/shouyi/",
+        "/problems/wandering-mind-in-sitting/",
+        "/problems/restlessness-in-sitting/"
+      ]
     },
     {
       "id": "zhuzi-yulei",
@@ -40,7 +58,11 @@
       "type": "primary_text",
       "language": "zh",
       "url": null,
-      "pages_used_in": ["/concepts/jingzuo/", "/practices/jingzuo/", "/problems/wandering-mind-in-sitting/"]
+      "pages_used_in": [
+        "/concepts/jingzuo/",
+        "/practices/jingzuo/",
+        "/problems/wandering-mind-in-sitting/"
+      ]
     },
     {
       "id": "er-cheng-waishu",
@@ -48,7 +70,10 @@
       "type": "primary_text",
       "language": "zh",
       "url": null,
-      "pages_used_in": ["/concepts/jingzuo/", "/practices/jingzuo/"]
+      "pages_used_in": [
+        "/concepts/jingzuo/",
+        "/practices/jingzuo/"
+      ]
     },
     {
       "id": "kohn-2010",
@@ -56,7 +81,11 @@
       "type": "scholarship",
       "language": "en",
       "url": "https://archive.org/details/sitting-in-oblivion-daoist-meditation-livia-kohn",
-      "pages_used_in": ["/concepts/zuowang/", "/practices/zuowang/"]
+      "pages_used_in": [
+        "/concepts/zuowang/",
+        "/practices/zuowang/",
+        "/texts/zuowang-lun/"
+      ]
     },
     {
       "id": "slingerland-2003",
@@ -64,7 +93,9 @@
       "type": "scholarship",
       "language": "en",
       "url": null,
-      "pages_used_in": ["/concepts/wuwei/"]
+      "pages_used_in": [
+        "/concepts/wuwei/"
+      ]
     },
     {
       "id": "robinet-1993",
@@ -72,7 +103,9 @@
       "type": "scholarship",
       "language": "en",
       "url": null,
-      "pages_used_in": ["/concepts/shouyi/"]
+      "pages_used_in": [
+        "/concepts/shouyi/"
+      ]
     },
     {
       "id": "taylor-1988",
@@ -80,7 +113,10 @@
       "type": "scholarship",
       "language": "en",
       "url": null,
-      "pages_used_in": ["/concepts/jingzuo/", "/practices/jingzuo/"]
+      "pages_used_in": [
+        "/concepts/jingzuo/",
+        "/practices/jingzuo/"
+      ]
     },
     {
       "id": "watson-1968",
@@ -88,7 +124,10 @@
       "type": "scholarship",
       "language": "en",
       "url": null,
-      "pages_used_in": ["/texts/zhuangzi/", "/concepts/zuowang/"]
+      "pages_used_in": [
+        "/texts/zhuangzi/",
+        "/concepts/zuowang/"
+      ]
     },
     {
       "id": "iep-zhuangzi",
@@ -96,7 +135,9 @@
       "type": "scholarship",
       "language": "en",
       "url": "https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher",
-      "pages_used_in": ["/texts/zhuangzi/"]
+      "pages_used_in": [
+        "/texts/zhuangzi/"
+      ]
     },
     {
       "id": "henricks-1989",
@@ -104,7 +145,9 @@
       "type": "scholarship",
       "language": "en",
       "url": null,
-      "pages_used_in": ["/texts/daodejing/"]
+      "pages_used_in": [
+        "/texts/daodejing/"
+      ]
     },
     {
       "id": "cook-2012",
@@ -112,7 +155,60 @@
       "type": "scholarship",
       "language": "en",
       "url": null,
-      "pages_used_in": ["/texts/daodejing/"]
+      "pages_used_in": [
+        "/texts/daodejing/"
+      ]
+    },
+    {
+      "id": "qingjing-jing",
+      "title": "Qingjing Jing (Scripture of Constant Clarity and Stillness)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "http://www.taoist.org.cn/showInfoContent.do?id=2549",
+      "pages_used_in": [
+        "/texts/qingjing-jing/"
+      ]
+    },
+    {
+      "id": "neiguan-jing",
+      "title": "Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.daoinfo.org/index.php?title=%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+      "pages_used_in": [
+        "/texts/neiguan-jing/"
+      ]
+    },
+    {
+      "id": "shiji-63",
+      "title": "Shiji (Records of the Grand Historian), ch. 63, 'Laozi Han Fei liezhuan'",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7063",
+      "pages_used_in": [
+        "/people/laozi/",
+        "/people/zhuang-zhou/"
+      ]
+    },
+    {
+      "id": "goyal-2014",
+      "title": "Goyal, M., et al. Meditation Programs for Psychological Stress and Well-being. JAMA Internal Medicine 174(3):357-368, 2014",
+      "type": "research",
+      "language": "en",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24395196",
+      "pages_used_in": [
+        "/comparisons/zuowang-vs-mindfulness/"
+      ]
+    },
+    {
+      "id": "kohn-1998",
+      "title": "Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998",
+      "type": "scholarship",
+      "language": "en",
+      "url": null,
+      "pages_used_in": [
+        "/people/laozi/"
+      ]
     }
   ]
 }

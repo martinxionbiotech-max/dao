@@ -17,6 +17,16 @@
     { "from": "shouyi", "to": "wuwei", "relation": "related_to" },
     { "from": "shouyi", "to": "qi", "relation": "associated_with" },
     { "from": "shouyi", "to": "zuowang", "relation": "related_to" },
-    { "from": "wuwei", "to": "zuowang", "relation": "related_to" }
+    { "from": "wuwei", "to": "zuowang", "relation": "related_to" },
+    { "from": "zuowang", "to": "zuowang-lun", "relation": "described_in" },
+    { "from": "zuowang-lun", "to": "neiguan-jing", "relation": "derived_from" },
+    { "from": "zuowang-lun", "to": "qingjing-jing", "relation": "derived_from" },
+    { "from": "sima-chengzhen", "to": "zuowang-lun", "relation": "discusses" },
+    { "from": "laozi", "to": "daodejing", "relation": "associated_with" },
+    { "from": "zhuang-zhou", "to": "zhuangzi", "relation": "associated_with" },
+    { "from": "xinzhai", "to": "qingjing-jing", "relation": "related_to" },
+    { "from": "shouyi", "to": "neiguan-jing", "relation": "related_to" },
+    { "from": "neiguan-jing", "to": "qingjing-jing", "relation": "related_to" },
+    { "from": "zuowang", "to": "mindfulness", "relation": "related_to" }
   ]
 }
