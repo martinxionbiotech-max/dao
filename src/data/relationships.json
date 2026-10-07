@@ -496,6 +496,41 @@
       "from": "seeing-light-in-sitting",
       "to": "zhuangzi",
       "relation": "described_in"
+    },
+    {
+      "from": "artisan-qing",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "cicada-catcher",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "artisan-qing",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "artisan-qing",
+      "to": "xinzhai",
+      "relation": "concerns"
+    },
+    {
+      "from": "artisan-qing",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "cicada-catcher",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "cicada-catcher",
+      "to": "shouyi",
+      "relation": "concerns"
     }
   ]
 }
