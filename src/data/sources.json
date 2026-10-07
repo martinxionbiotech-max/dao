@@ -454,7 +454,8 @@
         "/stories/jingdi-zhiwa/",
         "/stories/wangyang-xingtan/",
         "/stories/phoenix-and-owl/",
-        "/stories/turtle-in-the-mud/"
+        "/stories/turtle-in-the-mud/",
+        "/stories/kui-xian-chain/"
       ]
     },
     {
@@ -609,7 +610,8 @@
         "/stories/four-friends/",
         "/glossary/jian-du/",
         "/stories/sanghu-friends/",
-        "/glossary/xian-jie/"
+        "/glossary/xian-jie/",
+        "/glossary/ji-ren/"
       ]
     },
     {
@@ -886,6 +888,61 @@
       "url": "https://www.163.com/dy/article/G5755VBH0545316K.html",
       "pages_used_in": [
         "/experiences/exp-016-nine-dhyanas-map/"
+      ]
+    },
+    {
+      "id": "shidian-zhuangzi-tongyi-qiushui",
+      "title": "Zhuangzi tongyi (Shidian guji, HY1407, Ming ed.): full commentary on Qiushui 17, incl. the pity-chain reading, the Shanhai jing note on Kui, and why the chain stops at the mind",
+      "type": "commentary",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/kui-xian-chain/"
+      ]
+    },
+    {
+      "id": "shanmu-editions",
+      "title": "Zhuangzi ch. 20 (Shanmu) opening passage: Wang Nengxian's scholarly exposition (Sohu, 'between timber and no-timber') and the full text on Xueqiu, agreeing word for word",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/mountain-tree-goose/"
+      ]
+    },
+    {
+      "id": "zeyang-editions",
+      "title": "Zhuangzi ch. 25 (Zeyang) King Wei Ying passage: I-Kuan Tao classics full text (with.org), Wix temple teaching edition, and the Taiping yulan parallel noted by ctext",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/snail-horn-war/"
+      ]
+    },
+    {
+      "id": "daodejing-06-xuanpin",
+      "title": "Daodejing ch. 6: Gushiwen teaching edition with translation and gloss (xuanpin as the source breeding the ten thousand things, an image of the Way)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/glossary/xuan-pin/"
+      ]
+    },
+    {
+      "id": "daodejing-17-editions",
+      "title": "Daodejing ch. 17, received text with the 下知有之/不知有之 variant, from the site's earlier Daodejing verification passes",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-17/"
+      ]
+    },
+    {
+      "id": "360kuai-taishi-01",
+      "title": "Taishi cultivation Q&A no. 1 (360kuai reprint, 2021): why he began — the teacher's origin story, daily schedule, retreat record, and lineage refusal",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.360kuai.com/pc/9e6f36b9dd6094ba8",
+      "pages_used_in": [
+        "/experiences/exp-017-why-he-began/"
       ]
     }
   ]

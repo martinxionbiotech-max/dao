@@ -2166,6 +2166,166 @@
       "from": "exp-016-nine-dhyanas-map",
       "to": "schlosser-2019",
       "relation": "related_to"
+    },
+    {
+      "from": "kui-xian-chain",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "kui-xian-chain",
+      "to": "wangyang-xingtan",
+      "relation": "related_to"
+    },
+    {
+      "from": "kui-xian-chain",
+      "to": "peng-bird",
+      "relation": "related_to"
+    },
+    {
+      "from": "kui-xian-chain",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "kui-xian-chain",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "mountain-tree-goose",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "mountain-tree-goose",
+      "to": "useless-gourd",
+      "relation": "related_to"
+    },
+    {
+      "from": "mountain-tree-goose",
+      "to": "turtle-in-the-mud",
+      "relation": "related_to"
+    },
+    {
+      "from": "mountain-tree-goose",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "mountain-tree-goose",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "snail-horn-war",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "snail-horn-war",
+      "to": "jingdi-zhiwa",
+      "relation": "related_to"
+    },
+    {
+      "from": "snail-horn-war",
+      "to": "wangyang-xingtan",
+      "relation": "related_to"
+    },
+    {
+      "from": "snail-horn-war",
+      "to": "peng-bird",
+      "relation": "related_to"
+    },
+    {
+      "from": "xuan-pin",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "xuan-pin",
+      "to": "daodejing-01",
+      "relation": "related_to"
+    },
+    {
+      "from": "xuan-pin",
+      "to": "tuoyue",
+      "relation": "related_to"
+    },
+    {
+      "from": "xuan-pin",
+      "to": "xu",
+      "relation": "related_to"
+    },
+    {
+      "from": "xuan-pin",
+      "to": "dao",
+      "relation": "concerns"
+    },
+    {
+      "from": "ji-ren",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "ji-ren",
+      "to": "sanghu-friends",
+      "relation": "related_to"
+    },
+    {
+      "from": "ji-ren",
+      "to": "four-friends",
+      "relation": "related_to"
+    },
+    {
+      "from": "ji-ren",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-17",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-17",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-17",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-17",
+      "to": "daodejing-37",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-17",
+      "to": "daodejing-22",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-017-why-he-began",
+      "to": "exp-013-buddhist-daoist-boundary",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-017-why-he-began",
+      "to": "exp-014-double-lotus-doctrine",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-017-why-he-began",
+      "to": "farias-adverse-events-2020",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-017-why-he-began",
+      "to": "lindahl-2017",
+      "relation": "related_to"
     }
   ]
 }
