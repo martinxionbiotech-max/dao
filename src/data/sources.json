@@ -429,6 +429,36 @@
       "pages_used_in": [
         "/texts/baopuzi/"
       ]
+    },
+    {
+      "id": "taiping-jing-received",
+      "title": "Taiping Jing, received text (57 juan / 126 pian in the Ming Daoist Canon; Wang Ming, Taiping Jing Hejiao, 1960)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/texts/taiping-jing/",
+        "/practices/shouyi/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-qiushui",
+      "title": "Zhuangzi ch. 17 (Qiushui), received text (Wikisource)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+      "pages_used_in": [
+        "/stories/fish-happiness/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-xuwugui",
+      "title": "Zhuangzi ch. 24 (Xuwugui), received text (Wikisource / Shidian Guji edition)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/莊子/徐無鬼",
+      "pages_used_in": [
+        "/stories/carpenter-shi/"
+      ]
     }
   ]
 }

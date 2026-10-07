@@ -891,6 +891,136 @@
       "from": "baopuzi-composition",
       "to": "ge-hong",
       "relation": "concerns"
+    },
+    {
+      "from": "taiping-jing",
+      "to": "shouyi",
+      "relation": "concerns"
+    },
+    {
+      "from": "taiping-jing",
+      "to": "qi",
+      "relation": "concerns"
+    },
+    {
+      "from": "taiping-jing",
+      "to": "jing-qi-shen",
+      "relation": "concerns"
+    },
+    {
+      "from": "shouyi-practice",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "shouyi-practice",
+      "to": "shouyi",
+      "relation": "concerns"
+    },
+    {
+      "from": "shouyi-practice",
+      "to": "taiping-jing",
+      "relation": "described_in"
+    },
+    {
+      "from": "shouyi-practice",
+      "to": "baopuzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "tiaoxi-practice",
+      "to": "xiao-zhiguan",
+      "relation": "described_in"
+    },
+    {
+      "from": "tiaoxi-practice",
+      "to": "tiaoxi",
+      "relation": "concerns"
+    },
+    {
+      "from": "tiaoxi-practice",
+      "to": "taixi",
+      "relation": "concerns"
+    },
+    {
+      "from": "tiaoxi-practice",
+      "to": "breath-stopping-anxiety",
+      "relation": "concerns"
+    },
+    {
+      "from": "fish-happiness",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "fish-happiness",
+      "to": "guan",
+      "relation": "concerns"
+    },
+    {
+      "from": "fish-happiness",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "carpenter-shi",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "carpenter-shi",
+      "to": "fish-happiness",
+      "relation": "related_to"
+    },
+    {
+      "from": "carpenter-shi",
+      "to": "zuowang-safety-without-teacher",
+      "relation": "concerns"
+    },
+    {
+      "from": "xi",
+      "to": "xiao-zhiguan",
+      "relation": "described_in"
+    },
+    {
+      "from": "xi",
+      "to": "tiaoxi",
+      "relation": "concerns"
+    },
+    {
+      "from": "xi",
+      "to": "taixi",
+      "relation": "concerns"
+    },
+    {
+      "from": "tuoyue",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "tuoyue",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "tuoyue",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "cunsi-or-zuowang",
+      "to": "cunsi",
+      "relation": "concerns"
+    },
+    {
+      "from": "cunsi-or-zuowang",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "cunsi-or-zuowang",
+      "to": "shouyi",
+      "relation": "concerns"
     }
   ]
 }
