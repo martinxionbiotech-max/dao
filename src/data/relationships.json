@@ -391,6 +391,66 @@
       "from": "EXP-008",
       "to": "jingzuo",
       "relation": "concerns"
+    },
+    {
+      "from": "dantian",
+      "to": "qi",
+      "relation": "related_to"
+    },
+    {
+      "from": "dantian",
+      "to": "shouyi",
+      "relation": "related_to"
+    },
+    {
+      "from": "dantian",
+      "to": "jing-qi-shen",
+      "relation": "related_to"
+    },
+    {
+      "from": "tiaoxi",
+      "to": "jingzuo",
+      "relation": "related_to"
+    },
+    {
+      "from": "tiaoxi",
+      "to": "qi",
+      "relation": "related_to"
+    },
+    {
+      "from": "drowsiness-in-sitting",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "drowsiness-in-sitting",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "drowsiness-in-sitting",
+      "to": "drowsiness-vs-stillness",
+      "relation": "derived_from"
+    },
+    {
+      "from": "drowsiness-in-sitting",
+      "to": "falling-asleep-during-meditation",
+      "relation": "related_to"
+    },
+    {
+      "from": "jingzuo-vs-zuowang",
+      "to": "jingzuo",
+      "relation": "discusses"
+    },
+    {
+      "from": "jingzuo-vs-zuowang",
+      "to": "zuowang",
+      "relation": "discusses"
+    },
+    {
+      "from": "jingzuo",
+      "to": "zuowang",
+      "relation": "contrasts_with"
     }
   ]
 }

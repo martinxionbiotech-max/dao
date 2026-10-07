@@ -338,6 +338,27 @@
       "pages_used_in": [
         "/stories/wooden-rooster/"
       ]
+    },
+    {
+      "id": "huangting-jing",
+      "title": "Huangting neijing jing (Yellow Court inner scripture), Shangqing tradition",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/黃庭內景經",
+      "pages_used_in": [
+        "/glossary/dantian/"
+      ]
+    },
+    {
+      "id": "xiao-zhiguan",
+      "title": "Zhiyi, Xiao zhiguan (Tongmeng zhiguan), Tiaohe chapter",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/修習止觀坐禪法要",
+      "pages_used_in": [
+        "/glossary/tiaoxi/",
+        "/problems/drowsiness-in-sitting/"
+      ]
     }
   ]
 }
