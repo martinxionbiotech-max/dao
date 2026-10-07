@@ -586,6 +586,96 @@
       "from": "three-craftsmen-dazheng",
       "to": "wuwei",
       "relation": "concerns"
+    },
+    {
+      "from": "ziran",
+      "to": "wuwei",
+      "relation": "associated_with"
+    },
+    {
+      "from": "ziran",
+      "to": "xu",
+      "relation": "associated_with"
+    },
+    {
+      "from": "ziran",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "daodejing-16",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-16",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-16",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "qiwulun-wu-sang-wo",
+      "to": "zhuangzi",
+      "relation": "translated_as"
+    },
+    {
+      "from": "qiwulun-wu-sang-wo",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "huangting-jing",
+      "to": "dantian",
+      "relation": "concerns"
+    },
+    {
+      "from": "xiao-zhiguan",
+      "to": "tiaoxi",
+      "relation": "concerns"
+    },
+    {
+      "from": "xiao-zhiguan",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "zhiyi",
+      "to": "xiao-zhiguan",
+      "relation": "authored"
+    },
+    {
+      "from": "zhuangzi-compilation",
+      "to": "zhuangzi",
+      "relation": "concerns"
+    },
+    {
+      "from": "zhuangzi-compilation",
+      "to": "zhuang-zhou",
+      "relation": "concerns"
+    },
+    {
+      "from": "translation-policy",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "translation-policy",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "combine-zuowang-mindfulness",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "combine-zuowang-mindfulness",
+      "to": "mindfulness-meta-analysis-2014",
+      "relation": "references"
     }
   ]
 }
