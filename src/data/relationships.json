@@ -1116,6 +1116,96 @@
       "from": "warmth-tingling-when-sitting",
       "to": "jingzuo",
       "relation": "concerns"
+    },
+    {
+      "from": "tang-2015",
+      "to": "mindfulness-meta-analysis-2014",
+      "relation": "related_to"
+    },
+    {
+      "from": "three-in-the-morning",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "three-in-the-morning",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "three-in-the-morning",
+      "to": "fish-happiness",
+      "relation": "related_to"
+    },
+    {
+      "from": "peng-bird",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "peng-bird",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "peng-bird",
+      "to": "drumming-basin",
+      "relation": "related_to"
+    },
+    {
+      "from": "liezi",
+      "to": "zhuangzi",
+      "relation": "references"
+    },
+    {
+      "from": "liezi",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "liezi",
+      "to": "daodejing",
+      "relation": "related_to"
+    },
+    {
+      "from": "jiafuzuo",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "jiafuzuo",
+      "to": "sitting-protocol",
+      "relation": "related_to"
+    },
+    {
+      "from": "drumming-basin-passage",
+      "to": "zhuangzi",
+      "relation": "translated_as"
+    },
+    {
+      "from": "drumming-basin-passage",
+      "to": "drumming-basin",
+      "relation": "related_to"
+    },
+    {
+      "from": "drumming-basin-passage",
+      "to": "qiwulun-wu-sang-wo",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-009-dissolving-void",
+      "to": "zuochi",
+      "relation": "concerns"
+    },
+    {
+      "from": "exp-009-dissolving-void",
+      "to": "drowsiness-vs-stillness",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-009-dissolving-void",
+      "to": "three-languages",
+      "relation": "related_to"
     }
   ]
 }

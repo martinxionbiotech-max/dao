@@ -499,6 +499,63 @@
         "/research/schlosser-2019/",
         "/questions/warmth-tingling-when-sitting/"
       ]
+    },
+    {
+      "id": "nature-reviews-nrn3916",
+      "title": "Tang, Hölzel & Posner 2015, Nature Reviews Neuroscience 16: 213-225",
+      "type": "academic_study",
+      "language": "en",
+      "url": "https://www.nature.com/articles/nrn3916",
+      "pages_used_in": [
+        "/research/tang-2015/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-qiwulun",
+      "title": "Zhuangzi ch. 2 (Qiwulun), received text (Wikisource)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/three-in-the-morning/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-xiaoyaoyou",
+      "title": "Zhuangzi ch. 1 (Xiaoyaoyou), received text (Wikisource / Gushiwen)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/peng-bird/"
+      ]
+    },
+    {
+      "id": "liezi-received",
+      "title": "Liezi, received text in eight chapters with Zhang Zhan's commentary; Hanshu Yiwenzhi bibliography; Ma Xulun, Liezi Weishu Kao; Ji Xianlin on the Sheng Jing borrowing",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/texts/liezi/"
+      ]
+    },
+    {
+      "id": "zdic-jiafuzuo",
+      "title": "Zdic dictionary entry: jiafuzuo (with Faxian, Foguo Ji attestation)",
+      "type": "reference_work",
+      "language": "zh",
+      "url": "https://zdic.net/hans/结跏趺坐",
+      "pages_used_in": [
+        "/glossary/jiafuzuo/"
+      ]
+    },
+    {
+      "id": "163-taishi-49",
+      "title": "Taishi cultivation Q&A no. 49 (163.com community column, 2021)",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G59VFFCR0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-009-dissolving-void/"
+      ]
     }
   ]
 }
