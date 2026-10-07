@@ -5946,6 +5946,286 @@
    "from": "exp-028-abdominal-breathing",
    "to": "jingzuo",
    "relation": "related_to"
+  },
+  {
+   "from": "diao-ling-yi-que",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "diao-ling-yi-que",
+   "to": "mantis-stalks-cicada",
+   "relation": "related_to"
+  },
+  {
+   "from": "diao-ling-yi-que",
+   "to": "shinan-yiliao",
+   "relation": "related_to"
+  },
+  {
+   "from": "diao-ling-yi-que",
+   "to": "yi-dai-niao",
+   "relation": "related_to"
+  },
+  {
+   "from": "diao-ling-yi-que",
+   "to": "luhou-yang-niao",
+   "relation": "related_to"
+  },
+  {
+   "from": "diao-ling-yi-que",
+   "to": "mountain-tree-goose",
+   "relation": "related_to"
+  },
+  {
+   "from": "diao-ling-yi-que",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "diao-ling-yi-que",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "diao-ling-yi-que",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "yanshi-wind-song",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "yanshi-wind-song",
+   "to": "yi-dai-niao",
+   "relation": "related_to"
+  },
+  {
+   "from": "yanshi-wind-song",
+   "to": "lin-hui-qi-bi",
+   "relation": "related_to"
+  },
+  {
+   "from": "yanshi-wind-song",
+   "to": "diao-ling-yi-que",
+   "relation": "related_to"
+  },
+  {
+   "from": "yanshi-wind-song",
+   "to": "mountain-tree-goose",
+   "relation": "related_to"
+  },
+  {
+   "from": "yanshi-wind-song",
+   "to": "liang-wang",
+   "relation": "related_to"
+  },
+  {
+   "from": "yanshi-wind-song",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "yanshi-wind-song",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "mo-ruo-yi-ming",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "mo-ruo-yi-ming",
+   "to": "dao-shu",
+   "relation": "related_to"
+  },
+  {
+   "from": "mo-ruo-yi-ming",
+   "to": "huan-zhong",
+   "relation": "related_to"
+  },
+  {
+   "from": "mo-ruo-yi-ming",
+   "to": "liang-xing",
+   "relation": "related_to"
+  },
+  {
+   "from": "mo-ruo-yi-ming",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "mo-ruo-yi-ming",
+   "to": "tian-jun",
+   "relation": "related_to"
+  },
+  {
+   "from": "mo-ruo-yi-ming",
+   "to": "three-in-the-morning",
+   "relation": "related_to"
+  },
+  {
+   "from": "mo-ruo-yi-ming",
+   "to": "zhi-yan",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "daodejing-11",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "daodejing-40",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "daodejing-55",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "hui-shi-wu-che",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "bei-gong-she",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chuyi",
+   "to": "qiu-chuji",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chuyi",
+   "to": "wang-chongyang",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chuyi",
+   "to": "standing-in-snow",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chuyi",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chuyi",
+   "to": "shouyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-am-i-so-sleepy",
+   "to": "what-is-stillness",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-am-i-so-sleepy",
+   "to": "can-i-sit-in-bed",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-am-i-so-sleepy",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-am-i-so-sleepy",
+   "to": "exp-001-falling-asleep",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-am-i-so-sleepy",
+   "to": "exp-028-abdominal-breathing",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-am-i-so-sleepy",
+   "to": "drowsiness-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "why-am-i-so-sleepy",
+   "to": "drowsiness-vs-stillness",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "exp-028-abdominal-breathing",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "exp-023-breath-is-the-key",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "exp-008-breath-stopping",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "exp-015-heat-sweat-qi",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "exp-016-nine-dhyanas-map",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "can-meditation-cure-illness",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "why-am-i-so-sleepy",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "tiaoxi",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "dantian",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-029-the-human-body",
+   "to": "qi",
+   "relation": "related_to"
   }
  ]
 }
