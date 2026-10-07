@@ -4551,6 +4551,281 @@
    "from": "exp-025-lying-down-innovation",
    "to": "farias-adverse-events-2020",
    "relation": "related_to"
+  },
+  {
+   "from": "daye-zhu-jin",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "daye-zhu-jin",
+   "to": "four-friends",
+   "relation": "related_to"
+  },
+  {
+   "from": "daye-zhu-jin",
+   "to": "qinshi-mourning",
+   "relation": "related_to"
+  },
+  {
+   "from": "daye-zhu-jin",
+   "to": "zhili-shu",
+   "relation": "related_to"
+  },
+  {
+   "from": "daye-zhu-jin",
+   "to": "xian-jie",
+   "relation": "related_to"
+  },
+  {
+   "from": "daye-zhu-jin",
+   "to": "can-meditation-cure-illness",
+   "relation": "related_to"
+  },
+  {
+   "from": "daye-zhu-jin",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "tu-long-zhi-ji",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "tu-long-zhi-ji",
+   "to": "useless-gourd",
+   "relation": "related_to"
+  },
+  {
+   "from": "tu-long-zhi-ji",
+   "to": "ren-gongzi-fishing",
+   "relation": "related_to"
+  },
+  {
+   "from": "tu-long-zhi-ji",
+   "to": "chui-gou-zhe",
+   "relation": "related_to"
+  },
+  {
+   "from": "tu-long-zhi-ji",
+   "to": "zhili-shu",
+   "relation": "related_to"
+  },
+  {
+   "from": "tu-long-zhi-ji",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "tu-long-zhi-ji",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "qiwu",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "qiwu",
+   "to": "wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiwu",
+   "to": "tian-lai",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiwu",
+   "to": "bao-guang",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiwu",
+   "to": "zhao-che",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiwu",
+   "to": "three-in-the-morning",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiwu",
+   "to": "butterfly-dream",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiwu",
+   "to": "huzi-jixian",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiwu",
+   "to": "qiwulun-wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiwu",
+   "to": "dao",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-40",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-40",
+   "to": "daodejing-36",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-40",
+   "to": "daodejing-25",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-40",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-40",
+   "to": "daodejing-11",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-40",
+   "to": "bao-guang",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-40",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "wang-chongyang",
+   "to": "zhang-boduan",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chongyang",
+   "to": "lu-xiujing",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chongyang",
+   "to": "kou-qianzhi",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chongyang",
+   "to": "zhang-daoling",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chongyang",
+   "to": "chen-tuan",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chongyang",
+   "to": "jing-qi-shen",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-chongyang",
+   "to": "daoshu-neiguan-zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-i-sit-in-bed",
+   "to": "must-i-sit-cross-legged",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-i-sit-in-bed",
+   "to": "falling-asleep-during-meditation",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-i-sit-in-bed",
+   "to": "exp-025-lying-down-innovation",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-i-sit-in-bed",
+   "to": "exp-018-halflotus-to-full-lotus",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-i-sit-in-bed",
+   "to": "drowsiness-vs-stillness",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-i-sit-in-bed",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-i-sit-in-bed",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-i-sit-in-bed",
+   "to": "sitting-protocol",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-i-sit-in-bed",
+   "to": "wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-i-sit-in-bed",
+   "to": "does-practice-need-faith",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-12",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-12",
+   "to": "xinzhai-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-12",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-12",
+   "to": "tiaoxi",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-12",
+   "to": "xiao-zhiguan",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-12",
+   "to": "can-i-sit-in-bed",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-12",
+   "to": "xu",
+   "relation": "concerns"
   }
  ]
 }

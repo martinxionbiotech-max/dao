@@ -1445,6 +1445,66 @@
    "pages_used_in": [
     "/experiences/exp-025-lying-down-innovation/"
    ]
+  },
+  {
+   "id": "dazongshi-daye-editions",
+   "title": "Zhuangzi ch. 6 (Da Zong Shi), the Zi Lai smelter passage, verified against the Wikisource full chapter, the Xiang Xiu-Guo Xiang commentary edition (ab.newdu.com, with full glosses), the with.org chapter text, and the Education Encyclopedia survey, which agree (variants: 大块载我以形/大块以载我以形, 造化者/造物者)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E5%A4%A7%E5%AE%97%E5%B8%AB",
+   "pages_used_in": [
+    "/stories/daye-zhu-jin/"
+   ]
+  },
+  {
+   "id": "lieyukou-tulong-editions",
+   "title": "Zhuangzi ch. 32 (Lie Yukou), the dragon-slaying passage with its chapter frame, verified against the Guwendao full-chapter text, the Baidu Baike idiom entry, the Threads quotation, and a close-reading blog, which agree (朱泙漫学屠龙于支离益，单千金之家，三年技成而无所用其巧)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://m.guwendao.net/guwen/bookv_05c8a5609ebf.aspx",
+   "pages_used_in": [
+    "/stories/tu-long-zhi-ji/"
+   ]
+  },
+  {
+   "id": "qiwulun-title-readings",
+   "title": "The Qi Wu Lun title ambiguity, registered from the scholarly record: the Peking University Journal (2009) survey with Yang Liuqiao evidence (early readers took qiwu together, Wang Yinglin the later wulun reading, and the observation that the character qi never occurs in the chapter body); the Chinese Academy of Social Sciences survey (2022); the Guangming Daily survey; and the 8bei8 chapter introduction",
+   "type": "scholarly_interpretation",
+   "language": "zh",
+   "url": "https://ccj.pku.edu.cn/Article/DownLoad?id=271011691&type=ArticleFile",
+   "pages_used_in": [
+    "/glossary/qiwu/"
+   ]
+  },
+  {
+   "id": "daodejing-40-editions",
+   "title": "Daodejing ch. 40, received text, verified against the Mindiver commentary edition, the Baidu Baike entry, the Shandong University chapter page, and the Zhang Qingxiang lecture transcript, with Qian Zhongshu two-senses gloss and the ch. 25 chain registered from the Hans Publishers academic paper",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://mindiver.se/ddj-40",
+   "pages_used_in": [
+    "/translations/daodejing-40/"
+   ]
+  },
+  {
+   "id": "wang-chongyang-sources",
+   "title": "Wang Chongyang (1112/1113-1170): the Quanzhen tradition biography (Dao Zhan journal, Baidu Baike Quanzhen entry — Ganhe transmission, Living-Dead-Man Tomb, the eastward journey, the seven disciples, the three-teachings associations and doctrine); the Weihai city government account; the Taiwan national religion information network entry; and the Wikipedia Quanzhen survey (Qiu Chuji and the Mongol court; the fiction-vs-record contrast)",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://zh.wikipedia.org/zh-hans/%E5%85%A8%E7%9C%9F%E9%81%93",
+   "pages_used_in": [
+    "/people/wang-chongyang/"
+   ]
+  },
+  {
+   "id": "daodejing-12-editions",
+   "title": "Daodejing ch. 12, received text, verified against four independent reproductions that agree (the Zhihu Wang Bi edition with glosses; the Baidu Baike entry with translation; the Shandong University chapter page; the Daodejing.org chapter page), with the kou shuang injury-sense gloss and the Heshang Gong chapter title jianyu registered",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.daodejing.org/12.html",
+   "pages_used_in": [
+    "/translations/daodejing-12/"
+   ]
   }
  ]
 }
