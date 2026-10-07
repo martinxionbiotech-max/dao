@@ -3651,6 +3651,276 @@
    "from": "exp-023-breath-is-the-key",
    "to": "tiaoxi",
    "relation": "concerns"
+  },
+  {
+   "from": "bole-horses",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "bole-horses",
+   "to": "hundun",
+   "relation": "related_to"
+  },
+  {
+   "from": "bole-horses",
+   "to": "luhou-yang-niao",
+   "relation": "related_to"
+  },
+  {
+   "from": "bole-horses",
+   "to": "marsh-pheasant",
+   "relation": "related_to"
+  },
+  {
+   "from": "bole-horses",
+   "to": "bao-weng-guan-qi",
+   "relation": "related_to"
+  },
+  {
+   "from": "bole-horses",
+   "to": "artisan-qing",
+   "relation": "related_to"
+  },
+  {
+   "from": "bole-horses",
+   "to": "cao-shang",
+   "relation": "related_to"
+  },
+  {
+   "from": "bole-horses",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "bole-horses",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "tushan-shuo",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "tushan-shuo",
+   "to": "cao-shang",
+   "relation": "related_to"
+  },
+  {
+   "from": "tushan-shuo",
+   "to": "turtle-in-the-mud",
+   "relation": "related_to"
+  },
+  {
+   "from": "tushan-shuo",
+   "to": "phoenix-and-owl",
+   "relation": "related_to"
+  },
+  {
+   "from": "tushan-shuo",
+   "to": "xuzhou-empty-boat",
+   "relation": "related_to"
+  },
+  {
+   "from": "bao-guang",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "bao-guang",
+   "to": "xushi-sheng-bai",
+   "relation": "related_to"
+  },
+  {
+   "from": "bao-guang",
+   "to": "seeing-light-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "bao-guang",
+   "to": "tian-lai",
+   "relation": "related_to"
+  },
+  {
+   "from": "bao-guang",
+   "to": "zhi-shui",
+   "relation": "related_to"
+  },
+  {
+   "from": "bao-guang",
+   "to": "daodejing-08",
+   "relation": "related_to"
+  },
+  {
+   "from": "bao-guang",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-02",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-02",
+   "to": "daodejing-10-shouyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-02",
+   "to": "daodejing-22",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-02",
+   "to": "daodejing-08",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-02",
+   "to": "qiwulun-wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-02",
+   "to": "wheelwright-bian",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-02",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-02",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "lu-xiujing",
+   "to": "zhang-daoling",
+   "relation": "related_to"
+  },
+  {
+   "from": "lu-xiujing",
+   "to": "kou-qianzhi",
+   "relation": "related_to"
+  },
+  {
+   "from": "lu-xiujing",
+   "to": "tao-hongjing",
+   "relation": "related_to"
+  },
+  {
+   "from": "lu-xiujing",
+   "to": "wei-huacun",
+   "relation": "related_to"
+  },
+  {
+   "from": "lu-xiujing",
+   "to": "yang-xi",
+   "relation": "related_to"
+  },
+  {
+   "from": "lu-xiujing",
+   "to": "shangqing-revelations",
+   "relation": "related_to"
+  },
+  {
+   "from": "lu-xiujing",
+   "to": "kou-qianzhi-reform",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "qi-belief-necessary",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "does-daoism-believe-in-a-creator",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "zuowang-vs-mindfulness",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "xinzhai-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "qiwulun-wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "zhang-daoling",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "yang-xi",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-sitting-religious",
+   "to": "zhuzi-yulei-jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-024-standing-and-sitting",
+   "to": "exp-018-halflotus-to-full-lotus",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-024-standing-and-sitting",
+   "to": "exp-023-breath-is-the-key",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-024-standing-and-sitting",
+   "to": "exp-014-double-lotus-doctrine",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-024-standing-and-sitting",
+   "to": "exp-004-emotional-surfacing",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-024-standing-and-sitting",
+   "to": "exp-012-restless-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-024-standing-and-sitting",
+   "to": "must-i-sit-cross-legged",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-024-standing-and-sitting",
+   "to": "tiaoxi",
+   "relation": "concerns"
   }
  ]
 }

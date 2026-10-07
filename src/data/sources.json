@@ -1265,6 +1265,66 @@
    "pages_used_in": [
     "/experiences/exp-023-breath-is-the-key/"
    ]
+  },
+  {
+   "id": "mati-editions",
+   "title": "Zhuangzi ch. 9 (Ma Ti, outer chapter), the Bole passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, DZ1487, Ma Ti di jiu, verbatim), and the Haitang Shishe reading text with translation, which agree verbatim",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%A6%AC%E8%B9%84",
+   "pages_used_in": [
+    "/stories/bole-horses/"
+   ]
+  },
+  {
+   "id": "rangwang-tushan-editions",
+   "title": "Zhuangzi ch. 28 (Rang Wang, mixed chapter), the Tu Yang passage, verified against the Wikisource full text, the Chinese Text Project parallel text, the Xueqiu reading text, and a Zhihu teaching column, which agree verbatim (CTP closing word variant registered)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E8%AE%93%E7%8E%8B",
+   "pages_used_in": [
+    "/stories/tushan-shuo/"
+   ]
+  },
+  {
+   "id": "qiwulun-baoguang-editions",
+   "title": "Zhuangzi ch. 2 (Qiwu Lun), the baoguang passage, verified against the Wikisource full text, the Dudianji interactive text, and a Zhihu full-text column, which agree verbatim; plus a Zhuzi xuekan study of the term (reprinted at homeinmists) linking baoguang to the Daodejing xuanlan",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://dudianji.com/book/%E5%BA%84%E5%AD%90/%E9%BD%90%E7%89%A9%E8%AE%BA",
+   "pages_used_in": [
+    "/glossary/bao-guang/"
+   ]
+  },
+  {
+   "id": "daodejing-02-editions",
+   "title": "Daodejing ch. 2, received text, verified against three independent reproductions that agree (the Mindiver bilingual edition; the Gushiwen Dao famous-line page, which notes the Dunhuang variant 不为始 for received 不辞; a Beijing Institute of Technology course text of the full received chapter)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://m.guwendao.net/mingju/juv_6c051ff33c92.aspx",
+   "pages_used_in": [
+    "/translations/daodejing-02/"
+   ]
+  },
+  {
+   "id": "lu-xiujing-sources",
+   "title": "Lu Xiujing (406-477): Baidu Baike (biography, 437 Lingbao jing mu, 461 Lu Shan Taixu guan, 467 Chongxu guan, 471 San Dong jing shu mu lu with 1,228 scrolls, zhaijiao codes); Taiwan Ministry of the Interior religion database; Chinese Taoist Association essay (southern reform, three teachings); Tushuguan xuekan 2013 library-science study (three-caverns classification attested from the 471 catalog); Wikipedia",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://baike.baidu.com/item/%E9%99%86%E4%BF%AE%E9%9D%99/1709413",
+   "pages_used_in": [
+    "/people/lu-xiujing/"
+   ]
+  },
+  {
+   "id": "163-taishi-40",
+   "title": "Taishi cultivation Q&A no. 40 (163.com community column): standing post versus sitting, the habit-seeds-surfacing doctrine, the alternating-legs rule, and the moderate corners (eat less, move more, fix the present)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G3FCGTLQ0545316K.html",
+   "pages_used_in": [
+    "/experiences/exp-024-standing-and-sitting/"
+   ]
   }
  ]
 }

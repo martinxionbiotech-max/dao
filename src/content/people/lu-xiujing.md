@@ -1,0 +1,31 @@
+---
+title: "Lu Xiujing (陆修静)"
+description: "Lu Xiujing 陆修静 (406–477) — the cataloger of the Daoist canon: compiler of the first complete scripture directory, the Three Caverns classification that every later Daoist canon still uses, and the reformer who gave southern Celestial Masters Daoism its rites and its library."
+chinese: "陆修静"
+pinyin: "Lù Xiūjìng"
+period: "406–477 CE (Liu Song, Southern Dynasties)"
+historicity: historical
+status: published
+date: 2026-10-07
+evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
+relatedPeople: ["zhang-daoling", "kou-qianzhi", "tao-hongjing", "wei-huacun", "yang-xi"]
+relatedTimeline: ["shangqing-revelations", "kou-qianzhi-reform"]
+relatedTexts: ["daodejing"]
+sources:
+  - "Baidu Baike, Lu Xiujing: courtesy name Yuande, from Dongqian in Wuxing; a descendant of Lu Kai, the Wu chancellor; studied the Confucian books in youth, then entered the mountains; invited by Emperor Wen of Song; entered Lu Shan in 461 and built the Taixu guan, teaching there seven years; summoned to Jiankang in 467 (Taishi 3) and lodged at the Chongxu guan; in 437 (Yuanjia 14) he began the collation of the Lingbao scriptures and compiled the Lingbao jing mu; in 471 (Taishi 7) he submitted the San Dong jing shu mu lu — 1,228 scrolls in all, of which 1,090 were in circulation and 138 'still in the heavenly palace'; he created the three-caverns-four-supplements-twelve-classes classification that later canon compilers kept using; he composed over a hundred scrolls of zhaijiao ritual codes, completing the southern liturgy"
+  - "The Taiwan Ministry of the Interior religion database: Lu Xiujing (406–477), hao Jianji, called himself a disciple of the Three Caverns; from Wuxing in Zhejiang; married young, then left family for the Way; considered a major reformer of Celestial Masters Daoism in the south"
+  - "The Chinese Taoist Association essay on Lu Xiujing and the Southern Celestial Masters: his reform lay in reorganizing the southern communities, collecting and collating scriptures, and codifying the zhaijiao rites; he advocated the confluence of the three teachings (Confucian, Buddhist, Daoist)"
+  - "A library-science study of Daoist catalogs (Tushuguan xuekan 2013): before Lu Xiujing the canon had only rough categories; the three-caverns classification is attested from his 471 catalog — Dongzhen (Shangqing), Dongxuan (Lingbao), Dongshen (Sanhuang) — and the four-supplements-twelve-classes scheme that followed structured every later daozang"
+  - "Wikipedia, Lu Xiujing (406 – March 2, 477): courtesy name Yuande, of Dongqian in Wuxing; a Southern Dynasties Daoist who lived in retreat at Yunmeng Shan and Lu Shan; received and was maintained by the Liu Song emperor, lecturing on the scriptures"
+---
+
+## The man
+
+- **The scholar who became a cataloger.** The record is agreed on the frame: a gentry scholar (a descendant of the Wu chancellor Lu Kai) who left official study for the mountains, then spent his maturity doing the least glamorous and most consequential work in the early church: collecting, collating, classifying. In 437 he began correcting the Lingbao scriptures and made their catalog; in 461 he settled on Lu Shan, teaching seven years; in 467 Emperor Ming of Song summoned him to the capital and lodged him at the Chongxu guan — where, the tradition records, he received the Shangqing manuscripts in the hands of Yang Xi and Xu Mi. In 471 he submitted the **San Dong jing shu mu lu** — the first complete Daoist scripture directory: 1,228 scrolls, of which the catalog itself records that 138 were "still in the heavenly palace" — the tradition's own admission, in its first census, that some of its books were not yet on earth.
+- **The three caverns.** His classification — 洞真 (Shangqing texts), 洞玄 (Lingbao), 洞神 (Sanhuang) — became the spine of every Daoist canon that followed: the 三洞四辅十二类 scheme grew from his catalog, and the [library study](/people/zhang-daoling/) registered in verification confirms the three-caverns classification is attested from his 471 catalog onward. The [Zhang Daoling page](/people/zhang-daoling/) holds the founding; this page holds the shelving: the church's books got their permanent architecture in one man's lifetime.
+- **The reformer of the south.** Where [Kou Qianzhi](/people/kou-qianzhi/) reformed the north with a state-backed mandate (the site's [reform timeline](/timeline/kou-qianzhi-reform/)), Lu Xiujing rebuilt the south from the library and the liturgy: reorganizing the scattered Celestial Masters communities, codifying the zhaijiao (斋醮) rites in over a hundred scrolls, and — the Chinese Taoist Association's account registers it — advocating the confluence of the three teachings. Founder, northern reformer, southern reformer: the site's institutional arc has its three names.
+- **The bridge between the revelations.** His position in the site's [Shangqing story](/timeline/shangqing-revelations/) is precise: [Yang Xi](/people/yang-xi/) received, [Wei Huacun](/people/wei-huacun/) was claimed as the source, and Lu Xiujing — a century and a half later — was the one who carried those manuscripts into the capital and shelved them at the top of the canon (洞真, the highest cavern). The revelations became scripture in his catalog; [Tao Hongjing](/people/tao-hongjing/) then organized their contents for good. He is the hinge between receiving and canonizing.
+
+## Why he belongs in this knowledge base
+
+Because this site is, among other things, a modern catalog: a sources list, a verification discipline, a layer of annotations — and Lu Xiujing is the tradition's own first cataloger, the man who discovered that a living practice tradition needs a checkable library. His 1,228-scroll census, with its "still in the heavenly palace" admission, is the ancestor of every honest bibliography since: a list that says what it has and what it doesn't. The site's [source discipline](/tools/how-to-verify-sources/) is his work, secularized. And his classification question — which texts are *primary*, which *supplementary*, which order they sit in — is exactly the question the site's [reading order](/tools/reading-order/) answers for the modern reader. The tradition's texts, and the practice they carry, both got their permanent architecture from this man.
