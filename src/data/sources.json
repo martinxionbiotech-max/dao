@@ -197,7 +197,8 @@
       "language": "en",
       "url": "https://pubmed.ncbi.nlm.nih.gov/24395196",
       "pages_used_in": [
-        "/comparisons/zuowang-vs-mindfulness/"
+        "/comparisons/zuowang-vs-mindfulness/",
+        "/research/mindfulness-meta-analysis-2014/"
       ]
     },
     {
@@ -208,6 +209,27 @@
       "url": null,
       "pages_used_in": [
         "/people/laozi/"
+      ]
+    },
+    {
+      "id": "song-shi-yangshi",
+      "title": "Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7428",
+      "pages_used_in": [
+        "/concepts/jingzuo/",
+        "/timeline/cheng-men-li-xue/"
+      ]
+    },
+    {
+      "id": "guodian-report",
+      "title": "Jingmen City Museum, 'Jingmen Guodian yihao Chumu', Wenwu 1997.7 (Guodian tomb no. 1 excavation report)",
+      "type": "research",
+      "language": "zh",
+      "url": null,
+      "pages_used_in": [
+        "/timeline/guodian-daodejing/"
       ]
     }
   ]

@@ -2,31 +2,225 @@
   "_schema": "data-schema-v1",
   "description": "Knowledge graph edges: from, to, relation (belongs_to / related_to / described_in / translated_as / associated_with / concerns / derived_from / investigates / discusses)",
   "items": [
-    { "from": "zuowang", "to": "zhuangzi", "relation": "described_in" },
-    { "from": "xinzhai", "to": "zhuangzi", "relation": "described_in" },
-    { "from": "wuwei", "to": "daodejing", "relation": "described_in" },
-    { "from": "shouyi", "to": "daodejing", "relation": "described_in" },
-    { "from": "qi", "to": "zhuangzi", "relation": "described_in" },
-    { "from": "qi", "to": "daodejing", "relation": "described_in" },
-    { "from": "zuowang", "to": "xinzhai", "relation": "related_to" },
-    { "from": "zuowang", "to": "wuwei", "relation": "related_to" },
-    { "from": "zuowang", "to": "qi", "relation": "associated_with" },
-    { "from": "jingzuo", "to": "zuowang", "relation": "related_to" },
-    { "from": "jingzuo", "to": "xinzhai", "relation": "related_to" },
-    { "from": "jingzuo", "to": "shouyi", "relation": "related_to" },
-    { "from": "shouyi", "to": "wuwei", "relation": "related_to" },
-    { "from": "shouyi", "to": "qi", "relation": "associated_with" },
-    { "from": "shouyi", "to": "zuowang", "relation": "related_to" },
-    { "from": "wuwei", "to": "zuowang", "relation": "related_to" },
-    { "from": "zuowang", "to": "zuowang-lun", "relation": "described_in" },
-    { "from": "zuowang-lun", "to": "neiguan-jing", "relation": "derived_from" },
-    { "from": "zuowang-lun", "to": "qingjing-jing", "relation": "derived_from" },
-    { "from": "sima-chengzhen", "to": "zuowang-lun", "relation": "discusses" },
-    { "from": "laozi", "to": "daodejing", "relation": "associated_with" },
-    { "from": "zhuang-zhou", "to": "zhuangzi", "relation": "associated_with" },
-    { "from": "xinzhai", "to": "qingjing-jing", "relation": "related_to" },
-    { "from": "shouyi", "to": "neiguan-jing", "relation": "related_to" },
-    { "from": "neiguan-jing", "to": "qingjing-jing", "relation": "related_to" },
-    { "from": "zuowang", "to": "mindfulness", "relation": "related_to" }
+    {
+      "from": "zuowang",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "xinzhai",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "wuwei",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "shouyi",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "qi",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "qi",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "zuowang",
+      "to": "xinzhai",
+      "relation": "related_to"
+    },
+    {
+      "from": "zuowang",
+      "to": "wuwei",
+      "relation": "related_to"
+    },
+    {
+      "from": "zuowang",
+      "to": "qi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "jingzuo",
+      "to": "zuowang",
+      "relation": "related_to"
+    },
+    {
+      "from": "jingzuo",
+      "to": "xinzhai",
+      "relation": "related_to"
+    },
+    {
+      "from": "jingzuo",
+      "to": "shouyi",
+      "relation": "related_to"
+    },
+    {
+      "from": "shouyi",
+      "to": "wuwei",
+      "relation": "related_to"
+    },
+    {
+      "from": "shouyi",
+      "to": "qi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "shouyi",
+      "to": "zuowang",
+      "relation": "related_to"
+    },
+    {
+      "from": "wuwei",
+      "to": "zuowang",
+      "relation": "related_to"
+    },
+    {
+      "from": "zuowang",
+      "to": "zuowang-lun",
+      "relation": "described_in"
+    },
+    {
+      "from": "zuowang-lun",
+      "to": "neiguan-jing",
+      "relation": "derived_from"
+    },
+    {
+      "from": "zuowang-lun",
+      "to": "qingjing-jing",
+      "relation": "derived_from"
+    },
+    {
+      "from": "sima-chengzhen",
+      "to": "zuowang-lun",
+      "relation": "discusses"
+    },
+    {
+      "from": "laozi",
+      "to": "daodejing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "zhuang-zhou",
+      "to": "zhuangzi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "xinzhai",
+      "to": "qingjing-jing",
+      "relation": "related_to"
+    },
+    {
+      "from": "shouyi",
+      "to": "neiguan-jing",
+      "relation": "related_to"
+    },
+    {
+      "from": "neiguan-jing",
+      "to": "qingjing-jing",
+      "relation": "related_to"
+    },
+    {
+      "from": "zuowang",
+      "to": "mindfulness",
+      "relation": "related_to"
+    },
+    {
+      "from": "xinzhai",
+      "to": "xinzhai-passage",
+      "relation": "translated_as"
+    },
+    {
+      "from": "zuowang",
+      "to": "zuowang-passage",
+      "relation": "translated_as"
+    },
+    {
+      "from": "wuwei",
+      "to": "daodejing-48",
+      "relation": "translated_as"
+    },
+    {
+      "from": "qingjing-jing",
+      "to": "qingjing-jing-opening",
+      "relation": "translated_as"
+    },
+    {
+      "from": "shouyi",
+      "to": "daodejing-10-shouyi",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing",
+      "to": "guodian-daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "laozi",
+      "to": "shiji-biographies",
+      "relation": "described_in"
+    },
+    {
+      "from": "taiping-jing",
+      "to": "taiping-jing-shouyi",
+      "relation": "described_in"
+    },
+    {
+      "from": "shouyi",
+      "to": "baopuzi-shouyi",
+      "relation": "described_in"
+    },
+    {
+      "from": "sima-chengzhen",
+      "to": "zuowang-lun-composition",
+      "relation": "described_in"
+    },
+    {
+      "from": "jingzuo",
+      "to": "cheng-men-li-xue",
+      "relation": "described_in"
+    },
+    {
+      "from": "jingzuo",
+      "to": "zhuzi-yulei-jingzuo",
+      "relation": "described_in"
+    },
+    {
+      "from": "jingzuo",
+      "to": "mindfulness-meta-analysis-2014",
+      "relation": "investigates"
+    },
+    {
+      "from": "zuowang",
+      "to": "sitting-protocol",
+      "relation": "described_in"
+    },
+    {
+      "from": "zuowang",
+      "to": "reading-order",
+      "relation": "described_in"
+    },
+    {
+      "from": "zuowang",
+      "to": "zuowang-safety-without-teacher",
+      "relation": "concerns"
+    },
+    {
+      "from": "jingzuo",
+      "to": "zuowang-vs-jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "qi",
+      "to": "qi-belief-necessary",
+      "relation": "concerns"
+    }
   ]
 }
