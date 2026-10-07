@@ -5131,6 +5131,296 @@
    "from": "why-do-i-keep-quitting",
    "to": "drowsiness-vs-stillness",
    "relation": "related_to"
+  },
+  {
+   "from": "qiu-hao",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "qiu-hao",
+   "to": "three-in-the-morning",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-hao",
+   "to": "butterfly-dream",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-hao",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-hao",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-hao",
+   "to": "wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-hao",
+   "to": "tian-jun",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-hao",
+   "to": "hua",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-hao",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "hui-shi-wu-che",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "hui-shi-wu-che",
+   "to": "yun-jin-cheng-feng",
+   "relation": "related_to"
+  },
+  {
+   "from": "hui-shi-wu-che",
+   "to": "phoenix-and-owl",
+   "relation": "related_to"
+  },
+  {
+   "from": "hui-shi-wu-che",
+   "to": "fish-happiness",
+   "relation": "related_to"
+  },
+  {
+   "from": "hui-shi-wu-che",
+   "to": "useless-gourd",
+   "relation": "related_to"
+  },
+  {
+   "from": "hui-shi-wu-che",
+   "to": "three-in-the-morning",
+   "relation": "related_to"
+  },
+  {
+   "from": "hui-shi-wu-che",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "hui-shi-wu-che",
+   "to": "daodejing-02",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-hua",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "wu-hua",
+   "to": "hua",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-hua",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-hua",
+   "to": "da-kuai",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-hua",
+   "to": "tian-ji",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-hua",
+   "to": "butterfly-dream",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-hua",
+   "to": "zhi-yan",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-hua",
+   "to": "daye-zhu-jin",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-32",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-32",
+   "to": "daodejing-37",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-32",
+   "to": "daodejing-25",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-32",
+   "to": "daodejing-01",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-32",
+   "to": "zhi-shui",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-32",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-32",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-chuji",
+   "to": "wang-chongyang",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-chuji",
+   "to": "zhang-daoling",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-chuji",
+   "to": "kou-qianzhi",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-chuji",
+   "to": "sima-chengzhen",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-chuji",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-chuji",
+   "to": "shouyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "qiu-chuji",
+   "to": "daodejing",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "must-i-sit-cross-legged",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "is-sitting-religious",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "does-practice-need-faith",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "exp-026-diet-gate",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "exp-007-digestive-release",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "exp-024-standing-and-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "xinzhai-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "daodejing-12",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-diet-matter",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-026-diet-gate",
+   "to": "exp-013-buddhist-daoist-boundary",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-026-diet-gate",
+   "to": "exp-016-nine-dhyanas-map",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-026-diet-gate",
+   "to": "exp-007-digestive-release",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-026-diet-gate",
+   "to": "exp-024-standing-and-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-026-diet-gate",
+   "to": "does-diet-matter",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-026-diet-gate",
+   "to": "does-practice-need-faith",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-026-diet-gate",
+   "to": "drowsiness-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-026-diet-gate",
+   "to": "drowsiness-vs-stillness",
+   "relation": "related_to"
   }
  ]
 }

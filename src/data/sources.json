@@ -1546,6 +1546,57 @@
    "pages_used_in": [
     "/people/cheng-xuanying/"
    ]
+  },
+  {
+   "id": "qiwulun-qiuhao-editions",
+   "title": "Zhuangzi ch. 2 (Qi Wu Lun), the scale-reversal and oneness passage (天下莫大于秋豪之末，而太山为小；莫寿乎殇子，而彭祖为夭。天地与我并生，而万物与我为一), verified against the Wikisource full chapter and the Taiji Shuguan annotated chapter text (agreeing, including the 秋豪/秋毫 variant and the glosses), plus the Peking University journal article on Qi Wu Lun difficulties (quoting the passage and discussing the 一与言为二 counting puzzle)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%8A%E7%89%A9%E8%AB%96",
+   "pages_used_in": [
+    "/stories/qiu-hao/"
+   ]
+  },
+  {
+   "id": "tianxia-huishi-editions",
+   "title": "Zhuangzi ch. 33 (Tian Xia), the Huishi section (惠施多方，其书五车，其道舛驳，其言也不中 — the ten theses, the twenty-one paradoxes, the closing verdict through 悲夫), verified against the Wikisource full chapter and the Taiji Shuguan chapter text, with the Ministry of Education Idiom Dictionary (2020) entry for 惠施五车/学富五车 (provenance, glosses, Huishi dates, and the idiom drift record)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%A4%A9%E4%B8%8B",
+   "pages_used_in": [
+    "/stories/hui-shi-wu-che/"
+   ]
+  },
+  {
+   "id": "daodejing-32-editions",
+   "title": "Daodejing ch. 32, verified against the Mindiver chapter study (道常无名，朴。虽小，天下莫能臣。侯王若能守之，万物将自宾。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦将知止。知止可以不殆。譬道之在天下，犹川谷之于江海) and the Beijing Institute of Technology traditional-text archive (unpunctuated received form), with the two competing punctuations of the opening registered without adjudication",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://mindiver.se/ddj-32",
+   "pages_used_in": [
+    "/translations/daodejing-32/"
+   ]
+  },
+  {
+   "id": "qiu-chuji-sources",
+   "title": "Qiu Chuji (1148-1227): Baidu Baike and Wikipedia biographical records (Tongmi, Changchunzi, Qixia, youngest of the Seven, the western journey at 74, the 尊卑虽异性命各同耳 line, Longmen lineage founder, the imperial titles, the one-word-stops-killing praise and its recorded dispute); the Daoist database record (dao.jic.io: ordained at nineteen, Wang Chongyang disciple the next year, Panxi cave six years, Longmen seven years, Straw-cloak Master); the Beijing Evening News historical article (2021: died 1227 in Yanjing at 79, original name Qiu Ge, tax exemptions for the order)",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://baike.baidu.com/item/%E4%B8%98%E5%A4%84%E6%9C%BA/384923",
+   "pages_used_in": [
+    "/people/qiu-chuji/"
+   ]
+  },
+  {
+   "id": "taiguanglin-zuochan-jiexing-07",
+   "title": "Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 2 on precepts, section 7, Vegetarianism is the necessary choice (full text retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02-20): the animals-have-consciousness claim, the meat-blocks-the-dhyanas gate, the Four Heavenly Kings rebirth, the three-stage dream-test with its seven-year frame, the eye-test, the Buddha two-stage narrative with the Shurangama line, the honesty rule, and the nutrition exchange (ten years one meal a day, no colds; the transition-period correction; tofu daily; no coffee/cola/tea; Pu-er tea), with the community counter-voices (the diabetes report, the gradual-protein advice)",
+   "type": "web_archive",
+   "language": "zh",
+   "url": "https://taiguanglin.org/",
+   "pages_used_in": [
+    "/experiences/exp-026-diet-gate/",
+    "/questions/does-diet-matter/"
+   ]
   }
  ]
 }
