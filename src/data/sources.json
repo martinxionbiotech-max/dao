@@ -607,7 +607,9 @@
         "/translations/yingning-passage/",
         "/glossary/zhaoche/",
         "/stories/four-friends/",
-        "/glossary/jian-du/"
+        "/glossary/jian-du/",
+        "/stories/sanghu-friends/",
+        "/glossary/xian-jie/"
       ]
     },
     {
@@ -787,7 +789,9 @@
       "type": "primary_text",
       "language": "zh",
       "pages_used_in": [
-        "/stories/qinshi-mourning/"
+        "/stories/qinshi-mourning/",
+        "/stories/marsh-pheasant/",
+        "/glossary/xian-jie/"
       ]
     },
     {
@@ -824,7 +828,64 @@
       "type": "reference",
       "language": "zh",
       "pages_used_in": [
-        "/stories/qinshi-mourning/"
+        "/stories/qinshi-mourning/",
+        "/glossary/xian-jie/"
+      ]
+    },
+    {
+      "id": "ikt-classics-zhuangzi-ch6",
+      "title": "Zhuangzi ch. 6 (Dazongshi), I-Kuan Tao classics full-text edition (with.org)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/sanghu-friends/"
+      ]
+    },
+    {
+      "id": "haitang-zhuangzi-ch6",
+      "title": "Zhuangzi ch. 6 (Dazongshi), Haitang poetry-club teaching edition with translation",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/sanghu-friends/"
+      ]
+    },
+    {
+      "id": "nanya-yangshengzhu-paper",
+      "title": "Zhao Shiwei, 'Problems in the Zhuangzi Yangsheng Zhu' (Nanya University teaching-research paper): the marsh pheasant passage and the chapter's argument",
+      "type": "scholarly",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/marsh-pheasant/"
+      ]
+    },
+    {
+      "id": "wang-bi-sources",
+      "title": "Wang Bi dossier: Wikipedia (zh) biography, the Shuge Classic Library Laozi Wang Bi zhu (with Siku abstract), and Sun Mingjun's Laozi editions survey (chinawriter.com.cn)",
+      "type": "scholarly",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/wang-bi/",
+        "/timeline/wangbi-laozi-commentary/"
+      ]
+    },
+    {
+      "id": "daodejing-22-editions",
+      "title": "Daodejing ch. 22: Gushiwen teaching edition and the Mawangdui manuscript variants (曲则金/枉则定; 执一以为天下牧)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-22/"
+      ]
+    },
+    {
+      "id": "163-taishi-47",
+      "title": "Taishi cultivation Q&A no. 47 (163.com community column, 2021): what is concentration — the nine dhyānas and how far an ordinary person can go",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G5755VBH0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-016-nine-dhyanas-map/"
       ]
     }
   ]

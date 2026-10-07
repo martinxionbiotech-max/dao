@@ -1986,6 +1986,186 @@
       "from": "tian-jun",
       "to": "qiwulun-wu-sang-wo",
       "relation": "related_to"
+    },
+    {
+      "from": "sanghu-friends",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "sanghu-friends",
+      "to": "four-friends",
+      "relation": "related_to"
+    },
+    {
+      "from": "sanghu-friends",
+      "to": "fish-in-the-dry-spring",
+      "relation": "related_to"
+    },
+    {
+      "from": "sanghu-friends",
+      "to": "qinshi-mourning",
+      "relation": "related_to"
+    },
+    {
+      "from": "sanghu-friends",
+      "to": "liang-wang",
+      "relation": "concerns"
+    },
+    {
+      "from": "sanghu-friends",
+      "to": "zuowang-passage",
+      "relation": "related_to"
+    },
+    {
+      "from": "marsh-pheasant",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "marsh-pheasant",
+      "to": "turtle-in-the-mud",
+      "relation": "related_to"
+    },
+    {
+      "from": "marsh-pheasant",
+      "to": "phoenix-and-owl",
+      "relation": "related_to"
+    },
+    {
+      "from": "marsh-pheasant",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "xian-jie",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "xian-jie",
+      "to": "qinshi-mourning",
+      "relation": "related_to"
+    },
+    {
+      "from": "xian-jie",
+      "to": "four-friends",
+      "relation": "related_to"
+    },
+    {
+      "from": "xian-jie",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "wang-bi",
+      "to": "daodejing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "wang-bi",
+      "to": "heshang-gong",
+      "relation": "associated_with"
+    },
+    {
+      "from": "wang-bi",
+      "to": "laozi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "wang-bi",
+      "to": "daodejing-01",
+      "relation": "related_to"
+    },
+    {
+      "from": "wang-bi",
+      "to": "daodejing-37",
+      "relation": "related_to"
+    },
+    {
+      "from": "wang-bi",
+      "to": "heshang-gong-commentary",
+      "relation": "related_to"
+    },
+    {
+      "from": "wangbi-laozi-commentary",
+      "to": "wang-bi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "wangbi-laozi-commentary",
+      "to": "daodejing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "wangbi-laozi-commentary",
+      "to": "heshang-gong",
+      "relation": "associated_with"
+    },
+    {
+      "from": "wangbi-laozi-commentary",
+      "to": "daodejing-01",
+      "relation": "related_to"
+    },
+    {
+      "from": "wangbi-laozi-commentary",
+      "to": "daodejing-37",
+      "relation": "related_to"
+    },
+    {
+      "from": "wangbi-laozi-commentary",
+      "to": "heshang-gong-commentary",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-22",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-22",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-22",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-22",
+      "to": "daodejing-10-shouyi",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-22",
+      "to": "daodejing-37",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-016-nine-dhyanas-map",
+      "to": "exp-014-double-lotus-doctrine",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-016-nine-dhyanas-map",
+      "to": "how-long-should-i-sit",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-016-nine-dhyanas-map",
+      "to": "exp-009-dissolving-void",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-016-nine-dhyanas-map",
+      "to": "lindahl-2017",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-016-nine-dhyanas-map",
+      "to": "schlosser-2019",
+      "relation": "related_to"
     }
   ]
 }
