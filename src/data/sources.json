@@ -406,7 +406,28 @@
       "language": "zh",
       "url": "https://ctext.org/baopuzi",
       "pages_used_in": [
-        "/practices/taixi/"
+        "/practices/taixi/",
+        "/problems/breath-stopping-anxiety/"
+      ]
+    },
+    {
+      "id": "jin-shu-ge-hong",
+      "title": "Jin shu (Book of Jin), biography of Ge Hong",
+      "type": "historical_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/ge-hong/",
+        "/texts/baopuzi/",
+        "/timeline/baopuzi-composition/"
+      ]
+    },
+    {
+      "id": "baopuzi-received",
+      "title": "Baopuzi, received text (inner 20 juan, outer 52 juan as received)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/texts/baopuzi/"
       ]
     }
   ]

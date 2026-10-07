@@ -771,6 +771,126 @@
       "from": "three-languages",
       "to": "jingzuo",
       "relation": "concerns"
+    },
+    {
+      "from": "jing",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "jing",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "jing",
+      "to": "qingjing-jing",
+      "relation": "described_in"
+    },
+    {
+      "from": "jing",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "jing",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "ge-hong",
+      "to": "baopuzi",
+      "relation": "authored"
+    },
+    {
+      "from": "baopuzi",
+      "to": "shouyi",
+      "relation": "concerns"
+    },
+    {
+      "from": "baopuzi",
+      "to": "taixi",
+      "relation": "concerns"
+    },
+    {
+      "from": "hundun",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "hundun",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "hundun",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "wooden-rooster-passage",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "wooden-rooster-passage",
+      "to": "wooden-rooster",
+      "relation": "concerns"
+    },
+    {
+      "from": "guan",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "guan",
+      "to": "neiguan",
+      "relation": "concerns"
+    },
+    {
+      "from": "baoyi",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "baoyi",
+      "to": "shouyi",
+      "relation": "concerns"
+    },
+    {
+      "from": "what-is-stillness",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "what-is-stillness",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "breath-stopping-anxiety",
+      "to": "taixi",
+      "relation": "concerns"
+    },
+    {
+      "from": "breath-stopping-anxiety",
+      "to": "tiaoxi",
+      "relation": "concerns"
+    },
+    {
+      "from": "breath-stopping-anxiety",
+      "to": "exp-008-breath-stopping",
+      "relation": "concerns"
+    },
+    {
+      "from": "baopuzi-composition",
+      "to": "baopuzi",
+      "relation": "concerns"
+    },
+    {
+      "from": "baopuzi-composition",
+      "to": "ge-hong",
+      "relation": "concerns"
     }
   ]
 }
