@@ -2706,6 +2706,221 @@
       "from": "exp-019-one-remedy-body",
       "to": "tiaoxi",
       "relation": "related_to"
+    },
+    {
+      "from": "hezhe-zhi-fu",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "hezhe-zhi-fu",
+      "to": "fish-in-the-dry-spring",
+      "relation": "related_to"
+    },
+    {
+      "from": "hezhe-zhi-fu",
+      "to": "xuzhou-empty-boat",
+      "relation": "related_to"
+    },
+    {
+      "from": "hezhe-zhi-fu",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "hezhe-zhi-fu",
+      "to": "luhou-yang-niao",
+      "relation": "related_to"
+    },
+    {
+      "from": "hezhe-zhi-fu",
+      "to": "fish-happiness",
+      "relation": "related_to"
+    },
+    {
+      "from": "mantis-stalks-cicada",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "mantis-stalks-cicada",
+      "to": "kui-xian-chain",
+      "relation": "related_to"
+    },
+    {
+      "from": "mantis-stalks-cicada",
+      "to": "xuzhou-empty-boat",
+      "relation": "related_to"
+    },
+    {
+      "from": "mantis-stalks-cicada",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "mantis-stalks-cicada",
+      "to": "zuochi",
+      "relation": "related_to"
+    },
+    {
+      "from": "mantis-stalks-cicada",
+      "to": "huzi-jixian",
+      "relation": "related_to"
+    },
+    {
+      "from": "xushi-sheng-bai",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "xushi-sheng-bai",
+      "to": "xinzhai",
+      "relation": "concerns"
+    },
+    {
+      "from": "xushi-sheng-bai",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "xushi-sheng-bai",
+      "to": "zuochi",
+      "relation": "related_to"
+    },
+    {
+      "from": "xushi-sheng-bai",
+      "to": "seeing-light-in-sitting",
+      "relation": "related_to"
+    },
+    {
+      "from": "xushi-sheng-bai",
+      "to": "zuowang",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-45",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-45",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-45",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-45",
+      "to": "daodejing-16",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-45",
+      "to": "daodejing-22",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-45",
+      "to": "daodejing-37",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-45",
+      "to": "qingjing-jing",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-45",
+      "to": "artisan-qing",
+      "relation": "related_to"
+    },
+    {
+      "from": "fu-yi",
+      "to": "daodejing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "fu-yi",
+      "to": "wang-bi",
+      "relation": "related_to"
+    },
+    {
+      "from": "fu-yi",
+      "to": "heshang-gong",
+      "relation": "related_to"
+    },
+    {
+      "from": "fu-yi",
+      "to": "yan-zun",
+      "relation": "related_to"
+    },
+    {
+      "from": "fu-yi",
+      "to": "exp-013-buddhist-daoist-boundary",
+      "relation": "related_to"
+    },
+    {
+      "from": "can-meditation-cure-illness",
+      "to": "mindfulness-meta-analysis-2014",
+      "relation": "related_to"
+    },
+    {
+      "from": "can-meditation-cure-illness",
+      "to": "farias-adverse-events-2020",
+      "relation": "related_to"
+    },
+    {
+      "from": "can-meditation-cure-illness",
+      "to": "exp-019-one-remedy-body",
+      "relation": "related_to"
+    },
+    {
+      "from": "can-meditation-cure-illness",
+      "to": "exp-014-double-lotus-doctrine",
+      "relation": "related_to"
+    },
+    {
+      "from": "can-meditation-cure-illness",
+      "to": "taiping-jing",
+      "relation": "related_to"
+    },
+    {
+      "from": "can-meditation-cure-illness",
+      "to": "baopuzi",
+      "relation": "related_to"
+    },
+    {
+      "from": "can-meditation-cure-illness",
+      "to": "breath-stopping-anxiety",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-020-false-first-dhyana",
+      "to": "exp-016-nine-dhyanas-map",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-020-false-first-dhyana",
+      "to": "exp-014-double-lotus-doctrine",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-020-false-first-dhyana",
+      "to": "seeing-light-in-sitting",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-020-false-first-dhyana",
+      "to": "warmth-tingling-when-sitting",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-020-false-first-dhyana",
+      "to": "farias-adverse-events-2020",
+      "relation": "related_to"
     }
   ]
 }

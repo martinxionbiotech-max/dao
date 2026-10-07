@@ -1058,6 +1058,61 @@
       "pages_used_in": [
         "/experiences/exp-019-one-remedy-body/"
       ]
+    },
+    {
+      "id": "waiwu-editions",
+      "title": "Zhuangzi ch. 26 (Waiwu), borrowing-grain passage: Gushiwen full text with translation and notes; Baidu Baike entry (zhuang zhou dai su); CText parallel-verse snippet (recording the 监河侯/监何侯 variant)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/hezhe-zhi-fu/"
+      ]
+    },
+    {
+      "id": "shanmu-mantis-editions",
+      "title": "Zhuangzi ch. 20 (Shanmu), Diaoling passage: Wikisource full text with variants (樊/野, 见利/见得); a Sohu teaching commentary on the passage",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/mantis-stalks-cicada/"
+      ]
+    },
+    {
+      "id": "renjianshi-xinzhai-passage",
+      "title": "Zhuangzi ch. 4 (Renjian Shi), mind-fasting passage: Wikisource full text; a Baidu Jingyan teaching entry on 虚室生白",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/glossary/xushi-sheng-bai/"
+      ]
+    },
+    {
+      "id": "daodejing-45-editions",
+      "title": "Daodejing ch. 45, received text: three independent reproductions (mindiver.se; a Vocus teaching post; Wang Yijia's Laozi jinjie on Pixnet) with variant characters and the swapped final couplet recorded",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-45/"
+      ]
+    },
+    {
+      "id": "fu-yi-sources",
+      "title": "Fu Yi dossier: Wikisource author page (555-639, taishi ling, petition titles); Baidu Baike biography; Wikipedia (zh); Zhongguo zuojia wang essay on the Daodejing guben pian recension",
+      "type": "historical",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/fu-yi/"
+      ]
+    },
+    {
+      "id": "163-taishi-50",
+      "title": "Taishi cultivation Q&A no. 50 (163.com community column): 'Is this real concentration?' — the false first-dhyāna correction, the three gates refused",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G5A08M6T0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-020-false-first-dhyana/"
+      ]
     }
   ]
 }
