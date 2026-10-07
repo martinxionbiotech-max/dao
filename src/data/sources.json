@@ -1758,7 +1758,9 @@
    "url": "https://zh.wikisource.org/wiki/莊子/知北遊",
    "pages_used_in": [
     "/stories/zhi-wen-wuwei/",
-    "/stories/dongguo-zi-asks/"
+    "/stories/dongguo-zi-asks/",
+    "/stories/hook-smith/",
+    "/stories/light-brightness-asks-nothingness/"
    ]
   },
   {
@@ -1799,6 +1801,46 @@
    "url": "https://www.163.com/dy/article/G345DDVI0545316K.html",
    "pages_used_in": [
     "/experiences/exp-030-the-pain-ledger/"
+   ]
+  },
+  {
+   "id": "daodejing-78-editions",
+   "title": "Daodejing ch. 78, received text, cross-verified 2026-10-07 across six independent sources (zhihu zhuanlan 600183501; xueqiu 189739462; ctext node 11669; 8bei8 laozi_78; baike item 10363512; daodejing.org 78): 天下莫柔弱于水，而攻坚强者莫之能胜，以其无以易之。弱之胜强，柔之胜刚，天下莫不知，莫能行。是以圣人云：受国之垢，是谓社稷主；受国不祥，是为天下王。正言若反",
+   "type": "classical_text",
+   "language": "zh",
+   "url": "https://ctext.org/text.pl?node=11669&if=gb",
+   "pages_used_in": [
+    "/translations/daodejing-78/"
+   ]
+  },
+  {
+   "id": "sun-buer-sources",
+   "title": "Sun Bu'er (孙不二) biography: baike.baidu.com item 2402303 (1119-1182, 名富春，法名不二，号清静散人，金代宁海人，马丹阳之妻，生三子，大定七年王重阳住其家); daode.in jwsx/09/1548 (全真七子唯一女性，清静派创立者); zh.wikipedia.org (1119年2月16日-1183年1月24日, 洛阳风仙姑洞趺坐); epochtimes 2009-09-08 (马钰与孙不二); sohu 244794515 — dates 1182 vs 1183 both registered",
+   "type": "biography",
+   "language": "zh",
+   "url": "https://baike.baidu.com/item/%E5%AD%99%E4%B8%8D%E4%BA%8C/2402303",
+   "pages_used_in": [
+    "/people/sun-buer/"
+   ]
+  },
+  {
+   "id": "wuheyou-editions",
+   "title": "Zhuangzi 无何有之乡 in three chapters, full texts retrieved 2026-10-07 from zh.wikisource.org: Xiao Yao You 1 (今子有大树，患其无用，何不树之于无何有之乡，广莫之野，彷徨乎无为其侧，逍遥乎寝卧其下？不夭斤斧，物无害者，无所可用，安所困苦哉？); Ying Di Wang 7 (厌则又乘夫莽眇之鸟，以出六极之外，而游无何有之乡，以处圹埌之野); Zhi Bei You 22 variant 无何有之宫 (尝相与游乎无何有之宫，同合而论，无所终穷乎？)",
+   "type": "classical_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A",
+   "pages_used_in": [
+    "/glossary/wu-he-you-zhi-xiang/"
+   ]
+  },
+  {
+   "id": "taiguanglin-zuochan-fujiazuo-01-08",
+   "title": "Taiguanglin's official Zuochan Q&A collection (坐禅问答录), ch. 6 on lotus posture (跏趺坐), sections 01-08 (单盘/from单盘to双盘/双盘的优势/双盘须知/双盘时的身体反应/疾病与双盘/快速打通经脉的方法/经脉打通的特征), full text of all eight sections retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02 through 2014-06",
+   "type": "community_archive",
+   "language": "zh",
+   "url": "https://taiguanglin.org/《坐禅问答录》第六章：跏趺坐-第01节-单盘/",
+   "pages_used_in": [
+    "/experiences/exp-031-lotus-posture-chapter/"
    ]
   }
  ]

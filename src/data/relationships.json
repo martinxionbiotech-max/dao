@@ -6511,6 +6511,246 @@
    "from": "exp-030-the-pain-ledger",
    "to": "jingzuo",
    "relation": "related_to"
+  },
+  {
+   "from": "hook-smith",
+   "to": "wheelwright-bian",
+   "relation": "related_to"
+  },
+  {
+   "from": "hook-smith",
+   "to": "cook-ding",
+   "relation": "related_to"
+  },
+  {
+   "from": "hook-smith",
+   "to": "cicada-catcher",
+   "relation": "related_to"
+  },
+  {
+   "from": "hook-smith",
+   "to": "artisan-qing",
+   "relation": "related_to"
+  },
+  {
+   "from": "hook-smith",
+   "to": "xu",
+   "relation": "related_to"
+  },
+  {
+   "from": "hook-smith",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "hook-smith",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "hook-smith",
+   "to": "ji-xin",
+   "relation": "related_to"
+  },
+  {
+   "from": "hook-smith",
+   "to": "zhuangzi",
+   "relation": "related_to"
+  },
+  {
+   "from": "light-brightness-asks-nothingness",
+   "to": "zhi-wen-wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "light-brightness-asks-nothingness",
+   "to": "dongguo-zi-asks",
+   "relation": "related_to"
+  },
+  {
+   "from": "light-brightness-asks-nothingness",
+   "to": "wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "light-brightness-asks-nothingness",
+   "to": "dao",
+   "relation": "related_to"
+  },
+  {
+   "from": "light-brightness-asks-nothingness",
+   "to": "xu",
+   "relation": "related_to"
+  },
+  {
+   "from": "light-brightness-asks-nothingness",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "light-brightness-asks-nothingness",
+   "to": "zhuangzi",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-he-you-zhi-xiang",
+   "to": "xu",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-he-you-zhi-xiang",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-he-you-zhi-xiang",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-he-you-zhi-xiang",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-he-you-zhi-xiang",
+   "to": "useless-gourd",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-he-you-zhi-xiang",
+   "to": "dongguo-zi-asks",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-he-you-zhi-xiang",
+   "to": "huzi-jixian",
+   "relation": "related_to"
+  },
+  {
+   "from": "wu-he-you-zhi-xiang",
+   "to": "zhuangzi",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-78",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-78",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-78",
+   "to": "daodejing",
+   "relation": "related_to"
+  },
+  {
+   "from": "sun-buer",
+   "to": "wang-chongyang",
+   "relation": "related_to"
+  },
+  {
+   "from": "sun-buer",
+   "to": "ma-yu",
+   "relation": "related_to"
+  },
+  {
+   "from": "sun-buer",
+   "to": "qiu-chuji",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-use-timers",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-use-timers",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-use-timers",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-use-timers",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-use-timers",
+   "to": "why-do-i-keep-quitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-use-timers",
+   "to": "restlessness-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "exp-030-the-pain-ledger",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "exp-014-double-lotus-doctrine",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "exp-018-halflotus-to-full-lotus",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "exp-003-leg-pain-filling",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "exp-006-leg-numbness",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "exp-010-lotus-pain",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "exp-029-the-human-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "must-i-sit-cross-legged",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "should-i-use-timers",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "can-meditation-cure-illness",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-031-lotus-posture-chapter",
+   "to": "jingzuo",
+   "relation": "related_to"
   }
  ]
 }
