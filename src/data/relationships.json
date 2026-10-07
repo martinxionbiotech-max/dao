@@ -5681,6 +5681,271 @@
    "from": "exp-027-finding-a-teacher",
    "to": "jingzuo",
    "relation": "related_to"
+  },
+  {
+   "from": "yi-dai-niao",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "yi-dai-niao",
+   "to": "mountain-tree-goose",
+   "relation": "related_to"
+  },
+  {
+   "from": "yi-dai-niao",
+   "to": "shinan-yiliao",
+   "relation": "related_to"
+  },
+  {
+   "from": "yi-dai-niao",
+   "to": "wooden-rooster",
+   "relation": "related_to"
+  },
+  {
+   "from": "yi-dai-niao",
+   "to": "marsh-pheasant",
+   "relation": "related_to"
+  },
+  {
+   "from": "yi-dai-niao",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "yi-dai-niao",
+   "to": "ziran",
+   "relation": "related_to"
+  },
+  {
+   "from": "yi-dai-niao",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "yi-dai-niao",
+   "to": "daodejing-22",
+   "relation": "related_to"
+  },
+  {
+   "from": "lin-hui-qi-bi",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "lin-hui-qi-bi",
+   "to": "yi-dai-niao",
+   "relation": "related_to"
+  },
+  {
+   "from": "lin-hui-qi-bi",
+   "to": "shinan-yiliao",
+   "relation": "related_to"
+  },
+  {
+   "from": "lin-hui-qi-bi",
+   "to": "xuzhou-empty-boat",
+   "relation": "related_to"
+  },
+  {
+   "from": "lin-hui-qi-bi",
+   "to": "sanghu-friends",
+   "relation": "related_to"
+  },
+  {
+   "from": "lin-hui-qi-bi",
+   "to": "four-friends",
+   "relation": "related_to"
+  },
+  {
+   "from": "lin-hui-qi-bi",
+   "to": "liang-wang",
+   "relation": "related_to"
+  },
+  {
+   "from": "dao-shu",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "dao-shu",
+   "to": "huan-zhong",
+   "relation": "related_to"
+  },
+  {
+   "from": "dao-shu",
+   "to": "liang-xing",
+   "relation": "related_to"
+  },
+  {
+   "from": "dao-shu",
+   "to": "qiwu",
+   "relation": "related_to"
+  },
+  {
+   "from": "dao-shu",
+   "to": "zhen-zai",
+   "relation": "related_to"
+  },
+  {
+   "from": "dao-shu",
+   "to": "tian-jun",
+   "relation": "related_to"
+  },
+  {
+   "from": "dao-shu",
+   "to": "three-in-the-morning",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-55",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-55",
+   "to": "daodejing-10-shouyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-55",
+   "to": "daodejing-16",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-55",
+   "to": "daodejing-40",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-55",
+   "to": "jing-qi-shen",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-55",
+   "to": "qi",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-nan",
+   "to": "bai-yuchan",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-nan",
+   "to": "zhang-boduan",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-nan",
+   "to": "jing-qi-shen",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-nan",
+   "to": "qi",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-nan",
+   "to": "cook-ding",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-nan",
+   "to": "wheelwright-bian",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-nan",
+   "to": "daodejing-16",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-one-style-enough",
+   "to": "combine-zuowang-mindfulness",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-one-style-enough",
+   "to": "cunsi-or-zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-one-style-enough",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-one-style-enough",
+   "to": "exp-027-finding-a-teacher",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-one-style-enough",
+   "to": "exp-023-breath-is-the-key",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-one-style-enough",
+   "to": "shouyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-one-style-enough",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "is-one-style-enough",
+   "to": "daodejing-10-shouyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-028-abdominal-breathing",
+   "to": "exp-023-breath-is-the-key",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-028-abdominal-breathing",
+   "to": "exp-008-breath-stopping",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-028-abdominal-breathing",
+   "to": "exp-021-prostrations-channel-circuit",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-028-abdominal-breathing",
+   "to": "exp-020-false-first-dhyana",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-028-abdominal-breathing",
+   "to": "what-counts-as-progress",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-028-abdominal-breathing",
+   "to": "can-meditation-cure-illness",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-028-abdominal-breathing",
+   "to": "taixi",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-028-abdominal-breathing",
+   "to": "tiaoxi",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-028-abdominal-breathing",
+   "to": "jingzuo",
+   "relation": "related_to"
   }
  ]
 }
