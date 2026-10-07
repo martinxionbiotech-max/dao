@@ -1311,6 +1311,91 @@
       "from": "exp-010-lotus-pain",
       "to": "must-i-sit-cross-legged",
       "relation": "related_to"
+    },
+    {
+      "from": "yongxin-ruo-jing-passage",
+      "to": "zhuangzi",
+      "relation": "translated_as"
+    },
+    {
+      "from": "yongxin-ruo-jing-passage",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "yongxin-ruo-jing-passage",
+      "to": "zhi-shui",
+      "relation": "related_to"
+    },
+    {
+      "from": "yongxin-ruo-jing-passage",
+      "to": "virtual-room-passage",
+      "relation": "related_to"
+    },
+    {
+      "from": "fish-in-the-dry-spring",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "fish-in-the-dry-spring",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "fish-in-the-dry-spring",
+      "to": "drumming-basin",
+      "relation": "related_to"
+    },
+    {
+      "from": "dongshi-frowning",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "dongshi-frowning",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "dongshi-frowning",
+      "to": "handan-walk",
+      "relation": "related_to"
+    },
+    {
+      "from": "kou-qianzhi",
+      "to": "kou-qianzhi-reform",
+      "relation": "associated_with"
+    },
+    {
+      "from": "zhi-shui",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "zhi-shui",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "exp-011-shougong-protocol",
+      "to": "breath-stopping-anxiety",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-011-shougong-protocol",
+      "to": "exp-010-lotus-pain",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-011-shougong-protocol",
+      "to": "jiafuzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "kou-qianzhi-reform",
+      "to": "kou-qianzhi",
+      "relation": "associated_with"
     }
   ]
 }

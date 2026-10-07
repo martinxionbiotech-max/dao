@@ -588,6 +588,63 @@
         "/experiences/exp-010-lotus-pain/",
         "/questions/must-i-sit-cross-legged/"
       ]
+    },
+    {
+      "id": "wikisource-zhuangzi-dazongshi",
+      "title": "Zhuangzi ch. 6 (Dazongshi), full text (Gushiwen and teaching editions, cross-checked with ctext parallel text)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/fish-in-the-dry-spring/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-tianyun",
+      "title": "Zhuangzi ch. 14 (Tianyun), full text (Gushiwen-classical, Hong Kong Education Bureau teaching edition, Taiwan Ministry of Education idiom dictionary)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/dongshi-frowning/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-dechongfu",
+      "title": "Zhuangzi ch. 5 (Dechongfu): 'ren mo jian yu liushui er jian yu zhishui', as quoted in Sun Mingjun 2022",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/glossary/zhi-shui/"
+      ]
+    },
+    {
+      "id": "weishu-shilao-zhi",
+      "title": "Wei shu, Shilao zhi (treatise on Buddhism and Daoism); Bei shi, biography of Kou Zan",
+      "type": "historical_record",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/kou-qianzhi/",
+        "/timeline/kou-qianzhi-reform/"
+      ]
+    },
+    {
+      "id": "sun-mingjun-2022",
+      "title": "Sun Mingjun, 'Dao and De in the Zhuangzi' (National Office for Philosophy and Social Science, 2022)",
+      "type": "scholarly",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/yongxin-ruo-jing-passage/",
+        "/glossary/zhi-shui/"
+      ]
+    },
+    {
+      "id": "163-taishi-29",
+      "title": "Taishi cultivation Q&A no. 29 (163.com community column, 2021)",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G2V35NKQ0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-011-shougong-protocol/"
+      ]
     }
   ]
 }
