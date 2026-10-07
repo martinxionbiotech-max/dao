@@ -341,7 +341,8 @@
         "/stories/cicada-catcher/",
         "/translations/artisan-qing-passage/",
         "/blog/three-craftsmen-dazheng/",
-        "/glossary/shen/"
+        "/glossary/shen/",
+        "/stories/boatman/"
       ]
     },
     {
@@ -449,7 +450,8 @@
       "pages_used_in": [
         "/stories/fish-happiness/",
         "/stories/handan-walk/",
-        "/stories/jingdi-zhiwa/"
+        "/stories/jingdi-zhiwa/",
+        "/stories/wangyang-xingtan/"
       ]
     },
     {
@@ -596,7 +598,9 @@
       "type": "primary_text",
       "language": "zh",
       "pages_used_in": [
-        "/stories/fish-in-the-dry-spring/"
+        "/stories/fish-in-the-dry-spring/",
+        "/glossary/liang-wang/",
+        "/translations/yingning-passage/"
       ]
     },
     {
@@ -701,6 +705,34 @@
       "url": "https://c.m.163.com/news/a/G3C0P3HD0545316K.html",
       "pages_used_in": [
         "/experiences/exp-012-restless-body/"
+      ]
+    },
+    {
+      "id": "daodejing-48-editions",
+      "title": "Daodejing ch. 48: received text with Wang Bi commentary transmission, Baike teaching edition, Daodejing.org",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-48/"
+      ]
+    },
+    {
+      "id": "tao-hongjing-biography",
+      "title": "Tao Hongjing biography: standard biography tradition, Wikipedia entry, Taiwan MOE encyclopedia, Nanjing gazetteer office 2024 profile (456-536, 488 manuscript discovery, 492 retirement, 'prime minister in the mountains')",
+      "type": "scholarly",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/tao-hongjing/"
+      ]
+    },
+    {
+      "id": "163-taishi-38",
+      "title": "Taishi cultivation Q&A no. 38 (163.com community column, 2021): the Buddhist-Daoist boundary question",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G3C19JPB0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-013-buddhist-daoist-boundary/"
       ]
     }
   ]

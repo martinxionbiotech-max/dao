@@ -1526,6 +1526,136 @@
       "from": "exp-012-restless-body",
       "to": "exp-011-shougong-protocol",
       "relation": "related_to"
+    },
+    {
+      "from": "wangyang-xingtan",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "wangyang-xingtan",
+      "to": "guan",
+      "relation": "concerns"
+    },
+    {
+      "from": "wangyang-xingtan",
+      "to": "jingdi-zhiwa",
+      "relation": "related_to"
+    },
+    {
+      "from": "wangyang-xingtan",
+      "to": "peng-bird",
+      "relation": "related_to"
+    },
+    {
+      "from": "boatman",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "boatman",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "boatman",
+      "to": "cicada-catcher",
+      "relation": "related_to"
+    },
+    {
+      "from": "boatman",
+      "to": "xinzhai-passage",
+      "relation": "related_to"
+    },
+    {
+      "from": "liang-wang",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "liang-wang",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "liang-wang",
+      "to": "fish-in-the-dry-spring",
+      "relation": "related_to"
+    },
+    {
+      "from": "liang-wang",
+      "to": "yongxin-ruo-jing-passage",
+      "relation": "related_to"
+    },
+    {
+      "from": "tao-hongjing",
+      "to": "shangqing-revelations",
+      "relation": "associated_with"
+    },
+    {
+      "from": "tao-hongjing",
+      "to": "yang-xi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "tao-hongjing",
+      "to": "zhiyi",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-48",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-48",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-48",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-48",
+      "to": "three-craftsmen-dazheng",
+      "relation": "related_to"
+    },
+    {
+      "from": "yingning-passage",
+      "to": "zhuangzi",
+      "relation": "translated_as"
+    },
+    {
+      "from": "yingning-passage",
+      "to": "yingning",
+      "relation": "concerns"
+    },
+    {
+      "from": "yingning-passage",
+      "to": "shouyi",
+      "relation": "concerns"
+    },
+    {
+      "from": "yingning-passage",
+      "to": "how-long-should-i-sit",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-013-buddhist-daoist-boundary",
+      "to": "must-i-sit-cross-legged",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-013-buddhist-daoist-boundary",
+      "to": "drowsiness-in-sitting",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-013-buddhist-daoist-boundary",
+      "to": "combine-zuowang-mindfulness",
+      "relation": "related_to"
     }
   ]
 }

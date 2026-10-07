@@ -1,45 +1,38 @@
 ---
-title: "Daodejing ch. 48: Full Translation"
-description: "The subtraction chapter 为学日益，为道日损 — the Daoist program of daily removal, with translation notes on 'learning', 'subtraction', and the paradox of 'non-action'."
+title: "Learning Adds, the Way Pairs Away (Daodejing 48)"
+description: "Annotated translation of the subtraction chapter: the two daily tracks, the paring that recurs until nothing is left undone, and the political coda the sitting tradition borrows for the interior."
 sourceText: "daodejing"
-term: "wuwei"
-chinese: "為學日益，為道日損。損之又損，以至於無為。無為而無不為。"
+chapter: "Ch. 48"
 status: published
 date: 2026-10-07
-relatedConcepts: ["wuwei"]
-relatedTexts: ["daodejing"]
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
+relatedConcepts: ["wuwei", "zuowang", "xu"]
+relatedTranslations: ["daodejing-05", "daodejing-16"]
+relatedBlog: ["three-craftsmen-dazheng"]
 sources:
-  - "Daodejing ch. 48, received text (Heshang Gong / Wang Bi recensions)"
+  - "Daodejing ch. 48, received text, verified against multiple editions (the Wang Bi commentary transmission, the Baike teaching edition, Daodejing.org). The chapter is short and the versions agree in substance"
 ---
 
 ## Chinese text
 
-為學日益，為道日損。損之又損，以至於無為。無為而無不為。
+为学日益，为道日损。损之又损，以至于无为，无为而无不为。取天下常以无事，及其有事，不足以取天下。
 
 ## Pinyin
 
-Wéi xué rì yì, wéi dào rì sǔn. Sǔn zhī yòu sǔn, yǐ zhì yú wúwéi. Wúwéi ér wú bù wéi.
+Wéi xué rì yì, wéi dào rì sǔn. Sǔn zhī yòu sǔn, yǐ zhì yú wúwéi, wúwéi ér wú bù wéi. Qǔ tiānxià cháng yǐ wúshì, jí qí yǒu shì, bù zú yǐ qǔ tiānxià.
 
 ## Literal rendering
 
-"In pursuing learning, one adds daily; in pursuing the Dao, one subtracts daily. Subtract, and subtract again, until one arrives at non-action (wuwei). Non-action, and yet nothing is left undone."
+In learning, day by day one **adds**. In the Way, day by day one **pairs away**. Pair away, and pair away again — until one reaches non-doing. Non-doing, and nothing is left undone. The empire is won by habitual **no-busyness**; when busyness arrives, the empire can no longer be won.
 
-## Term-by-term problems
+## Term-by-term notes
 
-- **為學 (pursuing learning):** erudition as accumulation — scholarship, techniques, information. Not a denunciation of learning; a contrast of *directions* (adding vs. removing).
-- **損 (sǔn, "reduce/lose"):** the central verb. "Subtract" keeps the arithmetic force; "prune" is a good gardener's rendering. What is subtracted is listed in the next line of the received chapter: 事 (affairs/business).
-- **無為 (wúwéi):** see the [wuwei concept page](/concepts/wuwei/). Recommended gloss: "non-action" in the specific sense of no forcing, no contrivance — not passivity. Waley's "actionless activity" captures one pole.
-- **無為而無不為 (non-action and nothing is left undone):** the paradox-phrase. Some argue a variant reading 無為而無以為 ("acts without ulterior motive") was original; the received 無不為 became the famous slogan. Both readings are traditional; the received one is translated here.
+- **为学 / 为道 — two tracks, two directions.** The same verb 为 heads both lines, and the opposition is the chapter's whole argument: scholarship accumulates; the Way *reduces*. Wang Bi's gloss on the first line, preserved in the commentary transmission, is blunt: "to exert oneself in advancing one's capacities" (务欲进其所能). The chapter does not forbid learning — it refuses to confuse the two tracks. The site's [reading-order tool](/tools/reading-order/) is built on exactly this refusal: read the texts as the 学 side, and let the sitting be the 损 side.
+- **损 — to pair away, to reduce.** The word is paring, not destruction: the object being reduced is what the self has *accumulated*. The site's whole [subtraction thesis](/blog/three-craftsmen-dazheng/) — the craftsmen who succeed by what they stop carrying, the [fasting of the mind](/translations/xinzhai-passage/) — is this chapter's one verb developed over centuries.
+- **损之又损 — the recursion is the method.** "Pair away, and pair away again." The line refuses a single subtraction: the paring must be applied *to the paring*. This is the DDJ's version of the ladder the [Zuowang Lun](/texts/zuowang-lun/) makes explicit in seven stages and the [yingning passage](/translations/yingning-passage/) in three day-counts — reduction is not an act but a practice, done day by day (日).
+- **以至于无为，无为而无不为 — the endpoint and its paradox.** The subtraction's destination is [wuwei](/concepts/wuwei/) — and the chapter immediately joins the tradition's most audacious formula: non-doing, and *nothing left undone*. The [xu](/concepts/xu/) concept page keeps the physics of this: the emptied bellows of [ch. 5](/translations/daodejing-05/) is *empty and inexhaustible*; the paradox is capacity, not magic.
+- **取天下常以无事 — the political coda, interiorized.** The empire is won by habitual no-busyness. The sitting tradition borrows the coda wholesale: the interior is the empire, and the [restlessness page](/problems/restlessness-in-sitting/) is its treaty — the mind that keeps busy (有事) cannot take itself.
 
-## Traditional usage
+## Where this passage sits
 
-This is the charter text of the *subtraction* logic that runs through the entire contemplative tradition — the *Qingjing Jing*'s "dispel desire and the mind stills itself," Sima Chengzhen's simplification stages, and the anti-forcing counsel of the *Taiping Jing* all stand on it.
-
-## Western misunderstandings
-
-- "Non-action means doing nothing." The chapter itself refutes this with 無不為 ("nothing left undone") — and the *Daodejing*'s other wuwei passages (ch. 63: "act on non-action") are operational, not quietist.
-- "Learning is bad." The contrast is between two *kinds of cultivation* — accumulation for skill, reduction for the mind — not a moral judgment against knowledge. The same tradition produced scholarship, medicine, and art.
-
-## Recommended rendering (this site)
-
-"In the pursuit of learning, one adds day by day; in the pursuit of the Dao, one subtracts day by day. Subtract and subtract again, until one arrives at non-action. Non-action, and nothing is left undone."
+Chapter 48 is the site's shortest bridge between the [Daodejing](/texts/daodejing/) and the sitting manuals — the one chapter that *is* the subtraction thesis. Paired with [ch. 16](/translations/daodejing-16/) (the practice of emptying to the utmost) and [ch. 5](/translations/daodejing-05/) (the physics of the empty), the three form the site's DDJ practice spine; with [the yingning passage](/translations/yingning-passage/) they form the answer to every question about why Daoist sitting subtracts instead of adding.
