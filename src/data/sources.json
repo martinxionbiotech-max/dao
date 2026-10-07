@@ -1001,6 +1001,63 @@
       "pages_used_in": [
         "/experiences/exp-018-halflotus-to-full-lotus/"
       ]
+    },
+    {
+      "id": "zhile-editions",
+      "title": "Zhuangzi ch. 18 (Zhile), seabird passage: full text quoted verbatim in a teaching essay (mmh.org.tw) and the Guwendao teaching edition with translation; the Baidu Baike idiom entry (luhou yang niao) confirms location and standard reading",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/luhou-yang-niao/"
+      ]
+    },
+    {
+      "id": "shanmu-empty-boat-editions",
+      "title": "Zhuangzi ch. 20 (Shanmu), empty-boat passage: full passage quoted verbatim in two independent reproductions (a Xueqiu teaching post with translation; a Xinhuanet essay)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/xuzhou-empty-boat/"
+      ]
+    },
+    {
+      "id": "qiwulun-zhenzai-commentaries",
+      "title": "China Daoist Association article on the Yangshengzhu title question, quoting Guo Xiang's zhenzai note and Cheng Xuanying's subcommentary verbatim",
+      "type": "scholarly",
+      "language": "zh",
+      "url": "http://www.taoist.org.cn/showInfoContent.do?id=1653",
+      "pages_used_in": [
+        "/glossary/zhen-zai/",
+        "/questions/does-daoism-believe-in-a-creator/"
+      ]
+    },
+    {
+      "id": "daodejing-14-editions",
+      "title": "Daodejing ch. 14, received text: two independent full-text reproductions agreeing (mindiver.se; a Sheng sheng xuetang teaching edition with Heshang Gong gloss 无色曰夷无声曰希无形曰微)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-14/"
+      ]
+    },
+    {
+      "id": "yan-zun-sources",
+      "title": "Yan Zun dossier: Baidu Baike biography (Hanshu and Gaoshi zhuan material, the rich man exchange, the Junping well); a National Taiwan Normal University thesis on the Laozi zhiguì via Airiti; Wikisource listing of the zhiguì among Daodejing commentary editions",
+      "type": "historical",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/yan-zun/"
+      ]
+    },
+    {
+      "id": "163-taishi-42",
+      "title": "Taishi cultivation Q&A no. 42 (163.com community column): solving body problems through practice — breath practice as the one remedy",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G3PS03JE0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-019-one-remedy-body/"
+      ]
     }
   ]
 }

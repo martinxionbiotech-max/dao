@@ -2506,6 +2506,206 @@
       "from": "exp-018-halflotus-to-full-lotus",
       "to": "how-long-should-i-sit",
       "relation": "related_to"
+    },
+    {
+      "from": "luhou-yang-niao",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "luhou-yang-niao",
+      "to": "hundun",
+      "relation": "related_to"
+    },
+    {
+      "from": "luhou-yang-niao",
+      "to": "mountain-tree-goose",
+      "relation": "related_to"
+    },
+    {
+      "from": "luhou-yang-niao",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "luhou-yang-niao",
+      "to": "marsh-pheasant",
+      "relation": "related_to"
+    },
+    {
+      "from": "luhou-yang-niao",
+      "to": "phoenix-and-owl",
+      "relation": "related_to"
+    },
+    {
+      "from": "luhou-yang-niao",
+      "to": "peng-bird",
+      "relation": "related_to"
+    },
+    {
+      "from": "xuzhou-empty-boat",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "xuzhou-empty-boat",
+      "to": "swimmer-lvliang",
+      "relation": "related_to"
+    },
+    {
+      "from": "xuzhou-empty-boat",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "xuzhou-empty-boat",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "xuzhou-empty-boat",
+      "to": "zhi-shui",
+      "relation": "related_to"
+    },
+    {
+      "from": "xuzhou-empty-boat",
+      "to": "mountain-tree-goose",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhen-zai",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "zhen-zai",
+      "to": "wang-liang-wen-jing",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhen-zai",
+      "to": "hundun",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhen-zai",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "zhen-zai",
+      "to": "tian-ji",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhen-zai",
+      "to": "da-kuai",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhen-zai",
+      "to": "does-daoism-believe-in-a-creator",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-14",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-14",
+      "to": "dao",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-14",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-14",
+      "to": "chen-tuan",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-14",
+      "to": "daodejing-01",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-14",
+      "to": "daodejing-25",
+      "relation": "related_to"
+    },
+    {
+      "from": "yan-zun",
+      "to": "daodejing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "yan-zun",
+      "to": "heshang-gong",
+      "relation": "related_to"
+    },
+    {
+      "from": "yan-zun",
+      "to": "wang-bi",
+      "relation": "related_to"
+    },
+    {
+      "from": "yan-zun",
+      "to": "laozi",
+      "relation": "related_to"
+    },
+    {
+      "from": "yan-zun",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "yan-zun",
+      "to": "chen-tuan",
+      "relation": "related_to"
+    },
+    {
+      "from": "does-daoism-believe-in-a-creator",
+      "to": "zhen-zai",
+      "relation": "related_to"
+    },
+    {
+      "from": "does-daoism-believe-in-a-creator",
+      "to": "da-kuai",
+      "relation": "related_to"
+    },
+    {
+      "from": "does-daoism-believe-in-a-creator",
+      "to": "tian-ji",
+      "relation": "related_to"
+    },
+    {
+      "from": "does-daoism-believe-in-a-creator",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "does-daoism-believe-in-a-creator",
+      "to": "hundun",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-019-one-remedy-body",
+      "to": "exp-013-buddhist-daoist-boundary",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-019-one-remedy-body",
+      "to": "exp-018-halflotus-to-full-lotus",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-019-one-remedy-body",
+      "to": "tiaoxi",
+      "relation": "related_to"
     }
   ]
 }
