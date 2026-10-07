@@ -448,7 +448,8 @@
       "url": "https://zh.wikisource.org/wiki/莊子/秋水",
       "pages_used_in": [
         "/stories/fish-happiness/",
-        "/stories/handan-walk/"
+        "/stories/handan-walk/",
+        "/stories/jingdi-zhiwa/"
       ]
     },
     {
@@ -644,6 +645,62 @@
       "url": "https://www.163.com/dy/article/G2V35NKQ0545316K.html",
       "pages_used_in": [
         "/experiences/exp-011-shougong-protocol/"
+      ]
+    },
+    {
+      "id": "shidian-zhuangzi-tongyi-renjianshi",
+      "title": "Zhuangzi Tongyi (Shidian Guji edition), Renjianshi chapter with commentary",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/mantis-and-chariot/"
+      ]
+    },
+    {
+      "id": "ccdi-tangbi-dangche",
+      "title": "CCDI study column on the idiom 螳臂当车 (sense-drift from Zhuangzi to Huainanzi to modern usage)",
+      "type": "scholarly",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/mantis-and-chariot/"
+      ]
+    },
+    {
+      "id": "zhengao-maoshan-lineage",
+      "title": "Shangqing tradition records: the Zhengao, Maoshan lineage chronicles, and the Maoshan Daoist center's lineage account",
+      "type": "traditional_record",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/yang-xi/",
+        "/timeline/shangqing-revelations/"
+      ]
+    },
+    {
+      "id": "shidian-zhuangzi-neipianzhu-dazongshi",
+      "title": "Zhuangzi Neipian Zhu (Shidian Guji edition), Dazongshi chapter with commentary (yingning passage)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/glossary/yingning/"
+      ]
+    },
+    {
+      "id": "daodejing-05-editions",
+      "title": "Daodejing ch. 5: received text with Wang Bi and Su Zhe commentaries (Daodejing.org), Gushiwen teaching edition, CCDI study column",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-05/"
+      ]
+    },
+    {
+      "id": "163-taishi-36",
+      "title": "Taishi cultivation Q&A no. 36 (163.com community column, 2021)",
+      "type": "community",
+      "language": "zh",
+      "url": "https://c.m.163.com/news/a/G3C0P3HD0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-012-restless-body/"
       ]
     }
   ]

@@ -1396,6 +1396,136 @@
       "from": "kou-qianzhi-reform",
       "to": "kou-qianzhi",
       "relation": "associated_with"
+    },
+    {
+      "from": "jingdi-zhiwa",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "jingdi-zhiwa",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "jingdi-zhiwa",
+      "to": "handan-walk",
+      "relation": "related_to"
+    },
+    {
+      "from": "jingdi-zhiwa",
+      "to": "fish-happiness",
+      "relation": "related_to"
+    },
+    {
+      "from": "mantis-and-chariot",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "mantis-and-chariot",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "mantis-and-chariot",
+      "to": "hundun",
+      "relation": "related_to"
+    },
+    {
+      "from": "yang-xi",
+      "to": "shangqing-revelations",
+      "relation": "associated_with"
+    },
+    {
+      "from": "yang-xi",
+      "to": "wei-huacun",
+      "relation": "associated_with"
+    },
+    {
+      "from": "yang-xi",
+      "to": "huangting-jing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "yang-xi",
+      "to": "cunsi",
+      "relation": "concerns"
+    },
+    {
+      "from": "shangqing-revelations",
+      "to": "yang-xi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "shangqing-revelations",
+      "to": "huangting-jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "shangqing-revelations",
+      "to": "cunsi",
+      "relation": "concerns"
+    },
+    {
+      "from": "shangqing-revelations",
+      "to": "kou-qianzhi-reform",
+      "relation": "related_to"
+    },
+    {
+      "from": "yingning",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "yingning",
+      "to": "jing",
+      "relation": "concerns"
+    },
+    {
+      "from": "yingning",
+      "to": "zuochi",
+      "relation": "related_to"
+    },
+    {
+      "from": "yingning",
+      "to": "zhi-shui",
+      "relation": "related_to"
+    },
+    {
+      "from": "yingning",
+      "to": "restlessness-in-sitting",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-05",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-05",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-05",
+      "to": "tuoyue",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-05",
+      "to": "daodejing-25",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-012-restless-body",
+      "to": "restlessness-in-sitting",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-012-restless-body",
+      "to": "exp-011-shougong-protocol",
+      "relation": "related_to"
     }
   ]
 }
