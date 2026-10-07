@@ -1,5 +1,66 @@
 {
   "_schema": "data-schema-v1",
   "description": "Structured experience records (anonymized): experience_id, practice, tradition, evidence_type, page, publication_status",
-  "items": []
+  "items": [
+    {
+      "id": "EXP-001",
+      "title": "Falling Asleep in Guided Mindfulness Sessions",
+      "practice": "mindfulness meditation (audio-guided)",
+      "tradition": "secular / Buddhist-derived",
+      "anonymity": "anonymous",
+      "evidence_type": "PRACTITIONER EXPERIENCE",
+      "publication_status": "published",
+      "page": "/experiences/exp-001-falling-asleep/"
+    },
+    {
+      "id": "EXP-002",
+      "title": "Warmth, Sweating, and a Turning Sensation in Early Sitting",
+      "practice": "Buddhist-style seated meditation",
+      "tradition": "Buddhist-influenced",
+      "anonymity": "anonymous",
+      "evidence_type": "PRACTITIONER EXPERIENCE",
+      "publication_status": "published",
+      "page": "/experiences/exp-002-warmth-rotation/"
+    },
+    {
+      "id": "EXP-003",
+      "title": "Two Months of Leg Pain and a Felt 'Filling' of the Abdomen",
+      "practice": "Buddhist-style seated meditation, cross-legged",
+      "tradition": "Buddhist-influenced",
+      "anonymity": "anonymous",
+      "evidence_type": "PRACTITIONER EXPERIENCE",
+      "publication_status": "published",
+      "page": "/experiences/exp-003-leg-pain-filling/"
+    },
+    {
+      "id": "EXP-004",
+      "title": "Emotional Material Surfacing as Stillness Deepens",
+      "practice": "Daoist-style quiet sitting",
+      "tradition": "Daoist",
+      "anonymity": "anonymous",
+      "evidence_type": "PRACTITIONER EXPERIENCE",
+      "publication_status": "published",
+      "page": "/experiences/exp-004-emotional-surfacing/"
+    },
+    {
+      "id": "EXP-005",
+      "title": "Nighttime Body-Movement and Heat Sensations After Sitting",
+      "practice": "Daoist-style quiet sitting",
+      "tradition": "Daoist",
+      "anonymity": "anonymous",
+      "evidence_type": "PRACTITIONER EXPERIENCE",
+      "publication_status": "published",
+      "page": "/experiences/exp-005-night-qi-movement/"
+    },
+    {
+      "id": "EXP-006",
+      "title": "Pins-and-Needles in the First Cross-Legged Session",
+      "practice": "cross-legged seated meditation (single lotus)",
+      "tradition": "unaffiliated beginner",
+      "anonymity": "anonymous",
+      "evidence_type": "PRACTITIONER EXPERIENCE",
+      "publication_status": "published",
+      "page": "/experiences/exp-006-leg-numbness/"
+    }
+  ]
 }

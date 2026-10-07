@@ -221,6 +221,101 @@
       "from": "qi",
       "to": "qi-belief-necessary",
       "relation": "concerns"
+    },
+    {
+      "from": "EXP-001",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "EXP-002",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "EXP-003",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "EXP-004",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "EXP-005",
+      "to": "qi",
+      "relation": "concerns"
+    },
+    {
+      "from": "EXP-006",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "drowsiness-vs-stillness",
+      "to": "EXP-001",
+      "relation": "derived_from"
+    },
+    {
+      "from": "warmth-and-qi-sensations",
+      "to": "EXP-002",
+      "relation": "derived_from"
+    },
+    {
+      "from": "warmth-and-qi-sensations",
+      "to": "EXP-003",
+      "relation": "derived_from"
+    },
+    {
+      "from": "leg-numbness-pain",
+      "to": "EXP-003",
+      "relation": "derived_from"
+    },
+    {
+      "from": "leg-numbness-pain",
+      "to": "EXP-006",
+      "relation": "derived_from"
+    },
+    {
+      "from": "cook-ding",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "cook-ding",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "butterfly-dream",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "butterfly-dream",
+      "to": "zhuang-zhou",
+      "relation": "associated_with"
+    },
+    {
+      "from": "confucius-meets-laozi",
+      "to": "laozi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "standing-in-snow",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "falling-asleep-during-meditation",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "falling-asleep-during-meditation",
+      "to": "drowsiness-vs-stillness",
+      "relation": "derived_from"
     }
   ]
 }

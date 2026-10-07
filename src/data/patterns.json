@@ -1,5 +1,37 @@
 {
   "_schema": "data-schema-v1",
   "description": "Experience patterns: id, phenomenon, report_count, practices[], evidence_basis, page",
-  "items": []
+  "items": [
+    {
+      "id": "drowsiness-vs-stillness",
+      "phenomenon": "Drowsiness (昏沉) during sitting, and uncertainty about whether it is stillness (入静)",
+      "report_count": 1,
+      "practices": [
+        "jingzuo",
+        "zuowang"
+      ],
+      "evidence_basis": "practitioner-reports-only",
+      "page": "/patterns/drowsiness-vs-stillness/"
+    },
+    {
+      "id": "warmth-and-qi-sensations",
+      "phenomenon": "Warmth, sweating, tingling, and felt qi movement during or after seated practice",
+      "report_count": 2,
+      "practices": [
+        "jingzuo"
+      ],
+      "evidence_basis": "partially-researched",
+      "page": "/patterns/warmth-and-qi-sensations/"
+    },
+    {
+      "id": "leg-numbness-pain",
+      "phenomenon": "Leg numbness, pins-and-needles, and pain in cross-legged sitting, with contradictory community advice about endurance",
+      "report_count": 2,
+      "practices": [
+        "jingzuo"
+      ],
+      "evidence_basis": "partially-researched",
+      "page": "/patterns/leg-numbness-pain/"
+    }
+  ]
 }

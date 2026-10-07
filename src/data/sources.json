@@ -187,7 +187,8 @@
       "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7063",
       "pages_used_in": [
         "/people/laozi/",
-        "/people/zhuang-zhou/"
+        "/people/zhuang-zhou/",
+        "/stories/confucius-meets-laozi/"
       ]
     },
     {
@@ -219,7 +220,8 @@
       "url": "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7428",
       "pages_used_in": [
         "/concepts/jingzuo/",
-        "/timeline/cheng-men-li-xue/"
+        "/timeline/cheng-men-li-xue/",
+        "/stories/standing-in-snow/"
       ]
     },
     {
@@ -230,6 +232,70 @@
       "url": null,
       "pages_used_in": [
         "/timeline/guodian-daodejing/"
+      ]
+    },
+    {
+      "id": "taishi-qa-163",
+      "title": "Taishi xiuxing wenda (meditation teacher Q&A column), 163.com no. 34",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G39KI8J90545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-002-warmth-rotation/",
+        "/experiences/exp-003-leg-pain-filling/"
+      ]
+    },
+    {
+      "id": "xinli001-qa",
+      "title": "Xinli001 (Yixinli) meditation Q&A — anonymous user questions",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.xinli001.com/qa/100730877",
+      "pages_used_in": [
+        "/experiences/exp-001-falling-asleep/",
+        "/questions/falling-asleep-during-meditation/"
+      ]
+    },
+    {
+      "id": "health-baidu-dazuo",
+      "title": "Baidu Health: 'Why the body warms during sitting' (medical popularization)",
+      "type": "community",
+      "language": "zh",
+      "url": "https://health.baidu.com/m/detail/ar_4677752938025913780",
+      "pages_used_in": [
+        "/patterns/warmth-and-qi-sensations/"
+      ]
+    },
+    {
+      "id": "tieba-dazuo-bar",
+      "title": "Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets)",
+      "type": "community",
+      "language": "zh",
+      "url": "https://tieba.baidu.com/f?kw=冥想",
+      "pages_used_in": [
+        "/experiences/exp-004-emotional-surfacing/",
+        "/experiences/exp-005-night-qi-movement/"
+      ]
+    },
+    {
+      "id": "zhihu-daozuo-method",
+      "title": "Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness)",
+      "type": "community",
+      "language": "zh",
+      "url": "https://zhuanlan.zhihu.com/p/568488445",
+      "pages_used_in": [
+        "/patterns/drowsiness-vs-stillness/",
+        "/questions/falling-asleep-during-meditation/"
+      ]
+    },
+    {
+      "id": "wikisource-zhuangzi-ys",
+      "title": "Zhuangzi ch. 3 (Yangsheng zhu), Wikisource",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+      "pages_used_in": [
+        "/stories/cook-ding/"
       ]
     }
   ]
