@@ -6226,6 +6226,16 @@
    "from": "exp-029-the-human-body",
    "to": "qi",
    "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "daodejing-14",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "yun-jin-cheng-feng",
+   "relation": "related_to"
   }
  ]
 }
