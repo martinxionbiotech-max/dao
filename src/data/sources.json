@@ -455,7 +455,8 @@
         "/stories/wangyang-xingtan/",
         "/stories/phoenix-and-owl/",
         "/stories/turtle-in-the-mud/",
-        "/stories/kui-xian-chain/"
+        "/stories/kui-xian-chain/",
+        "/glossary/tian-ji/"
       ]
     },
     {
@@ -943,6 +944,62 @@
       "url": "https://www.360kuai.com/pc/9e6f36b9dd6094ba8",
       "pages_used_in": [
         "/experiences/exp-017-why-he-began/"
+      ]
+    },
+    {
+      "id": "xuwugui-editions",
+      "title": "Zhuangzi ch. 24 (Xu Wugui) passage at Huizi's grave: Shidian guji full text (SBCK108) and the Gushiwen teaching edition with notes, agreeing throughout",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/yun-jin-cheng-feng/"
+      ]
+    },
+    {
+      "id": "pku-2009-qiwulun-study",
+      "title": "Peking University Journal (2009), 'Doubts in reading Zhuangzi Qiwu Lun and their analysis': Lu Deming's one-character gloss (sang), Cheng Xuanying's subcommentary (天机自张莫知其宰), Liu Fengbao's Nanhua xuexin bian, and the study's own reading",
+      "type": "scholarly",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/wang-liang-wen-jing/",
+        "/glossary/tian-ji/"
+      ]
+    },
+    {
+      "id": "shidian-zhuangzi-yi-qiwulun",
+      "title": "Zhuangzi yi (Shidian guji, HY1406): commentary on Qiwu Lun 2, incl. the dakuai gloss (块者无物也, 块然而自生)",
+      "type": "commentary",
+      "language": "zh",
+      "pages_used_in": [
+        "/glossary/da-kuai/"
+      ]
+    },
+    {
+      "id": "daodejing-63-editions",
+      "title": "Daodejing ch. 63, received text: Sreading full-text edition and a second full-text reproduction; the editions' treatment of 报怨以德 recorded without adjudication",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-63/"
+      ]
+    },
+    {
+      "id": "chen-tuan-sources",
+      "title": "Chen Tuan dossier: Wikipedia (zh) with Song shi ch. 457 and Tang caizi zhuan citations; Baidu Baike with the Song shi quotations (Shizong's yellow-white question, Taizong's praise)",
+      "type": "historical",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/chen-tuan/"
+      ]
+    },
+    {
+      "id": "163-taishi-24",
+      "title": "Taishi cultivation Q&A no. 24 (163.com community column, 2021): training the full lotus — the half-to-full-lotus program",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G2SNHL2M0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-018-halflotus-to-full-lotus/"
       ]
     }
   ]

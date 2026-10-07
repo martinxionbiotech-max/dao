@@ -2326,6 +2326,186 @@
       "from": "exp-017-why-he-began",
       "to": "lindahl-2017",
       "relation": "related_to"
+    },
+    {
+      "from": "yun-jin-cheng-feng",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "yun-jin-cheng-feng",
+      "to": "carpenter-shi",
+      "relation": "related_to"
+    },
+    {
+      "from": "yun-jin-cheng-feng",
+      "to": "fish-happiness",
+      "relation": "related_to"
+    },
+    {
+      "from": "yun-jin-cheng-feng",
+      "to": "useless-gourd",
+      "relation": "related_to"
+    },
+    {
+      "from": "yun-jin-cheng-feng",
+      "to": "zhi-shui",
+      "relation": "related_to"
+    },
+    {
+      "from": "wang-liang-wen-jing",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "wang-liang-wen-jing",
+      "to": "butterfly-dream",
+      "relation": "related_to"
+    },
+    {
+      "from": "wang-liang-wen-jing",
+      "to": "huzi-jixian",
+      "relation": "related_to"
+    },
+    {
+      "from": "wang-liang-wen-jing",
+      "to": "tian-ji",
+      "relation": "related_to"
+    },
+    {
+      "from": "wang-liang-wen-jing",
+      "to": "qiwulun-wu-sang-wo",
+      "relation": "related_to"
+    },
+    {
+      "from": "tian-ji",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "tian-ji",
+      "to": "kui-xian-chain",
+      "relation": "related_to"
+    },
+    {
+      "from": "tian-ji",
+      "to": "wang-liang-wen-jing",
+      "relation": "related_to"
+    },
+    {
+      "from": "tian-ji",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "da-kuai",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "da-kuai",
+      "to": "four-friends",
+      "relation": "related_to"
+    },
+    {
+      "from": "da-kuai",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "da-kuai",
+      "to": "qiwulun-wu-sang-wo",
+      "relation": "related_to"
+    },
+    {
+      "from": "da-kuai",
+      "to": "tian-ji",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-63",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-63",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-63",
+      "to": "de",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-63",
+      "to": "daodejing-17",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-63",
+      "to": "daodejing-22",
+      "relation": "related_to"
+    },
+    {
+      "from": "chen-tuan",
+      "to": "daodejing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "chen-tuan",
+      "to": "zhuangzi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "chen-tuan",
+      "to": "laozi",
+      "relation": "related_to"
+    },
+    {
+      "from": "chen-tuan",
+      "to": "zhuang-zhou",
+      "relation": "related_to"
+    },
+    {
+      "from": "chen-tuan",
+      "to": "peng-bird",
+      "relation": "related_to"
+    },
+    {
+      "from": "chen-tuan",
+      "to": "daodejing-17",
+      "relation": "related_to"
+    },
+    {
+      "from": "chen-tuan",
+      "to": "falling-asleep-during-meditation",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-018-halflotus-to-full-lotus",
+      "to": "must-i-sit-cross-legged",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-018-halflotus-to-full-lotus",
+      "to": "exp-014-double-lotus-doctrine",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-018-halflotus-to-full-lotus",
+      "to": "exp-010-lotus-pain",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-018-halflotus-to-full-lotus",
+      "to": "exp-013-buddhist-daoist-boundary",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-018-halflotus-to-full-lotus",
+      "to": "how-long-should-i-sit",
+      "relation": "related_to"
     }
   ]
 }
