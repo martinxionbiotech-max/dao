@@ -3131,6 +3131,216 @@
       "from": "exp-021-prostrations-channel-circuit",
       "to": "can-meditation-cure-illness",
       "relation": "related_to"
+    },
+    {
+      "from": "zhili-shu",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "zhili-shu",
+      "to": "useless-gourd",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhili-shu",
+      "to": "mountain-tree-goose",
+      "relation": "related_to"
+    },
+    {
+      "from": "zhili-shu",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "zhili-shu",
+      "to": "liang-wang",
+      "relation": "related_to"
+    },
+    {
+      "from": "boshun-archer",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "boshun-archer",
+      "to": "cicada-catcher",
+      "relation": "related_to"
+    },
+    {
+      "from": "boshun-archer",
+      "to": "wooden-rooster",
+      "relation": "related_to"
+    },
+    {
+      "from": "boshun-archer",
+      "to": "boatman",
+      "relation": "related_to"
+    },
+    {
+      "from": "boshun-archer",
+      "to": "artisan-qing",
+      "relation": "related_to"
+    },
+    {
+      "from": "boshun-archer",
+      "to": "zuochi",
+      "relation": "related_to"
+    },
+    {
+      "from": "boshun-archer",
+      "to": "liezi",
+      "relation": "related_to"
+    },
+    {
+      "from": "ji-xin",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "ji-xin",
+      "to": "bao-weng-guan-qi",
+      "relation": "related_to"
+    },
+    {
+      "from": "ji-xin",
+      "to": "xushi-sheng-bai",
+      "relation": "related_to"
+    },
+    {
+      "from": "ji-xin",
+      "to": "zuochi",
+      "relation": "related_to"
+    },
+    {
+      "from": "ji-xin",
+      "to": "xinzhai",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-64",
+      "to": "daodejing",
+      "relation": "translated_as"
+    },
+    {
+      "from": "daodejing-64",
+      "to": "ziran",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-64",
+      "to": "wuwei",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-64",
+      "to": "daodejing-48",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-64",
+      "to": "daodejing-63",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-64",
+      "to": "how-long-should-i-sit",
+      "relation": "related_to"
+    },
+    {
+      "from": "daodejing-64",
+      "to": "i-feel-nothing-when-i-sit",
+      "relation": "related_to"
+    },
+    {
+      "from": "guo-xiang",
+      "to": "zhuangzi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "guo-xiang",
+      "to": "zhuang-zhou",
+      "relation": "related_to"
+    },
+    {
+      "from": "guo-xiang",
+      "to": "wang-bi",
+      "relation": "related_to"
+    },
+    {
+      "from": "guo-xiang",
+      "to": "da-kuai",
+      "relation": "related_to"
+    },
+    {
+      "from": "guo-xiang",
+      "to": "zhen-zai",
+      "relation": "related_to"
+    },
+    {
+      "from": "guo-xiang",
+      "to": "does-daoism-believe-in-a-creator",
+      "relation": "related_to"
+    },
+    {
+      "from": "should-i-meditate-when-sick",
+      "to": "can-meditation-cure-illness",
+      "relation": "related_to"
+    },
+    {
+      "from": "should-i-meditate-when-sick",
+      "to": "exp-019-one-remedy-body",
+      "relation": "related_to"
+    },
+    {
+      "from": "should-i-meditate-when-sick",
+      "to": "exp-021-prostrations-channel-circuit",
+      "relation": "related_to"
+    },
+    {
+      "from": "should-i-meditate-when-sick",
+      "to": "mindfulness-meta-analysis-2014",
+      "relation": "related_to"
+    },
+    {
+      "from": "should-i-meditate-when-sick",
+      "to": "taiping-jing",
+      "relation": "related_to"
+    },
+    {
+      "from": "should-i-meditate-when-sick",
+      "to": "baopuzi",
+      "relation": "related_to"
+    },
+    {
+      "from": "should-i-meditate-when-sick",
+      "to": "daodejing-64",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-022-its-all-theatre",
+      "to": "exp-016-nine-dhyanas-map",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-022-its-all-theatre",
+      "to": "exp-018-halflotus-to-full-lotus",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-022-its-all-theatre",
+      "to": "exp-008-breath-stopping",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-022-its-all-theatre",
+      "to": "breath-stopping-anxiety",
+      "relation": "related_to"
+    },
+    {
+      "from": "exp-022-its-all-theatre",
+      "to": "how-long-should-i-sit",
+      "relation": "related_to"
     }
   ]
 }

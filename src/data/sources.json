@@ -1159,6 +1159,52 @@
       "pages_used_in": [
         "/translations/daodejing-06/"
       ]
+    },
+    {
+      "id": "renjianshi-zhili-shu-editions",
+      "title": "Zhuangzi ch. 4 (Renjian Shi), Zhili Shu passage: Taiji Shuguan edition with running glosses; Fu Peirong's annotated edition (variants: 齊/臍, 鼓廁/鼓筴); education-encyclopedia entry on the chapter's structure (Cheng Xuanying's sub-commentary on 支離其德)",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/zhili-shu/"
+      ]
+    },
+    {
+      "id": "tianzifang-archer-editions",
+      "title": "Zhuangzi ch. 21 (Tian Zifang), the archery passage: Taiji Shuguan edition with translation and chapter-structure notes; Zhuangzi at 5000yan full text; CText parallel snippet; Lawforever teaching essay",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/stories/boshun-archer/"
+      ]
+    },
+    {
+      "id": "daodejing-64-editions",
+      "title": "Daodejing ch. 64, received text: Taiji Shuguan edition with notes (the ch. 29 misplaced-strip tradition recorded); Wikipedia entry on the idiom; Kekenet bilingual edition; Dudianji bilingual edition",
+      "type": "primary_text",
+      "language": "zh",
+      "pages_used_in": [
+        "/translations/daodejing-64/"
+      ]
+    },
+    {
+      "id": "guo-xiang-sources",
+      "title": "Guo Xiang dossier: Wikipedia (zh) biography with the Shishuo xinyu Wenxue quote in full, Wang Yan's verdict, Qian Mu's charge, the Tang Yijie formulation, and the Zonggao saying; Guangming ribao / Zhonghua dushu bao survey (Siku zongmu collation, Yang Mingzhao's summary of both camps, Feng Youlan's collected-commentary view, Wang Zhongling's dissent); CText wiki on the Zhuangzi zhu",
+      "type": "historical",
+      "language": "zh",
+      "pages_used_in": [
+        "/people/guo-xiang/"
+      ]
+    },
+    {
+      "id": "163-taishi-48",
+      "title": "Taishi cultivation Q&A no. 48 (163.com community column): the theatre doctrine, the daily-sitting rule, the deep-concentration reassurance, and the yoga ceiling",
+      "type": "community",
+      "language": "zh",
+      "url": "https://www.163.com/dy/article/G575TU0N0545316K.html",
+      "pages_used_in": [
+        "/experiences/exp-022-its-all-theatre/"
+      ]
     }
   ]
 }
