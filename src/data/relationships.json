@@ -1,3346 +1,3656 @@
 {
-  "_schema": "data-schema-v1",
-  "description": "Knowledge graph edges: from, to, relation (belongs_to / related_to / described_in / translated_as / associated_with / concerns / derived_from / investigates / discusses)",
-  "items": [
-    {
-      "from": "zuowang",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "xinzhai",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "wuwei",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "shouyi",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "qi",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "qi",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "zuowang",
-      "to": "xinzhai",
-      "relation": "related_to"
-    },
-    {
-      "from": "zuowang",
-      "to": "wuwei",
-      "relation": "related_to"
-    },
-    {
-      "from": "zuowang",
-      "to": "qi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "jingzuo",
-      "to": "zuowang",
-      "relation": "related_to"
-    },
-    {
-      "from": "jingzuo",
-      "to": "xinzhai",
-      "relation": "related_to"
-    },
-    {
-      "from": "jingzuo",
-      "to": "shouyi",
-      "relation": "related_to"
-    },
-    {
-      "from": "shouyi",
-      "to": "wuwei",
-      "relation": "related_to"
-    },
-    {
-      "from": "shouyi",
-      "to": "qi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "shouyi",
-      "to": "zuowang",
-      "relation": "related_to"
-    },
-    {
-      "from": "wuwei",
-      "to": "zuowang",
-      "relation": "related_to"
-    },
-    {
-      "from": "zuowang",
-      "to": "zuowang-lun",
-      "relation": "described_in"
-    },
-    {
-      "from": "zuowang-lun",
-      "to": "neiguan-jing",
-      "relation": "derived_from"
-    },
-    {
-      "from": "zuowang-lun",
-      "to": "qingjing-jing",
-      "relation": "derived_from"
-    },
-    {
-      "from": "sima-chengzhen",
-      "to": "zuowang-lun",
-      "relation": "discusses"
-    },
-    {
-      "from": "laozi",
-      "to": "daodejing",
-      "relation": "associated_with"
-    },
-    {
-      "from": "zhuang-zhou",
-      "to": "zhuangzi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "xinzhai",
-      "to": "qingjing-jing",
-      "relation": "related_to"
-    },
-    {
-      "from": "shouyi",
-      "to": "neiguan-jing",
-      "relation": "related_to"
-    },
-    {
-      "from": "neiguan-jing",
-      "to": "qingjing-jing",
-      "relation": "related_to"
-    },
-    {
-      "from": "zuowang",
-      "to": "mindfulness",
-      "relation": "related_to"
-    },
-    {
-      "from": "xinzhai",
-      "to": "xinzhai-passage",
-      "relation": "translated_as"
-    },
-    {
-      "from": "zuowang",
-      "to": "zuowang-passage",
-      "relation": "translated_as"
-    },
-    {
-      "from": "wuwei",
-      "to": "daodejing-48",
-      "relation": "translated_as"
-    },
-    {
-      "from": "qingjing-jing",
-      "to": "qingjing-jing-opening",
-      "relation": "translated_as"
-    },
-    {
-      "from": "shouyi",
-      "to": "daodejing-10-shouyi",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing",
-      "to": "guodian-daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "laozi",
-      "to": "shiji-biographies",
-      "relation": "described_in"
-    },
-    {
-      "from": "taiping-jing",
-      "to": "taiping-jing-shouyi",
-      "relation": "described_in"
-    },
-    {
-      "from": "shouyi",
-      "to": "baopuzi-shouyi",
-      "relation": "described_in"
-    },
-    {
-      "from": "sima-chengzhen",
-      "to": "zuowang-lun-composition",
-      "relation": "described_in"
-    },
-    {
-      "from": "jingzuo",
-      "to": "cheng-men-li-xue",
-      "relation": "described_in"
-    },
-    {
-      "from": "jingzuo",
-      "to": "zhuzi-yulei-jingzuo",
-      "relation": "described_in"
-    },
-    {
-      "from": "jingzuo",
-      "to": "mindfulness-meta-analysis-2014",
-      "relation": "investigates"
-    },
-    {
-      "from": "zuowang",
-      "to": "sitting-protocol",
-      "relation": "described_in"
-    },
-    {
-      "from": "zuowang",
-      "to": "reading-order",
-      "relation": "described_in"
-    },
-    {
-      "from": "zuowang",
-      "to": "zuowang-safety-without-teacher",
-      "relation": "concerns"
-    },
-    {
-      "from": "jingzuo",
-      "to": "zuowang-vs-jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "qi",
-      "to": "qi-belief-necessary",
-      "relation": "concerns"
-    },
-    {
-      "from": "EXP-001",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "EXP-002",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "EXP-003",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "EXP-004",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "EXP-005",
-      "to": "qi",
-      "relation": "concerns"
-    },
-    {
-      "from": "EXP-006",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "drowsiness-vs-stillness",
-      "to": "EXP-001",
-      "relation": "derived_from"
-    },
-    {
-      "from": "warmth-and-qi-sensations",
-      "to": "EXP-002",
-      "relation": "derived_from"
-    },
-    {
-      "from": "warmth-and-qi-sensations",
-      "to": "EXP-003",
-      "relation": "derived_from"
-    },
-    {
-      "from": "leg-numbness-pain",
-      "to": "EXP-003",
-      "relation": "derived_from"
-    },
-    {
-      "from": "leg-numbness-pain",
-      "to": "EXP-006",
-      "relation": "derived_from"
-    },
-    {
-      "from": "cook-ding",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "cook-ding",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "butterfly-dream",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "butterfly-dream",
-      "to": "zhuang-zhou",
-      "relation": "associated_with"
-    },
-    {
-      "from": "confucius-meets-laozi",
-      "to": "laozi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "standing-in-snow",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "falling-asleep-during-meditation",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "falling-asleep-during-meditation",
-      "to": "drowsiness-vs-stillness",
-      "relation": "derived_from"
-    },
-    {
-      "from": "guangchengzi",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "huzi-jixian",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "wooden-rooster",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "guangchengzi",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "guangchengzi",
-      "to": "shouyi",
-      "relation": "concerns"
-    },
-    {
-      "from": "huzi-jixian",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "huzi-jixian",
-      "to": "qi",
-      "relation": "concerns"
-    },
-    {
-      "from": "wooden-rooster",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "wooden-rooster",
-      "to": "shouyi",
-      "relation": "concerns"
-    },
-    {
-      "from": "jingzuo",
-      "to": "farias-adverse-events-2020",
-      "relation": "investigates"
-    },
-    {
-      "from": "farias-adverse-events-2020",
-      "to": "mindfulness-meta-analysis-2014",
-      "relation": "related_to"
-    },
-    {
-      "from": "can-sitting-go-wrong",
-      "to": "farias-adverse-events-2020",
-      "relation": "derived_from"
-    },
-    {
-      "from": "can-sitting-go-wrong",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "EXP-007",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "EXP-008",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "dantian",
-      "to": "qi",
-      "relation": "related_to"
-    },
-    {
-      "from": "dantian",
-      "to": "shouyi",
-      "relation": "related_to"
-    },
-    {
-      "from": "dantian",
-      "to": "jing-qi-shen",
-      "relation": "related_to"
-    },
-    {
-      "from": "tiaoxi",
-      "to": "jingzuo",
-      "relation": "related_to"
-    },
-    {
-      "from": "tiaoxi",
-      "to": "qi",
-      "relation": "related_to"
-    },
-    {
-      "from": "drowsiness-in-sitting",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "drowsiness-in-sitting",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "drowsiness-in-sitting",
-      "to": "drowsiness-vs-stillness",
-      "relation": "derived_from"
-    },
-    {
-      "from": "drowsiness-in-sitting",
-      "to": "falling-asleep-during-meditation",
-      "relation": "related_to"
-    },
-    {
-      "from": "jingzuo-vs-zuowang",
-      "to": "jingzuo",
-      "relation": "discusses"
-    },
-    {
-      "from": "jingzuo-vs-zuowang",
-      "to": "zuowang",
-      "relation": "discusses"
-    },
-    {
-      "from": "jingzuo",
-      "to": "zuowang",
-      "relation": "contrasts_with"
-    },
-    {
-      "from": "xu",
-      "to": "xinzhai",
-      "relation": "related_to"
-    },
-    {
-      "from": "xu",
-      "to": "zuowang",
-      "relation": "related_to"
-    },
-    {
-      "from": "xu",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "xinzhai",
-      "to": "xu",
-      "relation": "derived_from"
-    },
-    {
-      "from": "neiguan",
-      "to": "zuowang",
-      "relation": "related_to"
-    },
-    {
-      "from": "neiguan",
-      "to": "neiguan-jing",
-      "relation": "described_in"
-    },
-    {
-      "from": "seeing-light-in-sitting",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "seeing-light-in-sitting",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "seeing-light-in-sitting",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "artisan-qing",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "cicada-catcher",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "artisan-qing",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "artisan-qing",
-      "to": "xinzhai",
-      "relation": "concerns"
-    },
-    {
-      "from": "artisan-qing",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "cicada-catcher",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "cicada-catcher",
-      "to": "shouyi",
-      "relation": "concerns"
-    },
-    {
-      "from": "huangting-jing-dantian",
-      "to": "dantian",
-      "relation": "concerns"
-    },
-    {
-      "from": "huangting-jing-dantian",
-      "to": "huangting-jing",
-      "relation": "described_in"
-    },
-    {
-      "from": "xiao-zhiguan-five-adjustments",
-      "to": "tiaoxi",
-      "relation": "concerns"
-    },
-    {
-      "from": "xiao-zhiguan-five-adjustments",
-      "to": "xiao-zhiguan",
-      "relation": "described_in"
-    },
-    {
-      "from": "daoshu-neiguan-zuowang",
-      "to": "neiguan",
-      "relation": "concerns"
-    },
-    {
-      "from": "daoshu-neiguan-zuowang",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "daoshu-neiguan-zuowang",
-      "to": "daoshu",
-      "relation": "described_in"
-    },
-    {
-      "from": "artisan-qing-passage",
-      "to": "zhuangzi",
-      "relation": "translated_as"
-    },
-    {
-      "from": "artisan-qing-passage",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "three-craftsmen-dazheng",
-      "to": "zhuangzi",
-      "relation": "discusses"
-    },
-    {
-      "from": "three-craftsmen-dazheng",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "ziran",
-      "to": "wuwei",
-      "relation": "associated_with"
-    },
-    {
-      "from": "ziran",
-      "to": "xu",
-      "relation": "associated_with"
-    },
-    {
-      "from": "ziran",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "daodejing-16",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-16",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-16",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "qiwulun-wu-sang-wo",
-      "to": "zhuangzi",
-      "relation": "translated_as"
-    },
-    {
-      "from": "qiwulun-wu-sang-wo",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "huangting-jing",
-      "to": "dantian",
-      "relation": "concerns"
-    },
-    {
-      "from": "xiao-zhiguan",
-      "to": "tiaoxi",
-      "relation": "concerns"
-    },
-    {
-      "from": "xiao-zhiguan",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "zhiyi",
-      "to": "xiao-zhiguan",
-      "relation": "authored"
-    },
-    {
-      "from": "zhuangzi-compilation",
-      "to": "zhuangzi",
-      "relation": "concerns"
-    },
-    {
-      "from": "zhuangzi-compilation",
-      "to": "zhuang-zhou",
-      "relation": "concerns"
-    },
-    {
-      "from": "translation-policy",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "translation-policy",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "combine-zuowang-mindfulness",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "combine-zuowang-mindfulness",
-      "to": "mindfulness-meta-analysis-2014",
-      "relation": "references"
-    },
-    {
-      "from": "cunsi",
-      "to": "huangting-jing",
-      "relation": "described_in"
-    },
-    {
-      "from": "cunsi",
-      "to": "shouyi",
-      "relation": "contrasts_with"
-    },
-    {
-      "from": "cunsi",
-      "to": "dantian",
-      "relation": "concerns"
-    },
-    {
-      "from": "taixi",
-      "to": "tiaoxi",
-      "relation": "concerns"
-    },
-    {
-      "from": "taixi",
-      "to": "exp-008-breath-stopping",
-      "relation": "concerns"
-    },
-    {
-      "from": "taixi",
-      "to": "qi",
-      "relation": "concerns"
-    },
-    {
-      "from": "wheelwright-bian",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "wheelwright-bian",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "shen",
-      "to": "jing-qi-shen",
-      "relation": "concerns"
-    },
-    {
-      "from": "xuan",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "xuan",
-      "to": "qingjing-jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "lindahl-2017",
-      "to": "can-sitting-go-wrong",
-      "relation": "informs"
-    },
-    {
-      "from": "lindahl-2017",
-      "to": "farias-adverse-events-2020",
-      "relation": "related_to"
-    },
-    {
-      "from": "how-long-should-i-sit",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "how-long-should-i-sit",
-      "to": "drowsiness-in-sitting",
-      "relation": "concerns"
-    },
-    {
-      "from": "zuowang-vs-shouyi",
-      "to": "zuowang",
-      "relation": "contrasts_with"
-    },
-    {
-      "from": "zuowang-vs-shouyi",
-      "to": "shouyi",
-      "relation": "contrasts_with"
-    },
-    {
-      "from": "three-languages",
-      "to": "qi",
-      "relation": "concerns"
-    },
-    {
-      "from": "three-languages",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "jing",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "jing",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "jing",
-      "to": "qingjing-jing",
-      "relation": "described_in"
-    },
-    {
-      "from": "jing",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "jing",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "ge-hong",
-      "to": "baopuzi",
-      "relation": "authored"
-    },
-    {
-      "from": "baopuzi",
-      "to": "shouyi",
-      "relation": "concerns"
-    },
-    {
-      "from": "baopuzi",
-      "to": "taixi",
-      "relation": "concerns"
-    },
-    {
-      "from": "hundun",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "hundun",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "hundun",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "wooden-rooster-passage",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "wooden-rooster-passage",
-      "to": "wooden-rooster",
-      "relation": "concerns"
-    },
-    {
-      "from": "guan",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "guan",
-      "to": "neiguan",
-      "relation": "concerns"
-    },
-    {
-      "from": "baoyi",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "baoyi",
-      "to": "shouyi",
-      "relation": "concerns"
-    },
-    {
-      "from": "what-is-stillness",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "what-is-stillness",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "breath-stopping-anxiety",
-      "to": "taixi",
-      "relation": "concerns"
-    },
-    {
-      "from": "breath-stopping-anxiety",
-      "to": "tiaoxi",
-      "relation": "concerns"
-    },
-    {
-      "from": "breath-stopping-anxiety",
-      "to": "exp-008-breath-stopping",
-      "relation": "concerns"
-    },
-    {
-      "from": "baopuzi-composition",
-      "to": "baopuzi",
-      "relation": "concerns"
-    },
-    {
-      "from": "baopuzi-composition",
-      "to": "ge-hong",
-      "relation": "concerns"
-    },
-    {
-      "from": "taiping-jing",
-      "to": "shouyi",
-      "relation": "concerns"
-    },
-    {
-      "from": "taiping-jing",
-      "to": "qi",
-      "relation": "concerns"
-    },
-    {
-      "from": "taiping-jing",
-      "to": "jing-qi-shen",
-      "relation": "concerns"
-    },
-    {
-      "from": "shouyi-practice",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "shouyi-practice",
-      "to": "shouyi",
-      "relation": "concerns"
-    },
-    {
-      "from": "shouyi-practice",
-      "to": "taiping-jing",
-      "relation": "described_in"
-    },
-    {
-      "from": "shouyi-practice",
-      "to": "baopuzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "tiaoxi-practice",
-      "to": "xiao-zhiguan",
-      "relation": "described_in"
-    },
-    {
-      "from": "tiaoxi-practice",
-      "to": "tiaoxi",
-      "relation": "concerns"
-    },
-    {
-      "from": "tiaoxi-practice",
-      "to": "taixi",
-      "relation": "concerns"
-    },
-    {
-      "from": "tiaoxi-practice",
-      "to": "breath-stopping-anxiety",
-      "relation": "concerns"
-    },
-    {
-      "from": "fish-happiness",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "fish-happiness",
-      "to": "guan",
-      "relation": "concerns"
-    },
-    {
-      "from": "fish-happiness",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "carpenter-shi",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "carpenter-shi",
-      "to": "fish-happiness",
-      "relation": "related_to"
-    },
-    {
-      "from": "carpenter-shi",
-      "to": "zuowang-safety-without-teacher",
-      "relation": "concerns"
-    },
-    {
-      "from": "xi",
-      "to": "xiao-zhiguan",
-      "relation": "described_in"
-    },
-    {
-      "from": "xi",
-      "to": "tiaoxi",
-      "relation": "concerns"
-    },
-    {
-      "from": "xi",
-      "to": "taixi",
-      "relation": "concerns"
-    },
-    {
-      "from": "tuoyue",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "tuoyue",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "tuoyue",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "cunsi-or-zuowang",
-      "to": "cunsi",
-      "relation": "concerns"
-    },
-    {
-      "from": "cunsi-or-zuowang",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "cunsi-or-zuowang",
-      "to": "shouyi",
-      "relation": "concerns"
-    },
-    {
-      "from": "painter-unrobed",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "painter-unrobed",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "painter-unrobed",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "painter-unrobed",
-      "to": "artisan-qing",
-      "relation": "related_to"
-    },
-    {
-      "from": "drumming-basin",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "drumming-basin",
-      "to": "qi",
-      "relation": "concerns"
-    },
-    {
-      "from": "drumming-basin",
-      "to": "butterfly-dream",
-      "relation": "related_to"
-    },
-    {
-      "from": "zuochi",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "zuochi",
-      "to": "zuowang",
-      "relation": "related_to"
-    },
-    {
-      "from": "zuochi",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "virtual-room-passage",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "virtual-room-passage",
-      "to": "xinzhai",
-      "relation": "concerns"
-    },
-    {
-      "from": "virtual-room-passage",
-      "to": "seeing-light-in-sitting",
-      "relation": "concerns"
-    },
-    {
-      "from": "schlosser-2019",
-      "to": "lindahl-2017",
-      "relation": "related_to"
-    },
-    {
-      "from": "schlosser-2019",
-      "to": "farias-adverse-events-2020",
-      "relation": "related_to"
-    },
-    {
-      "from": "warmth-tingling-when-sitting",
-      "to": "qi",
-      "relation": "concerns"
-    },
-    {
-      "from": "warmth-tingling-when-sitting",
-      "to": "dantian",
-      "relation": "concerns"
-    },
-    {
-      "from": "warmth-tingling-when-sitting",
-      "to": "schlosser-2019",
-      "relation": "related_to"
-    },
-    {
-      "from": "warmth-tingling-when-sitting",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "tang-2015",
-      "to": "mindfulness-meta-analysis-2014",
-      "relation": "related_to"
-    },
-    {
-      "from": "three-in-the-morning",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "three-in-the-morning",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "three-in-the-morning",
-      "to": "fish-happiness",
-      "relation": "related_to"
-    },
-    {
-      "from": "peng-bird",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "peng-bird",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "peng-bird",
-      "to": "drumming-basin",
-      "relation": "related_to"
-    },
-    {
-      "from": "liezi",
-      "to": "zhuangzi",
-      "relation": "references"
-    },
-    {
-      "from": "liezi",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "liezi",
-      "to": "daodejing",
-      "relation": "related_to"
-    },
-    {
-      "from": "jiafuzuo",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "jiafuzuo",
-      "to": "sitting-protocol",
-      "relation": "related_to"
-    },
-    {
-      "from": "drumming-basin-passage",
-      "to": "zhuangzi",
-      "relation": "translated_as"
-    },
-    {
-      "from": "drumming-basin-passage",
-      "to": "drumming-basin",
-      "relation": "related_to"
-    },
-    {
-      "from": "drumming-basin-passage",
-      "to": "qiwulun-wu-sang-wo",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-009-dissolving-void",
-      "to": "zuochi",
-      "relation": "concerns"
-    },
-    {
-      "from": "exp-009-dissolving-void",
-      "to": "drowsiness-vs-stillness",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-009-dissolving-void",
-      "to": "three-languages",
-      "relation": "related_to"
-    },
-    {
-      "from": "handan-walk",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "handan-walk",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "handan-walk",
-      "to": "fish-happiness",
-      "relation": "related_to"
-    },
-    {
-      "from": "handan-walk",
-      "to": "combine-zuowang-mindfulness",
-      "relation": "concerns"
-    },
-    {
-      "from": "useless-gourd",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "useless-gourd",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "useless-gourd",
-      "to": "peng-bird",
-      "relation": "related_to"
-    },
-    {
-      "from": "wei-huacun",
-      "to": "huangting-jing",
-      "relation": "associated_with"
-    },
-    {
-      "from": "wei-huacun",
-      "to": "cunsi",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-25",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-25",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-25",
-      "to": "daodejing-16",
-      "relation": "related_to"
-    },
-    {
-      "from": "must-i-sit-cross-legged",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "must-i-sit-cross-legged",
-      "to": "sitting-protocol",
-      "relation": "related_to"
-    },
-    {
-      "from": "must-i-sit-cross-legged",
-      "to": "exp-010-lotus-pain",
-      "relation": "related_to"
-    },
-    {
-      "from": "must-i-sit-cross-legged",
-      "to": "leg-numbness-pain",
-      "relation": "related_to"
-    },
-    {
-      "from": "liezi-compilation",
-      "to": "liezi",
-      "relation": "concerns"
-    },
-    {
-      "from": "liezi-compilation",
-      "to": "zhuangzi-compilation",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-010-lotus-pain",
-      "to": "leg-numbness-pain",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-010-lotus-pain",
-      "to": "jiafuzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "exp-010-lotus-pain",
-      "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
-    },
-    {
-      "from": "yongxin-ruo-jing-passage",
-      "to": "zhuangzi",
-      "relation": "translated_as"
-    },
-    {
-      "from": "yongxin-ruo-jing-passage",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "yongxin-ruo-jing-passage",
-      "to": "zhi-shui",
-      "relation": "related_to"
-    },
-    {
-      "from": "yongxin-ruo-jing-passage",
-      "to": "virtual-room-passage",
-      "relation": "related_to"
-    },
-    {
-      "from": "fish-in-the-dry-spring",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "fish-in-the-dry-spring",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "fish-in-the-dry-spring",
-      "to": "drumming-basin",
-      "relation": "related_to"
-    },
-    {
-      "from": "dongshi-frowning",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "dongshi-frowning",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "dongshi-frowning",
-      "to": "handan-walk",
-      "relation": "related_to"
-    },
-    {
-      "from": "kou-qianzhi",
-      "to": "kou-qianzhi-reform",
-      "relation": "associated_with"
-    },
-    {
-      "from": "zhi-shui",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "zhi-shui",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "exp-011-shougong-protocol",
-      "to": "breath-stopping-anxiety",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-011-shougong-protocol",
-      "to": "exp-010-lotus-pain",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-011-shougong-protocol",
-      "to": "jiafuzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "kou-qianzhi-reform",
-      "to": "kou-qianzhi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "jingdi-zhiwa",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "jingdi-zhiwa",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "jingdi-zhiwa",
-      "to": "handan-walk",
-      "relation": "related_to"
-    },
-    {
-      "from": "jingdi-zhiwa",
-      "to": "fish-happiness",
-      "relation": "related_to"
-    },
-    {
-      "from": "mantis-and-chariot",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "mantis-and-chariot",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "mantis-and-chariot",
-      "to": "hundun",
-      "relation": "related_to"
-    },
-    {
-      "from": "yang-xi",
-      "to": "shangqing-revelations",
-      "relation": "associated_with"
-    },
-    {
-      "from": "yang-xi",
-      "to": "wei-huacun",
-      "relation": "associated_with"
-    },
-    {
-      "from": "yang-xi",
-      "to": "huangting-jing",
-      "relation": "associated_with"
-    },
-    {
-      "from": "yang-xi",
-      "to": "cunsi",
-      "relation": "concerns"
-    },
-    {
-      "from": "shangqing-revelations",
-      "to": "yang-xi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "shangqing-revelations",
-      "to": "huangting-jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "shangqing-revelations",
-      "to": "cunsi",
-      "relation": "concerns"
-    },
-    {
-      "from": "shangqing-revelations",
-      "to": "kou-qianzhi-reform",
-      "relation": "related_to"
-    },
-    {
-      "from": "yingning",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "yingning",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "yingning",
-      "to": "zuochi",
-      "relation": "related_to"
-    },
-    {
-      "from": "yingning",
-      "to": "zhi-shui",
-      "relation": "related_to"
-    },
-    {
-      "from": "yingning",
-      "to": "restlessness-in-sitting",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-05",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-05",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-05",
-      "to": "tuoyue",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-05",
-      "to": "daodejing-25",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-012-restless-body",
-      "to": "restlessness-in-sitting",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-012-restless-body",
-      "to": "exp-011-shougong-protocol",
-      "relation": "related_to"
-    },
-    {
-      "from": "wangyang-xingtan",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "wangyang-xingtan",
-      "to": "guan",
-      "relation": "concerns"
-    },
-    {
-      "from": "wangyang-xingtan",
-      "to": "jingdi-zhiwa",
-      "relation": "related_to"
-    },
-    {
-      "from": "wangyang-xingtan",
-      "to": "peng-bird",
-      "relation": "related_to"
-    },
-    {
-      "from": "boatman",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "boatman",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "boatman",
-      "to": "cicada-catcher",
-      "relation": "related_to"
-    },
-    {
-      "from": "boatman",
-      "to": "xinzhai-passage",
-      "relation": "related_to"
-    },
-    {
-      "from": "liang-wang",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "liang-wang",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "liang-wang",
-      "to": "fish-in-the-dry-spring",
-      "relation": "related_to"
-    },
-    {
-      "from": "liang-wang",
-      "to": "yongxin-ruo-jing-passage",
-      "relation": "related_to"
-    },
-    {
-      "from": "tao-hongjing",
-      "to": "shangqing-revelations",
-      "relation": "associated_with"
-    },
-    {
-      "from": "tao-hongjing",
-      "to": "yang-xi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "tao-hongjing",
-      "to": "zhiyi",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-48",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-48",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-48",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-48",
-      "to": "three-craftsmen-dazheng",
-      "relation": "related_to"
-    },
-    {
-      "from": "yingning-passage",
-      "to": "zhuangzi",
-      "relation": "translated_as"
-    },
-    {
-      "from": "yingning-passage",
-      "to": "yingning",
-      "relation": "concerns"
-    },
-    {
-      "from": "yingning-passage",
-      "to": "shouyi",
-      "relation": "concerns"
-    },
-    {
-      "from": "yingning-passage",
-      "to": "how-long-should-i-sit",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-013-buddhist-daoist-boundary",
-      "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-013-buddhist-daoist-boundary",
-      "to": "drowsiness-in-sitting",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-013-buddhist-daoist-boundary",
-      "to": "combine-zuowang-mindfulness",
-      "relation": "related_to"
-    },
-    {
-      "from": "phoenix-and-owl",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "phoenix-and-owl",
-      "to": "carpenter-shi",
-      "relation": "related_to"
-    },
-    {
-      "from": "phoenix-and-owl",
-      "to": "fish-happiness",
-      "relation": "related_to"
-    },
-    {
-      "from": "phoenix-and-owl",
-      "to": "turtle-in-the-mud",
-      "relation": "related_to"
-    },
-    {
-      "from": "turtle-in-the-mud",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "turtle-in-the-mud",
-      "to": "zhuang-zhou",
-      "relation": "related_to"
-    },
-    {
-      "from": "turtle-in-the-mud",
-      "to": "tao-hongjing",
-      "relation": "related_to"
-    },
-    {
-      "from": "turtle-in-the-mud",
-      "to": "phoenix-and-owl",
-      "relation": "related_to"
-    },
-    {
-      "from": "swimmer-lvliang",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "swimmer-lvliang",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "swimmer-lvliang",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "swimmer-lvliang",
-      "to": "boatman",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhaoche",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "zhaoche",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "zhaoche",
-      "to": "yingning",
-      "relation": "concerns"
-    },
-    {
-      "from": "zhaoche",
-      "to": "yingning-passage",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-01",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-01",
-      "to": "dao",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-01",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-01",
-      "to": "guan",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-01",
-      "to": "daodejing-25",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-01",
-      "to": "qingjing-jing-opening",
-      "relation": "related_to"
-    },
-    {
-      "from": "heshang-gong",
-      "to": "laozi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "heshang-gong",
-      "to": "daodejing",
-      "relation": "associated_with"
-    },
-    {
-      "from": "heshang-gong",
-      "to": "ge-hong",
-      "relation": "associated_with"
-    },
-    {
-      "from": "heshang-gong",
-      "to": "daodejing-25",
-      "relation": "related_to"
-    },
-    {
-      "from": "heshang-gong",
-      "to": "daodejing-05",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-014-double-lotus-doctrine",
-      "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-014-double-lotus-doctrine",
-      "to": "exp-010-lotus-pain",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-014-double-lotus-doctrine",
-      "to": "exp-012-restless-body",
-      "relation": "related_to"
-    },
-    {
-      "from": "qinshi-mourning",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "qinshi-mourning",
-      "to": "laozi",
-      "relation": "related_to"
-    },
-    {
-      "from": "qinshi-mourning",
-      "to": "confucius-meets-laozi",
-      "relation": "related_to"
-    },
-    {
-      "from": "qinshi-mourning",
-      "to": "four-friends",
-      "relation": "related_to"
-    },
-    {
-      "from": "qinshi-mourning",
-      "to": "drumming-basin",
-      "relation": "related_to"
-    },
-    {
-      "from": "four-friends",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "four-friends",
-      "to": "qinshi-mourning",
-      "relation": "related_to"
-    },
-    {
-      "from": "four-friends",
-      "to": "drumming-basin",
-      "relation": "related_to"
-    },
-    {
-      "from": "four-friends",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "jian-du",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "jian-du",
-      "to": "dao",
-      "relation": "concerns"
-    },
-    {
-      "from": "jian-du",
-      "to": "zhaoche",
-      "relation": "related_to"
-    },
-    {
-      "from": "jian-du",
-      "to": "yingning-passage",
-      "relation": "related_to"
-    },
-    {
-      "from": "jian-du",
-      "to": "daodejing-25",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-37",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-37",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-37",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-37",
-      "to": "jing",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-37",
-      "to": "daodejing-48",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-37",
-      "to": "daodejing-01",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-37",
-      "to": "daodejing-10-shouyi",
-      "relation": "related_to"
-    },
-    {
-      "from": "heshang-gong-commentary",
-      "to": "daodejing",
-      "relation": "associated_with"
-    },
-    {
-      "from": "heshang-gong-commentary",
-      "to": "heshang-gong",
-      "relation": "associated_with"
-    },
-    {
-      "from": "heshang-gong-commentary",
-      "to": "laozi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "heshang-gong-commentary",
-      "to": "daodejing-01",
-      "relation": "related_to"
-    },
-    {
-      "from": "heshang-gong-commentary",
-      "to": "daodejing-25",
-      "relation": "related_to"
-    },
-    {
-      "from": "heshang-gong-commentary",
-      "to": "daodejing-05",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-015-heat-sweat-qi",
-      "to": "exp-002-warmth-rotation",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-015-heat-sweat-qi",
-      "to": "exp-007-digestive-release",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-015-heat-sweat-qi",
-      "to": "exp-012-restless-body",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-015-heat-sweat-qi",
-      "to": "exp-014-double-lotus-doctrine",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-015-heat-sweat-qi",
-      "to": "warmth-and-qi-sensations",
-      "relation": "related_to"
-    },
-    {
-      "from": "tian-jun",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "tian-jun",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "tian-jun",
-      "to": "three-in-the-morning",
-      "relation": "related_to"
-    },
-    {
-      "from": "tian-jun",
-      "to": "qiwulun-wu-sang-wo",
-      "relation": "related_to"
-    },
-    {
-      "from": "sanghu-friends",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "sanghu-friends",
-      "to": "four-friends",
-      "relation": "related_to"
-    },
-    {
-      "from": "sanghu-friends",
-      "to": "fish-in-the-dry-spring",
-      "relation": "related_to"
-    },
-    {
-      "from": "sanghu-friends",
-      "to": "qinshi-mourning",
-      "relation": "related_to"
-    },
-    {
-      "from": "sanghu-friends",
-      "to": "liang-wang",
-      "relation": "concerns"
-    },
-    {
-      "from": "sanghu-friends",
-      "to": "zuowang-passage",
-      "relation": "related_to"
-    },
-    {
-      "from": "marsh-pheasant",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "marsh-pheasant",
-      "to": "turtle-in-the-mud",
-      "relation": "related_to"
-    },
-    {
-      "from": "marsh-pheasant",
-      "to": "phoenix-and-owl",
-      "relation": "related_to"
-    },
-    {
-      "from": "marsh-pheasant",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "xian-jie",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "xian-jie",
-      "to": "qinshi-mourning",
-      "relation": "related_to"
-    },
-    {
-      "from": "xian-jie",
-      "to": "four-friends",
-      "relation": "related_to"
-    },
-    {
-      "from": "xian-jie",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "wang-bi",
-      "to": "daodejing",
-      "relation": "associated_with"
-    },
-    {
-      "from": "wang-bi",
-      "to": "heshang-gong",
-      "relation": "associated_with"
-    },
-    {
-      "from": "wang-bi",
-      "to": "laozi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "wang-bi",
-      "to": "daodejing-01",
-      "relation": "related_to"
-    },
-    {
-      "from": "wang-bi",
-      "to": "daodejing-37",
-      "relation": "related_to"
-    },
-    {
-      "from": "wang-bi",
-      "to": "heshang-gong-commentary",
-      "relation": "related_to"
-    },
-    {
-      "from": "wangbi-laozi-commentary",
-      "to": "wang-bi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "wangbi-laozi-commentary",
-      "to": "daodejing",
-      "relation": "associated_with"
-    },
-    {
-      "from": "wangbi-laozi-commentary",
-      "to": "heshang-gong",
-      "relation": "associated_with"
-    },
-    {
-      "from": "wangbi-laozi-commentary",
-      "to": "daodejing-01",
-      "relation": "related_to"
-    },
-    {
-      "from": "wangbi-laozi-commentary",
-      "to": "daodejing-37",
-      "relation": "related_to"
-    },
-    {
-      "from": "wangbi-laozi-commentary",
-      "to": "heshang-gong-commentary",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-22",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-22",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-22",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-22",
-      "to": "daodejing-10-shouyi",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-22",
-      "to": "daodejing-37",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-016-nine-dhyanas-map",
-      "to": "exp-014-double-lotus-doctrine",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-016-nine-dhyanas-map",
-      "to": "how-long-should-i-sit",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-016-nine-dhyanas-map",
-      "to": "exp-009-dissolving-void",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-016-nine-dhyanas-map",
-      "to": "lindahl-2017",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-016-nine-dhyanas-map",
-      "to": "schlosser-2019",
-      "relation": "related_to"
-    },
-    {
-      "from": "kui-xian-chain",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "kui-xian-chain",
-      "to": "wangyang-xingtan",
-      "relation": "related_to"
-    },
-    {
-      "from": "kui-xian-chain",
-      "to": "peng-bird",
-      "relation": "related_to"
-    },
-    {
-      "from": "kui-xian-chain",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "kui-xian-chain",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "mountain-tree-goose",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "mountain-tree-goose",
-      "to": "useless-gourd",
-      "relation": "related_to"
-    },
-    {
-      "from": "mountain-tree-goose",
-      "to": "turtle-in-the-mud",
-      "relation": "related_to"
-    },
-    {
-      "from": "mountain-tree-goose",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "mountain-tree-goose",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "snail-horn-war",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "snail-horn-war",
-      "to": "jingdi-zhiwa",
-      "relation": "related_to"
-    },
-    {
-      "from": "snail-horn-war",
-      "to": "wangyang-xingtan",
-      "relation": "related_to"
-    },
-    {
-      "from": "snail-horn-war",
-      "to": "peng-bird",
-      "relation": "related_to"
-    },
-    {
-      "from": "xuan-pin",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "xuan-pin",
-      "to": "daodejing-01",
-      "relation": "related_to"
-    },
-    {
-      "from": "xuan-pin",
-      "to": "tuoyue",
-      "relation": "related_to"
-    },
-    {
-      "from": "xuan-pin",
-      "to": "xu",
-      "relation": "related_to"
-    },
-    {
-      "from": "xuan-pin",
-      "to": "dao",
-      "relation": "concerns"
-    },
-    {
-      "from": "ji-ren",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "ji-ren",
-      "to": "sanghu-friends",
-      "relation": "related_to"
-    },
-    {
-      "from": "ji-ren",
-      "to": "four-friends",
-      "relation": "related_to"
-    },
-    {
-      "from": "ji-ren",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-17",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-17",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-17",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-17",
-      "to": "daodejing-37",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-17",
-      "to": "daodejing-22",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-017-why-he-began",
-      "to": "exp-013-buddhist-daoist-boundary",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-017-why-he-began",
-      "to": "exp-014-double-lotus-doctrine",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-017-why-he-began",
-      "to": "farias-adverse-events-2020",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-017-why-he-began",
-      "to": "lindahl-2017",
-      "relation": "related_to"
-    },
-    {
-      "from": "yun-jin-cheng-feng",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "yun-jin-cheng-feng",
-      "to": "carpenter-shi",
-      "relation": "related_to"
-    },
-    {
-      "from": "yun-jin-cheng-feng",
-      "to": "fish-happiness",
-      "relation": "related_to"
-    },
-    {
-      "from": "yun-jin-cheng-feng",
-      "to": "useless-gourd",
-      "relation": "related_to"
-    },
-    {
-      "from": "yun-jin-cheng-feng",
-      "to": "zhi-shui",
-      "relation": "related_to"
-    },
-    {
-      "from": "wang-liang-wen-jing",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "wang-liang-wen-jing",
-      "to": "butterfly-dream",
-      "relation": "related_to"
-    },
-    {
-      "from": "wang-liang-wen-jing",
-      "to": "huzi-jixian",
-      "relation": "related_to"
-    },
-    {
-      "from": "wang-liang-wen-jing",
-      "to": "tian-ji",
-      "relation": "related_to"
-    },
-    {
-      "from": "wang-liang-wen-jing",
-      "to": "qiwulun-wu-sang-wo",
-      "relation": "related_to"
-    },
-    {
-      "from": "tian-ji",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "tian-ji",
-      "to": "kui-xian-chain",
-      "relation": "related_to"
-    },
-    {
-      "from": "tian-ji",
-      "to": "wang-liang-wen-jing",
-      "relation": "related_to"
-    },
-    {
-      "from": "tian-ji",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "da-kuai",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "da-kuai",
-      "to": "four-friends",
-      "relation": "related_to"
-    },
-    {
-      "from": "da-kuai",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "da-kuai",
-      "to": "qiwulun-wu-sang-wo",
-      "relation": "related_to"
-    },
-    {
-      "from": "da-kuai",
-      "to": "tian-ji",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-63",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-63",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-63",
-      "to": "de",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-63",
-      "to": "daodejing-17",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-63",
-      "to": "daodejing-22",
-      "relation": "related_to"
-    },
-    {
-      "from": "chen-tuan",
-      "to": "daodejing",
-      "relation": "associated_with"
-    },
-    {
-      "from": "chen-tuan",
-      "to": "zhuangzi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "chen-tuan",
-      "to": "laozi",
-      "relation": "related_to"
-    },
-    {
-      "from": "chen-tuan",
-      "to": "zhuang-zhou",
-      "relation": "related_to"
-    },
-    {
-      "from": "chen-tuan",
-      "to": "peng-bird",
-      "relation": "related_to"
-    },
-    {
-      "from": "chen-tuan",
-      "to": "daodejing-17",
-      "relation": "related_to"
-    },
-    {
-      "from": "chen-tuan",
-      "to": "falling-asleep-during-meditation",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-018-halflotus-to-full-lotus",
-      "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-018-halflotus-to-full-lotus",
-      "to": "exp-014-double-lotus-doctrine",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-018-halflotus-to-full-lotus",
-      "to": "exp-010-lotus-pain",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-018-halflotus-to-full-lotus",
-      "to": "exp-013-buddhist-daoist-boundary",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-018-halflotus-to-full-lotus",
-      "to": "how-long-should-i-sit",
-      "relation": "related_to"
-    },
-    {
-      "from": "luhou-yang-niao",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "luhou-yang-niao",
-      "to": "hundun",
-      "relation": "related_to"
-    },
-    {
-      "from": "luhou-yang-niao",
-      "to": "mountain-tree-goose",
-      "relation": "related_to"
-    },
-    {
-      "from": "luhou-yang-niao",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "luhou-yang-niao",
-      "to": "marsh-pheasant",
-      "relation": "related_to"
-    },
-    {
-      "from": "luhou-yang-niao",
-      "to": "phoenix-and-owl",
-      "relation": "related_to"
-    },
-    {
-      "from": "luhou-yang-niao",
-      "to": "peng-bird",
-      "relation": "related_to"
-    },
-    {
-      "from": "xuzhou-empty-boat",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "xuzhou-empty-boat",
-      "to": "swimmer-lvliang",
-      "relation": "related_to"
-    },
-    {
-      "from": "xuzhou-empty-boat",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "xuzhou-empty-boat",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "xuzhou-empty-boat",
-      "to": "zhi-shui",
-      "relation": "related_to"
-    },
-    {
-      "from": "xuzhou-empty-boat",
-      "to": "mountain-tree-goose",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhen-zai",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "zhen-zai",
-      "to": "wang-liang-wen-jing",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhen-zai",
-      "to": "hundun",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhen-zai",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "zhen-zai",
-      "to": "tian-ji",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhen-zai",
-      "to": "da-kuai",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhen-zai",
-      "to": "does-daoism-believe-in-a-creator",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-14",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-14",
-      "to": "dao",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-14",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-14",
-      "to": "chen-tuan",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-14",
-      "to": "daodejing-01",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-14",
-      "to": "daodejing-25",
-      "relation": "related_to"
-    },
-    {
-      "from": "yan-zun",
-      "to": "daodejing",
-      "relation": "associated_with"
-    },
-    {
-      "from": "yan-zun",
-      "to": "heshang-gong",
-      "relation": "related_to"
-    },
-    {
-      "from": "yan-zun",
-      "to": "wang-bi",
-      "relation": "related_to"
-    },
-    {
-      "from": "yan-zun",
-      "to": "laozi",
-      "relation": "related_to"
-    },
-    {
-      "from": "yan-zun",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "yan-zun",
-      "to": "chen-tuan",
-      "relation": "related_to"
-    },
-    {
-      "from": "does-daoism-believe-in-a-creator",
-      "to": "zhen-zai",
-      "relation": "related_to"
-    },
-    {
-      "from": "does-daoism-believe-in-a-creator",
-      "to": "da-kuai",
-      "relation": "related_to"
-    },
-    {
-      "from": "does-daoism-believe-in-a-creator",
-      "to": "tian-ji",
-      "relation": "related_to"
-    },
-    {
-      "from": "does-daoism-believe-in-a-creator",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "does-daoism-believe-in-a-creator",
-      "to": "hundun",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-019-one-remedy-body",
-      "to": "exp-013-buddhist-daoist-boundary",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-019-one-remedy-body",
-      "to": "exp-018-halflotus-to-full-lotus",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-019-one-remedy-body",
-      "to": "tiaoxi",
-      "relation": "related_to"
-    },
-    {
-      "from": "hezhe-zhi-fu",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "hezhe-zhi-fu",
-      "to": "fish-in-the-dry-spring",
-      "relation": "related_to"
-    },
-    {
-      "from": "hezhe-zhi-fu",
-      "to": "xuzhou-empty-boat",
-      "relation": "related_to"
-    },
-    {
-      "from": "hezhe-zhi-fu",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "hezhe-zhi-fu",
-      "to": "luhou-yang-niao",
-      "relation": "related_to"
-    },
-    {
-      "from": "hezhe-zhi-fu",
-      "to": "fish-happiness",
-      "relation": "related_to"
-    },
-    {
-      "from": "mantis-stalks-cicada",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "mantis-stalks-cicada",
-      "to": "kui-xian-chain",
-      "relation": "related_to"
-    },
-    {
-      "from": "mantis-stalks-cicada",
-      "to": "xuzhou-empty-boat",
-      "relation": "related_to"
-    },
-    {
-      "from": "mantis-stalks-cicada",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "mantis-stalks-cicada",
-      "to": "zuochi",
-      "relation": "related_to"
-    },
-    {
-      "from": "mantis-stalks-cicada",
-      "to": "huzi-jixian",
-      "relation": "related_to"
-    },
-    {
-      "from": "xushi-sheng-bai",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "xushi-sheng-bai",
-      "to": "xinzhai",
-      "relation": "concerns"
-    },
-    {
-      "from": "xushi-sheng-bai",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "xushi-sheng-bai",
-      "to": "zuochi",
-      "relation": "related_to"
-    },
-    {
-      "from": "xushi-sheng-bai",
-      "to": "seeing-light-in-sitting",
-      "relation": "related_to"
-    },
-    {
-      "from": "xushi-sheng-bai",
-      "to": "zuowang",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-45",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-45",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-45",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-45",
-      "to": "daodejing-16",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-45",
-      "to": "daodejing-22",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-45",
-      "to": "daodejing-37",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-45",
-      "to": "qingjing-jing",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-45",
-      "to": "artisan-qing",
-      "relation": "related_to"
-    },
-    {
-      "from": "fu-yi",
-      "to": "daodejing",
-      "relation": "associated_with"
-    },
-    {
-      "from": "fu-yi",
-      "to": "wang-bi",
-      "relation": "related_to"
-    },
-    {
-      "from": "fu-yi",
-      "to": "heshang-gong",
-      "relation": "related_to"
-    },
-    {
-      "from": "fu-yi",
-      "to": "yan-zun",
-      "relation": "related_to"
-    },
-    {
-      "from": "fu-yi",
-      "to": "exp-013-buddhist-daoist-boundary",
-      "relation": "related_to"
-    },
-    {
-      "from": "can-meditation-cure-illness",
-      "to": "mindfulness-meta-analysis-2014",
-      "relation": "related_to"
-    },
-    {
-      "from": "can-meditation-cure-illness",
-      "to": "farias-adverse-events-2020",
-      "relation": "related_to"
-    },
-    {
-      "from": "can-meditation-cure-illness",
-      "to": "exp-019-one-remedy-body",
-      "relation": "related_to"
-    },
-    {
-      "from": "can-meditation-cure-illness",
-      "to": "exp-014-double-lotus-doctrine",
-      "relation": "related_to"
-    },
-    {
-      "from": "can-meditation-cure-illness",
-      "to": "taiping-jing",
-      "relation": "related_to"
-    },
-    {
-      "from": "can-meditation-cure-illness",
-      "to": "baopuzi",
-      "relation": "related_to"
-    },
-    {
-      "from": "can-meditation-cure-illness",
-      "to": "breath-stopping-anxiety",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-020-false-first-dhyana",
-      "to": "exp-016-nine-dhyanas-map",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-020-false-first-dhyana",
-      "to": "exp-014-double-lotus-doctrine",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-020-false-first-dhyana",
-      "to": "seeing-light-in-sitting",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-020-false-first-dhyana",
-      "to": "warmth-tingling-when-sitting",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-020-false-first-dhyana",
-      "to": "farias-adverse-events-2020",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhao-che",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "zhao-che",
-      "to": "jian-du",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhao-che",
-      "to": "yingning",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhao-che",
-      "to": "daodejing-48",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhao-che",
-      "to": "seeing-light-in-sitting",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-06",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-06",
-      "to": "xuan-pin",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-06",
-      "to": "tuoyue",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-06",
-      "to": "daodejing-01",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-06",
-      "to": "daodejing-22",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-06",
-      "to": "does-daoism-believe-in-a-creator",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-06",
-      "to": "i-feel-nothing-when-i-sit",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-06",
-      "to": "yingning-passage",
-      "relation": "related_to"
-    },
-    {
-      "from": "i-feel-nothing-when-i-sit",
-      "to": "qi-belief-necessary",
-      "relation": "related_to"
-    },
-    {
-      "from": "i-feel-nothing-when-i-sit",
-      "to": "falling-asleep-during-meditation",
-      "relation": "related_to"
-    },
-    {
-      "from": "i-feel-nothing-when-i-sit",
-      "to": "warmth-tingling-when-sitting",
-      "relation": "related_to"
-    },
-    {
-      "from": "i-feel-nothing-when-i-sit",
-      "to": "drowsiness-vs-stillness",
-      "relation": "related_to"
-    },
-    {
-      "from": "i-feel-nothing-when-i-sit",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "i-feel-nothing-when-i-sit",
-      "to": "xu",
-      "relation": "concerns"
-    },
-    {
-      "from": "bao-weng-guan-qi",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "bao-weng-guan-qi",
-      "to": "hundun",
-      "relation": "related_to"
-    },
-    {
-      "from": "bao-weng-guan-qi",
-      "to": "xushi-sheng-bai",
-      "relation": "related_to"
-    },
-    {
-      "from": "bao-weng-guan-qi",
-      "to": "zuochi",
-      "relation": "related_to"
-    },
-    {
-      "from": "bao-weng-guan-qi",
-      "to": "xinzhai",
-      "relation": "concerns"
-    },
-    {
-      "from": "bao-weng-guan-qi",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "zhuangzi-skeleton",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "zhuangzi-skeleton",
-      "to": "drumming-basin",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhuangzi-skeleton",
-      "to": "sanghu-friends",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhuangzi-skeleton",
-      "to": "butterfly-dream",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhuangzi-skeleton",
-      "to": "does-daoism-believe-in-a-creator",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhuangzi-skeleton",
-      "to": "can-meditation-cure-illness",
-      "relation": "related_to"
-    },
-    {
-      "from": "li-ao",
-      "to": "fu-yi",
-      "relation": "related_to"
-    },
-    {
-      "from": "li-ao",
-      "to": "zhiyi",
-      "relation": "related_to"
-    },
-    {
-      "from": "li-ao",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "li-ao",
-      "to": "zhuzi-yulei-jingzuo",
-      "relation": "related_to"
-    },
-    {
-      "from": "li-ao",
-      "to": "jingzuo",
-      "relation": "concerns"
-    },
-    {
-      "from": "li-ao",
-      "to": "qingjing-jing",
-      "relation": "related_to"
-    },
-    {
-      "from": "li-ao",
-      "to": "exp-013-buddhist-daoist-boundary",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-021-prostrations-channel-circuit",
-      "to": "exp-019-one-remedy-body",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-021-prostrations-channel-circuit",
-      "to": "exp-018-halflotus-to-full-lotus",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-021-prostrations-channel-circuit",
-      "to": "exp-016-nine-dhyanas-map",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-021-prostrations-channel-circuit",
-      "to": "can-meditation-cure-illness",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhili-shu",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "zhili-shu",
-      "to": "useless-gourd",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhili-shu",
-      "to": "mountain-tree-goose",
-      "relation": "related_to"
-    },
-    {
-      "from": "zhili-shu",
-      "to": "zuowang",
-      "relation": "concerns"
-    },
-    {
-      "from": "zhili-shu",
-      "to": "liang-wang",
-      "relation": "related_to"
-    },
-    {
-      "from": "boshun-archer",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "boshun-archer",
-      "to": "cicada-catcher",
-      "relation": "related_to"
-    },
-    {
-      "from": "boshun-archer",
-      "to": "wooden-rooster",
-      "relation": "related_to"
-    },
-    {
-      "from": "boshun-archer",
-      "to": "boatman",
-      "relation": "related_to"
-    },
-    {
-      "from": "boshun-archer",
-      "to": "artisan-qing",
-      "relation": "related_to"
-    },
-    {
-      "from": "boshun-archer",
-      "to": "zuochi",
-      "relation": "related_to"
-    },
-    {
-      "from": "boshun-archer",
-      "to": "liezi",
-      "relation": "related_to"
-    },
-    {
-      "from": "ji-xin",
-      "to": "zhuangzi",
-      "relation": "described_in"
-    },
-    {
-      "from": "ji-xin",
-      "to": "bao-weng-guan-qi",
-      "relation": "related_to"
-    },
-    {
-      "from": "ji-xin",
-      "to": "xushi-sheng-bai",
-      "relation": "related_to"
-    },
-    {
-      "from": "ji-xin",
-      "to": "zuochi",
-      "relation": "related_to"
-    },
-    {
-      "from": "ji-xin",
-      "to": "xinzhai",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-64",
-      "to": "daodejing",
-      "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-64",
-      "to": "ziran",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-64",
-      "to": "wuwei",
-      "relation": "concerns"
-    },
-    {
-      "from": "daodejing-64",
-      "to": "daodejing-48",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-64",
-      "to": "daodejing-63",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-64",
-      "to": "how-long-should-i-sit",
-      "relation": "related_to"
-    },
-    {
-      "from": "daodejing-64",
-      "to": "i-feel-nothing-when-i-sit",
-      "relation": "related_to"
-    },
-    {
-      "from": "guo-xiang",
-      "to": "zhuangzi",
-      "relation": "associated_with"
-    },
-    {
-      "from": "guo-xiang",
-      "to": "zhuang-zhou",
-      "relation": "related_to"
-    },
-    {
-      "from": "guo-xiang",
-      "to": "wang-bi",
-      "relation": "related_to"
-    },
-    {
-      "from": "guo-xiang",
-      "to": "da-kuai",
-      "relation": "related_to"
-    },
-    {
-      "from": "guo-xiang",
-      "to": "zhen-zai",
-      "relation": "related_to"
-    },
-    {
-      "from": "guo-xiang",
-      "to": "does-daoism-believe-in-a-creator",
-      "relation": "related_to"
-    },
-    {
-      "from": "should-i-meditate-when-sick",
-      "to": "can-meditation-cure-illness",
-      "relation": "related_to"
-    },
-    {
-      "from": "should-i-meditate-when-sick",
-      "to": "exp-019-one-remedy-body",
-      "relation": "related_to"
-    },
-    {
-      "from": "should-i-meditate-when-sick",
-      "to": "exp-021-prostrations-channel-circuit",
-      "relation": "related_to"
-    },
-    {
-      "from": "should-i-meditate-when-sick",
-      "to": "mindfulness-meta-analysis-2014",
-      "relation": "related_to"
-    },
-    {
-      "from": "should-i-meditate-when-sick",
-      "to": "taiping-jing",
-      "relation": "related_to"
-    },
-    {
-      "from": "should-i-meditate-when-sick",
-      "to": "baopuzi",
-      "relation": "related_to"
-    },
-    {
-      "from": "should-i-meditate-when-sick",
-      "to": "daodejing-64",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-022-its-all-theatre",
-      "to": "exp-016-nine-dhyanas-map",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-022-its-all-theatre",
-      "to": "exp-018-halflotus-to-full-lotus",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-022-its-all-theatre",
-      "to": "exp-008-breath-stopping",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-022-its-all-theatre",
-      "to": "breath-stopping-anxiety",
-      "relation": "related_to"
-    },
-    {
-      "from": "exp-022-its-all-theatre",
-      "to": "how-long-should-i-sit",
-      "relation": "related_to"
-    }
-  ]
+ "_schema": "data-schema-v1",
+ "description": "Knowledge graph edges: from, to, relation (belongs_to / related_to / described_in / translated_as / associated_with / concerns / derived_from / investigates / discusses)",
+ "items": [
+  {
+   "from": "zuowang",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "xinzhai",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "wuwei",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "shouyi",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "qi",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "qi",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "zuowang",
+   "to": "xinzhai",
+   "relation": "related_to"
+  },
+  {
+   "from": "zuowang",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "zuowang",
+   "to": "qi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "jingzuo",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "jingzuo",
+   "to": "xinzhai",
+   "relation": "related_to"
+  },
+  {
+   "from": "jingzuo",
+   "to": "shouyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "shouyi",
+   "to": "wuwei",
+   "relation": "related_to"
+  },
+  {
+   "from": "shouyi",
+   "to": "qi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "shouyi",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "wuwei",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "zuowang",
+   "to": "zuowang-lun",
+   "relation": "described_in"
+  },
+  {
+   "from": "zuowang-lun",
+   "to": "neiguan-jing",
+   "relation": "derived_from"
+  },
+  {
+   "from": "zuowang-lun",
+   "to": "qingjing-jing",
+   "relation": "derived_from"
+  },
+  {
+   "from": "sima-chengzhen",
+   "to": "zuowang-lun",
+   "relation": "discusses"
+  },
+  {
+   "from": "laozi",
+   "to": "daodejing",
+   "relation": "associated_with"
+  },
+  {
+   "from": "zhuang-zhou",
+   "to": "zhuangzi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "xinzhai",
+   "to": "qingjing-jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "shouyi",
+   "to": "neiguan-jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "neiguan-jing",
+   "to": "qingjing-jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "zuowang",
+   "to": "mindfulness",
+   "relation": "related_to"
+  },
+  {
+   "from": "xinzhai",
+   "to": "xinzhai-passage",
+   "relation": "translated_as"
+  },
+  {
+   "from": "zuowang",
+   "to": "zuowang-passage",
+   "relation": "translated_as"
+  },
+  {
+   "from": "wuwei",
+   "to": "daodejing-48",
+   "relation": "translated_as"
+  },
+  {
+   "from": "qingjing-jing",
+   "to": "qingjing-jing-opening",
+   "relation": "translated_as"
+  },
+  {
+   "from": "shouyi",
+   "to": "daodejing-10-shouyi",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing",
+   "to": "guodian-daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "laozi",
+   "to": "shiji-biographies",
+   "relation": "described_in"
+  },
+  {
+   "from": "taiping-jing",
+   "to": "taiping-jing-shouyi",
+   "relation": "described_in"
+  },
+  {
+   "from": "shouyi",
+   "to": "baopuzi-shouyi",
+   "relation": "described_in"
+  },
+  {
+   "from": "sima-chengzhen",
+   "to": "zuowang-lun-composition",
+   "relation": "described_in"
+  },
+  {
+   "from": "jingzuo",
+   "to": "cheng-men-li-xue",
+   "relation": "described_in"
+  },
+  {
+   "from": "jingzuo",
+   "to": "zhuzi-yulei-jingzuo",
+   "relation": "described_in"
+  },
+  {
+   "from": "jingzuo",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "investigates"
+  },
+  {
+   "from": "zuowang",
+   "to": "sitting-protocol",
+   "relation": "described_in"
+  },
+  {
+   "from": "zuowang",
+   "to": "reading-order",
+   "relation": "described_in"
+  },
+  {
+   "from": "zuowang",
+   "to": "zuowang-safety-without-teacher",
+   "relation": "concerns"
+  },
+  {
+   "from": "jingzuo",
+   "to": "zuowang-vs-jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "qi",
+   "to": "qi-belief-necessary",
+   "relation": "concerns"
+  },
+  {
+   "from": "EXP-001",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "EXP-002",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "EXP-003",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "EXP-004",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "EXP-005",
+   "to": "qi",
+   "relation": "concerns"
+  },
+  {
+   "from": "EXP-006",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "drowsiness-vs-stillness",
+   "to": "EXP-001",
+   "relation": "derived_from"
+  },
+  {
+   "from": "warmth-and-qi-sensations",
+   "to": "EXP-002",
+   "relation": "derived_from"
+  },
+  {
+   "from": "warmth-and-qi-sensations",
+   "to": "EXP-003",
+   "relation": "derived_from"
+  },
+  {
+   "from": "leg-numbness-pain",
+   "to": "EXP-003",
+   "relation": "derived_from"
+  },
+  {
+   "from": "leg-numbness-pain",
+   "to": "EXP-006",
+   "relation": "derived_from"
+  },
+  {
+   "from": "cook-ding",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "cook-ding",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "butterfly-dream",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "butterfly-dream",
+   "to": "zhuang-zhou",
+   "relation": "associated_with"
+  },
+  {
+   "from": "confucius-meets-laozi",
+   "to": "laozi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "standing-in-snow",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "falling-asleep-during-meditation",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "falling-asleep-during-meditation",
+   "to": "drowsiness-vs-stillness",
+   "relation": "derived_from"
+  },
+  {
+   "from": "guangchengzi",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "huzi-jixian",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "wooden-rooster",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "guangchengzi",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "guangchengzi",
+   "to": "shouyi",
+   "relation": "concerns"
+  },
+  {
+   "from": "huzi-jixian",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "huzi-jixian",
+   "to": "qi",
+   "relation": "concerns"
+  },
+  {
+   "from": "wooden-rooster",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "wooden-rooster",
+   "to": "shouyi",
+   "relation": "concerns"
+  },
+  {
+   "from": "jingzuo",
+   "to": "farias-adverse-events-2020",
+   "relation": "investigates"
+  },
+  {
+   "from": "farias-adverse-events-2020",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-sitting-go-wrong",
+   "to": "farias-adverse-events-2020",
+   "relation": "derived_from"
+  },
+  {
+   "from": "can-sitting-go-wrong",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "EXP-007",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "EXP-008",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "dantian",
+   "to": "qi",
+   "relation": "related_to"
+  },
+  {
+   "from": "dantian",
+   "to": "shouyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "dantian",
+   "to": "jing-qi-shen",
+   "relation": "related_to"
+  },
+  {
+   "from": "tiaoxi",
+   "to": "jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "tiaoxi",
+   "to": "qi",
+   "relation": "related_to"
+  },
+  {
+   "from": "drowsiness-in-sitting",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "drowsiness-in-sitting",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "drowsiness-in-sitting",
+   "to": "drowsiness-vs-stillness",
+   "relation": "derived_from"
+  },
+  {
+   "from": "drowsiness-in-sitting",
+   "to": "falling-asleep-during-meditation",
+   "relation": "related_to"
+  },
+  {
+   "from": "jingzuo-vs-zuowang",
+   "to": "jingzuo",
+   "relation": "discusses"
+  },
+  {
+   "from": "jingzuo-vs-zuowang",
+   "to": "zuowang",
+   "relation": "discusses"
+  },
+  {
+   "from": "jingzuo",
+   "to": "zuowang",
+   "relation": "contrasts_with"
+  },
+  {
+   "from": "xu",
+   "to": "xinzhai",
+   "relation": "related_to"
+  },
+  {
+   "from": "xu",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "xu",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "xinzhai",
+   "to": "xu",
+   "relation": "derived_from"
+  },
+  {
+   "from": "neiguan",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "neiguan",
+   "to": "neiguan-jing",
+   "relation": "described_in"
+  },
+  {
+   "from": "seeing-light-in-sitting",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "seeing-light-in-sitting",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "seeing-light-in-sitting",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "artisan-qing",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "cicada-catcher",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "artisan-qing",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "artisan-qing",
+   "to": "xinzhai",
+   "relation": "concerns"
+  },
+  {
+   "from": "artisan-qing",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "cicada-catcher",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "cicada-catcher",
+   "to": "shouyi",
+   "relation": "concerns"
+  },
+  {
+   "from": "huangting-jing-dantian",
+   "to": "dantian",
+   "relation": "concerns"
+  },
+  {
+   "from": "huangting-jing-dantian",
+   "to": "huangting-jing",
+   "relation": "described_in"
+  },
+  {
+   "from": "xiao-zhiguan-five-adjustments",
+   "to": "tiaoxi",
+   "relation": "concerns"
+  },
+  {
+   "from": "xiao-zhiguan-five-adjustments",
+   "to": "xiao-zhiguan",
+   "relation": "described_in"
+  },
+  {
+   "from": "daoshu-neiguan-zuowang",
+   "to": "neiguan",
+   "relation": "concerns"
+  },
+  {
+   "from": "daoshu-neiguan-zuowang",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "daoshu-neiguan-zuowang",
+   "to": "daoshu",
+   "relation": "described_in"
+  },
+  {
+   "from": "artisan-qing-passage",
+   "to": "zhuangzi",
+   "relation": "translated_as"
+  },
+  {
+   "from": "artisan-qing-passage",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "three-craftsmen-dazheng",
+   "to": "zhuangzi",
+   "relation": "discusses"
+  },
+  {
+   "from": "three-craftsmen-dazheng",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "ziran",
+   "to": "wuwei",
+   "relation": "associated_with"
+  },
+  {
+   "from": "ziran",
+   "to": "xu",
+   "relation": "associated_with"
+  },
+  {
+   "from": "ziran",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-16",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-16",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-16",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "qiwulun-wu-sang-wo",
+   "to": "zhuangzi",
+   "relation": "translated_as"
+  },
+  {
+   "from": "qiwulun-wu-sang-wo",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "huangting-jing",
+   "to": "dantian",
+   "relation": "concerns"
+  },
+  {
+   "from": "xiao-zhiguan",
+   "to": "tiaoxi",
+   "relation": "concerns"
+  },
+  {
+   "from": "xiao-zhiguan",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "zhiyi",
+   "to": "xiao-zhiguan",
+   "relation": "authored"
+  },
+  {
+   "from": "zhuangzi-compilation",
+   "to": "zhuangzi",
+   "relation": "concerns"
+  },
+  {
+   "from": "zhuangzi-compilation",
+   "to": "zhuang-zhou",
+   "relation": "concerns"
+  },
+  {
+   "from": "translation-policy",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "translation-policy",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "combine-zuowang-mindfulness",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "combine-zuowang-mindfulness",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "references"
+  },
+  {
+   "from": "cunsi",
+   "to": "huangting-jing",
+   "relation": "described_in"
+  },
+  {
+   "from": "cunsi",
+   "to": "shouyi",
+   "relation": "contrasts_with"
+  },
+  {
+   "from": "cunsi",
+   "to": "dantian",
+   "relation": "concerns"
+  },
+  {
+   "from": "taixi",
+   "to": "tiaoxi",
+   "relation": "concerns"
+  },
+  {
+   "from": "taixi",
+   "to": "exp-008-breath-stopping",
+   "relation": "concerns"
+  },
+  {
+   "from": "taixi",
+   "to": "qi",
+   "relation": "concerns"
+  },
+  {
+   "from": "wheelwright-bian",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "wheelwright-bian",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "shen",
+   "to": "jing-qi-shen",
+   "relation": "concerns"
+  },
+  {
+   "from": "xuan",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "xuan",
+   "to": "qingjing-jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "lindahl-2017",
+   "to": "can-sitting-go-wrong",
+   "relation": "informs"
+  },
+  {
+   "from": "lindahl-2017",
+   "to": "farias-adverse-events-2020",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-should-i-sit",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "how-long-should-i-sit",
+   "to": "drowsiness-in-sitting",
+   "relation": "concerns"
+  },
+  {
+   "from": "zuowang-vs-shouyi",
+   "to": "zuowang",
+   "relation": "contrasts_with"
+  },
+  {
+   "from": "zuowang-vs-shouyi",
+   "to": "shouyi",
+   "relation": "contrasts_with"
+  },
+  {
+   "from": "three-languages",
+   "to": "qi",
+   "relation": "concerns"
+  },
+  {
+   "from": "three-languages",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "jing",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "jing",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "jing",
+   "to": "qingjing-jing",
+   "relation": "described_in"
+  },
+  {
+   "from": "jing",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "jing",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "ge-hong",
+   "to": "baopuzi",
+   "relation": "authored"
+  },
+  {
+   "from": "baopuzi",
+   "to": "shouyi",
+   "relation": "concerns"
+  },
+  {
+   "from": "baopuzi",
+   "to": "taixi",
+   "relation": "concerns"
+  },
+  {
+   "from": "hundun",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "hundun",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "hundun",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "wooden-rooster-passage",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "wooden-rooster-passage",
+   "to": "wooden-rooster",
+   "relation": "concerns"
+  },
+  {
+   "from": "guan",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "guan",
+   "to": "neiguan",
+   "relation": "concerns"
+  },
+  {
+   "from": "baoyi",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "baoyi",
+   "to": "shouyi",
+   "relation": "concerns"
+  },
+  {
+   "from": "what-is-stillness",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "what-is-stillness",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "breath-stopping-anxiety",
+   "to": "taixi",
+   "relation": "concerns"
+  },
+  {
+   "from": "breath-stopping-anxiety",
+   "to": "tiaoxi",
+   "relation": "concerns"
+  },
+  {
+   "from": "breath-stopping-anxiety",
+   "to": "exp-008-breath-stopping",
+   "relation": "concerns"
+  },
+  {
+   "from": "baopuzi-composition",
+   "to": "baopuzi",
+   "relation": "concerns"
+  },
+  {
+   "from": "baopuzi-composition",
+   "to": "ge-hong",
+   "relation": "concerns"
+  },
+  {
+   "from": "taiping-jing",
+   "to": "shouyi",
+   "relation": "concerns"
+  },
+  {
+   "from": "taiping-jing",
+   "to": "qi",
+   "relation": "concerns"
+  },
+  {
+   "from": "taiping-jing",
+   "to": "jing-qi-shen",
+   "relation": "concerns"
+  },
+  {
+   "from": "shouyi-practice",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "shouyi-practice",
+   "to": "shouyi",
+   "relation": "concerns"
+  },
+  {
+   "from": "shouyi-practice",
+   "to": "taiping-jing",
+   "relation": "described_in"
+  },
+  {
+   "from": "shouyi-practice",
+   "to": "baopuzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "tiaoxi-practice",
+   "to": "xiao-zhiguan",
+   "relation": "described_in"
+  },
+  {
+   "from": "tiaoxi-practice",
+   "to": "tiaoxi",
+   "relation": "concerns"
+  },
+  {
+   "from": "tiaoxi-practice",
+   "to": "taixi",
+   "relation": "concerns"
+  },
+  {
+   "from": "tiaoxi-practice",
+   "to": "breath-stopping-anxiety",
+   "relation": "concerns"
+  },
+  {
+   "from": "fish-happiness",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "fish-happiness",
+   "to": "guan",
+   "relation": "concerns"
+  },
+  {
+   "from": "fish-happiness",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "carpenter-shi",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "carpenter-shi",
+   "to": "fish-happiness",
+   "relation": "related_to"
+  },
+  {
+   "from": "carpenter-shi",
+   "to": "zuowang-safety-without-teacher",
+   "relation": "concerns"
+  },
+  {
+   "from": "xi",
+   "to": "xiao-zhiguan",
+   "relation": "described_in"
+  },
+  {
+   "from": "xi",
+   "to": "tiaoxi",
+   "relation": "concerns"
+  },
+  {
+   "from": "xi",
+   "to": "taixi",
+   "relation": "concerns"
+  },
+  {
+   "from": "tuoyue",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "tuoyue",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "tuoyue",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "cunsi-or-zuowang",
+   "to": "cunsi",
+   "relation": "concerns"
+  },
+  {
+   "from": "cunsi-or-zuowang",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "cunsi-or-zuowang",
+   "to": "shouyi",
+   "relation": "concerns"
+  },
+  {
+   "from": "painter-unrobed",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "painter-unrobed",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "painter-unrobed",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "painter-unrobed",
+   "to": "artisan-qing",
+   "relation": "related_to"
+  },
+  {
+   "from": "drumming-basin",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "drumming-basin",
+   "to": "qi",
+   "relation": "concerns"
+  },
+  {
+   "from": "drumming-basin",
+   "to": "butterfly-dream",
+   "relation": "related_to"
+  },
+  {
+   "from": "zuochi",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "zuochi",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "zuochi",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "virtual-room-passage",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "virtual-room-passage",
+   "to": "xinzhai",
+   "relation": "concerns"
+  },
+  {
+   "from": "virtual-room-passage",
+   "to": "seeing-light-in-sitting",
+   "relation": "concerns"
+  },
+  {
+   "from": "schlosser-2019",
+   "to": "lindahl-2017",
+   "relation": "related_to"
+  },
+  {
+   "from": "schlosser-2019",
+   "to": "farias-adverse-events-2020",
+   "relation": "related_to"
+  },
+  {
+   "from": "warmth-tingling-when-sitting",
+   "to": "qi",
+   "relation": "concerns"
+  },
+  {
+   "from": "warmth-tingling-when-sitting",
+   "to": "dantian",
+   "relation": "concerns"
+  },
+  {
+   "from": "warmth-tingling-when-sitting",
+   "to": "schlosser-2019",
+   "relation": "related_to"
+  },
+  {
+   "from": "warmth-tingling-when-sitting",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "tang-2015",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "related_to"
+  },
+  {
+   "from": "three-in-the-morning",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "three-in-the-morning",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "three-in-the-morning",
+   "to": "fish-happiness",
+   "relation": "related_to"
+  },
+  {
+   "from": "peng-bird",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "peng-bird",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "peng-bird",
+   "to": "drumming-basin",
+   "relation": "related_to"
+  },
+  {
+   "from": "liezi",
+   "to": "zhuangzi",
+   "relation": "references"
+  },
+  {
+   "from": "liezi",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "liezi",
+   "to": "daodejing",
+   "relation": "related_to"
+  },
+  {
+   "from": "jiafuzuo",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "jiafuzuo",
+   "to": "sitting-protocol",
+   "relation": "related_to"
+  },
+  {
+   "from": "drumming-basin-passage",
+   "to": "zhuangzi",
+   "relation": "translated_as"
+  },
+  {
+   "from": "drumming-basin-passage",
+   "to": "drumming-basin",
+   "relation": "related_to"
+  },
+  {
+   "from": "drumming-basin-passage",
+   "to": "qiwulun-wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-009-dissolving-void",
+   "to": "zuochi",
+   "relation": "concerns"
+  },
+  {
+   "from": "exp-009-dissolving-void",
+   "to": "drowsiness-vs-stillness",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-009-dissolving-void",
+   "to": "three-languages",
+   "relation": "related_to"
+  },
+  {
+   "from": "handan-walk",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "handan-walk",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "handan-walk",
+   "to": "fish-happiness",
+   "relation": "related_to"
+  },
+  {
+   "from": "handan-walk",
+   "to": "combine-zuowang-mindfulness",
+   "relation": "concerns"
+  },
+  {
+   "from": "useless-gourd",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "useless-gourd",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "useless-gourd",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "wei-huacun",
+   "to": "huangting-jing",
+   "relation": "associated_with"
+  },
+  {
+   "from": "wei-huacun",
+   "to": "cunsi",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-25",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-25",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-25",
+   "to": "daodejing-16",
+   "relation": "related_to"
+  },
+  {
+   "from": "must-i-sit-cross-legged",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "must-i-sit-cross-legged",
+   "to": "sitting-protocol",
+   "relation": "related_to"
+  },
+  {
+   "from": "must-i-sit-cross-legged",
+   "to": "exp-010-lotus-pain",
+   "relation": "related_to"
+  },
+  {
+   "from": "must-i-sit-cross-legged",
+   "to": "leg-numbness-pain",
+   "relation": "related_to"
+  },
+  {
+   "from": "liezi-compilation",
+   "to": "liezi",
+   "relation": "concerns"
+  },
+  {
+   "from": "liezi-compilation",
+   "to": "zhuangzi-compilation",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-010-lotus-pain",
+   "to": "leg-numbness-pain",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-010-lotus-pain",
+   "to": "jiafuzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "exp-010-lotus-pain",
+   "to": "must-i-sit-cross-legged",
+   "relation": "related_to"
+  },
+  {
+   "from": "yongxin-ruo-jing-passage",
+   "to": "zhuangzi",
+   "relation": "translated_as"
+  },
+  {
+   "from": "yongxin-ruo-jing-passage",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "yongxin-ruo-jing-passage",
+   "to": "zhi-shui",
+   "relation": "related_to"
+  },
+  {
+   "from": "yongxin-ruo-jing-passage",
+   "to": "virtual-room-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "fish-in-the-dry-spring",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "fish-in-the-dry-spring",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "fish-in-the-dry-spring",
+   "to": "drumming-basin",
+   "relation": "related_to"
+  },
+  {
+   "from": "dongshi-frowning",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "dongshi-frowning",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "dongshi-frowning",
+   "to": "handan-walk",
+   "relation": "related_to"
+  },
+  {
+   "from": "kou-qianzhi",
+   "to": "kou-qianzhi-reform",
+   "relation": "associated_with"
+  },
+  {
+   "from": "zhi-shui",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "zhi-shui",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "exp-011-shougong-protocol",
+   "to": "breath-stopping-anxiety",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-011-shougong-protocol",
+   "to": "exp-010-lotus-pain",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-011-shougong-protocol",
+   "to": "jiafuzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "kou-qianzhi-reform",
+   "to": "kou-qianzhi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "jingdi-zhiwa",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "jingdi-zhiwa",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "jingdi-zhiwa",
+   "to": "handan-walk",
+   "relation": "related_to"
+  },
+  {
+   "from": "jingdi-zhiwa",
+   "to": "fish-happiness",
+   "relation": "related_to"
+  },
+  {
+   "from": "mantis-and-chariot",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "mantis-and-chariot",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "mantis-and-chariot",
+   "to": "hundun",
+   "relation": "related_to"
+  },
+  {
+   "from": "yang-xi",
+   "to": "shangqing-revelations",
+   "relation": "associated_with"
+  },
+  {
+   "from": "yang-xi",
+   "to": "wei-huacun",
+   "relation": "associated_with"
+  },
+  {
+   "from": "yang-xi",
+   "to": "huangting-jing",
+   "relation": "associated_with"
+  },
+  {
+   "from": "yang-xi",
+   "to": "cunsi",
+   "relation": "concerns"
+  },
+  {
+   "from": "shangqing-revelations",
+   "to": "yang-xi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "shangqing-revelations",
+   "to": "huangting-jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "shangqing-revelations",
+   "to": "cunsi",
+   "relation": "concerns"
+  },
+  {
+   "from": "shangqing-revelations",
+   "to": "kou-qianzhi-reform",
+   "relation": "related_to"
+  },
+  {
+   "from": "yingning",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "yingning",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "yingning",
+   "to": "zuochi",
+   "relation": "related_to"
+  },
+  {
+   "from": "yingning",
+   "to": "zhi-shui",
+   "relation": "related_to"
+  },
+  {
+   "from": "yingning",
+   "to": "restlessness-in-sitting",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-05",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-05",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-05",
+   "to": "tuoyue",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-05",
+   "to": "daodejing-25",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-012-restless-body",
+   "to": "restlessness-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-012-restless-body",
+   "to": "exp-011-shougong-protocol",
+   "relation": "related_to"
+  },
+  {
+   "from": "wangyang-xingtan",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "wangyang-xingtan",
+   "to": "guan",
+   "relation": "concerns"
+  },
+  {
+   "from": "wangyang-xingtan",
+   "to": "jingdi-zhiwa",
+   "relation": "related_to"
+  },
+  {
+   "from": "wangyang-xingtan",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "boatman",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "boatman",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "boatman",
+   "to": "cicada-catcher",
+   "relation": "related_to"
+  },
+  {
+   "from": "boatman",
+   "to": "xinzhai-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "liang-wang",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "liang-wang",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "liang-wang",
+   "to": "fish-in-the-dry-spring",
+   "relation": "related_to"
+  },
+  {
+   "from": "liang-wang",
+   "to": "yongxin-ruo-jing-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "tao-hongjing",
+   "to": "shangqing-revelations",
+   "relation": "associated_with"
+  },
+  {
+   "from": "tao-hongjing",
+   "to": "yang-xi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "tao-hongjing",
+   "to": "zhiyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-48",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-48",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-48",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-48",
+   "to": "three-craftsmen-dazheng",
+   "relation": "related_to"
+  },
+  {
+   "from": "yingning-passage",
+   "to": "zhuangzi",
+   "relation": "translated_as"
+  },
+  {
+   "from": "yingning-passage",
+   "to": "yingning",
+   "relation": "concerns"
+  },
+  {
+   "from": "yingning-passage",
+   "to": "shouyi",
+   "relation": "concerns"
+  },
+  {
+   "from": "yingning-passage",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-013-buddhist-daoist-boundary",
+   "to": "must-i-sit-cross-legged",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-013-buddhist-daoist-boundary",
+   "to": "drowsiness-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-013-buddhist-daoist-boundary",
+   "to": "combine-zuowang-mindfulness",
+   "relation": "related_to"
+  },
+  {
+   "from": "phoenix-and-owl",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "phoenix-and-owl",
+   "to": "carpenter-shi",
+   "relation": "related_to"
+  },
+  {
+   "from": "phoenix-and-owl",
+   "to": "fish-happiness",
+   "relation": "related_to"
+  },
+  {
+   "from": "phoenix-and-owl",
+   "to": "turtle-in-the-mud",
+   "relation": "related_to"
+  },
+  {
+   "from": "turtle-in-the-mud",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "turtle-in-the-mud",
+   "to": "zhuang-zhou",
+   "relation": "related_to"
+  },
+  {
+   "from": "turtle-in-the-mud",
+   "to": "tao-hongjing",
+   "relation": "related_to"
+  },
+  {
+   "from": "turtle-in-the-mud",
+   "to": "phoenix-and-owl",
+   "relation": "related_to"
+  },
+  {
+   "from": "swimmer-lvliang",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "swimmer-lvliang",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "swimmer-lvliang",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "swimmer-lvliang",
+   "to": "boatman",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhaoche",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "zhaoche",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "zhaoche",
+   "to": "yingning",
+   "relation": "concerns"
+  },
+  {
+   "from": "zhaoche",
+   "to": "yingning-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-01",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-01",
+   "to": "dao",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-01",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-01",
+   "to": "guan",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-01",
+   "to": "daodejing-25",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-01",
+   "to": "qingjing-jing-opening",
+   "relation": "related_to"
+  },
+  {
+   "from": "heshang-gong",
+   "to": "laozi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "heshang-gong",
+   "to": "daodejing",
+   "relation": "associated_with"
+  },
+  {
+   "from": "heshang-gong",
+   "to": "ge-hong",
+   "relation": "associated_with"
+  },
+  {
+   "from": "heshang-gong",
+   "to": "daodejing-25",
+   "relation": "related_to"
+  },
+  {
+   "from": "heshang-gong",
+   "to": "daodejing-05",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-014-double-lotus-doctrine",
+   "to": "must-i-sit-cross-legged",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-014-double-lotus-doctrine",
+   "to": "exp-010-lotus-pain",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-014-double-lotus-doctrine",
+   "to": "exp-012-restless-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "qinshi-mourning",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "qinshi-mourning",
+   "to": "laozi",
+   "relation": "related_to"
+  },
+  {
+   "from": "qinshi-mourning",
+   "to": "confucius-meets-laozi",
+   "relation": "related_to"
+  },
+  {
+   "from": "qinshi-mourning",
+   "to": "four-friends",
+   "relation": "related_to"
+  },
+  {
+   "from": "qinshi-mourning",
+   "to": "drumming-basin",
+   "relation": "related_to"
+  },
+  {
+   "from": "four-friends",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "four-friends",
+   "to": "qinshi-mourning",
+   "relation": "related_to"
+  },
+  {
+   "from": "four-friends",
+   "to": "drumming-basin",
+   "relation": "related_to"
+  },
+  {
+   "from": "four-friends",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "jian-du",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "jian-du",
+   "to": "dao",
+   "relation": "concerns"
+  },
+  {
+   "from": "jian-du",
+   "to": "zhaoche",
+   "relation": "related_to"
+  },
+  {
+   "from": "jian-du",
+   "to": "yingning-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "jian-du",
+   "to": "daodejing-25",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-37",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-37",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-37",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-37",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-37",
+   "to": "daodejing-48",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-37",
+   "to": "daodejing-01",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-37",
+   "to": "daodejing-10-shouyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "heshang-gong-commentary",
+   "to": "daodejing",
+   "relation": "associated_with"
+  },
+  {
+   "from": "heshang-gong-commentary",
+   "to": "heshang-gong",
+   "relation": "associated_with"
+  },
+  {
+   "from": "heshang-gong-commentary",
+   "to": "laozi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "heshang-gong-commentary",
+   "to": "daodejing-01",
+   "relation": "related_to"
+  },
+  {
+   "from": "heshang-gong-commentary",
+   "to": "daodejing-25",
+   "relation": "related_to"
+  },
+  {
+   "from": "heshang-gong-commentary",
+   "to": "daodejing-05",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-015-heat-sweat-qi",
+   "to": "exp-002-warmth-rotation",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-015-heat-sweat-qi",
+   "to": "exp-007-digestive-release",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-015-heat-sweat-qi",
+   "to": "exp-012-restless-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-015-heat-sweat-qi",
+   "to": "exp-014-double-lotus-doctrine",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-015-heat-sweat-qi",
+   "to": "warmth-and-qi-sensations",
+   "relation": "related_to"
+  },
+  {
+   "from": "tian-jun",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "tian-jun",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "tian-jun",
+   "to": "three-in-the-morning",
+   "relation": "related_to"
+  },
+  {
+   "from": "tian-jun",
+   "to": "qiwulun-wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "sanghu-friends",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "sanghu-friends",
+   "to": "four-friends",
+   "relation": "related_to"
+  },
+  {
+   "from": "sanghu-friends",
+   "to": "fish-in-the-dry-spring",
+   "relation": "related_to"
+  },
+  {
+   "from": "sanghu-friends",
+   "to": "qinshi-mourning",
+   "relation": "related_to"
+  },
+  {
+   "from": "sanghu-friends",
+   "to": "liang-wang",
+   "relation": "concerns"
+  },
+  {
+   "from": "sanghu-friends",
+   "to": "zuowang-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "marsh-pheasant",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "marsh-pheasant",
+   "to": "turtle-in-the-mud",
+   "relation": "related_to"
+  },
+  {
+   "from": "marsh-pheasant",
+   "to": "phoenix-and-owl",
+   "relation": "related_to"
+  },
+  {
+   "from": "marsh-pheasant",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "xian-jie",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "xian-jie",
+   "to": "qinshi-mourning",
+   "relation": "related_to"
+  },
+  {
+   "from": "xian-jie",
+   "to": "four-friends",
+   "relation": "related_to"
+  },
+  {
+   "from": "xian-jie",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "wang-bi",
+   "to": "daodejing",
+   "relation": "associated_with"
+  },
+  {
+   "from": "wang-bi",
+   "to": "heshang-gong",
+   "relation": "associated_with"
+  },
+  {
+   "from": "wang-bi",
+   "to": "laozi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "wang-bi",
+   "to": "daodejing-01",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-bi",
+   "to": "daodejing-37",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-bi",
+   "to": "heshang-gong-commentary",
+   "relation": "related_to"
+  },
+  {
+   "from": "wangbi-laozi-commentary",
+   "to": "wang-bi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "wangbi-laozi-commentary",
+   "to": "daodejing",
+   "relation": "associated_with"
+  },
+  {
+   "from": "wangbi-laozi-commentary",
+   "to": "heshang-gong",
+   "relation": "associated_with"
+  },
+  {
+   "from": "wangbi-laozi-commentary",
+   "to": "daodejing-01",
+   "relation": "related_to"
+  },
+  {
+   "from": "wangbi-laozi-commentary",
+   "to": "daodejing-37",
+   "relation": "related_to"
+  },
+  {
+   "from": "wangbi-laozi-commentary",
+   "to": "heshang-gong-commentary",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-22",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-22",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-22",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-22",
+   "to": "daodejing-10-shouyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-22",
+   "to": "daodejing-37",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-016-nine-dhyanas-map",
+   "to": "exp-014-double-lotus-doctrine",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-016-nine-dhyanas-map",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-016-nine-dhyanas-map",
+   "to": "exp-009-dissolving-void",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-016-nine-dhyanas-map",
+   "to": "lindahl-2017",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-016-nine-dhyanas-map",
+   "to": "schlosser-2019",
+   "relation": "related_to"
+  },
+  {
+   "from": "kui-xian-chain",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "kui-xian-chain",
+   "to": "wangyang-xingtan",
+   "relation": "related_to"
+  },
+  {
+   "from": "kui-xian-chain",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "kui-xian-chain",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "kui-xian-chain",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "mountain-tree-goose",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "mountain-tree-goose",
+   "to": "useless-gourd",
+   "relation": "related_to"
+  },
+  {
+   "from": "mountain-tree-goose",
+   "to": "turtle-in-the-mud",
+   "relation": "related_to"
+  },
+  {
+   "from": "mountain-tree-goose",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "mountain-tree-goose",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "snail-horn-war",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "snail-horn-war",
+   "to": "jingdi-zhiwa",
+   "relation": "related_to"
+  },
+  {
+   "from": "snail-horn-war",
+   "to": "wangyang-xingtan",
+   "relation": "related_to"
+  },
+  {
+   "from": "snail-horn-war",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "xuan-pin",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "xuan-pin",
+   "to": "daodejing-01",
+   "relation": "related_to"
+  },
+  {
+   "from": "xuan-pin",
+   "to": "tuoyue",
+   "relation": "related_to"
+  },
+  {
+   "from": "xuan-pin",
+   "to": "xu",
+   "relation": "related_to"
+  },
+  {
+   "from": "xuan-pin",
+   "to": "dao",
+   "relation": "concerns"
+  },
+  {
+   "from": "ji-ren",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "ji-ren",
+   "to": "sanghu-friends",
+   "relation": "related_to"
+  },
+  {
+   "from": "ji-ren",
+   "to": "four-friends",
+   "relation": "related_to"
+  },
+  {
+   "from": "ji-ren",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-17",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-17",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-17",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-17",
+   "to": "daodejing-37",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-17",
+   "to": "daodejing-22",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-017-why-he-began",
+   "to": "exp-013-buddhist-daoist-boundary",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-017-why-he-began",
+   "to": "exp-014-double-lotus-doctrine",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-017-why-he-began",
+   "to": "farias-adverse-events-2020",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-017-why-he-began",
+   "to": "lindahl-2017",
+   "relation": "related_to"
+  },
+  {
+   "from": "yun-jin-cheng-feng",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "yun-jin-cheng-feng",
+   "to": "carpenter-shi",
+   "relation": "related_to"
+  },
+  {
+   "from": "yun-jin-cheng-feng",
+   "to": "fish-happiness",
+   "relation": "related_to"
+  },
+  {
+   "from": "yun-jin-cheng-feng",
+   "to": "useless-gourd",
+   "relation": "related_to"
+  },
+  {
+   "from": "yun-jin-cheng-feng",
+   "to": "zhi-shui",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-liang-wen-jing",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "wang-liang-wen-jing",
+   "to": "butterfly-dream",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-liang-wen-jing",
+   "to": "huzi-jixian",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-liang-wen-jing",
+   "to": "tian-ji",
+   "relation": "related_to"
+  },
+  {
+   "from": "wang-liang-wen-jing",
+   "to": "qiwulun-wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "tian-ji",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "tian-ji",
+   "to": "kui-xian-chain",
+   "relation": "related_to"
+  },
+  {
+   "from": "tian-ji",
+   "to": "wang-liang-wen-jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "tian-ji",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "da-kuai",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "da-kuai",
+   "to": "four-friends",
+   "relation": "related_to"
+  },
+  {
+   "from": "da-kuai",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "da-kuai",
+   "to": "qiwulun-wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "da-kuai",
+   "to": "tian-ji",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-63",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-63",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-63",
+   "to": "de",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-63",
+   "to": "daodejing-17",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-63",
+   "to": "daodejing-22",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-tuan",
+   "to": "daodejing",
+   "relation": "associated_with"
+  },
+  {
+   "from": "chen-tuan",
+   "to": "zhuangzi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "chen-tuan",
+   "to": "laozi",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-tuan",
+   "to": "zhuang-zhou",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-tuan",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-tuan",
+   "to": "daodejing-17",
+   "relation": "related_to"
+  },
+  {
+   "from": "chen-tuan",
+   "to": "falling-asleep-during-meditation",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-018-halflotus-to-full-lotus",
+   "to": "must-i-sit-cross-legged",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-018-halflotus-to-full-lotus",
+   "to": "exp-014-double-lotus-doctrine",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-018-halflotus-to-full-lotus",
+   "to": "exp-010-lotus-pain",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-018-halflotus-to-full-lotus",
+   "to": "exp-013-buddhist-daoist-boundary",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-018-halflotus-to-full-lotus",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "luhou-yang-niao",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "luhou-yang-niao",
+   "to": "hundun",
+   "relation": "related_to"
+  },
+  {
+   "from": "luhou-yang-niao",
+   "to": "mountain-tree-goose",
+   "relation": "related_to"
+  },
+  {
+   "from": "luhou-yang-niao",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "luhou-yang-niao",
+   "to": "marsh-pheasant",
+   "relation": "related_to"
+  },
+  {
+   "from": "luhou-yang-niao",
+   "to": "phoenix-and-owl",
+   "relation": "related_to"
+  },
+  {
+   "from": "luhou-yang-niao",
+   "to": "peng-bird",
+   "relation": "related_to"
+  },
+  {
+   "from": "xuzhou-empty-boat",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "xuzhou-empty-boat",
+   "to": "swimmer-lvliang",
+   "relation": "related_to"
+  },
+  {
+   "from": "xuzhou-empty-boat",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "xuzhou-empty-boat",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "xuzhou-empty-boat",
+   "to": "zhi-shui",
+   "relation": "related_to"
+  },
+  {
+   "from": "xuzhou-empty-boat",
+   "to": "mountain-tree-goose",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhen-zai",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "zhen-zai",
+   "to": "wang-liang-wen-jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhen-zai",
+   "to": "hundun",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhen-zai",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "zhen-zai",
+   "to": "tian-ji",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhen-zai",
+   "to": "da-kuai",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhen-zai",
+   "to": "does-daoism-believe-in-a-creator",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-14",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-14",
+   "to": "dao",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-14",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-14",
+   "to": "chen-tuan",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-14",
+   "to": "daodejing-01",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-14",
+   "to": "daodejing-25",
+   "relation": "related_to"
+  },
+  {
+   "from": "yan-zun",
+   "to": "daodejing",
+   "relation": "associated_with"
+  },
+  {
+   "from": "yan-zun",
+   "to": "heshang-gong",
+   "relation": "related_to"
+  },
+  {
+   "from": "yan-zun",
+   "to": "wang-bi",
+   "relation": "related_to"
+  },
+  {
+   "from": "yan-zun",
+   "to": "laozi",
+   "relation": "related_to"
+  },
+  {
+   "from": "yan-zun",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "yan-zun",
+   "to": "chen-tuan",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-daoism-believe-in-a-creator",
+   "to": "zhen-zai",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-daoism-believe-in-a-creator",
+   "to": "da-kuai",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-daoism-believe-in-a-creator",
+   "to": "tian-ji",
+   "relation": "related_to"
+  },
+  {
+   "from": "does-daoism-believe-in-a-creator",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "does-daoism-believe-in-a-creator",
+   "to": "hundun",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-019-one-remedy-body",
+   "to": "exp-013-buddhist-daoist-boundary",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-019-one-remedy-body",
+   "to": "exp-018-halflotus-to-full-lotus",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-019-one-remedy-body",
+   "to": "tiaoxi",
+   "relation": "related_to"
+  },
+  {
+   "from": "hezhe-zhi-fu",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "hezhe-zhi-fu",
+   "to": "fish-in-the-dry-spring",
+   "relation": "related_to"
+  },
+  {
+   "from": "hezhe-zhi-fu",
+   "to": "xuzhou-empty-boat",
+   "relation": "related_to"
+  },
+  {
+   "from": "hezhe-zhi-fu",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "hezhe-zhi-fu",
+   "to": "luhou-yang-niao",
+   "relation": "related_to"
+  },
+  {
+   "from": "hezhe-zhi-fu",
+   "to": "fish-happiness",
+   "relation": "related_to"
+  },
+  {
+   "from": "mantis-stalks-cicada",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "mantis-stalks-cicada",
+   "to": "kui-xian-chain",
+   "relation": "related_to"
+  },
+  {
+   "from": "mantis-stalks-cicada",
+   "to": "xuzhou-empty-boat",
+   "relation": "related_to"
+  },
+  {
+   "from": "mantis-stalks-cicada",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "mantis-stalks-cicada",
+   "to": "zuochi",
+   "relation": "related_to"
+  },
+  {
+   "from": "mantis-stalks-cicada",
+   "to": "huzi-jixian",
+   "relation": "related_to"
+  },
+  {
+   "from": "xushi-sheng-bai",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "xushi-sheng-bai",
+   "to": "xinzhai",
+   "relation": "concerns"
+  },
+  {
+   "from": "xushi-sheng-bai",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "xushi-sheng-bai",
+   "to": "zuochi",
+   "relation": "related_to"
+  },
+  {
+   "from": "xushi-sheng-bai",
+   "to": "seeing-light-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "xushi-sheng-bai",
+   "to": "zuowang",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "daodejing-16",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "daodejing-22",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "daodejing-37",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "qingjing-jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-45",
+   "to": "artisan-qing",
+   "relation": "related_to"
+  },
+  {
+   "from": "fu-yi",
+   "to": "daodejing",
+   "relation": "associated_with"
+  },
+  {
+   "from": "fu-yi",
+   "to": "wang-bi",
+   "relation": "related_to"
+  },
+  {
+   "from": "fu-yi",
+   "to": "heshang-gong",
+   "relation": "related_to"
+  },
+  {
+   "from": "fu-yi",
+   "to": "yan-zun",
+   "relation": "related_to"
+  },
+  {
+   "from": "fu-yi",
+   "to": "exp-013-buddhist-daoist-boundary",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-meditation-cure-illness",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-meditation-cure-illness",
+   "to": "farias-adverse-events-2020",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-meditation-cure-illness",
+   "to": "exp-019-one-remedy-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-meditation-cure-illness",
+   "to": "exp-014-double-lotus-doctrine",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-meditation-cure-illness",
+   "to": "taiping-jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-meditation-cure-illness",
+   "to": "baopuzi",
+   "relation": "related_to"
+  },
+  {
+   "from": "can-meditation-cure-illness",
+   "to": "breath-stopping-anxiety",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-020-false-first-dhyana",
+   "to": "exp-016-nine-dhyanas-map",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-020-false-first-dhyana",
+   "to": "exp-014-double-lotus-doctrine",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-020-false-first-dhyana",
+   "to": "seeing-light-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-020-false-first-dhyana",
+   "to": "warmth-tingling-when-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-020-false-first-dhyana",
+   "to": "farias-adverse-events-2020",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhao-che",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "zhao-che",
+   "to": "jian-du",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhao-che",
+   "to": "yingning",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhao-che",
+   "to": "daodejing-48",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhao-che",
+   "to": "seeing-light-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-06",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-06",
+   "to": "xuan-pin",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-06",
+   "to": "tuoyue",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-06",
+   "to": "daodejing-01",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-06",
+   "to": "daodejing-22",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-06",
+   "to": "does-daoism-believe-in-a-creator",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-06",
+   "to": "i-feel-nothing-when-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-06",
+   "to": "yingning-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "i-feel-nothing-when-i-sit",
+   "to": "qi-belief-necessary",
+   "relation": "related_to"
+  },
+  {
+   "from": "i-feel-nothing-when-i-sit",
+   "to": "falling-asleep-during-meditation",
+   "relation": "related_to"
+  },
+  {
+   "from": "i-feel-nothing-when-i-sit",
+   "to": "warmth-tingling-when-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "i-feel-nothing-when-i-sit",
+   "to": "drowsiness-vs-stillness",
+   "relation": "related_to"
+  },
+  {
+   "from": "i-feel-nothing-when-i-sit",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "i-feel-nothing-when-i-sit",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "bao-weng-guan-qi",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "bao-weng-guan-qi",
+   "to": "hundun",
+   "relation": "related_to"
+  },
+  {
+   "from": "bao-weng-guan-qi",
+   "to": "xushi-sheng-bai",
+   "relation": "related_to"
+  },
+  {
+   "from": "bao-weng-guan-qi",
+   "to": "zuochi",
+   "relation": "related_to"
+  },
+  {
+   "from": "bao-weng-guan-qi",
+   "to": "xinzhai",
+   "relation": "concerns"
+  },
+  {
+   "from": "bao-weng-guan-qi",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "zhuangzi-skeleton",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "zhuangzi-skeleton",
+   "to": "drumming-basin",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhuangzi-skeleton",
+   "to": "sanghu-friends",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhuangzi-skeleton",
+   "to": "butterfly-dream",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhuangzi-skeleton",
+   "to": "does-daoism-believe-in-a-creator",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhuangzi-skeleton",
+   "to": "can-meditation-cure-illness",
+   "relation": "related_to"
+  },
+  {
+   "from": "li-ao",
+   "to": "fu-yi",
+   "relation": "related_to"
+  },
+  {
+   "from": "li-ao",
+   "to": "zhiyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "li-ao",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "li-ao",
+   "to": "zhuzi-yulei-jingzuo",
+   "relation": "related_to"
+  },
+  {
+   "from": "li-ao",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "li-ao",
+   "to": "qingjing-jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "li-ao",
+   "to": "exp-013-buddhist-daoist-boundary",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-021-prostrations-channel-circuit",
+   "to": "exp-019-one-remedy-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-021-prostrations-channel-circuit",
+   "to": "exp-018-halflotus-to-full-lotus",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-021-prostrations-channel-circuit",
+   "to": "exp-016-nine-dhyanas-map",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-021-prostrations-channel-circuit",
+   "to": "can-meditation-cure-illness",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhili-shu",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "zhili-shu",
+   "to": "useless-gourd",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhili-shu",
+   "to": "mountain-tree-goose",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhili-shu",
+   "to": "zuowang",
+   "relation": "concerns"
+  },
+  {
+   "from": "zhili-shu",
+   "to": "liang-wang",
+   "relation": "related_to"
+  },
+  {
+   "from": "boshun-archer",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "boshun-archer",
+   "to": "cicada-catcher",
+   "relation": "related_to"
+  },
+  {
+   "from": "boshun-archer",
+   "to": "wooden-rooster",
+   "relation": "related_to"
+  },
+  {
+   "from": "boshun-archer",
+   "to": "boatman",
+   "relation": "related_to"
+  },
+  {
+   "from": "boshun-archer",
+   "to": "artisan-qing",
+   "relation": "related_to"
+  },
+  {
+   "from": "boshun-archer",
+   "to": "zuochi",
+   "relation": "related_to"
+  },
+  {
+   "from": "boshun-archer",
+   "to": "liezi",
+   "relation": "related_to"
+  },
+  {
+   "from": "ji-xin",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "ji-xin",
+   "to": "bao-weng-guan-qi",
+   "relation": "related_to"
+  },
+  {
+   "from": "ji-xin",
+   "to": "xushi-sheng-bai",
+   "relation": "related_to"
+  },
+  {
+   "from": "ji-xin",
+   "to": "zuochi",
+   "relation": "related_to"
+  },
+  {
+   "from": "ji-xin",
+   "to": "xinzhai",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-64",
+   "to": "daodejing",
+   "relation": "translated_as"
+  },
+  {
+   "from": "daodejing-64",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-64",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-64",
+   "to": "daodejing-48",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-64",
+   "to": "daodejing-63",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-64",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-64",
+   "to": "i-feel-nothing-when-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "guo-xiang",
+   "to": "zhuangzi",
+   "relation": "associated_with"
+  },
+  {
+   "from": "guo-xiang",
+   "to": "zhuang-zhou",
+   "relation": "related_to"
+  },
+  {
+   "from": "guo-xiang",
+   "to": "wang-bi",
+   "relation": "related_to"
+  },
+  {
+   "from": "guo-xiang",
+   "to": "da-kuai",
+   "relation": "related_to"
+  },
+  {
+   "from": "guo-xiang",
+   "to": "zhen-zai",
+   "relation": "related_to"
+  },
+  {
+   "from": "guo-xiang",
+   "to": "does-daoism-believe-in-a-creator",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-meditate-when-sick",
+   "to": "can-meditation-cure-illness",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-meditate-when-sick",
+   "to": "exp-019-one-remedy-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-meditate-when-sick",
+   "to": "exp-021-prostrations-channel-circuit",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-meditate-when-sick",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-meditate-when-sick",
+   "to": "taiping-jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-meditate-when-sick",
+   "to": "baopuzi",
+   "relation": "related_to"
+  },
+  {
+   "from": "should-i-meditate-when-sick",
+   "to": "daodejing-64",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-022-its-all-theatre",
+   "to": "exp-016-nine-dhyanas-map",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-022-its-all-theatre",
+   "to": "exp-018-halflotus-to-full-lotus",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-022-its-all-theatre",
+   "to": "exp-008-breath-stopping",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-022-its-all-theatre",
+   "to": "breath-stopping-anxiety",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-022-its-all-theatre",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "cao-shang",
+   "to": "turtle-in-the-mud",
+   "relation": "related_to"
+  },
+  {
+   "from": "cao-shang",
+   "to": "phoenix-and-owl",
+   "relation": "related_to"
+  },
+  {
+   "from": "cao-shang",
+   "to": "marsh-pheasant",
+   "relation": "related_to"
+  },
+  {
+   "from": "cao-shang",
+   "to": "hezhe-zhi-fu",
+   "relation": "related_to"
+  },
+  {
+   "from": "cao-shang",
+   "to": "luhou-yang-niao",
+   "relation": "related_to"
+  },
+  {
+   "from": "cao-shang",
+   "to": "xuzhou-empty-boat",
+   "relation": "related_to"
+  },
+  {
+   "from": "cao-shang",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "tian-lai",
+   "to": "zhuangzi",
+   "relation": "described_in"
+  },
+  {
+   "from": "tian-lai",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "tian-lai",
+   "to": "qiwulun-wu-sang-wo",
+   "relation": "related_to"
+  },
+  {
+   "from": "tian-lai",
+   "to": "da-kuai",
+   "relation": "related_to"
+  },
+  {
+   "from": "tian-lai",
+   "to": "zhen-zai",
+   "relation": "related_to"
+  },
+  {
+   "from": "tian-lai",
+   "to": "tian-ji",
+   "relation": "related_to"
+  },
+  {
+   "from": "tian-lai",
+   "to": "kui-xian-chain",
+   "relation": "related_to"
+  },
+  {
+   "from": "tian-lai",
+   "to": "does-daoism-believe-in-a-creator",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-33",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-33",
+   "to": "daodejing-22",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-33",
+   "to": "daodejing-45",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-33",
+   "to": "jian-du",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-33",
+   "to": "how-long-until-results",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-33",
+   "to": "what-is-stillness",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-33",
+   "to": "xu",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-33",
+   "to": "guan",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-08",
+   "to": "daodejing",
+   "relation": "described_in"
+  },
+  {
+   "from": "daodejing-08",
+   "to": "ziran",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-08",
+   "to": "wuwei",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-08",
+   "to": "jing",
+   "relation": "concerns"
+  },
+  {
+   "from": "daodejing-08",
+   "to": "zhi-shui",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-08",
+   "to": "swimmer-lvliang",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-08",
+   "to": "fish-happiness",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-08",
+   "to": "fish-in-the-dry-spring",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-08",
+   "to": "xuzhou-empty-boat",
+   "relation": "related_to"
+  },
+  {
+   "from": "daodejing-08",
+   "to": "does-daoism-believe-in-a-creator",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-daoling",
+   "to": "kou-qianzhi",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-daoling",
+   "to": "tao-hongjing",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-daoling",
+   "to": "wei-huacun",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-daoling",
+   "to": "taiping-jing",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-daoling",
+   "to": "shangqing-revelations",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-daoling",
+   "to": "kou-qianzhi-reform",
+   "relation": "related_to"
+  },
+  {
+   "from": "zhang-daoling",
+   "to": "shouyi",
+   "relation": "concerns"
+  },
+  {
+   "from": "zhang-daoling",
+   "to": "cunsi",
+   "relation": "concerns"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "yingning-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "artisan-qing-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "wooden-rooster-passage",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "exp-009-dissolving-void",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "exp-010-lotus-pain",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "exp-016-nine-dhyanas-map",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "exp-020-false-first-dhyana",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "how-long-should-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "i-feel-nothing-when-i-sit",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "daodejing-33",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "daodejing-64",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "can-meditation-cure-illness",
+   "relation": "related_to"
+  },
+  {
+   "from": "how-long-until-results",
+   "to": "should-i-meditate-when-sick",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-023-breath-is-the-key",
+   "to": "exp-019-one-remedy-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-023-breath-is-the-key",
+   "to": "exp-012-restless-body",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-023-breath-is-the-key",
+   "to": "exp-021-prostrations-channel-circuit",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-023-breath-is-the-key",
+   "to": "drowsiness-vs-stillness",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-023-breath-is-the-key",
+   "to": "warmth-tingling-when-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-023-breath-is-the-key",
+   "to": "seeing-light-in-sitting",
+   "relation": "related_to"
+  },
+  {
+   "from": "exp-023-breath-is-the-key",
+   "to": "tiaoxi",
+   "relation": "concerns"
+  }
+ ]
 }

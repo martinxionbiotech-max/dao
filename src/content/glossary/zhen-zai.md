@@ -18,7 +18,7 @@ sources:
 
 ## The term
 
-真宰 (zhēnzǎi) — 真, true; 宰, the steward — the one who carves, the one in charge (the same word as the butcher-priest at a sacrifice). The term appears in [ch. 2 of the Zhuangzi](/sources/) in its defining sentence:
+真宰 (zhēnzǎi) — 真, true; 宰, the steward — the one who carves, the one in charge (the same word as the butcher-priest at a sacrifice). The term appears in [ch. 2 of the Zhuangzi](/tools/how-to-verify-sources/) in its defining sentence:
 
 若有真宰，而特不得其朕 — "**As if** there were a true driver — and yet its traces cannot be found."
 

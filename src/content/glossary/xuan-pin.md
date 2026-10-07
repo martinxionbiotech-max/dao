@@ -17,7 +17,7 @@ sources:
 
 ## The term
 
-玄牝 (xuánpìn) — 玄, dark, deep, mysterious; 牝, the female of an animal, the womb-side of the opposition. The term appears once, in [ch. 6](/sources/) of the Daodejing, the book's shortest chapter:
+玄牝 (xuánpìn) — 玄, dark, deep, mysterious; 牝, the female of an animal, the womb-side of the opposition. The term appears once, in [ch. 6](/translations/daodejing-06/) of the Daodejing, the book's shortest chapter:
 
 谷神不死，是谓玄牝。玄牝之门，是谓天地根。绵绵若存，用之不勤。
 

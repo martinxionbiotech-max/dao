@@ -34,4 +34,4 @@ Zhuangzi laughed: "**I would place myself between timber and no-timber.** But be
 
 Because the site's [sitting guidance](/tools/sitting-protocol/) is built on exactly this refusal: the question "what posture is right" is the disciples' question — 材与不材 between postures is still entanglement; the practice pages answer with the season-changing principle instead, one dragon-day, one snake-day, the same sitting.
 
-**Uncertainty preserved:** an *outer* chapter passage (declared layer per the [layering rule](/sources/)); the figures are fable; 雁 = domesticated goose per the scholarly note, kept as a translation decision; the bilibili-type popular readings (workplace survival tips) are not adopted — the site records the text, not self-help glosses.
+**Uncertainty preserved:** an *outer* chapter passage (declared layer per the [layering rule](/tools/how-to-verify-sources/)); the figures are fable; 雁 = domesticated goose per the scholarly note, kept as a translation decision; the bilibili-type popular readings (workplace survival tips) are not adopted — the site records the text, not self-help glosses.

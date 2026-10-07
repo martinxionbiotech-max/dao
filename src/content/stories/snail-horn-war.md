@@ -30,4 +30,4 @@ The guest left, and the king stood dazed, as if he had lost something. When the 
 
 Because it is the tradition's strongest anti-war text — the argument that every war is a snail-horn war — and the site's [scale pages](/stories/jingdi-zhiwa/) now form the full set: the well, the sea, the snail — three containers, one measurement.
 
-**Uncertainty preserved:** a *mixed* chapter passage (declared layer per the [layering rule](/sources/)); the snail kingdoms are fiction; King Ying of Wei is historical, the dialogue is the book's device; the reading follows the text and the attested parallel (Taiping yulan), not the popular self-help glosses.
+**Uncertainty preserved:** a *mixed* chapter passage (declared layer per the [layering rule](/tools/how-to-verify-sources/)); the snail kingdoms are fiction; King Ying of Wei is historical, the dialogue is the book's device; the reading follows the text and the attested parallel (Taiping yulan), not the popular self-help glosses.

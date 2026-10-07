@@ -30,4 +30,4 @@ Zhuangzi's face darkened. "Coming here yesterday," he said, "I heard a voice cry
 
 Because the site's [practice questions](/questions/zuowang-safety-without-teacher/) live in this fable's economy: what a beginner needs is the dipper — the concrete, small, now — not the river of a system that will arrive once everything else is in place. The tradition's own texts keep insisting on this, and this passage is the insistence at its sharpest.
 
-**Uncertainty preserved:** a *mixed* chapter passage (later stratum, declared per the [layering rule](/sources/)); verified against two independent editions that agree, with the 监河侯/监何侯 variant recorded; the fable is the book's self-portrait, not an external chronicle.
+**Uncertainty preserved:** a *mixed* chapter passage (later stratum, declared per the [layering rule](/tools/how-to-verify-sources/)); verified against two independent editions that agree, with the 监河侯/监何侯 variant recorded; the fable is the book's self-portrait, not an external chronicle.

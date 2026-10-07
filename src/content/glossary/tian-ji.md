@@ -17,7 +17,7 @@ sources:
 
 ## The term
 
-天机 (tiānjī) — 天, heaven, the natural; 机, mechanism — the loom's working part, the trigger, the catch that lets a thing run. The term appears in the Zhuangzi in two of the site's [verified passages](/sources/), both times naming the same thing:
+天机 (tiānjī) — 天, heaven, the natural; 机, mechanism — the loom's working part, the trigger, the catch that lets a thing run. The term appears in the Zhuangzi in two of the site's [verified passages](/tools/how-to-verify-sources/), both times naming the same thing:
 
 - The **centipede** (ch. 17): 今予动吾天机，而不知其所以然 — "I move my heaven-mechanism and do not know how it works."
 - The **snake** (ch. 17): 夫天机之所动，何可易邪？吾安用足哉？ — "How can what the heaven-mechanism moves be exchanged? What use would I have for feet?"

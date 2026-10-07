@@ -30,4 +30,4 @@ Once a seabird alighted outside the Lu capital. The Marquis of Lu welcomed it in
 
 Because it is the tradition's cleanest statement of the [practice boundaries](/questions/can-sitting-go-wrong/) the site polices everywhere: the best practice for *you* may be the death of someone else's — the site's posture doctrine (the tradition's own graded system of [sitting forms](/glossary/jiafuzuo/)) is this passage applied to knees, and its teacher-warning pages are this passage applied to advice.
 
-**Uncertainty preserved:** an *outer* chapter passage (later stratum, declared per the [layering rule](/sources/)); the marquis's death-by-hospitality is fable, not chronicle; the Analects pairing is a modern essayist's extension, recorded as such.
+**Uncertainty preserved:** an *outer* chapter passage (later stratum, declared per the [layering rule](/tools/how-to-verify-sources/)); the marquis's death-by-hospitality is fable, not chronicle; the Analects pairing is a modern essayist's extension, recorded as such.

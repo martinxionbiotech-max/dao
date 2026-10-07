@@ -18,7 +18,7 @@ sources:
 
 ## The term
 
-大块 (dàkuài) — 块, a clod, a lump, a mass of earth; 大块, the great clod. The term appears twice in the site's [verified passages](/sources/), and the two uses bracket the book's cosmology:
+大块 (dàkuài) — 块, a clod, a lump, a mass of earth; 大块, the great clod. The term appears twice in the site's [verified passages](/tools/how-to-verify-sources/), and the two uses bracket the book's cosmology:
 
 - **As the breather** (ch. 2, opening the chapter): 夫大块噫气，其名为风 — "The great clod breathes out; the breath is called wind" — and the breathing's sound runs through every hollow: 是唯无作，作则万窍怒呺 — "only when it does not stir; when it stirs, the ten thousand hollows roar."
 - **As the carrier** (ch. 6, the [four friends](/stories/four-friends/)): 大块载我以形，劳我以生，佚我以老，息我以死 — "the great clod carries me with a form, labors me with life, rests me with age, and quiets me with death."

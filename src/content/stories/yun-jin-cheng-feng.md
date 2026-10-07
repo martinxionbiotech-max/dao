@@ -33,4 +33,4 @@ Zhuangzi, attending a funeral, passed Huizi's grave and, turning to his follower
 
 Because the site's [source policy](/tools/how-to-verify-sources/) is itself a two-person craft — verification is the partner without whom the writer's axe is wind over nothing — and this is the tradition's own statement of that: **I have no one to talk to** is not loneliness; it is the recognition that thinking is done in pairs.
 
-**Uncertainty preserved:** a *mixed* chapter passage (declared layer per the [layering rule](/sources/)); the story is fable (the carpenter Shi is also the ch. 4 figure, and the book reuses its cast); Zhuangzi's visit to Huizi's grave is the book's own scene, not an external biography; the reading follows the text and the teaching-edition notes.
+**Uncertainty preserved:** a *mixed* chapter passage (declared layer per the [layering rule](/tools/how-to-verify-sources/)); the story is fable (the carpenter Shi is also the ch. 4 figure, and the book reuses its cast); Zhuangzi's visit to Huizi's grave is the book's own scene, not an external biography; the reading follows the text and the teaching-edition notes.
