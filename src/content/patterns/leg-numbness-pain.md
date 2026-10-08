@@ -21,3 +21,7 @@ sources:
 **Mechanical reading.** Crossed-leg postures compress nerves and vessels; numbness is expected; numbness that persists after release, or pain at the joints themselves rather than in the musculature, is the traditional and modern warning line alike.
 
 **Separation of evidence.** Community reports (CONTEMPORARY COMMUNITY OBSERVATION); traditional counsel (TRADITIONAL / LINEAGE INTERPRETATION); the mechanical account is common knowledge in health literature, not a research finding on Daoist sitting. `evidenceBasis` is `partially-researched` in the adjacent-domain sense only. See [EXP-003](/experiences/reports/exp-003-leg-pain-filling/) and [EXP-006](/experiences/notes/exp-006-leg-numbness/); safety floor on the [sitting protocol](/tools/sitting-protocol/) page.
+
+The full posture-chapter archive is at [The Lotus Posture Chapter](/experiences/notes/exp-031-lotus-posture-chapter/).
+
+The self-check question this pattern supports is [How Do I Know My Posture Is Right?](/experiences/questions/how-do-i-know-my-posture-is-right/).

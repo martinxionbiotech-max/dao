@@ -31,3 +31,5 @@ sources:
 - **The source of a persistent confusion.** Because the dantian map is *traditional doctrine* — a contemplative geography, not an anatomical finding — modern warmth-sensation reports ("my lower dantian heated up") inherit an interpretive fork: traditional practitioners read the map as real inner physiology; modern observers read the sensations as body-mind events on which the map is overlaid. The [patterns page](/experiences/patterns/warmth-and-qi-sensations/) keeps the two readings separated, as this text page does.
 
 **Uncertainty preserved:** author unknown, date contested, text layered. The Huangting is cited here as what it is — a received scripture of contested date whose vocabulary shaped the later tradition — not as a historical report.
+
+The dantian idea's textual arrival is dated at [Huangting Jing: The Three-Dantian System (c. 3rd–4th c.)](/timeline/huangting-jing-dantian/).

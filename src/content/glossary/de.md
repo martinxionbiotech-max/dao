@@ -6,6 +6,7 @@ pinyin: "dé"
 literalMeaning: "virtue, power, inner potency"
 translationOptions: ["virtue", "power", "integrity", "potency", "virtuosity"]
 recommended: "keep romanized as De/dé where technical; 'virtue/power' gloss on first use"
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["dao", "wuwei"]

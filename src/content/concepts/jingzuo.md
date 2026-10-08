@@ -57,3 +57,9 @@ Empirical research specific to Neo-Confucian jingzuo is extremely scarce. Studie
 Jingzuo is the term that connects classical Daoist absorption (zuowang) to the mainstream scholar-official culture of later China — and through Zhu Xi's curriculum, to East Asian education generally. For the modern knowledge map it is the key bridge node: Chinese contemplative practice survived in the "respectable" Confucian world precisely by being reframed as preparation for study and conduct, while its Daoist and Buddhist relatives kept the absorptive and release-oriented aims.
 
 **Uncertainty is preserved:** the degree to which Song jingzuo practice was directly continuous with earlier Daoist methods, versus a parallel development borrowing Buddhist forms, is debated in scholarship and cannot be settled from the surviving sources.
+
+The mid-Tang precursor usually credited for the quiet-sitting revival is [Li Ao (李翱)](/people/li-ao/).
+
+The zuowang-or-jingzuo question is treated at [What Is the Difference Between Zuowang and Jingzuo?](/experiences/questions/zuowang-vs-jingzuo/).
+
+The founding anecdote of the quiet-sitting school is [Cheng Yi and Yang Shi: Standing in Snow (1093 CE)](/timeline/cheng-men-li-xue/).

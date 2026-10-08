@@ -30,3 +30,7 @@ Contemporary communities describe the same reports in ordinary terms: hypnagogic
 The tradition's non-grasping counsel has a hard edge it cannot cross: **persistent or distressing visual symptoms — light or images that continue off the cushion, disturb sleep, or interfere with daily life — are a medical matter**, not a meditation matter. The tradition's texts say nothing about neurological or ophthalmological conditions, and neither does this page.
 
 **Not medical advice:** new-onset or worsening visual symptoms warrant professional evaluation regardless of practice context.
+
+The question form of this problem is answered at [Why Do I See Lights?](/experiences/questions/why-do-i-see-lights/).
+
+A classical story about seeing what is not there is kept at [The Duke Who Saw a Ghost](/stories/huan-gong-jian-gui/).

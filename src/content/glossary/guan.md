@@ -6,6 +6,7 @@ pinyin: "guān"
 literalMeaning: "to observe; to watch; to look deeply into"
 translationOptions: ["observation", "contemplative seeing", "inner observation", "to watch"]
 recommended: "observation (inner observation where the target is the interior); 'contemplation' only with Buddhist contexts flagged"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["neiguan", "jingzuo"]

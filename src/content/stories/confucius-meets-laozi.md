@@ -31,3 +31,5 @@ Three things in this short passage do real work for the whole tradition:
 3. **The reverence runs both ways.** The story is often read as Daoist triumphalism, but its frame is Confucius' own voice praising Laozi — a meeting of respect, not a contest. The tradition preserved it that way.
 
 **Uncertainty preserved:** historicity of the encounter is unverifiable; the dragon speech is recorded in Sima Qian's own text, but as reported speech of Confucius — tradition, not transcript.
+
+The older teacher-meeting story is [The Yellow Emperor Asks Guangchengzi](/stories/guangchengzi/).

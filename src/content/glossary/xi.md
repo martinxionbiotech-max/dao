@@ -6,6 +6,7 @@ pinyin: "xī"
 literalMeaning: "breath; rest; to rest; the fine continuous breath"
 translationOptions: ["rest (breath)", "subtle breath", "the resting breath"]
 recommended: "'rest breath' in the four-breath ladder; plain 'breath' elsewhere (真人之息以踵 = 'the true person's breathing reaches the heels')"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["tiaoxi", "taixi", "qi"]

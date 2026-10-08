@@ -59,3 +59,7 @@ Three passages ground the later meditation tradition:
 ## Editorial synthesis
 
 The *Daodejing* and the *Zhuangzi* divide the labor of this knowledge base: the *Daodejing* supplies the *program* (subtract, empty, still, return) and the cosmology (the One, qi, the Dao); the *Zhuangzi* supplies the *phenomenology* (what the emptied state is described as). Every later Chinese sitting tradition — Daoist shouyi and zuowang, Chan, Neo-Confucian jingzuo — quotes or adapts these two books. That is why the site treats them as the root texts and cites chapter-and-verse rather than paraphrase.
+
+The earliest material witness to the text is [Guodian Daodejing Manuscripts (c. 300 BCE or earlier)](/timeline/guodian-daodejing/).
+
+Chapter 46 (knowing-enough) is translated at [When the World Has the Way (Daodejing 46)](/translations/daodejing-46/).

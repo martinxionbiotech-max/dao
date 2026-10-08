@@ -6,6 +6,7 @@ pinyin: "jiéjiāfūzuò"
 literalMeaning: "bound sitting with folded soles: 结 tie/bind, 跏 cross, 趺 instep/sole, 坐 sit — the ankles and insteps crossed and settled on the thighs"
 translationOptions: ["full-lotus posture", "cross-legged sitting (lotus)", "bound-cross-legged sitting"]
 recommended: "'full-lotus posture' when the double-crossed form is meant; 'cross-legged sitting' for the general family (and never just 'lotus,' which is a flower loan)"
+evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["jingzuo"]

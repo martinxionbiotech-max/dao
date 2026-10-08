@@ -30,3 +30,5 @@ sources:
 ## The boundary
 
 Forced breath work can produce real symptoms (dizziness, chest discomfort, anxiety); no classical or modern source on this site recommends it. Spontaneous breath-stopping as a meditation phenomenon is reported but unstudied specifically in Daoist populations — and it is *indistinguishable at first glance* from conditions that need medical attention. The rule this site applies: comfortable and reversible is meditative; anything distressing, or any breathing problem outside sitting, is a doctor's question first.
+
+A community-archive case of forced breathing around session-closing is kept at [EXP-011: Closing the Session — the Shougong Protocol and Forced Breathing](/experiences/notes/exp-011-shougong-protocol/).

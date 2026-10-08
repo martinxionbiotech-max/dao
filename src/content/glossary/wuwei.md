@@ -6,6 +6,7 @@ pinyin: "wúwéi"
 literalMeaning: "no-doing"
 translationOptions: ["non-action", "effortless action", "non-coercive action", "acting without contrivance"]
 recommended: "non-action, with the note that it is the negation of forced/contrived action, not of activity"
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["wuwei"]

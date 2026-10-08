@@ -4,6 +4,7 @@ description: "The oldest surviving Daodejing fragments, excavated in 1993 from a
 periodStart: "before 300 BCE"
 periodEnd: "1993 CE (excavation)"
 eventType: "manuscript discovery"
+evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedTexts: ["daodejing"]

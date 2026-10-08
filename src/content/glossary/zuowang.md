@@ -6,6 +6,7 @@ pinyin: "zuòwàng"
 literalMeaning: "sitting-forgetting"
 translationOptions: ["sitting in oblivion", "sitting in forgetfulness", "sitting and forgetting"]
 recommended: "sitting in oblivion (Kohn 2010); gloss with pinyin on first use"
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["zuowang"]

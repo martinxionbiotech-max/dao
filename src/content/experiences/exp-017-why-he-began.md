@@ -15,6 +15,10 @@ alternativeInterpretation: "The account is a self-report, recorded as the teache
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 1 (360kuai reprint, 2021): why he began — the teacher's origin story, daily schedule, retreat record, and lineage refusal (https://www.360kuai.com/pc/9e6f36b9dd6094ba8). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedResearch: ["farias-adverse-events-2020"]
+relatedQuestions: ["does-practice-need-faith"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

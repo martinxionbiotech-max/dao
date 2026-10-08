@@ -4,6 +4,7 @@ description: "Zuowang (sitting in oblivion) and jingzuo (quiet sitting): one is 
 question: "What is the difference between zuowang and jingzuo?"
 context: "Both are commonly translated as 'seated meditation'; readers encounter them as near-synonyms."
 answerState: answered
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["zuowang", "jingzuo"]

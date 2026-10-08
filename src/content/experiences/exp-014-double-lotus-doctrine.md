@@ -15,6 +15,10 @@ alternativeInterpretation: "The electric-shock sensations during drowsy stillnes
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 25 (163.com community column, 2021): why double-lotus is required (https://www.163.com/dy/article/G2SOIJDD0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["jingzuo"]
+relatedQuestions: ["must-i-sit-cross-legged"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

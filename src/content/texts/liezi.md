@@ -36,3 +36,5 @@ No book in the tradition has a sharper gap between its traditional attribution a
 The *Liezi* is treated here with the same layer discipline as the [Zhuangzi compilation timeline](/timeline/zhuangzi-compilation/): quotations are flagged by chapter, the received text is dated to the Jin era as the working attribution, and traditional attributions to Master Lie are reported as tradition, not as established authorship. The book's *xu* cosmology is used as it was historically used — as the vocabulary of emptiness — without this site adopting its full metaphysics (the "three mountains," the immortal islands, the automaton wonders).
 
 **Uncertainty preserved:** authorship and date are genuinely disputed; both positions are live in scholarship; this page's own citations of the book carry the Jin-era dating as the conservative default.
+
+Its compilation history is summarized at [Liezi Compiled (Jin Era, c. 285–400 CE)](/timeline/liezi-compilation/).

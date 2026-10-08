@@ -4,6 +4,7 @@ description: "Ge Hong compiles the Baopuzi — inner chapters on practice, outer
 periodStart: "c. 314 CE"
 periodEnd: "c. 320s CE"
 eventType: "text compilation"
+evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["shouyi", "taixi"]

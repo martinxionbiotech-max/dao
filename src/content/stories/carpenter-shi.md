@@ -37,3 +37,5 @@ The story is the book's farewell to its own most quoted sparring partner — Hui
 Because a knowledge base is the one thing this story warns is not enough. The texts, the pages, the verified quotations — all are Carpenter Shi without his partner: the axe exists, the skill is documented, but "the partner I cut for has been dead a long time." The site's standing answer, on every page, is that these documents are the *record* of a practice that happens between people; this story is the tradition's own statement of exactly that.
 
 **Uncertainty preserved:** a funeral-side parable from the *miscellaneous* chapters (the book's latest stratum — see the [compilation timeline](/timeline/zhuangzi-compilation/)); the historical Hui Shi is known only through fragments, and the story is an elegy, not a report.
+
+The un-self-conscious craft ideal appears again in [The Unrobed Painter: What the True Artist Does with Protocol](/stories/painter-unrobed/).

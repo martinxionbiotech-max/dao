@@ -41,3 +41,5 @@ The tradition and the scholarship genuinely disagree about the emotional registe
 Because the site's core discipline — the [butterfly](/stories/butterfly-dream/) question, the [wu sang wo](/translations/qiwulun-wu-sang-wo/) translation — is exactly this: transformation as the medium of things. The basin story is the tradition's hardest version of that claim, and it belongs here *with its controversy attached*: a knowledge base that hides the split would be performing the equanimity it is supposed to examine.
 
 **Uncertainty preserved:** an *outer* chapter story (middle stratum); the exchange is a scene, not a transcript; and the two readings are both scholarly positions about the text's tone, neither settled by the text itself.
+
+The other death-and-transformation story is [Zhuangzi and the Skull](/stories/zhuangzi-skeleton/).

@@ -6,6 +6,7 @@ pinyin: "shén"
 literalMeaning: "spirit; numen; the luminous-animating aspect of the mind"
 translationOptions: ["spirit", "spirit/mind", "numinous", "mind (in its luminous aspect)"]
 recommended: "spirit (with 'luminous-animating mind' glossed where the context is meditative)"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["jingzuo", "shouyi", "qi"]

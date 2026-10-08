@@ -6,6 +6,7 @@ pinyin: "dào"
 literalMeaning: "way, path, road; to speak"
 translationOptions: ["Way (capitalized)", "the Dao (romanized)", "path", "method"]
 recommended: "keep romanized as Dao/dào; capitalize 'Way' when the technical sense is meant"
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["dao", "wuwei"]

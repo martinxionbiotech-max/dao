@@ -15,6 +15,9 @@ alternativeInterpretation: "The phenomena map onto well-documented relaxation ef
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 36 (163.com community column, 2021) (https://c.m.163.com/news/a/G3C0P3HD0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["jingzuo"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

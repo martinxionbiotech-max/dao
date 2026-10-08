@@ -29,3 +29,5 @@ sources:
 Because the site's [Heshang Gong page](/people/heshang-gong/) ends with the oldest *practice* reading of the Laozi being anonymous — and Wang Bi is the counterweight: the oldest *philosophical* reading, by a named, dated, twenty-three-year-old. The pair is the site's standing lesson about the [source policy](/tools/how-to-verify-sources/): the tradition's two founding readings of the same book are one legendary name and one historical one, and the discipline is to know which is which on every page.
 
 **Uncertainty preserved:** the biography follows the standard sources (226–249, the post, the death at 24); the intellectual characterization follows the scholarly account recorded above; the site does not adopt the xuanxue reading's metaphysics — it documents it, exactly as it documents the Heshang Gong reading without adopting its physiology.
+
+The commentary that fixed the received text is dated at [Wang Bi's Laozi Commentary (c. 249 CE)](/timeline/wangbi-laozi-commentary/).

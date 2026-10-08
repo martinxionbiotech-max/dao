@@ -15,6 +15,10 @@ alternativeInterpretation: "Pain is a body signal, not a rite of passage: the mo
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 28 (163.com community column, 2021) (https://www.163.com/dy/article/G2V23JGP0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["jingzuo"]
+relatedQuestions: ["must-i-sit-cross-legged"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

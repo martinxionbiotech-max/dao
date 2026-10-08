@@ -15,6 +15,10 @@ alternativeInterpretation: "The health claims are recorded as the teacher's, and
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 42 (163.com community column): solving body problems through practice — breath practice as the one remedy (https://www.163.com/dy/article/G3PS03JE0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["tiaoxi", "jingzuo"]
+relatedQuestions: ["does-diet-matter"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

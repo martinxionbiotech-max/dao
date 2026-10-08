@@ -16,6 +16,10 @@ alternativeInterpretation: "The site's three-layer handling: the standing-post r
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 40 (163.com community column): standing post versus sitting, the habit-seeds-surfacing doctrine, the alternating-legs rule, and the moderate corners (eat less, move more, fix the present) (https://www.163.com/dy/article/G3FCGTLQ0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["jingzuo"]
+relatedQuestions: ["must-i-sit-cross-legged"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

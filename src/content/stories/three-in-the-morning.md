@@ -33,3 +33,5 @@ The story sits inside one of the book's hardest passages — the argument that "
 The phrase 朝三暮四 has since drifted in modern usage to mean "fickle, changeable, inconsistent." The Zhuangzi's own use is nearly the opposite: not changeableness but *changelessness misread* — the same total, angrily refused, then joyfully accepted. This page keeps the original sense, per the [translation policy](/blog/translation-policy/): the source text's meaning first, the idiom's later career second.
 
 **Uncertainty preserved:** an *inner* chapter passage (the earliest stratum — see the [compilation timeline](/timeline/zhuangzi-compilation/)); a fable, not a report; and the surrounding argument (the "making things one" passage) is among the most debated in the book — the page's reading is the traditional one, stated as such.
+
+The chapter term this anecdote supports is [Moruo Yiming (莫若以明)](/glossary/mo-ruo-yi-ming/).

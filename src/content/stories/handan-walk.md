@@ -33,3 +33,5 @@ The fable does one precise job, and the site keeps it for the same job:
 Because this site's entire premise is people arriving from elsewhere — from mindfulness programs, from mixed communities, from [comparison pages](/comparisons/zuowang-vs-mindfulness/) — and the tradition's own warning about that situation is this fable. The [combining question](/experiences/questions/combine-zuowang-mindfulness/) and the [sitting protocol](/tools/sitting-protocol/) both implement the Handan lesson in policy form: keep what already works, add without substituting, and check — in the fable's own image — that you can still walk.
 
 **Uncertainty preserved:** an *outer* chapter fable (the middle stratum — see the [compilation timeline](/timeline/zhuangzi-compilation/)); the Handan walk itself is proverbial, and the scene (Gongsun Long's rout) is literary, not a report. The idiom has since generalized into "blind imitation"; the page keeps the source sense per the [translation policy](/blog/translation-policy/).
+
+The other imitation story in the Zhuangzi is [The Woman Who Copied the Frown: Imitation Without Its Ground](/stories/dongshi-frowning/).

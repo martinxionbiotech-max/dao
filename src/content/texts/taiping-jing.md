@@ -34,3 +34,5 @@ This book is where **guarding the One becomes a method**. Before it, shouyi is a
 The received text is a **fragment**: the Ming Daoist Canon carries 57 juan of the original 170 (with the 10-juan Tang-era *Taiping Jing Chao* abridgment alongside, and the first ten juan of the Canon text supplied from that abridgment). The standard scholarly collation is Wang Ming's *Taiping Jing Hejiao* (1960). Quotations on this site are used with that condition in mind: the book is a partial witness, its received wording sometimes rougher than later scriptures' — and its witness to the *practice tradition* (that shouyi was a real, taught, chamber meditation by the second century) is nonetheless solid.
 
 **Uncertainty preserved:** the revelation story (Yu Ji, the immortals) is tradition; the dating and social context are scholarly reconstruction; what is secure is the text's age, its content, and its role as the earliest systematic shouyi source.
+
+The earliest shouyi teaching is dated at [Taiping Jing: Shouyi and the Exit Conditions (Eastern Han)](/timeline/taiping-jing-shouyi/).

@@ -6,6 +6,7 @@ pinyin: "tuóyuè"
 literalMeaning: "bellows: 橐 the leather bag, 籥 the blowpipe tubes — the smith's double-valved air machine"
 translationOptions: ["bellows", "the bellows of the forge", "the empty bag and its pipes"]
 recommended: "bellows (with 'the smith's air machine' glossed where the emptiness-productivity point matters)"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["xu", "jing", "dao"]

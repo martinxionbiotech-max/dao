@@ -4,6 +4,7 @@ description: "Ge Hong's Baopuzi neipian 'Dizhen' chapter converts shouyi from sc
 periodStart: "c. 320 CE"
 periodEnd: "c. 320 CE"
 eventType: "text compilation"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["shouyi", "jing-qi-shen"]

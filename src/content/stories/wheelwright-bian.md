@@ -39,3 +39,5 @@ Because it names the exact limit this site is built around:
 - **The dregs.** 糟魄 ("dregs, lees") is deliberately insulting — and deliberately true in one sense: reading the words without the practice *is* drinking the lees. The site's answer, on every page, is that texts are maps, not terrain — the [translation policy](/blog/translation-policy/) states it as doctrine, and this story states it as a joke with a death threat in it.
 
 **Uncertainty preserved:** parable, with Duke Huan of Qi as the straight man — historical framing, not history. The story's attack on books is itself transmitted by a book: the tradition has always read it as a warning *inside* the reading, not as a command to stop reading.
+
+The other craft-mastery story in the same chapter is [The Old Man Who Forged Belt-Hooks](/stories/hook-smith/).

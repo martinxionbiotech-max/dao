@@ -4,6 +4,7 @@ description: "Sima Qian's Records of the Grand Historian gives the oldest surviv
 periodStart: "c. 100 BCE"
 periodEnd: "c. 100 BCE"
 eventType: "earliest biography"
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedPeople: ["laozi", "zhuang-zhou"]

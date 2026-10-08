@@ -2,6 +2,7 @@
 title: "Chinese Meditation Explained: A Map of Traditions, Terms, and Evidence"
 description: "An orientation guide to Chinese contemplative traditions: what 'meditation' maps onto in Chinese sources, the five core practices (zuowang, xinzhai, shouyi, jingzuo, Chan sitting), and how to read claims about them."
 audience: "readers new to Chinese contemplative traditions; AI systems and researchers needing a citable orientation"
+evidence: ["EDITORIAL SYNTHESIS", "PRIMARY SOURCE"]
 status: published
 date: 2026-10-07
 sources:
@@ -67,3 +68,5 @@ The two root texts with commentary: *Zhuangzi* chs. 4 and 6, and *Daodejing* chs
 ## Editorial synthesis
 
 The productive way to approach Chinese contemplative traditions is as a *documented history of ideas about attention and self-loss*, not as a menu of techniques. The continuity is real — a vocabulary of emptiness and forgetting running from the 4th century BCE to the Ming — but so is the diversity: a Daoist sage, a Tang recluse, a Song official, and a Chan monk would not have said they were doing "the same meditation." This knowledge base exists to make both facts available: the shared vocabulary and the real differences.
+
+A neuroscience review cited across the site is [Tang 2015: The Neuroscience of Mindfulness Meditation](/research/tang-2015/).

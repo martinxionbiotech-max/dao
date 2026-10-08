@@ -6,6 +6,7 @@ pinyin: "xīn"
 literalMeaning: "heart; mind; heart-mind"
 translationOptions: ["heart-mind", "mind", "heart"]
 recommended: "heart-mind on first use in philosophical contexts; then plain 'mind' if the context is cognitive"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["xinzhai", "qi"]

@@ -36,3 +36,5 @@ Three reasons:
 The received text descends from a Song-era collation (the Siku Quanshu editors record the chaotic count discrepancies across all prior bibliographies — inner chapters counted at 20, 21, or 10 juan in different catalogs; outer at 50, 51, 52, 30, or 20). This page uses the received numbering: inner 20, outer 52, with the author's own count (50) noted. The chapters this site quotes — Shizhi and Dizhen — are intact and multiply attested. The book is not scripture in the devotional sense; it is one practitioner-scholar's compilation, and this site treats it as such: a witness, not a canon.
 
 **Uncertainty preserved:** juan numbering varies across the tradition's bibliographies; Ge Hong's authorship of the inner chapters is secure, the fine transmission details are documented as imperfect.
+
+Its composition date is pinned at [Baopuzi Composed (c. 314–320s CE)](/timeline/baopuzi-composition/).

@@ -45,3 +45,7 @@ The *Taiping Jing* explicitly instructs: do not force the sitting; if restless o
 Shouyi is the missing link between the *Daodejing*'s abstract "embrace the One" and the elaborate visual meditation systems of medieval Daoism. It is also the earliest Chinese evidence of a *standardized sitting protocol* (room, schedule, posture of attention, exit conditions, graded signs of progress) — which makes it a foundational source for the history of Chinese meditation as a *practice technology*, not just a philosophy.
 
 **Uncertainty is preserved:** the experiential vocabulary of the *Taiping Jing* (colors, inner images) cannot be interpreted with confidence across two millennia; whether these were shared experiential phenomena or literary conventions is unknown.
+
+The verbal root of this practice family is the [Baoyi](/glossary/baoyi/) entry.
+
+Ge Hong's codification of this practice is dated at [Ge Hong's Baopuzi: Shouyi Systematized (c. 320 CE)](/timeline/baopuzi-shouyi/).

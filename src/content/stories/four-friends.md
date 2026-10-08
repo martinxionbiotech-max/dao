@@ -42,3 +42,5 @@ He fell asleep content, woke with a start — and a sudden sweat broke out.
 Because it is the inner chapters' fullest statement of the transformation-view, and the natural companion of [Qin Shi's three cries](/stories/qinshi-mourning/): one passage for the death of the founder, one for the deaths of friends — the book's two funerals, both measured.
 
 **Uncertainty preserved:** an *inner* chapter passage (earliest stratum), fully verified against the Wikisource full text; the four friends are fable; the passage is quoted in translation as evidence, with the source-text discipline the [translation policy](/blog/translation-policy/) requires.
+
+The odd-person notion behind this story has its own [Jiren (畸人)](/glossary/ji-ren/) entry.

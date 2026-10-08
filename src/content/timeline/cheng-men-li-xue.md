@@ -4,6 +4,7 @@ description: "The 'Cheng Men Li Xue' episode — Yang Shi standing respectfully 
 periodStart: "1093 CE"
 periodEnd: "1093 CE"
 eventType: "foundational episode"
+evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["jingzuo"]

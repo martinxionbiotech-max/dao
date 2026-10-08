@@ -15,6 +15,10 @@ alternativeInterpretation: "The site's three-layer handling: the one-meal, 864-p
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 46 (163.com community column): the channel circuit, the 864-prostration regime, the thermostat explanation, and the anti-display joke (https://www.163.com/dy/article/G50IOBL70545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["jingzuo"]
+relatedConcepts: ["qi"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

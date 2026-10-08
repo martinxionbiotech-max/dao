@@ -33,3 +33,5 @@ Back home, for three months he did not leave the house. His disciple Lin Ju aske
 Because it is the book's own warning about the site's central practice word: the [sitting pages](/practices/jingzuo/) teach forgetting-as-practice; this passage teaches that forgetting-as-automatic is the trap the practice exists to interrupt. The [zuochi glossary](/glossary/zuochi/) (坐驰 — "sitting while galloping") is the same warning inside the sitting posture; this page is the same warning inside the world.
 
 **Uncertainty preserved:** an *outer* chapter passage (later stratum, declared per the [layering rule](/tools/how-to-verify-sources/)); verified against the full text with variants (樊/野; 见利/见得) recorded; the proverb's attribution is double-registered (Zhuangzi for the image, *Shuo yuan* for the two-link proverb); 三月不庭 read as "did not leave the courtyard for three months," the standard reading.
+
+The Diaoling magpie scene is told in [The Magpie at Diaoling](/stories/diao-ling-yi-que/).

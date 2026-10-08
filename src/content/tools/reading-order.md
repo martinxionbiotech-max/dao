@@ -2,6 +2,7 @@
 title: "Primary Text Reading Order"
 description: "A guided reading order through the core texts of Chinese contemplative tradition, from the shortest classic to the systematic treatise — with what each text contributes and what to skip first."
 purpose: "Reading guide for newcomers who want to encounter the sources directly rather than through paraphrase"
+evidence: ["EDITORIAL SYNTHESIS"]
 status: published
 date: 2026-10-07
 relatedTexts: ["daodejing", "zhuangzi", "qingjing-jing", "neiguan-jing", "zuowang-lun"]

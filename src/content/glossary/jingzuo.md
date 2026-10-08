@@ -6,6 +6,7 @@ pinyin: "jìngzuò"
 literalMeaning: "still/quiet sitting"
 translationOptions: ["quiet sitting", "sitting in stillness", "quiet-sitting (hyphenated as technical term)"]
 recommended: "quiet sitting; hyphenate 'quiet-sitting' in scholarly contexts"
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["jingzuo"]

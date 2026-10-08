@@ -36,3 +36,5 @@ sources:
 No modern research validates taixi as physiology; "breathing without nose or mouth" is traditional language for a felt state, not a measurement. The safety frame this site applies: quiet breathing is safe; forcing, retaining, or fighting the breath is not advisable and has no classical warrant. The [sitting protocol](/tools/sitting-protocol/) therefore keeps breath work at the level of *regulation* (调), never forcing.
 
 **Uncertainty preserved:** the Baopuzi's definition is rhetorical in part (breathing "as in the womb" is imagery, and the text treats the actual attainment as the end of the path, 道成); the page reports the ideal as the tradition states it, not as an achievable checklist.
+
+The finest of the four breath types named by the Xiao Zhiguan is [Xi](/glossary/xi/).

@@ -48,3 +48,5 @@ Attributions to "Laozi" in contemplative literature are *ascriptions of authorit
 Laozi is best treated as two figures kept deliberately separate: the *historical* person, about whom the earliest source confesses ignorance; and the *traditional/deified* figure, whose authority structures two millennia of Daoist scripture. Mixing them — presenting the dragon story as biography, or the archivist as the author of Tang scriptures — is the single most common error in popular writing about Daoism, and this site documents the separation explicitly.
 
 **Uncertainty is preserved:** whether a single historical person named Li Er existed, and whether he composed any part of the *Daodejing*, cannot be established from surviving evidence.
+
+The earliest surviving biographical notice is [Shiji Biographies of Laozi and Zhuang Zhou (c. 100 BCE)](/timeline/shiji-biographies/).

@@ -4,6 +4,7 @@ description: "The complete sitting-in-oblivion passage 坐忘 from Zhuangzi ch. 
 sourceText: "zhuangzi"
 term: "zuowang"
 chinese: "墮肢體，黜聰明，離形去知，同於大通，此謂坐忘。"
+evidence: ["PRIMARY SOURCE"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["zuowang", "xinzhai"]

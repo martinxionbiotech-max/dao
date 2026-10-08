@@ -4,6 +4,7 @@ description: "A frequently asked question: can zuowang or jingzuo be practiced a
 question: "Can I practice Daoist sitting (zuowang / jingzuo) without a teacher?"
 context: "A common question from modern practitioners approaching the tradition through books and the internet rather than lineage instruction."
 answerState: open
+evidence: ["PRIMARY SOURCE", "PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["zuowang", "jingzuo", "shouyi"]

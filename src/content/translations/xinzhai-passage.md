@@ -4,6 +4,7 @@ description: "The complete fasting-of-the-mind passage 心斋 from Zhuangzi ch. 
 sourceText: "zhuangzi"
 term: "xinzhai"
 chinese: "若一志，無聽之以耳而聽之以心，無聽之以心而聽之以氣。聽止於耳，心止於符。氣也者，虛而待物者也。唯道集虛。虛者，心齋也。"
+evidence: ["PRIMARY SOURCE"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["xinzhai", "qi", "xin"]

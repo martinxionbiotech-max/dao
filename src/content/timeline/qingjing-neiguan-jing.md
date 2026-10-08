@@ -4,6 +4,7 @@ description: "The two anonymous scriptures that bridge Han visualization and Tan
 periodStart: "6th c. CE"
 periodEnd: "early 7th c. CE"
 eventType: "text composition"
+evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedTexts: ["qingjing-jing", "neiguan-jing", "zuowang-lun"]

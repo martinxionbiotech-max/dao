@@ -6,6 +6,7 @@ pinyin: "xīnzhāi"
 literalMeaning: "mind/heart-fasting"
 translationOptions: ["fasting of the mind", "fasting of the heart-mind", "the mind's fast"]
 recommended: "fasting of the mind (with the note that xin covers both heart and mind)"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["xinzhai"]

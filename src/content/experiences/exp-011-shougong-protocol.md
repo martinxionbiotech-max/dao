@@ -15,6 +15,9 @@ alternativeInterpretation: "The qi-circulation account of post-sitting pain is t
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 29 (163.com community column, 2021) (https://www.163.com/dy/article/G2V35NKQ0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["jingzuo", "tiaoxi"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

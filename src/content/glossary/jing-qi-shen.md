@@ -6,6 +6,7 @@ pinyin: "jīng-qì-shén"
 literalMeaning: "essence–vitality–spirit"
 translationOptions: ["the three treasures (sanbao)", "essence, qi, spirit", "vital essence, vital energy, spirit"]
 recommended: "the three treasures (jing, qi, shen), glossed once; never 'body-fluids-energy-mind' literally"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["qi", "shouyi"]

@@ -15,6 +15,10 @@ alternativeInterpretation: "The site's three-layer handling: the metaphysics (ei
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 48 (163.com community column): the theatre doctrine, the daily-sitting rule, the deep-concentration reassurance, and the yoga ceiling (https://www.163.com/dy/article/G575TU0N0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["jingzuo"]
+relatedQuestions: ["does-practice-need-faith"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

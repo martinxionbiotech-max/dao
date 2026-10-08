@@ -15,6 +15,10 @@ alternativeInterpretation: "The taxonomy is the teacher's doctrinal map, recorde
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 47 (163.com community column, 2021): what is concentration — the nine dhyānas and how far an ordinary person can go (https://www.163.com/dy/article/G5755VBH0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["jingzuo"]
+relatedQuestions: ["what-counts-as-progress"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

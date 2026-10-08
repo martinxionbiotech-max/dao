@@ -1110,7 +1110,7 @@
     {
       "from": "warmth-tingling-when-sitting",
       "to": "schlosser-2019",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "warmth-tingling-when-sitting",
@@ -1310,7 +1310,7 @@
     {
       "from": "exp-010-lotus-pain",
       "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "yongxin-ruo-jing-passage",
@@ -1565,7 +1565,7 @@
     {
       "from": "boatman",
       "to": "xinzhai-passage",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "liang-wang",
@@ -1645,7 +1645,7 @@
     {
       "from": "exp-013-buddhist-daoist-boundary",
       "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-013-buddhist-daoist-boundary",
@@ -1655,7 +1655,7 @@
     {
       "from": "exp-013-buddhist-daoist-boundary",
       "to": "combine-zuowang-mindfulness",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "phoenix-and-owl",
@@ -1795,7 +1795,7 @@
     {
       "from": "exp-014-double-lotus-doctrine",
       "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-014-double-lotus-doctrine",
@@ -2015,7 +2015,7 @@
     {
       "from": "sanghu-friends",
       "to": "zuowang-passage",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "marsh-pheasant",
@@ -2150,7 +2150,7 @@
     {
       "from": "exp-016-nine-dhyanas-map",
       "to": "how-long-should-i-sit",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-016-nine-dhyanas-map",
@@ -2160,12 +2160,12 @@
     {
       "from": "exp-016-nine-dhyanas-map",
       "to": "lindahl-2017",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "exp-016-nine-dhyanas-map",
       "to": "schlosser-2019",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "kui-xian-chain",
@@ -2255,7 +2255,7 @@
     {
       "from": "xuan-pin",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "xuan-pin",
@@ -2320,12 +2320,12 @@
     {
       "from": "exp-017-why-he-began",
       "to": "farias-adverse-events-2020",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "exp-017-why-he-began",
       "to": "lindahl-2017",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "yun-jin-cheng-feng",
@@ -2350,7 +2350,7 @@
     {
       "from": "yun-jin-cheng-feng",
       "to": "zhi-shui",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "wang-liang-wen-jing",
@@ -2370,12 +2370,12 @@
     {
       "from": "wang-liang-wen-jing",
       "to": "tian-ji",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "wang-liang-wen-jing",
       "to": "qiwulun-wu-sang-wo",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "tian-ji",
@@ -2485,7 +2485,7 @@
     {
       "from": "exp-018-halflotus-to-full-lotus",
       "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-018-halflotus-to-full-lotus",
@@ -2505,7 +2505,7 @@
     {
       "from": "exp-018-halflotus-to-full-lotus",
       "to": "how-long-should-i-sit",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "luhou-yang-niao",
@@ -2565,7 +2565,7 @@
     {
       "from": "xuzhou-empty-boat",
       "to": "zhi-shui",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "xuzhou-empty-boat",
@@ -2760,7 +2760,7 @@
     {
       "from": "mantis-stalks-cicada",
       "to": "zuochi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "mantis-stalks-cicada",
@@ -2865,12 +2865,12 @@
     {
       "from": "can-meditation-cure-illness",
       "to": "mindfulness-meta-analysis-2014",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "can-meditation-cure-illness",
       "to": "farias-adverse-events-2020",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "can-meditation-cure-illness",
@@ -2895,7 +2895,7 @@
     {
       "from": "can-meditation-cure-illness",
       "to": "breath-stopping-anxiety",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-020-false-first-dhyana",
@@ -2915,12 +2915,12 @@
     {
       "from": "exp-020-false-first-dhyana",
       "to": "warmth-tingling-when-sitting",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-020-false-first-dhyana",
       "to": "farias-adverse-events-2020",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "zhao-che",
@@ -3030,12 +3030,12 @@
     {
       "from": "bao-weng-guan-qi",
       "to": "xushi-sheng-bai",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "bao-weng-guan-qi",
       "to": "zuochi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "bao-weng-guan-qi",
@@ -3130,7 +3130,7 @@
     {
       "from": "exp-021-prostrations-channel-circuit",
       "to": "can-meditation-cure-illness",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "zhili-shu",
@@ -3155,7 +3155,7 @@
     {
       "from": "zhili-shu",
       "to": "liang-wang",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "boshun-archer",
@@ -3185,12 +3185,12 @@
     {
       "from": "boshun-archer",
       "to": "zuochi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "boshun-archer",
       "to": "liezi",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "ji-xin",
@@ -3300,7 +3300,7 @@
     {
       "from": "should-i-meditate-when-sick",
       "to": "mindfulness-meta-analysis-2014",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "should-i-meditate-when-sick",
@@ -3340,7 +3340,7 @@
     {
       "from": "exp-022-its-all-theatre",
       "to": "how-long-should-i-sit",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "cao-shang",
@@ -3585,7 +3585,7 @@
     {
       "from": "how-long-until-results",
       "to": "mindfulness-meta-analysis-2014",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "how-long-until-results",
@@ -3640,7 +3640,7 @@
     {
       "from": "exp-023-breath-is-the-key",
       "to": "warmth-tingling-when-sitting",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-023-breath-is-the-key",
@@ -3860,7 +3860,7 @@
     {
       "from": "is-sitting-religious",
       "to": "mindfulness-meta-analysis-2014",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "is-sitting-religious",
@@ -3915,7 +3915,7 @@
     {
       "from": "exp-024-standing-and-sitting",
       "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-024-standing-and-sitting",
@@ -3945,7 +3945,7 @@
     {
       "from": "dao-yi-you-dao",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "dao-yi-you-dao",
@@ -4175,7 +4175,7 @@
     {
       "from": "what-counts-as-progress",
       "to": "mindfulness-meta-analysis-2014",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "what-counts-as-progress",
@@ -4255,7 +4255,7 @@
     {
       "from": "ren-gongzi-fishing",
       "to": "da-kuai",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "ren-gongzi-fishing",
@@ -4295,7 +4295,7 @@
     {
       "from": "chui-gou-zhe",
       "to": "daodejing-11",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "chui-gou-zhe",
@@ -4460,7 +4460,7 @@
     {
       "from": "does-practice-need-faith",
       "to": "mindfulness-meta-analysis-2014",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "does-practice-need-faith",
@@ -4515,12 +4515,12 @@
     {
       "from": "exp-025-lying-down-innovation",
       "to": "does-practice-need-faith",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-025-lying-down-innovation",
       "to": "what-counts-as-progress",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-025-lying-down-innovation",
@@ -4545,12 +4545,12 @@
     {
       "from": "exp-025-lying-down-innovation",
       "to": "can-meditation-cure-illness",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-025-lying-down-innovation",
       "to": "farias-adverse-events-2020",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "daye-zhu-jin",
@@ -4575,7 +4575,7 @@
     {
       "from": "daye-zhu-jin",
       "to": "xian-jie",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daye-zhu-jin",
@@ -4850,27 +4850,27 @@
     {
       "from": "zhi-yan",
       "to": "tian-jun",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "zhi-yan",
       "to": "qiwu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "zhi-yan",
       "to": "bao-guang",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "zhi-yan",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "zhi-yan",
       "to": "daodejing-02",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "huan-gong-jian-gui",
@@ -4905,7 +4905,7 @@
     {
       "from": "huan-gong-jian-gui",
       "to": "xushi-sheng-bai",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "hua",
@@ -4950,7 +4950,7 @@
     {
       "from": "hua",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "huan-zhong",
@@ -5155,27 +5155,27 @@
     {
       "from": "qiu-hao",
       "to": "qiwu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "qiu-hao",
       "to": "wu-sang-wo",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "qiu-hao",
       "to": "tian-jun",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "qiu-hao",
       "to": "hua",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "qiu-hao",
       "to": "daodejing-02",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "hui-shi-wu-che",
@@ -5210,12 +5210,12 @@
     {
       "from": "hui-shi-wu-che",
       "to": "qiwu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "hui-shi-wu-che",
       "to": "daodejing-02",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "wu-hua",
@@ -5405,12 +5405,12 @@
     {
       "from": "exp-026-diet-gate",
       "to": "does-diet-matter",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-026-diet-gate",
       "to": "does-practice-need-faith",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-026-diet-gate",
@@ -5445,22 +5445,22 @@
     {
       "from": "bei-gong-she",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "bei-gong-she",
       "to": "hua",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "bei-gong-she",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "bei-gong-she",
       "to": "daodejing-32",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "shinan-yiliao",
@@ -5490,22 +5490,22 @@
     {
       "from": "shinan-yiliao",
       "to": "qiwu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "shinan-yiliao",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "shinan-yiliao",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "shinan-yiliao",
       "to": "daodejing-02",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "liang-xing",
@@ -5670,12 +5670,12 @@
     {
       "from": "exp-027-finding-a-teacher",
       "to": "do-i-need-a-teacher",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-027-finding-a-teacher",
       "to": "zuowang-safety-without-teacher",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-027-finding-a-teacher",
@@ -5710,22 +5710,22 @@
     {
       "from": "yi-dai-niao",
       "to": "qiwu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "yi-dai-niao",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "yi-dai-niao",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "yi-dai-niao",
       "to": "daodejing-22",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "lin-hui-qi-bi",
@@ -5760,7 +5760,7 @@
     {
       "from": "lin-hui-qi-bi",
       "to": "liang-wang",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "dao-shu",
@@ -5925,12 +5925,12 @@
     {
       "from": "exp-028-abdominal-breathing",
       "to": "what-counts-as-progress",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-028-abdominal-breathing",
       "to": "can-meditation-cure-illness",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-028-abdominal-breathing",
@@ -5980,17 +5980,17 @@
     {
       "from": "diao-ling-yi-que",
       "to": "qiwu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "diao-ling-yi-que",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "diao-ling-yi-que",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "yanshi-wind-song",
@@ -6020,17 +6020,17 @@
     {
       "from": "yanshi-wind-song",
       "to": "liang-wang",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "yanshi-wind-song",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "yanshi-wind-song",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "mo-ruo-yi-ming",
@@ -6160,7 +6160,7 @@
     {
       "from": "why-am-i-so-sleepy",
       "to": "drowsiness-in-sitting",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "why-am-i-so-sleepy",
@@ -6195,17 +6195,17 @@
     {
       "from": "exp-029-the-human-body",
       "to": "what-counts-as-progress",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-029-the-human-body",
       "to": "can-meditation-cure-illness",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-029-the-human-body",
       "to": "why-am-i-so-sleepy",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-029-the-human-body",
@@ -6255,37 +6255,37 @@
     {
       "from": "zhi-wen-wuwei",
       "to": "qiwu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "zhi-wen-wuwei",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "zhi-wen-wuwei",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "zhi-wen-wuwei",
       "to": "qi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "zhi-wen-wuwei",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "zhi-wen-wuwei",
       "to": "daodejing-02",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "zhi-wen-wuwei",
       "to": "daodejing-48",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "dongguo-zi-asks",
@@ -6305,27 +6305,27 @@
     {
       "from": "dongguo-zi-asks",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "dongguo-zi-asks",
       "to": "qiwu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "dongguo-zi-asks",
       "to": "xiaoyao",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "dongguo-zi-asks",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "dongguo-zi-asks",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "yuan-du-yi-wei-jing",
@@ -6340,12 +6340,12 @@
     {
       "from": "yuan-du-yi-wei-jing",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "yuan-du-yi-wei-jing",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "yuan-du-yi-wei-jing",
@@ -6465,7 +6465,7 @@
     {
       "from": "why-do-i-see-lights",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-030-the-pain-ledger",
@@ -6495,17 +6495,17 @@
     {
       "from": "exp-030-the-pain-ledger",
       "to": "how-long-should-i-sit",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-030-the-pain-ledger",
       "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-030-the-pain-ledger",
       "to": "what-counts-as-progress",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-030-the-pain-ledger",
@@ -6535,27 +6535,27 @@
     {
       "from": "hook-smith",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "hook-smith",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "hook-smith",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "hook-smith",
       "to": "ji-xin",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "hook-smith",
       "to": "zhuangzi",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "light-brightness-asks-nothingness",
@@ -6570,32 +6570,32 @@
     {
       "from": "light-brightness-asks-nothingness",
       "to": "wu-sang-wo",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "light-brightness-asks-nothingness",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "light-brightness-asks-nothingness",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "light-brightness-asks-nothingness",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "light-brightness-asks-nothingness",
       "to": "zhuangzi",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "wu-he-you-zhi-xiang",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "wu-he-you-zhi-xiang",
@@ -6605,7 +6605,7 @@
     {
       "from": "wu-he-you-zhi-xiang",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "wu-he-you-zhi-xiang",
@@ -6690,7 +6690,7 @@
     {
       "from": "should-i-use-timers",
       "to": "restlessness-in-sitting",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-031-lotus-posture-chapter",
@@ -6730,22 +6730,22 @@
     {
       "from": "exp-031-lotus-posture-chapter",
       "to": "must-i-sit-cross-legged",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-031-lotus-posture-chapter",
       "to": "how-long-should-i-sit",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-031-lotus-posture-chapter",
       "to": "should-i-use-timers",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-031-lotus-posture-chapter",
       "to": "can-meditation-cure-illness",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-031-lotus-posture-chapter",
@@ -6755,17 +6755,17 @@
     {
       "from": "taiqing-asks-wuqiong",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "taiqing-asks-wuqiong",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "taiqing-asks-wuqiong",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "taiqing-asks-wuqiong",
@@ -6785,27 +6785,27 @@
     {
       "from": "taiqing-asks-wuqiong",
       "to": "wu-shi-wu-zhong",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "taiqing-asks-wuqiong",
       "to": "zhuangzi",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "ran-qiu-asks-zhongni",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "ran-qiu-asks-zhongni",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "ran-qiu-asks-zhongni",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "ran-qiu-asks-zhongni",
@@ -6825,17 +6825,17 @@
     {
       "from": "ran-qiu-asks-zhongni",
       "to": "wu-shi-wu-zhong",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "ran-qiu-asks-zhongni",
       "to": "hua",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "ran-qiu-asks-zhongni",
       "to": "zhuangzi",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "wu-shi-wu-zhong",
@@ -6845,12 +6845,12 @@
     {
       "from": "wu-shi-wu-zhong",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "wu-shi-wu-zhong",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "wu-shi-wu-zhong",
@@ -7005,17 +7005,17 @@
     {
       "from": "exp-032-from-zero-to-desire-realm",
       "to": "does-practice-need-faith",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-032-from-zero-to-desire-realm",
       "to": "how-long-until-results",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-032-from-zero-to-desire-realm",
       "to": "what-counts-as-progress",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-032-from-zero-to-desire-realm",
@@ -7256,6 +7256,81 @@
       "from": "guo-xiang",
       "to": "wu-you",
       "relation": "discusses"
+    },
+    {
+      "from": "blog/zuowang-for-modern-practitioner",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "blog/zuowang-for-modern-practitioner",
+      "to": "farias-adverse-events-2020",
+      "relation": "references"
+    },
+    {
+      "from": "exp-005-night-qi-movement",
+      "to": "qi",
+      "relation": "concerns"
+    },
+    {
+      "from": "exp-005-night-qi-movement",
+      "to": "xu",
+      "relation": "associated_with"
+    },
+    {
+      "from": "guides/chinese-meditation-explained",
+      "to": "zuowang",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/chinese-meditation-explained",
+      "to": "jingzuo",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/chinese-meditation-explained",
+      "to": "xinzhai",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/chinese-meditation-explained",
+      "to": "tiaoxi",
+      "relation": "discusses"
+    },
+    {
+      "from": "problems/wandering-mind-in-sitting",
+      "to": "zuochi",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/wandering-mind-in-sitting",
+      "to": "xinzhai",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/wandering-mind-in-sitting",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "timeline/qingjing-neiguan-jing",
+      "to": "qingjing-jing",
+      "relation": "references"
+    },
+    {
+      "from": "timeline/qingjing-neiguan-jing",
+      "to": "neiguan-jing",
+      "relation": "references"
+    },
+    {
+      "from": "timeline/qingjing-neiguan-jing",
+      "to": "neiguan",
+      "relation": "concerns"
+    },
+    {
+      "from": "tools/how-to-verify-sources",
+      "to": "chinese-meditation-explained",
+      "relation": "associated_with"
     }
   ]
 }

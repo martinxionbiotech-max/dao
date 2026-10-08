@@ -6,6 +6,7 @@ pinyin: "shǒuyī"
 literalMeaning: "guarding-keeping the One"
 translationOptions: ["guarding the One", "keeping to the One", "maintaining Oneness"]
 recommended: "guarding the One (standard in Robinet and Kohn)"
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["shouyi"]

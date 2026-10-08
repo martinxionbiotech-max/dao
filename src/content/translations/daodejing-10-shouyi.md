@@ -4,6 +4,7 @@ description: "'Carrying your bodily soul and embracing the One, can you keep the
 sourceText: "daodejing"
 term: "shouyi"
 chinese: "載營魄抱一，能無離乎？"
+evidence: ["PRIMARY SOURCE"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["shouyi", "qi", "jing-qi-shen"]

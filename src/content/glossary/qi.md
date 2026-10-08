@@ -6,6 +6,7 @@ pinyin: "qì"
 literalMeaning: "vapor, breath, vital substrate"
 translationOptions: ["qi (romanized)", "vital energy", "breath", "vital force", "pneuma"]
 recommended: "keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification"
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["qi"]

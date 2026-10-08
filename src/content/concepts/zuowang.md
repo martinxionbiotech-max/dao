@@ -60,3 +60,5 @@ Empirical studies specifically on zuowang as such are essentially absent from th
 Zuowang is best understood as a *classical description of absorption* that a later religious tradition converted into a *method*. Its value for a modern knowledge system is threefold: it is the earliest Chinese literary description of a non-dual contemplative state; it shows a documented historical pattern of Buddhist–Daoist technique borrowing in the Tang; and it anchors a family of Chinese terms (xinzhai, shouyi, jingzuo) that modern English literature often collapses into "meditation" without distinction.
 
 **Uncertainty is preserved:** whether the Warring States description refers to the same experience as the Tang seven-stage system cannot be established from surviving texts; the connection is a traditional and scholarly reconstruction, not a documented chain of transmission.
+
+A modern-application essay built on this page is kept separately: [What Zuowang Can and Cannot Offer a Modern Practitioner](/blog/zuowang-for-modern-practitioner/).

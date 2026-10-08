@@ -16,6 +16,9 @@ alternativeInterpretation: "The site's three-layer handling: the breath doctrine
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 39 (163.com community column): the all-day breathing doctrine, the 4-6 breaths-per-minute standard, and the moderate corners (eat more, afternoon nap, legs may hurt but dullness stops the sit) (https://www.163.com/dy/article/G3FCB7LO0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["tiaoxi"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

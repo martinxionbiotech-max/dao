@@ -6,6 +6,7 @@ pinyin: "bàoyī"
 literalMeaning: "embracing/holding the One"
 translationOptions: ["embracing the One", "clasping oneness", "holding to unity"]
 recommended: "embracing the One (parallel to the standard 'guarding the One' for shouyi)"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["shouyi", "dao"]

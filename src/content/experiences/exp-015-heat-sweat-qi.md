@@ -15,6 +15,10 @@ alternativeInterpretation: "The heat, jolting, and spinning during relaxed sitti
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 34 (163.com community column, 2021): bodily responses in double-lotus — heat, sweat, qi-sensations (https://m.163.com/dy/article_cambrian/G39KI8J90545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["jingzuo"]
+relatedConcepts: ["qi"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

@@ -6,6 +6,7 @@ pinyin: "zuòchí"
 literalMeaning: "sitting (坐) while galloping (驰)"
 translationOptions: ["sitting while the mind gallops", "sitting in body, racing in mind", "the seated gallop"]
 recommended: "'sitting while galloping' (glossed: the body sits, the mind races)"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["zuowang", "xu", "jing"]

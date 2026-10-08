@@ -4,6 +4,7 @@ description: "Zhuzi Yulei juan 116 records Zhu Xi's famous prescription of half-
 periodStart: "12th c. CE"
 periodEnd: "12th c. CE"
 eventType: "recorded teaching"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["jingzuo"]

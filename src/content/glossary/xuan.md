@@ -6,6 +6,7 @@ pinyin: "xuán"
 literalMeaning: "dark; deep; distant beyond sight; the color of depth"
 translationOptions: ["dark", "dark-beyond-dark", "mysterious", "profound", "the deep"]
 recommended: "dark/depth (with 'beyond naming' glossed); avoid 'mysterious' where it suggests the occult"
+evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["dao"]

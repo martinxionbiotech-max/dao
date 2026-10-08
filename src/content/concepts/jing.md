@@ -35,3 +35,5 @@ sources:
 Stillness as a *felt state* (calm, low arousal, non-reactivity) is well described in modern research on contemplative practice — the Goyal 2014 [review](/research/mindfulness-meta-analysis-2014/) documents stress reduction across meditation programs. But the Daoist *account* of stillness — as return to the root, as the world's governing pole — is doctrine, not measurement, and this page keeps the two apart: the experience belongs to the practitioner, the mechanism to the tradition, the measurements to the research.
 
 **Uncertainty preserved:** jing's definition is stable across the primary texts; its causal claims (stillness governs; return is life) are traditional, not empirical.
+
+The third member of the jing-qi-shen triad has its own [Shen](/glossary/shen/) entry.

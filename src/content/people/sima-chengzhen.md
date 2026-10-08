@@ -49,3 +49,5 @@ Sima Chengzhen's distinctive claim: "The immortals are also human" (神仙亦人
 ## Editorial synthesis
 
 Sima Chengzhen is the pivot between two eras: before him, Daoist sitting practice was a cluster of lineages and manuals; after him, it has a canonical treatise, a named seven-stage architecture, and an imperial imprimatur. Anyone studying Chinese meditation eventually arrives at his door — the *Zuowang Lun* is the standard by which the tradition organized itself.
+
+The treatise's date and context are at [Sima Chengzhen Writes the Zuowang Lun (Tang)](/timeline/zuowang-lun-composition/).

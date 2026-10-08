@@ -15,6 +15,11 @@ alternativeInterpretation: "The forced-lotus warning converges with modern sport
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 38 (163.com community column, 2021): the Buddhist-Daoist boundary question (https://www.163.com/dy/article/G3C19JPB0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["cunsi"]
+relatedPeople: ["zhiyi"]
+relatedQuestions: ["zuowang-vs-jingzuo"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

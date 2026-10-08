@@ -4,6 +4,7 @@ description: "Sima Chengzhen (647–735), twelfth Shangqing patriarch, writes th
 periodStart: "early 8th c. CE"
 periodEnd: "735 CE"
 eventType: "text composition"
+evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE"]
 status: published
 date: 2026-10-07
 relatedPeople: ["sima-chengzhen"]

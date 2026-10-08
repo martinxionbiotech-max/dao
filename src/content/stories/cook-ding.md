@@ -35,3 +35,5 @@ This is a **parable** — one of the Zhuangzi's invented dialogues (the king of 
 Cook Ding's three-stage account — whole ox, no whole ox, spirit-movement without eyes — is the Zhuangzi's most practical description of what trained attention becomes: the beginner meets a solid object; the practiced hand meets structure; the mature practitioner meets *space*, and the work happens in the spaces. The sitting analogues are explicit elsewhere in the book: "listening stops at the ears; the mind stops at matching; qi is empty and waits on things" (see the [xinzhai translation](/translations/xinzhai-passage/)). Cook Ding is xinzhai applied to work — the same non-forcing described with a knife instead of a breath.
 
 **Uncertainty preserved:** the story is literature, not biography; nothing suggests a historical Cook Ding. Its teaching status rests on the tradition's two-millennium reading, recorded here as such.
+
+The chapter formula this story illustrates is [Yuandu Yiwei Jing (缘督以为经)](/glossary/yuan-du-yi-wei-jing/).

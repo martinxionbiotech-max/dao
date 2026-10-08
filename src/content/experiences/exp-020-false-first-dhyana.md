@@ -15,6 +15,11 @@ alternativeInterpretation: "The site's three-layer handling: the reporter's warm
 sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
+sources:
+  - "Taishi cultivation Q&A no. 50 (163.com community column): 'Is this real concentration?' — the false first-dhyāna correction, the three gates refused (https://www.163.com/dy/article/G5A08M6T0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
+relatedPractices: ["jingzuo"]
+relatedQuestions: ["what-counts-as-progress"]
+relatedResearch: ["farias-adverse-events-2020"]
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]

@@ -4,6 +4,7 @@ description: "The opening negative theology of the Qingjing Jing 清静经 ('the
 sourceText: "qingjing-jing"
 term: "清静"
 chinese: "大道無形，生育天地；大道無情，運行日月；大道無名，長養萬物。吾不知其名，強名曰道。……人能常清靜，天地悉皆歸。"
+evidence: ["PRIMARY SOURCE"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["wuwei", "zuowang"]

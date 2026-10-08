@@ -39,3 +39,5 @@ This is the text's cleanest description of *trained attention*, and it answers t
 And the counterpoint the chapter supplies by juxtaposition: the wooden rooster's stillness was trained by *emptying* (nothing provokes it), while the hunchback's was trained by *filling* (one thing fills him). The Dazheng chapter holds both — the two faces of concentration the later traditions inherited as [zuowang](/concepts/zuowang/) and [shouyi](/concepts/shouyi/).
 
 **Uncertainty preserved:** parable; the "Way" the hunchback describes is the text's own teaching placed in a craftsman's mouth — recorded as literature, not report.
+
+The archery cousin of this concentration story is [The Archer at the Cliff's Edge](/stories/boshun-archer/).

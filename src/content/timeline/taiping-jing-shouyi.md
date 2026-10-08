@@ -4,6 +4,7 @@ description: "The Taiping Jing 太平经 records the earliest sustained shouyi (
 periodStart: "Eastern Han (2nd c. CE)"
 periodEnd: "Eastern Han (2nd c. CE)"
 eventType: "text compilation"
+evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
 date: 2026-10-07
 relatedConcepts: ["shouyi", "jing-qi-shen"]

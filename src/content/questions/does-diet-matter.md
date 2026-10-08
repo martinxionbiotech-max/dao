@@ -35,3 +35,5 @@ The site's sources agree on exactly one dietary point, and it is the useful one:
 
 - **What the site does not require.** Nothing. No page on this site prescribes a diet, and the site's own [sitting protocol](/tools/sitting-protocol/) contains no food rule. The closest the practice pages come is ordinary prudence (the archive's 少吃多动, "eat less, move more," from [EXP-024](/experiences/notes/exp-024-standing-and-sitting/), and the [digestive page](/experiences/notes/exp-007-digestive-release/)'s note that a heavy meal before sitting makes drowsiness likelier) — registered as convergence with common caution, not as doctrine.
 - **What the research record does not establish.** The site has no verified study on diet and meditation outcomes, and says so: the absence is registered, not filled with the archive's claims. The Buddhist-framed diet doctrine in EXP-026 is exactly the kind of claim the site's [claim discipline](/tools/how-to-verify-sources/) keeps labeled as a teaching rather than a finding.
+
+The archive chapter that treats diet as a practice gate is at [From Zero to the Desire-Realm Dhyana](/experiences/notes/exp-032-from-zero-to-desire-realm/).
