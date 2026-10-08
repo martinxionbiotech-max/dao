@@ -18,4 +18,12 @@ sources:
 
 **Translation note:** jing is often glossed "essence" (reproductive and vital); shen is "spirit" in the sense of awareness-luminosity, not ghost. The triad is a traditional physiology, not a scientific claim — translate faithfully, but never present the model as anatomy. Context fixes each term's register.
 
+## The three registers
+
+- **Jing 精** — the dense, condensing register: what the tradition calls essence, stored and spent.
+- **Qi 气** — the moving register: vital breath, what circulates and can be tuned (see [tiaoxi](/glossary/tiaoxi/)).
+- **Shen 神** — the luminous register: what condenses when attention steadies (see the [shen](/glossary/shen/) entry).
+
+The triad's practice formula — refine jing to qi, qi to shen — is the alchemical reading; the Han reading (Taiping Jing) is simpler: shouyi means keeping the three from scattering.
+
 See the [shouyi](/concepts/shouyi/) and [qi](/concepts/qi/) pages.
