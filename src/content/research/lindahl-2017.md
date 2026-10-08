@@ -30,7 +30,7 @@ Lindahl and colleagues (Britton's lab) conducted the "Varieties of Contemplative
 
 This study is the qualitative partner of the [Farias 2020 review](/research/farias-adverse-events-2020/): Farias counts occurrences; Lindahl classifies what occurs. Together they ground the site's two claims about difficulty:
 
-1. **Difficult experiences are a real, documented feature of contemplative practice** — not legend and not illness, but a spectrum that practice traditions themselves have always named (the Daoist tradition's own vocabulary: the [seeing-light](/problems/seeing-light-in-sitting/) question, the 走火入魔 fear treated on the [can-sitting-go-wrong](/questions/can-sitting-go-wrong/) page).
+1. **Difficult experiences are a real, documented feature of contemplative practice** — not legend and not illness, but a spectrum that practice traditions themselves have always named (the Daoist tradition's own vocabulary: the [seeing-light](/problems/seeing-light-in-sitting/) question, the 走火入魔 fear treated on the [can-sitting-go-wrong](/experiences/questions/can-sitting-go-wrong/) page).
 2. **No part of this literature concerns Daoist sitting specifically.** The VCE study is Western Buddhist; Farias found no Daoist-specific studies. Both are cited here for what they are: the nearest evidence, explicitly not evidence about zuowang.
 
 **Boundary, stated plainly:** this is a qualitative study of Buddhist practitioners; its taxonomy is descriptive, not causal; and it says nothing about the safety or effects of Daoist practices. It is recorded here as the best existing map of the *terrain* of difficulty — a map the Daoist tradition approaches with its own older vocabulary.

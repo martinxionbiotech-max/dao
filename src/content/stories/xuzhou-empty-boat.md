@@ -28,6 +28,6 @@ Ferrying a boat across the river, if an **empty boat** drifts into yours — eve
 
 ## Why it belongs in this knowledge base
 
-Because the site's [experience records](/experiences/exp-004-emotional-surfacing/) constantly meet anger *rising in sitting* — and this passage is the tradition's one-line answer to that event: the anger needed a full boat; sit, and the boat empties. The [practice-layer question](/questions/what-is-stillness/) answers the "how" with the site's full protocol; this page supplies the "why it works" in the book's own experiment.
+Because the site's [experience records](/experiences/notes/exp-004-emotional-surfacing/) constantly meet anger *rising in sitting* — and this passage is the tradition's one-line answer to that event: the anger needed a full boat; sit, and the boat empties. The [practice-layer question](/experiences/questions/what-is-stillness/) answers the "how" with the site's full protocol; this page supplies the "why it works" in the book's own experiment.
 
 **Uncertainty preserved:** an *outer* chapter passage (later stratum, declared per the [layering rule](/tools/how-to-verify-sources/)); verified against two independent reproductions that agree verbatim; the "who can harm you" close is registered with both readings (armor-reading vs. fuel-reading) without adjudication, per the [disagreement rule](/tools/how-to-verify-sources/).

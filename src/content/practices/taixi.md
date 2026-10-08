@@ -29,7 +29,7 @@ sources:
 
 - **It is a criterion, not a drill.** The texts state the result; they do not prescribe "hold your breath and count." Every later manual that transmits taixi (the Daoshu includes it among its practice chapters) treats it as the *symptom of achieved quiet*, not a technique to seize.
 - **It is not breath-holding.** The modern distinction matters and the tradition agrees: the goal is breath so fine it is nearly imperceptible — "as if present, as if absent" (若有若无, from the Xiao Zhiguan's breath section) — not the retention of air. Practitioners who force retention are doing the "wind" fault at intensity: audible, labored, resisted.
-- **The spontaneous version shows up in sitting.** Community reports describe moments when breathing becomes so shallow it seems to stop by itself, without strain (see [EXP-008](/experiences/exp-008-breath-stopping/)). The tradition has a name for exactly this — and the distinction that page draws (spontaneous, comfortable, reversible vs. forced retention) is the classical one stated in modern terms.
+- **The spontaneous version shows up in sitting.** Community reports describe moments when breathing becomes so shallow it seems to stop by itself, without strain (see [EXP-008](/experiences/notes/exp-008-breath-stopping/)). The tradition has a name for exactly this — and the distinction that page draws (spontaneous, comfortable, reversible vs. forced retention) is the classical one stated in modern terms.
 
 ## Modern boundary, stated plainly
 

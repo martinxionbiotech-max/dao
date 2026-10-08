@@ -30,6 +30,6 @@ The book opens with size, on purpose. Three moves matter:
 
 ## Why it belongs in this knowledge base
 
-Because it is the book's front door, and the front door says: **the practice is not the same size for everyone, and the conditions decide what can fly.** Every page of this site that warns against comparing one's sitting to another's — the [length question](/questions/how-long-should-i-sit/), the [problems archive](/problems/restlessness-in-sitting/) — is the Peng passage restated as policy.
+Because it is the book's front door, and the front door says: **the practice is not the same size for everyone, and the conditions decide what can fly.** Every page of this site that warns against comparing one's sitting to another's — the [length question](/experiences/questions/how-long-should-i-sit/), the [problems archive](/problems/restlessness-in-sitting/) — is the Peng passage restated as policy.
 
 **Uncertainty preserved:** the *inner* chapter opening (earliest stratum); the cosmology is poetic (Kun, the Pool of Heaven, the marvels book) — and the reading here is the traditional one, with the fable kept a fable.

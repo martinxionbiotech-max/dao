@@ -29,6 +29,6 @@ Zhuangzi said: "When the King of Qin falls ill, he summons physicians. The one w
 
 ## Why it belongs in this knowledge base
 
-Because the site's [worth questions](/questions/zuowang-safety-without-teacher/) keep meeting this passage's arithmetic: every reward system has a price list, and the tradition's own book keeps a copy. The practice this site studies is, among other things, the standing refusal to submit one's sitting to a fee schedule — the [empty boat](/stories/xuzhou-empty-boat/)'s other reading: there is no one to lick, and no chariot to collect.
+Because the site's [worth questions](/experiences/questions/zuowang-safety-without-teacher/) keep meeting this passage's arithmetic: every reward system has a price list, and the tradition's own book keeps a copy. The practice this site studies is, among other things, the standing refusal to submit one's sitting to a fee schedule — the [empty boat](/stories/xuzhou-empty-boat/)'s other reading: there is no one to lick, and no chariot to collect.
 
 **Uncertainty preserved:** a *mixed* chapter passage (latest stratum, declared per the [layering rule](/tools/how-to-verify-sources/)); the figures are the book's devices, not an external chronicle; verified against two independent reproductions that agree verbatim.

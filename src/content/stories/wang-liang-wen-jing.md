@@ -29,6 +29,6 @@ The shadow said: "Do I depend on something to be as I am? **Does what I depend o
 
 ## Why it belongs in this knowledge base
 
-Because it is the tradition's meditation on dependence itself — the site's [practice questions](/questions/what-is-stillness/) constantly meet this exact scolding ("why can't I keep my sitting steady?"), and the shadow's answer is the tradition's: the sitting is moved by what moves it, and the question of the mover ends in 恶识 — "how would I know?" — which is not ignorance but the end of the search.
+Because it is the tradition's meditation on dependence itself — the site's [practice questions](/experiences/questions/what-is-stillness/) constantly meet this exact scolding ("why can't I keep my sitting steady?"), and the shadow's answer is the tradition's: the sitting is moved by what moves it, and the question of the mover ends in 恶识 — "how would I know?" — which is not ignorance but the end of the search.
 
 **Uncertainty preserved:** an *inner* chapter passage (earliest stratum), verified against two editions; the three traditional readings (Lu Deming, Cheng Xuanying, Liu Fengbao) are recorded side by side without adjudication, per the [disagreement rule](/tools/how-to-verify-sources/); the modern reading follows the verified PKU study, marked as scholarly interpretation.

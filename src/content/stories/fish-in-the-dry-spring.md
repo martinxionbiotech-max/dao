@@ -28,6 +28,6 @@ This is the site's clearest case of a passage whose *idiomatic afterlife* invert
 
 ## Why it belongs in this knowledge base
 
-Because the site's sitting tradition lives exactly here: the [drowsiness pattern](/patterns/drowsiness-vs-stillness/), the [stillness question](/questions/what-is-stillness/), and the whole [zuowang](/practices/zuowang/) lineage are attempts to describe the *water*, not to polish the spit. And because the passage is the site's standing correction to its own readers: the practices documented here are instruments for getting back into the water — not a new and better way to moisten each other on dry ground.
+Because the site's sitting tradition lives exactly here: the [drowsiness pattern](/experiences/patterns/drowsiness-vs-stillness/), the [stillness question](/experiences/questions/what-is-stillness/), and the whole [zuowang](/practices/zuowang/) lineage are attempts to describe the *water*, not to polish the spit. And because the passage is the site's standing correction to its own readers: the practices documented here are instruments for getting back into the water — not a new and better way to moisten each other on dry ground.
 
 **Uncertainty preserved:** an *inner* chapter passage (earliest stratum), fully verified; the fish image is fable, and the idiom's later life as a praise of devotion is a documented semantic drift the page flags rather than adopting.

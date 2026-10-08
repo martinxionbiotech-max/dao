@@ -27,7 +27,7 @@ sources:
 ## What stillness is not
 
 - **Not inactivity.** The mirror responds to everything that arrives; the still ruler in DDJ ch. 45 *governs*. Stillness in the Daoist sense is readiness, not torpor.
-- **Not drowsiness.** The classical fault of [昏沉](/patterns/drowsiness-vs-stillness/) is precisely stillness' counterfeit: settled, but dark. The tradition keeps a separate vocabulary for the real thing (light, clear, aware).
+- **Not drowsiness.** The classical fault of [昏沉](/experiences/patterns/drowsiness-vs-stillness/) is precisely stillness' counterfeit: settled, but dark. The tradition keeps a separate vocabulary for the real thing (light, clear, aware).
 - **Not forcing.** Stillness cannot be produced by tightening; the texts' verbs are *returning*, *letting*, *forgetting* — the [zuowang](/concepts/zuowang/) family — never *clenching*.
 
 ## Modern boundary, stated plainly

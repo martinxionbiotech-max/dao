@@ -22,7 +22,7 @@ evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 
 ## Why this record matters
 
-This is the archive's clearest case of a **documented disagreement inside the tradition's own modern record** — and it is kept here for exactly that reason. The same practice (cross-legged sitting) produced: beginners reporting that pain *blocked* stillness; a teacher answering that pain *is* the path ("endure the pain, endure the time"); and the modern consensus answering that forced posture *injures*. The [posture question page](/questions/must-i-sit-cross-legged/) resolves the practical question with the full spectrum; this record preserves the raw material the question was built from.
+This is the archive's clearest case of a **documented disagreement inside the tradition's own modern record** — and it is kept here for exactly that reason. The same practice (cross-legged sitting) produced: beginners reporting that pain *blocked* stillness; a teacher answering that pain *is* the path ("endure the pain, endure the time"); and the modern consensus answering that forced posture *injures*. The [posture question page](/experiences/questions/must-i-sit-cross-legged/) resolves the practical question with the full spectrum; this record preserves the raw material the question was built from.
 
 ## The record (paraphrased, anonymized)
 
@@ -32,6 +32,6 @@ This is the archive's clearest case of a **documented disagreement inside the tr
 
 ## The three layers, kept apart
 
-The record's value is that the layers **conflict**, and the site does not adjudicate: the practitioner reports (pain as obstruction), the traditional doctrine (pain as gate, with its channel metaphysics and its graduated path), and the alternative reading (pain as signal, with the modern injury-risk consensus) are all reported as the sources state them. The [three-languages](/blog/three-languages/) discipline and the [posture question](/questions/must-i-sit-cross-legged/) inherit the conflict honestly — the question page's practical answer (use the form that lets you sit settled; add load gradually) is the site's *policy*, while this record is the evidence that the policy was not the only voice in the room.
+The record's value is that the layers **conflict**, and the site does not adjudicate: the practitioner reports (pain as obstruction), the traditional doctrine (pain as gate, with its channel metaphysics and its graduated path), and the alternative reading (pain as signal, with the modern injury-risk consensus) are all reported as the sources state them. The [three-languages](/blog/three-languages/) discipline and the [posture question](/experiences/questions/must-i-sit-cross-legged/) inherit the conflict honestly — the question page's practical answer (use the form that lets you sit settled; add load gradually) is the site's *policy*, while this record is the evidence that the policy was not the only voice in the room.
 
 **Confidence note:** multiple brief self-reports within one public Q&A column, paraphrased and anonymized per the [ingestion rules](/experiences/) — medium confidence; the teacher's identity and lineage are not named on this site.

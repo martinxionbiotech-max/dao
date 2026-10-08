@@ -29,6 +29,6 @@ Confucius said: "A good swimmer can do it after a few tries because he has **for
 
 ## Why it belongs in this knowledge base
 
-Because the site's counsel pages are stake-managers: the [sitting protocol](/tools/sitting-protocol/) and the [posture question](/questions/must-i-sit-cross-legged/) exist to reduce what the sitter carries into the sit, and the [problems pages](/problems/wandering-mind-in-sitting/) are this passage translated into troubleshooting — the mind that cannot stop scoring its own sitting is sitting for gold.
+Because the site's counsel pages are stake-managers: the [sitting protocol](/tools/sitting-protocol/) and the [posture question](/experiences/questions/must-i-sit-cross-legged/) exist to reduce what the sitter carries into the sit, and the [problems pages](/problems/wandering-mind-in-sitting/) are this passage translated into troubleshooting — the mind that cannot stop scoring its own sitting is sitting for gold.
 
 **Uncertainty preserved:** an *outer* chapter passage (middle stratum), fully verified in two editions; Yan Hui's report and Confucius's answer are the chapter's frame, not history; the diver's capacities are fable.

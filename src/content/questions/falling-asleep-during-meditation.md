@@ -35,6 +35,6 @@ Neither the traditional nor the community answer addresses pathological sleepine
 
 ## The synthesis this site offers
 
-The two answers converge: treat sleep during sitting as a signal, fix the conditions (light meal, upright posture, rest before practice), and never force wakefulness by fighting the body. See [EXP-001](/experiences/exp-001-falling-asleep/) and the [drowsiness pattern](/patterns/drowsiness-vs-stillness/) for the documented reports behind this answer.
+The two answers converge: treat sleep during sitting as a signal, fix the conditions (light meal, upright posture, rest before practice), and never force wakefulness by fighting the body. See [EXP-001](/experiences/notes/exp-001-falling-asleep/) and the [drowsiness pattern](/experiences/patterns/drowsiness-vs-stillness/) for the documented reports behind this answer.
 
 **Not medical advice:** this page is informational. Persistent or distressing sleepiness warrants a doctor, not a meditation manual.

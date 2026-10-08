@@ -30,7 +30,7 @@ The story is the book's farewell to its own most quoted sparring partner — Hui
 
 - **The skill is joint.** The axe's perfection and the partner's stillness are one event: "the axe like wind" works only because the man of Ying "never flinched." Neither alone is anything — Lord Yuan of Song proves it: the same craftsman, a different partner, and the craftsman *refuses the demonstration*. Skill is not portable; it lives between people.
 - **The word is 质** — translated here as "partner," literally "substance, material, ground." Carpenter Shi's 质 is the other person who *grounds* his act: the one whose trust makes the impossible stroke possible. When Zhuangzi mourns "I have no one to talk with," the talking is the practice — debate as the whetstone, the partner as the condition.
-- **The flinch is the hinge.** The man of Ying's stillness under the axe is the story's image of trained composure — the same quality as the [wooden rooster](/stories/wooden-rooster/), but here held *for another person's act*. Trust as a trained state: the tradition's answer to the question why it keeps insisting on teachers and partners (see the [teacher question](/questions/zuowang-safety-without-teacher/)).
+- **The flinch is the hinge.** The man of Ying's stillness under the axe is the story's image of trained composure — the same quality as the [wooden rooster](/stories/wooden-rooster/), but here held *for another person's act*. Trust as a trained state: the tradition's answer to the question why it keeps insisting on teachers and partners (see the [teacher question](/experiences/questions/zuowang-safety-without-teacher/)).
 
 ## Why it belongs in this knowledge base
 

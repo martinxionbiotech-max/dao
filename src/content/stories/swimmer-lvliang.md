@@ -33,6 +33,6 @@ Confucius said: "What do you mean — began in the native, grew in the nature, c
 
 ## Why it belongs in this knowledge base
 
-Because the swimmer is the site's answer to its own most common question — "what should I be *doing*?" ([how long](/questions/how-long-should-i-sit/), [which practice](/questions/cunsi-or-zuowang/)) — and the answer is not a program but a criterion: the practice is working when it becomes the thing you do without knowing why you do it. The [sitting protocol](/tools/sitting-protocol/) is written to be outgrown into exactly this.
+Because the swimmer is the site's answer to its own most common question — "what should I be *doing*?" ([how long](/experiences/questions/how-long-should-i-sit/), [which practice](/experiences/questions/cunsi-or-zuowang/)) — and the answer is not a program but a criterion: the practice is working when it becomes the thing you do without knowing why you do it. The [sitting protocol](/tools/sitting-protocol/) is written to be outgrown into exactly this.
 
 **Uncertainty preserved:** an *outer* chapter passage (middle stratum), fully verified in two editions; the swimmer and the dialogue are fable; Confucius appears as the tradition's literary questioner, as throughout the chapter; the three stages are the passage's own vocabulary, not a general theory.

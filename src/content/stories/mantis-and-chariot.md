@@ -29,6 +29,6 @@ The idiom's modern life — 螳臂当车, "the mantis blocking the chariot," the
 
 ## Why it belongs in this knowledge base
 
-Because the site's own counsel pages — the [sitting protocol](/tools/sitting-protocol/), the [posture question](/questions/must-i-sit-cross-legged/) — are keeper's manuals, not mantis manuals: they work by timing and following, and they exist because the tradition itself recorded what happens to the brilliant who press. The [Hundun story](/stories/hundun/) is this chapter's distant cousin — improvement administered as force — and the mantis is its personal-scale version.
+Because the site's own counsel pages — the [sitting protocol](/tools/sitting-protocol/), the [posture question](/experiences/questions/must-i-sit-cross-legged/) — are keeper's manuals, not mantis manuals: they work by timing and following, and they exist because the tradition itself recorded what happens to the brilliant who press. The [Hundun story](/stories/hundun/) is this chapter's distant cousin — improvement administered as force — and the mantis is its personal-scale version.
 
 **Uncertainty preserved:** an *inner* chapter passage (earliest stratum), fully verified; the three animals are fable; the Wei heir's identity is a literary frame, not history; the idiom's modern sense is flagged as a drift, per the recorded dictionary tradition.

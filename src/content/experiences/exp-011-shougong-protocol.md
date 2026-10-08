@@ -22,7 +22,7 @@ evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 
 ## Why this record matters
 
-This is the archive's record of the **other end of the sitting session** — the moment the [lotus-pain record](/experiences/exp-010-lotus-pain/) does not cover. The reports cluster around closing: pain that appears *after* rising, and breathing that was *forced* rather than allowed. The teacher's answer is a full closing protocol — and it is valuable to the site for two opposite reasons: its practical advice (rise gradually, settle before unbending) aligns with what modern instruction recommends for any long-held posture, while its explanation (qi left in the head or chest) is traditional physiology that the site reports without adopting. The record is the raw material behind the [breath-stopping problem page](/problems/breath-stopping-anxiety/)'s distinction between spontaneous and forced breath.
+This is the archive's record of the **other end of the sitting session** — the moment the [lotus-pain record](/experiences/notes/exp-010-lotus-pain/) does not cover. The reports cluster around closing: pain that appears *after* rising, and breathing that was *forced* rather than allowed. The teacher's answer is a full closing protocol — and it is valuable to the site for two opposite reasons: its practical advice (rise gradually, settle before unbending) aligns with what modern instruction recommends for any long-held posture, while its explanation (qi left in the head or chest) is traditional physiology that the site reports without adopting. The record is the raw material behind the [breath-stopping problem page](/problems/breath-stopping-anxiety/)'s distinction between spontaneous and forced breath.
 
 ## The record (paraphrased, anonymized)
 

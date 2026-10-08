@@ -36,6 +36,6 @@ Three points that do real work:
 
 1. **The vocabulary crossed traditions.** Although the manual is Buddhist (Tiantai), the tiao-shen/xi/xin trio became standard in Daoist and later Neo-Confucian sitting instruction — a case of a Buddhist formulation becoming the common technical language of Chinese sitting generally. The [sitting protocol](/tools/sitting-protocol/) page on this site draws on it.
 2. **Breath regulation is adjustment, not control.** The manual's repeated verb is 调 (harmonize), and its model of failure is *forcing*: audible, labored, or held breath. The fine-as-if-absent target is approached by releasing, not by driving. This is the classical counterweight to the modern tendency to make breath-work into effort-work.
-3. **It anchors the "stopped breath" reports.** The community distinction documented in [EXP-008](/experiences/exp-008-breath-stopping/) — spontaneous subsiding is fine, deliberate holding is not — is precisely the Xiao zhiguan's line, restated by practitioners.
+3. **It anchors the "stopped breath" reports.** The community distinction documented in [EXP-008](/experiences/notes/exp-008-breath-stopping/) — spontaneous subsiding is fine, deliberate holding is not — is precisely the Xiao zhiguan's line, restated by practitioners.
 
 **Boundary note:** this is a Buddhist manual's terminology functioning inside Chinese sitting culture; it is recorded as PRIMARY SOURCE with its provenance stated, not presented as Daoist doctrine.

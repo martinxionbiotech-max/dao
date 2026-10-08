@@ -29,4 +29,4 @@ The potter says: "I am good at managing clay. What is round fits the compass; wh
 
 ## Why it belongs in this knowledge base
 
-Because the practice this site studies — the [return](/practices/zuowang/), the [fasting of the mind](/practices/xinzhai/), the [settling](/practices/jingzuo/) — is, in this chapter's vocabulary, the un-managing of what Bole manages: the refusal to run one's own nature through bit and whip. The [refusal pages](/stories/bao-weng-guan-qi/) — the gardener who will not use the well-sweep — and the [unstrung](/concepts/ziran/) pages both find their sharpest statement here: the ledger of the improved horse.
+Because the practice this site studies — the [return](/practices/zuowang/), the [fasting of the mind](/concepts/xinzhai/), the [settling](/practices/jingzuo/) — is, in this chapter's vocabulary, the un-managing of what Bole manages: the refusal to run one's own nature through bit and whip. The [refusal pages](/stories/bao-weng-guan-qi/) — the gardener who will not use the well-sweep — and the [unstrung](/concepts/ziran/) pages both find their sharpest statement here: the ledger of the improved horse.

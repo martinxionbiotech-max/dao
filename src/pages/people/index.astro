@@ -16,7 +16,7 @@ const entries = (await getCollection('people'))
   )}
   {entries.map((e) => (
     <div class="card">
-      <h2><a href={`/%s/${e.id}/`}>{e.data.title}</a></h2>
+      <h2><a href={`/people/${e.id.replace(/\.md$/, '')}/`}>{e.data.title}</a></h2>
       {e.data.description && <p>{e.data.description}</p>}
       <p class="meta">
         {e.data.evidence?.map((v) => <span class="tag">{v}</span>)}

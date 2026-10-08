@@ -11,7 +11,7 @@ sources:
   - "This site's experiences collection (EXP-001 to EXP-008) and patterns collection, where the three-language discipline is applied per record"
 ---
 
-Every experience recorded on this site is told three times. A practitioner sits; something happens — warmth, numbness, an old memory, a breath that seems to stop. The [experience record](/experiences/exp-002-warmth-rotation/) then renders it once in each of the three languages that meet in this field:
+Every experience recorded on this site is told three times. A practitioner sits; something happens — warmth, numbness, an old memory, a breath that seems to stop. The [experience record](/experiences/reports/exp-002-warmth-rotation/) then renders it once in each of the three languages that meet in this field:
 
 - **The practitioner's language** — "my hands got warm, then my whole body; it felt good and I kept sitting."
 - **The traditional language** — "the qi moved; the channels opened; the dantian kindled."
@@ -27,7 +27,7 @@ Because each vocabulary is a *claim structure* as well as a way of speaking.
 - The traditional language is licensed to report **the tradition** — what the classical texts and lineages say the phenomenon is. It is not licensed to assert, on its own authority, that the body contains a qi that modern physiology cannot see.
 - The scientific language is licensed to report **evidence** — what research has measured and shown. It is not licensed to claim the tradition's experience is "nothing but" its measurements.
 
-When the languages blur — when a warmth report *becomes* a qi-fact, or a research finding *becomes* a dismissal of the practitioner's experience — the blur is the error. The [patterns pages](/patterns/warmth-and-qi-sensations/) exist precisely to hold the blur apart: each pattern's `evidenceBasis` says what kind of claim backs it, and the body text refuses to let "practitioners repeatedly report" turn into "science has shown."
+When the languages blur — when a warmth report *becomes* a qi-fact, or a research finding *becomes* a dismissal of the practitioner's experience — the blur is the error. The [patterns pages](/experiences/patterns/warmth-and-qi-sensations/) exist precisely to hold the blur apart: each pattern's `evidenceBasis` says what kind of claim backs it, and the body text refuses to let "practitioners repeatedly report" turn into "science has shown."
 
 ## What this costs, and buys
 

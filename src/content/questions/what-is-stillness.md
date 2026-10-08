@@ -25,7 +25,7 @@ sources:
 ## The three misunderstandings, corrected
 
 1. **"Stillness = sitting motionless."** No — the body sits, but stillness names the mind; the texts praise the mirror *because* it responds to everything. Physical quiet is the condition, not the content.
-2. **"Stillness = blankness or sleep."** No — the tradition keeps [昏沉](/patterns/drowsiness-vs-stillness/) (dull sinking) strictly separate from 静; stillness in the sources is *clear*, aware, and light. The seeing-light [problem page](/problems/seeing-light-in-sitting/) shows the tradition even uses light as its image for it.
+2. **"Stillness = blankness or sleep."** No — the tradition keeps [昏沉](/experiences/patterns/drowsiness-vs-stillness/) (dull sinking) strictly separate from 静; stillness in the sources is *clear*, aware, and light. The seeing-light [problem page](/problems/seeing-light-in-sitting/) shows the tradition even uses light as its image for it.
 3. **"Stillness = doing nothing in life."** No — ch. 45's stillness *governs*; in the meditative context, stillness is the source of effective action ([wuwei](/concepts/wuwei/)), not its opposite.
 
 ## The boundary

@@ -25,6 +25,6 @@ sources:
 
 ## What combining does not mean
 
-- **It does not mean the traditions agree.** The Daoist account (qi, dantian, returning to the root) and the clinical account (attention networks, stress response) are different languages for different audiences, and this site's discipline is to keep them separate — the [patterns](/patterns/warmth-and-qi-sensations/) pages show the separation in action.
+- **It does not mean the traditions agree.** The Daoist account (qi, dantian, returning to the root) and the clinical account (attention networks, stress response) are different languages for different audiences, and this site's discipline is to keep them separate — the [patterns](/experiences/patterns/warmth-and-qi-sensations/) pages show the separation in action.
 - **It does not create a "new system."** Mixed practice is a personal arrangement, not a lineage; nothing on this site presents it as one.
 - **It does not fix the evidence gap.** Mindfulness has clinical evidence; zuowang does not have dedicated trials. Combining them transfers neither status: the mindfulness evidence remains about mindfulness (per [Goyal 2014](/research/mindfulness-meta-analysis-2014/)), and zuowang remains evidence-free in the clinical sense. This answer is therefore marked answered at the *practical* level only — the compatibility question is answerable; the question of what combining them *does* is not, and no page here pretends otherwise.

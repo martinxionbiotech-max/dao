@@ -13,7 +13,7 @@ const entries = (await getCollection('questions'))
   {entries.length === 0 && <p class="meta">No published questions yet.</p>}
   {entries.map((e) => (
     <div class="card">
-      <h2><a href={`/experiences/questions/${e.id}/`}>{e.data.question}</a></h2>
+      <h2><a href={`/experiences/questions/${e.id.replace(/\.md$/, '')}/`}>{e.data.question}</a></h2>
       <p class="meta"><span class="tag">{e.data.answerState}</span></p>
     </div>
   ))}

@@ -24,7 +24,7 @@ sources:
 
 ## The documented reports
 
-See [EXP-001](/experiences/exp-001-falling-asleep/) — a practitioner falling asleep in most guided sessions over more than a year — and the [drowsiness pattern](/patterns/drowsiness-vs-stillness/) for the recurrence across independent reports. The linked [question page](/questions/falling-asleep-during-meditation/) gives the fuller answer.
+See [EXP-001](/experiences/notes/exp-001-falling-asleep/) — a practitioner falling asleep in most guided sessions over more than a year — and the [drowsiness pattern](/experiences/patterns/drowsiness-vs-stillness/) for the recurrence across independent reports. The linked [question page](/experiences/questions/falling-asleep-during-meditation/) gives the fuller answer.
 
 ## When to treat it as a medical question
 

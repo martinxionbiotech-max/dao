@@ -34,7 +34,7 @@ The refinement sequence of later inner alchemy — refine essence into qi, qi in
 
 Modern Chinese practice communities use "dantian" constantly, mostly in two registers:
 
-- **Sensation language:** reports of warmth or "filling" at the lower abdomen during sitting (see [EXP-003](/experiences/exp-003-leg-pain-filling/) and the [warmth pattern](/patterns/warmth-and-qi-sensations/)) are routinely described as "the dantian responding" or "qi gathering at the dantian."
+- **Sensation language:** reports of warmth or "filling" at the lower abdomen during sitting (see [EXP-003](/experiences/reports/exp-003-leg-pain-filling/) and the [warmth pattern](/experiences/patterns/warmth-and-qi-sensations/)) are routinely described as "the dantian responding" or "qi gathering at the dantian."
 - **Attention instruction:** "guard the dantian" (意守丹田) functions as a modern sitting instruction — placing attention at the lower abdomen — descending from the older practice of guarding the One (shouyi).
 
 **The discipline this site applies:** the dantian map is **traditional doctrine, not anatomy**. No dissected or imaged structure corresponds to any dantian; the "lower dantian" is a functional-attentional location, not an organ. When a practitioner reports warmth at the dantian, the *sensation* is real as experience while the *location* is interpretive. Both the traditional map and the modern physiological reading (interoceptive attention amplifying ordinary abdominal sensation) are recorded; neither is asserted as fact.

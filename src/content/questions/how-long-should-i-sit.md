@@ -33,4 +33,4 @@ Community discussions of sitting duration (search-indexed threads, anonymized pe
 
 ## The boundary
 
-No classical text fixes a number, and no modern study on Daoist sitting exists to fix one either. The practical answer above is community-and-manual consensus — real guidance, not research. Beginners with health conditions should additionally apply the [medical boundary](/questions/can-sitting-go-wrong/) that governs every practice page on this site.
+No classical text fixes a number, and no modern study on Daoist sitting exists to fix one either. The practical answer above is community-and-manual consensus — real guidance, not research. Beginners with health conditions should additionally apply the [medical boundary](/experiences/questions/can-sitting-go-wrong/) that governs every practice page on this site.

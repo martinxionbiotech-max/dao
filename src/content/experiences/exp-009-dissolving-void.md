@@ -22,7 +22,7 @@ evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 
 ## Why this record matters
 
-This is the site's clearest archived case of the **dissolution-vs-blank-staring question** — the exact boundary the [zuochi](/glossary/zuochi/) glossary and the [drowsiness-vs-stillness](/patterns/drowsiness-vs-stillness/) pattern exist to mark. A practitioner reported what felt like a genuine merger with emptiness; the teacher responded with the tradition's sharpest diagnostic word (发呆, "blank staring") and the instruction not to chase states. Both the experience and the diagnosis are kept here, in three layers, without this site adjudicating between them.
+This is the site's clearest archived case of the **dissolution-vs-blank-staring question** — the exact boundary the [zuochi](/glossary/zuochi/) glossary and the [drowsiness-vs-stillness](/experiences/patterns/drowsiness-vs-stillness/) pattern exist to mark. A practitioner reported what felt like a genuine merger with emptiness; the teacher responded with the tradition's sharpest diagnostic word (发呆, "blank staring") and the instruction not to chase states. Both the experience and the diagnosis are kept here, in three layers, without this site adjudicating between them.
 
 ## The record (paraphrased, anonymized)
 

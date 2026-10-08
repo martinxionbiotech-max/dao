@@ -38,7 +38,7 @@ The Zhuangzi's image of the true person — "the true person breathes from the h
 
 - **The order of adjustments.** The Xiao Zhiguan's five adjustments run food, sleep, body, breath, mind — breath comes after posture and before mind: the body is settled first, then the breath is tuned, then the mind is addressed *through* the tuned breath. Breath is the bridge layer of the whole system.
 - **The anti-forcing rule, everywhere.** The manual's breath instruction and the [Baopuzi](/texts/baopuzi/)'s taixi conditions agree: foods that make the qi "strong and hard to close" are avoided; effort that makes the breath fought is the wind fault at intensity. The [breath-anxiety problem page](/problems/breath-stopping-anxiety/) applies this rule to modern reports: spontaneous fine breath is the ladder's top; held or raced breath is the ladder's bottom.
-- **The modern consensus aligns.** Beginner guidance across sitting traditions (and the community reports this site's [experiences](/experiences/exp-008-breath-stopping/) archive) converges on the same geometry: start by *noticing* the breath, let it slow by settling, never by controlling.
+- **The modern consensus aligns.** Beginner guidance across sitting traditions (and the community reports this site's [experiences](/experiences/notes/exp-008-breath-stopping/) archive) converges on the same geometry: start by *noticing* the breath, let it slow by settling, never by controlling.
 
 ## Modern boundary, stated plainly
 
