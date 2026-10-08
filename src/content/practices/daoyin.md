@@ -45,3 +45,5 @@
 
 - The classical sources *describe* daoyin; the specific sequences practiced today are reconstructions and lineages, not transcriptions of the Zhuangzi.
 - The modern term **qigong** (1950s) absorbed daoyin into a larger modern system — the [qigong page](/practices/qigong/) states that relationship.
+
+ The term layer for this practice lives in the [daoyin glossary entry](/glossary/daoyin/).

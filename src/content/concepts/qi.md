@@ -47,3 +47,5 @@ No scientific measurement of "qi" exists; studies of qigong (a modern term for q
 For this knowledge base, qi is infrastructure rather than topic: it is the term that lets classical Chinese texts describe a level of receptivity between body and mind without a body–mind dualism. Understanding xinzhai, shouyi, and neidan requires understanding that qi-language is *how the tradition talks about* the subtle, the pre-conceptual, and the vital at once. Treating it as either literal physics or pure metaphor collapses the usage.
 
 **Uncertainty is preserved:** whether the term refers to one thing or a family of related notions across periods is itself debated; this page follows the standard scholarly practice of treating it as polysemous.
+
+ The comparison with the Indian term — [qi vs prana](/comparisons/qi-vs-prana/) — weighs how far the analogy can be pressed.

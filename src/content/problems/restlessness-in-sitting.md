@@ -38,3 +38,5 @@ This page describes what the sources say, and it is not medical advice. Acute ph
 ## Editorial synthesis
 
 The Chinese sources are, if anything, *more* conservative than modern popular instruction: the earliest protocol has built-in exit conditions and explicitly forbids forcing. Restlessness is information — usually about unreadiness or unsettled circumstances — not an obstacle to overcome by will. If there is a single transferable principle from these texts, it is: **the practice should settle you; if it is agitating you, the practice is not yet right — stop, adjust conditions, and return.**
+
+ Why quiet itself can feel hard to sit with early on is the companion page [why stillness feels uncomfortable](/problems/stillness-uncomfortable/).

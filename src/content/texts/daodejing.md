@@ -63,3 +63,5 @@ The *Daodejing* and the *Zhuangzi* divide the labor of this knowledge base: the 
 The earliest material witness to the text is [Guodian Daodejing Manuscripts (c. 300 BCE or earlier)](/timeline/guodian-daodejing/).
 
 Chapter 46 (knowing-enough) is translated at [When the World Has the Way (Daodejing 46)](/translations/daodejing-46/).
+
+ For how the site reads texts of this age, see [how to read Daoist meditation texts](/guides/how-to-read-daoist-meditation-texts/).

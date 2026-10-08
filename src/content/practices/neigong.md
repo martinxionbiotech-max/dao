@@ -43,3 +43,5 @@
 
 - Keeps the term for what it is: a modern-facing category for the internal side of the movement and cultivation arts.
 - Routes its actual practices to the pages that hold their sources: the breath arts ([tiaoxi](/glossary/tiaoxi/), [taixi](/practices/taixi/)), the body art ([daoyin](/practices/daoyin/)), and the triad ([jing-qi-shen](/glossary/jing-qi-shen/)).
+
+ The term layer, with the modern-history caveats, is the [neigong glossary entry](/glossary/neigong/).

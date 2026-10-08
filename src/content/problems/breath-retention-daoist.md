@@ -45,3 +45,5 @@
 Holding the breath to force the experience of stoppage is not a shortcut to taixi — it is the shortcut to the fear, dizziness, and chest tension that the [breath-stopping anxiety](/problems/breath-stopping-anxiety/) page describes. **Anyone practicing breath work with a cardiac, respiratory, or anxiety condition should discuss it with a professional first. This page does not teach breath techniques.**
 
 **Not medical advice:** chest pain, fainting, or severe shortness of breath warrant immediate professional evaluation.
+
+ The companion question — whether the breath stopping is intentional or spontaneous — is treated in [breath stopping: intentional or spontaneous?](/problems/breath-stopping-intentional-spontaneous/).

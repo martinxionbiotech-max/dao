@@ -49,3 +49,5 @@ Shouyi is the missing link between the *Daodejing*'s abstract "embrace the One" 
 The verbal root of this practice family is the [Baoyi](/glossary/baoyi/) entry.
 
 Ge Hong's codification of this practice is dated at [Ge Hong's Baopuzi: Shouyi Systematized (c. 320 CE)](/timeline/baopuzi-shouyi/).
+
+ The plain-language introduction is [what is shouyi](/guides/what-is-shouyi/).

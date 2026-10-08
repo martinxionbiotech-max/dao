@@ -31,3 +31,5 @@ See [EXP-001](/experiences/notes/exp-001-falling-asleep/) — a practitioner fal
 The traditional and community answers assume adequate sleep. Persistent daytime sleep-onset despite adequate rest is a medical matter, not a meditation matter — and this page does not attempt to distinguish them.
 
 **Not medical advice:** if you sleep enough and still cannot stay awake when sitting, seek professional evaluation.
+
+ When sleep actually wins, the sibling page [falling asleep during sitting](/problems/falling-asleep-during-sitting/) covers the posture and timing factors.

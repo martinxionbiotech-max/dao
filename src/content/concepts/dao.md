@@ -57,3 +57,5 @@ sources:
 Dao is the root node of this site's graph: every other core term (de, wu-you, ziran, fan, pu, xu) is a way of saying what it does or where it gathers. The discipline the site keeps: describe the Dao by its motions and its places, never by a final definition.
 
 The two that issue from the One are treated on the [Yin-Yang (阴阳): The Paired Aspects](/concepts/yin-yang/) page.
+
+ The entry-level orientation that starts from this page is [Daoist meditation explained](/guides/daoist-meditation-explained/).

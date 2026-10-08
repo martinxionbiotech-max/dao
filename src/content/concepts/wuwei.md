@@ -53,3 +53,5 @@ Wuwei appears across early Chinese schools — Confucian, Legalist, Huang-Lao �
 For this knowledge base, wuwei is the bridge concept between the *political* and the *contemplative* readings of classical Daoism: the same emptying that stabilizes a ruler's court is described as the meditator's letting-go. Modern "effortless action" research (e.g., flow states, skill automaticity) is sometimes compared to wuwei, but that comparison is an interpretive move, not a claim that ancient and modern concepts are identical — and no empirical study "measures" wuwei as such.
 
 **Uncertainty is preserved:** how wuwei as a political doctrine relates to wuwei as a personal practice in the pre-Han period is debated; the texts themselves move between registers without a systematic account.
+
+ For what the standard English rendering loses, see [wuwei vs "non-action"](/comparisons/wuwei-vs-non-action/).

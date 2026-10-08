@@ -63,3 +63,5 @@
 - Early sitting is usually [restless](/problems/restlessness-in-sitting/), [sleepy](/problems/drowsiness-in-sitting/), or [noisy with thoughts](/problems/thoughts-become-stronger/) — the sources name these as the starting condition, not failure.
 - The tradition's promised changes are described in its own vocabulary (the One, emptiness, the fine breath) — see [what counts as progress](/experiences/questions/what-counts-as-progress/).
 - **Nothing in the tradition requires belief** — see [does practice need faith?](/experiences/questions/does-practice-need-faith/).
+
+ Where this practice sits among the wider families — Daoist, Buddhist, Confucian, and modern — is drawn in the [map of Chinese contemplative traditions](/guides/map-of-chinese-contemplative-traditions/).

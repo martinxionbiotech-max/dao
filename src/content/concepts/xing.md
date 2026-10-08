@@ -49,3 +49,5 @@ The companion half of the pair is [ming](/concepts/ming/).
 ## What is uncertain
 
 The xingming pair is solid in the alchemical tradition from roughly the Song onward, but the earlier history is looser: pre-Song texts use xing for "inborn nature" without a fixed counterpart, and how much the alchemical pair owes to Neo-Confucian usage (Zhang Zai, the Cheng brothers) rather than to Daoist sources alone is a matter of scholarly discussion. The Mencian claim that human nature tends toward the good is a Confucian claim, not a Daoist one, and this site does not import it.
+
+ The term layer for the "nature" half of the pair is the [xing glossary entry](/glossary/xing/).

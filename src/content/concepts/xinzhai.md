@@ -62,3 +62,5 @@ The contrast drawn between ritual fasting (abstaining from wine and meat — wha
 Xinzhai matters because it supplies the earliest Chinese account of a *methodology of emptying*: a graded instruction (ear → mind → qi) with an explicit failure mode for each stage. For a modern reader it explains why later Chinese traditions use qi-language in contemplative contexts, and why the *Zhuangzi* — unlike later meditation manuals — ties the practice to speaking and acting well in the world rather than to withdrawal from it.
 
 **Uncertainty is preserved:** the exact experiential referent of "listening with qi" cannot be recovered from the text, and modern reconstructions differ.
+
+ The proximity of the fasting of the mind to modern mindfulness — and the asymmetry of evidence between them — is weighed in [xinzhai vs mindfulness](/comparisons/xinzhai-vs-mindfulness/).

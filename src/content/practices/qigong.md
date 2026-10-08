@@ -47,3 +47,5 @@
 
 - The classical texts describe the *roots* of qigong, not the modern system; specific modern qigong forms (Baduanjin, Wuqinxi and the like) have their own modern histories this page does not retell.
 - **Health claims require modern evidence** — the tradition's longevity language is the tradition's language, not a clinical finding. See the [cure question](/experiences/questions/can-meditation-cure-illness/) for the boundary.
+
+ The term layer, including the 1950s coinage, is the [qigong glossary entry](/glossary/qigong/).

@@ -35,4 +35,4 @@ The cost is visible: no page here offers the fusion experience — the satisfyin
 
 What it buys is the site's only real product: **honesty about standing.** The traditional vocabulary is deep, precise, and old — and it is not evidence. The scientific vocabulary is evidence — and it is not the whole experience. The practitioner's vocabulary is the testimony both others serve. A knowledge base that keeps them in one sentence is producing fiction dressed as fact; a knowledge base that keeps them in three paragraphs is producing what this site produces: a place where each claim stands where it can be checked.
 
-The Daoist tradition itself would approve of the architecture. Its oldest instruction is 知常曰明 — knowing the constant is clarity. The constant here is the difference between the languages. Keeping it is the clarity.
+The Daoist tradition itself would approve of the architecture. Among its oldest instructions is 知常曰明 — knowing the constant is clarity. The constant here is the difference between the languages. Keeping it is the clarity.

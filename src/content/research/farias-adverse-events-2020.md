@@ -42,3 +42,5 @@ Can meditation go wrong — and how often? For years the clinical literature on 
 This site's problems and questions pages hold the line that Daoist sitting has no dedicated safety literature. The Farias review is the closest adjacent evidence, and it changes what an honest answer can say: meditation in general is *not* risk-free, adverse events are *not* rare when asked about, and absence of prior mental health difficulty is *not* protection. The traditional counsel on the [sitting protocol](/tools/sitting-protocol/) page — gentle posture, no forcing, stop when distressed — becomes, in this light, not ornament but substance.
 
 **State of the question:** the general-meditation safety question is now empirically illuminated; the Daoist-sitting safety question remains open. See [Is Daoist sitting safe without a teacher?](/experiences/questions/zuowang-safety-without-teacher/) — answerState: open, for exactly this reason.
+
+ The structured measure of harms — 58% reporting at least one adverse effect — is [Britton 2021](/research/britton-2021/).

@@ -62,3 +62,7 @@ Zuowang is best understood as a *classical description of absorption* that a lat
 **Uncertainty is preserved:** whether the Warring States description refers to the same experience as the Tang seven-stage system cannot be established from surviving texts; the connection is a traditional and scholarly reconstruction, not a documented chain of transmission.
 
 A modern-application essay built on this page is kept separately: [What Zuowang Can and Cannot Offer a Modern Practitioner](/blog/zuowang-for-modern-practitioner/).
+
+ The plain-language introduction is [what is zuowang](/guides/what-is-zuowang/).
+
+ What "forgetting the body" means in the texts themselves — and what it does not mean — is set out in [forgetting the body in Daoist texts](/problems/forgetting-the-body-daoist-texts/).
