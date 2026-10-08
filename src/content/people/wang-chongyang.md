@@ -28,3 +28,5 @@ sources:
 - **Why he belongs here.** He closes the site's [organizer arc](/people/zhang-daoling/): Zhang Daoling founded the first community, Kou Qianzhi and Lu Xiujing reformed its courts and catalogs, and Wang Chongyang founded the last great order — the one that joined the [inner-alchemical practice](/people/zhang-boduan/) this site documents to a monastic rule, and whose descendants still run the [temples](/people/chen-tuan/) the practice pages keep at arm's length. The [sitting practices](/practices/jingzuo/) this site studies passed through his order's filter on their way to the present — the site documents the filter, not the faith.
 
 His third successor as Quanzhen patriarch is [Tan Chuduan (谭处端)](/people/tan-chuduan/).
+
+The seven disciples each have their page here — [Ma Yu](/people/ma-yu/), [Sun Bu'er](/people/sun-buer/), [Tan Chuduan](/people/tan-chuduan/), [Liu Chuxuan](/people/liu-chuxuan/), [Qiu Chuji](/people/qiu-chuji/), [Hao Datong](/people/hao-datong/), and [Wang Chuyi](/people/wang-chuyi/).

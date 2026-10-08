@@ -100,7 +100,7 @@
   {
    "from": "sima-chengzhen",
    "to": "zuowang-lun",
-   "relation": "discusses"
+   "relation": "authored"
   },
   {
    "from": "laozi",
@@ -7766,6 +7766,51 @@
    "from": "neiguan-vs-vipassana",
    "to": "vipassana",
    "relation": "discusses"
+  },
+  {
+   "from": "liu-chuxuan",
+   "to": "wang-chongyang",
+   "relation": "related_to"
+  },
+  {
+   "from": "liu-chuxuan",
+   "to": "tan-chuduan",
+   "relation": "related_to"
+  },
+  {
+   "from": "liu-chuxuan",
+   "to": "ma-yu",
+   "relation": "related_to"
+  },
+  {
+   "from": "liu-chuxuan",
+   "to": "qiu-chuji",
+   "relation": "related_to"
+  },
+  {
+   "from": "liu-chuxuan",
+   "to": "hao-datong",
+   "relation": "related_to"
+  },
+  {
+   "from": "hao-datong",
+   "to": "wang-chongyang",
+   "relation": "related_to"
+  },
+  {
+   "from": "hao-datong",
+   "to": "wang-chuyi",
+   "relation": "related_to"
+  },
+  {
+   "from": "hao-datong",
+   "to": "ma-yu",
+   "relation": "related_to"
+  },
+  {
+   "from": "hao-datong",
+   "to": "liu-chuxuan",
+   "relation": "related_to"
   }
  ]
 }
