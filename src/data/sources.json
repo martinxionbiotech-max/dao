@@ -1970,6 +1970,93 @@
       "pages_used_in": [
         "/practices/neiguan/"
       ]
+    },
+    {
+      "id": "britton-2021",
+      "title": "Britton et al., 'Defining and measuring meditation-related adverse effects in mindfulness-based programs' (Clinical Psychological Science, 2021)",
+      "type": "journal_article",
+      "language": "en",
+      "url": "https://doi.org/10.1177/2167702621996340",
+      "pages_used_in": [
+        "/research/britton-2021/"
+      ]
+    },
+    {
+      "id": "zaccaro-2018",
+      "title": "Zaccaro et al., 'How breath-control can change your life' (Frontiers in Human Neuroscience, 2018)",
+      "type": "journal_article",
+      "language": "en",
+      "url": "https://doi.org/10.3389/fnhum.2018.00353",
+      "pages_used_in": [
+        "/research/zaccaro-2018/",
+        "/problems/breathing-gets-shallow/"
+      ]
+    },
+    {
+      "id": "noble-hochman-2019",
+      "title": "Noble & Hochman, 'Pulmonary afferent activity patterns during slow, deep breathing' (Frontiers in Physiology, 2019)",
+      "type": "journal_article",
+      "language": "en",
+      "url": "https://doi.org/10.3389/fphys.2019.01176",
+      "pages_used_in": [
+        "/research/noble-hochman-2019/"
+      ]
+    },
+    {
+      "id": "khalsa-2018",
+      "title": "Khalsa et al., 'Interoception and mental health: a roadmap' (Biological Psychiatry: CNNI, 2018)",
+      "type": "journal_article",
+      "language": "en",
+      "url": "https://doi.org/10.1016/j.bpsc.2017.12.004",
+      "pages_used_in": [
+        "/research/khalsa-2018/",
+        "/problems/body-feels-very-large/"
+      ]
+    },
+    {
+      "id": "zhuangzi-keyi-daoyin",
+      "title": "Zhuangzi ch. 15 (Keyi): the daoyin passage — 'blowing and breathing, expelling the old and drawing in the new, the bear's strides and the bird's stretch'",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://ctext.org/zhuangzi/ingrained-ideas",
+      "pages_used_in": [
+        "/practices/daoyin/",
+        "/practices/qigong/",
+        "/glossary/daoyin/"
+      ]
+    },
+    {
+      "id": "mawangdui-daoyin-tu",
+      "title": "Mawangdui tomb 3 silk manuscript 'Daoyin tu' (导引图), sealed 168 BCE — 44 figures in movement postures",
+      "type": "historical_artifact",
+      "language": "zh",
+      "url": "https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts",
+      "pages_used_in": [
+        "/practices/daoyin/",
+        "/glossary/daoyin/"
+      ]
+    },
+    {
+      "id": "zhuangzi-an-zhi-ruo-ming",
+      "title": "Zhuangzi ch. 4 (Renjian shi): 'knowing what cannot be helped and settling into it as fate' (安之若命)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://ctext.org/zhuangzi/in-the-world-of-men",
+      "pages_used_in": [
+        "/concepts/ming/",
+        "/glossary/ming/"
+      ]
+    },
+    {
+      "id": "zhuangzi-pianmu-xing",
+      "title": "Zhuangzi ch. 8 (Pianmu): the webbed-toes defense of the inborn nature (性)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://ctext.org/zhuangzi/webbed-toes",
+      "pages_used_in": [
+        "/concepts/xing/",
+        "/glossary/xing/"
+      ]
     }
   ]
 }

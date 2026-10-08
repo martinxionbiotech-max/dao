@@ -47,7 +47,7 @@ Modern reconstructions present neiguan as a seated introspective practice: settl
 Two boundaries are also worth stating:
 
 - **Not the Buddhist term.** 内观 is also the standard modern Chinese rendering of *vipassanā* (insight meditation). The Daoist *Neiguan Jing* and Buddhist vipassanā share a translation word but are different traditions with different texts; this page concerns the Daoist one only.
-- **Lights and phenomena.** The question of visual phenomena during practice is treated separately on the [why-do-i-see-lights](/questions/why-do-i-see-lights/) page; the *Neiguan Jing* itself is cited there for its own line about observing the body.
+- **Lights and phenomena.** The question of visual phenomena during practice is treated separately on the [why-do-i-see-lights](/experiences/questions/why-do-i-see-lights/) page; the *Neiguan Jing* itself is cited there for its own line about observing the body.
 
 ## Uncertainty
 

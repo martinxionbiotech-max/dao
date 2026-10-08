@@ -25,7 +25,7 @@ sources:
 The [sitting-protocol](/tools/sitting-protocol/) page holds the full classical sequence; for this question, two facts matter:
 
 - **The test is functional, not visual.** The *Xiao zhiguan* adjusts the body before the breath — but only so the breath can then be adjusted; the body-check is never free-standing. A posture that looks canonical in the mirror and produces strained breathing is wrong, by the tradition's own standard.
-- **The founding image is not a heroic posture.** The Zhuangzi's opening sitting scene is a master *leaning on his armrest* (隐机而坐) — the book that supplies half the tradition's vocabulary begins with a lean, not a lotus. The site's [cross-legged question](/questions/must-i-sit-cross-legged/) draws the practical consequence: posture is a tool, not an entry requirement.
+- **The founding image is not a heroic posture.** The Zhuangzi's opening sitting scene is a master *leaning on his armrest* (隐机而坐) — the book that supplies half the tradition's vocabulary begins with a lean, not a lotus. The site's [cross-legged question](/experiences/questions/must-i-sit-cross-legged/) draws the practical consequence: posture is a tool, not an entry requirement.
 
 ## The archive's concrete checklist
 
@@ -42,6 +42,6 @@ The archive chapter on lotus posture gives the most detailed symptom-based check
 
 ## The error signal that overrides everything
 
-The archive's most important rule for this question is the discrimination between *mental* and *physical* trouble, recorded on the [EXP-031](/experiences/exp-031-lotus-posture-chapter/) page: mental causes (restlessness, lust, irritation) are the targets of sitting — keep sitting through them; **physical pain that keeps intensifying into labored breathing means the posture has a problem, and the problem must be found and removed** — otherwise, the archive says plainly, the body breaks. The site's [leg-numbness-pain](/patterns/leg-numbness-pain/) pattern page states the modern form of the same rule: pain that worsens across sessions is a body signal, not a milestone.
+The archive's most important rule for this question is the discrimination between *mental* and *physical* trouble, recorded on the [EXP-031](/experiences/notes/exp-031-lotus-posture-chapter/) page: mental causes (restlessness, lust, irritation) are the targets of sitting — keep sitting through them; **physical pain that keeps intensifying into labored breathing means the posture has a problem, and the problem must be found and removed** — otherwise, the archive says plainly, the body breaks. The site's [leg-numbness-pain](/experiences/patterns/leg-numbness-pain/) pattern page states the modern form of the same rule: pain that worsens across sessions is a body signal, not a milestone.
 
-**The asymmetry, stated once:** the tradition gives you a symptom checklist and a breath test, not a ruler — and that is not a deficiency. The [progress question](/questions/what-counts-as-progress/) explains why: what can be self-checked is the process (breath rate, session length, discomfort trends), not the stage. Posture is process, not stage — so it *can* be checked, and the check is the breath.
+**The asymmetry, stated once:** the tradition gives you a symptom checklist and a breath test, not a ruler — and that is not a deficiency. The [progress question](/experiences/questions/what-counts-as-progress/) explains why: what can be self-checked is the process (breath rate, session length, discomfort trends), not the stage. Posture is process, not stage — so it *can* be checked, and the check is the breath.

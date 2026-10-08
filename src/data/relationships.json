@@ -7331,6 +7331,366 @@
       "from": "tools/how-to-verify-sources",
       "to": "chinese-meditation-explained",
       "relation": "associated_with"
+    },
+    {
+      "from": "problems/body-feels-very-large",
+      "to": "qi",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/body-feels-very-large",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/vibrations-during-sitting",
+      "to": "qi",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/losing-body-awareness",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/losing-body-awareness",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/thoughts-become-stronger",
+      "to": "xinzhai",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/forgetting-the-body-daoist-texts",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/breath-retention-daoist",
+      "to": "taixi",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/breath-stopping-intentional-spontaneous",
+      "to": "taixi",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/stillness-uncomfortable",
+      "to": "xu",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/breathing-gets-shallow",
+      "to": "tiaoxi",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/falling-asleep-during-sitting",
+      "to": "jingzuo",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/falling-asleep-during-sitting",
+      "to": "zuowang",
+      "relation": "concerns"
+    },
+    {
+      "from": "problems/body-feels-very-large",
+      "to": "khalsa-2018",
+      "relation": "references"
+    },
+    {
+      "from": "problems/breathing-gets-shallow",
+      "to": "zaccaro-2018",
+      "relation": "references"
+    },
+    {
+      "from": "problems/breathing-gets-shallow",
+      "to": "noble-hochman-2019",
+      "relation": "references"
+    },
+    {
+      "from": "comparisons/daoist-vs-buddhist-meditation",
+      "to": "zuowang",
+      "relation": "discusses"
+    },
+    {
+      "from": "comparisons/daoist-vs-buddhist-meditation",
+      "to": "xinzhai",
+      "relation": "discusses"
+    },
+    {
+      "from": "comparisons/daoist-vs-buddhist-meditation",
+      "to": "shouyi",
+      "relation": "discusses"
+    },
+    {
+      "from": "comparisons/shouyi-vs-concentration",
+      "to": "shouyi",
+      "relation": "discusses"
+    },
+    {
+      "from": "comparisons/jingzuo-vs-zazen",
+      "to": "jingzuo",
+      "relation": "discusses"
+    },
+    {
+      "from": "comparisons/xinzhai-vs-mindfulness",
+      "to": "xinzhai",
+      "relation": "discusses"
+    },
+    {
+      "from": "comparisons/qi-vs-prana",
+      "to": "qi",
+      "relation": "discusses"
+    },
+    {
+      "from": "comparisons/wuwei-vs-non-action",
+      "to": "wuwei",
+      "relation": "discusses"
+    },
+    {
+      "from": "comparisons/daoist-vs-buddhist-meditation",
+      "to": "jingzuo",
+      "relation": "discusses"
+    },
+    {
+      "from": "xinzhai",
+      "to": "mindfulness",
+      "relation": "contrasts_with"
+    },
+    {
+      "from": "qi",
+      "to": "prana",
+      "relation": "contrasts_with"
+    },
+    {
+      "from": "wuwei",
+      "to": "non-action",
+      "relation": "contrasts_with"
+    },
+    {
+      "from": "guides/daoist-meditation-explained",
+      "to": "zuowang",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/daoist-meditation-explained",
+      "to": "xinzhai",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/daoist-meditation-explained",
+      "to": "shouyi",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/daoist-meditation-explained",
+      "to": "jingzuo",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/daoist-meditation-explained",
+      "to": "cunsi",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/daoist-meditation-explained",
+      "to": "neiguan",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/daoist-meditation-explained",
+      "to": "xu",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/what-is-zuowang",
+      "to": "zuowang",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/what-is-shouyi",
+      "to": "shouyi",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/map-of-chinese-contemplative-traditions",
+      "to": "zuowang",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/map-of-chinese-contemplative-traditions",
+      "to": "xinzhai",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/map-of-chinese-contemplative-traditions",
+      "to": "shouyi",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/map-of-chinese-contemplative-traditions",
+      "to": "jingzuo",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/map-of-chinese-contemplative-traditions",
+      "to": "qi",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/map-of-chinese-contemplative-traditions",
+      "to": "taixi",
+      "relation": "discusses"
+    },
+    {
+      "from": "guides/how-to-read-daoist-meditation-texts",
+      "to": "zhuangzi",
+      "relation": "references"
+    },
+    {
+      "from": "guides/how-to-read-daoist-meditation-texts",
+      "to": "zuowang-lun",
+      "relation": "references"
+    },
+    {
+      "from": "guides/how-to-read-daoist-meditation-texts",
+      "to": "baopuzi",
+      "relation": "references"
+    },
+    {
+      "from": "research/britton-2021",
+      "to": "jingzuo",
+      "relation": "investigates"
+    },
+    {
+      "from": "research/britton-2021",
+      "to": "zuowang",
+      "relation": "investigates"
+    },
+    {
+      "from": "research/zaccaro-2018",
+      "to": "tiaoxi",
+      "relation": "investigates"
+    },
+    {
+      "from": "research/noble-hochman-2019",
+      "to": "tiaoxi",
+      "relation": "investigates"
+    },
+    {
+      "from": "research/khalsa-2018",
+      "to": "qi",
+      "relation": "investigates"
+    },
+    {
+      "from": "research/britton-2021",
+      "to": "farias-adverse-events-2020",
+      "relation": "associated_with"
+    },
+    {
+      "from": "research/britton-2021",
+      "to": "lindahl-2017",
+      "relation": "associated_with"
+    },
+    {
+      "from": "research/zaccaro-2018",
+      "to": "noble-hochman-2019",
+      "relation": "associated_with"
+    },
+    {
+      "from": "daoyin",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "daoyin",
+      "to": "mawangdui-daoyin-tu",
+      "relation": "described_in"
+    },
+    {
+      "from": "qigong",
+      "to": "daoyin",
+      "relation": "derived_from"
+    },
+    {
+      "from": "neigong",
+      "to": "tiaoxi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "neigong",
+      "to": "taixi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "neigong",
+      "to": "daoyin",
+      "relation": "associated_with"
+    },
+    {
+      "from": "xing",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "xing",
+      "to": "ming",
+      "relation": "associated_with"
+    },
+    {
+      "from": "xing",
+      "to": "ziran",
+      "relation": "associated_with"
+    },
+    {
+      "from": "xing",
+      "to": "de",
+      "relation": "associated_with"
+    },
+    {
+      "from": "ming",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "ming",
+      "to": "xing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "ming",
+      "to": "wu-you",
+      "relation": "associated_with"
+    },
+    {
+      "from": "yi",
+      "to": "xin",
+      "relation": "associated_with"
+    },
+    {
+      "from": "yi",
+      "to": "shen",
+      "relation": "associated_with"
+    },
+    {
+      "from": "yi",
+      "to": "tiaoxi",
+      "relation": "concerns"
+    },
+    {
+      "from": "yi",
+      "to": "neiguan",
+      "relation": "associated_with"
+    },
+    {
+      "from": "yi",
+      "to": "wuwei",
+      "relation": "associated_with"
     }
   ]
 }
