@@ -35,3 +35,5 @@ sources:
 Cunsi's images are **traditional doctrine** — contemplative geography, not anatomy. No modern research establishes the dantian or the inner palaces as physiological findings, and this page claims none. Practitioners who use cunsi today use it as the tradition transmitted it: as structured imagination with traditional aims. The evidence for its effects is traditional and anecdotal; the site's [research pages](/research/farias-adverse-events-2020/) cover the modern evidence base, which does not include cunsi-specific studies.
 
 **Uncertainty preserved:** the sources describe methods in coded, partial language (the Baopuzi repeatedly says the essentials are oral and secret); this page describes the family of practices as the texts state it, not a complete working protocol.
+
+The two poles side by side, with the tradition's own ranking, are in the [cunsi vs zuowang comparison](/comparisons/cunsi-vs-zuowang/).

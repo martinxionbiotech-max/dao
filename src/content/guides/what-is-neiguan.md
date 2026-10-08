@@ -47,3 +47,5 @@
 - The scripture gives the principle and the state; it does not give a minute-by-minute modern protocol. Reconstructions that add detailed steps are editorial, not ancient.
 - The full treatment — sources, quotes, scholarly dating, the Tang identification with zuowang — is on the **[neiguan practice page](/practices/neiguan/)**; the term layer is the **[neiguan glossary entry](/glossary/neiguan/)**. This introduction is the doorway.
 - The sibling question — [why do I see lights](/experiences/questions/why-do-i-see-lights/) — shows the boundary where inner observation meets inner imagery.
+
+The shared characters with modern 'vipassana' are sorted out in the [neiguan vs vipassana comparison](/comparisons/neiguan-vs-vipassana/).

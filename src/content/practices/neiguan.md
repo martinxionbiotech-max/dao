@@ -57,3 +57,5 @@ Two boundaries are also worth stating:
 ## Editorial synthesis
 
 Neiguan is the site's bridge practice: it links the classical emptying vocabulary (xu, xinzhai) to the later systematization (zuowang), and it gives the *observing* verb that the modern contemplative tradition still uses. The page keeps three layers separate: what the scripture says, what the later tradition identified it with, and what modern teachers reconstruct.
+
+The modern term 'vipassana' shares neiguan's Chinese characters — the two are separated dimension by dimension in the [neiguan vs vipassana comparison](/comparisons/neiguan-vs-vipassana/).

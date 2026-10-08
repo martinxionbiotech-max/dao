@@ -31,3 +31,5 @@ sources:
 - **Both poles share one boundary:** neither is a medical treatment, and neither promises its claims as measured fact — the boundaries each page states separately still apply to the combination.
 
 **Uncertainty preserved:** the *relationship* between the poles is documented in the sources; the *recommended personal sequence* (which order, how long) is lineage-specific and oral — this page gives the documented geometry, not a curriculum.
+
+The two poles laid out dimension by dimension: [cunsi vs zuowang](/comparisons/cunsi-vs-zuowang/).

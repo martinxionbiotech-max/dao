@@ -7746,6 +7746,26 @@
    "from": "what-modern-research-can-and-cannot-tell-us",
    "to": "zaccaro-2018",
    "relation": "references"
+  },
+  {
+   "from": "cunsi-vs-zuowang",
+   "to": "cunsi",
+   "relation": "discusses"
+  },
+  {
+   "from": "cunsi-vs-zuowang",
+   "to": "zuowang",
+   "relation": "discusses"
+  },
+  {
+   "from": "neiguan-vs-vipassana",
+   "to": "neiguan",
+   "relation": "discusses"
+  },
+  {
+   "from": "neiguan-vs-vipassana",
+   "to": "vipassana",
+   "relation": "discusses"
   }
  ]
 }
