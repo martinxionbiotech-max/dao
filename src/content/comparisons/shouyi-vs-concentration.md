@@ -49,3 +49,8 @@ Both require that attention stop jumping. The practitioner who cannot hold atten
 Concentration can be deployed at anything — a chess problem, a spreadsheet, an enemy. Shouyi cannot: its object *is* the undivided state. A person concentrating hard is not necessarily guarding the One; a person guarding the One is, almost by definition, concentrated — but on what concentration cannot name.
 
 The sibling comparison, [zuowang vs shouyi](/comparisons/zuowang-vs-shouyi/), treats how guarding relates to forgetting.
+
+## What this comparison cannot settle
+
+The oldest descriptions of shouyi are terse, and "concentration" is a modern English term with its own psychological literature; no ancient manual maps cleanly onto the modern construct. Where ordinary concentration ends and guarding begins is a line each teacher draws differently — the sources name the difference (the object is the undivided state itself) without giving a measure for it.
+

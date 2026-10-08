@@ -45,3 +45,7 @@
 In sitting practice, xing enters through the tradition's claim that stillness lets the inborn nature *surface* — the imposed layers settle, and what remains is what was always there. The [zuowang](/concepts/zuowang/) page's "forgetting" is, in this vocabulary, the removal of what was imposed on xing.
 
 The companion half of the pair is [ming](/concepts/ming/).
+
+## What is uncertain
+
+The xingming pair is solid in the alchemical tradition from roughly the Song onward, but the earlier history is looser: pre-Song texts use xing for "inborn nature" without a fixed counterpart, and how much the alchemical pair owes to Neo-Confucian usage (Zhang Zai, the Cheng brothers) rather than to Daoist sources alone is a matter of scholarly discussion. The Mencian claim that human nature tends toward the good is a Confucian claim, not a Daoist one, and this site does not import it.

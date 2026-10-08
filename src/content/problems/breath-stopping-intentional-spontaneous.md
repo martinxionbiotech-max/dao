@@ -31,7 +31,7 @@
 ## The tradition's answer
 
 - **Arrival, not technique:** the Baopuzi says the practitioner who has *attained* taixi breathes as in the womb — the verb is attainment, not performance.
-- **The hierarchy of breath:** coarse breath is the fault, fine breath the ideal, and the direction of practice is always *letting* the breath settle, never *making* it stop.
+- **The hierarchy of breath:** coarse breath is the fault, fine breath the ideal, and the direction of practice across the manuals is *letting* the breath settle, not *making* it stop.
 
 ## The archive case
 

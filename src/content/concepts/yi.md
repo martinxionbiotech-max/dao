@@ -44,3 +44,7 @@
 - **The term is shared across schools** — Confucian and Buddhist manuals use 意 in their own ways, and this page's treatment follows the Daoist-facing usage of the practice manuals cited.
 
 The term layer lives at [yi in the glossary](/glossary/yi/) alongside its family: [xin](/glossary/xin/), [shen](/glossary/shen/).
+
+## What is uncertain
+
+Yi is everywhere in the manuals and nowhere given a single definition — the term slides between "intention," "attention," and "directedness" depending on the text. The modern habit of translating yi as "intention" (and then importing Western debates about intention) is a modern convention, not the classical usage. Where exactly the yi discipline sits between cognitive aiming and the felt steadiness of attention is the tradition's own unsettled ground.

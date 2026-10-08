@@ -44,6 +44,11 @@ The Laozi says the pursuit of the Dao is *subtraction* (ch. 48: learning adds da
 
 ## What the error costs in practice
 
-Read as quietism, wuwei licenses passivity — the opposite of the tradition's meaning. Read correctly, it names the discipline at the heart of the practice pages: [zuowang](/concepts/zuowang/)'s non-interference, [xinzhai](/concepts/xinzhai/)'s non-imposition, the breath work's letting-settle instead of forcing. Every "let" on this site is wuwei in operation; none of them is doing nothing.
+Read as quietism, wuwei licenses passivity — the opposite of the tradition's meaning. Read correctly, it names the discipline at the heart of the practice pages: [zuowang](/concepts/zuowang/)'s non-interference, [xinzhai](/concepts/xinzhai/)'s non-imposition, the breath work's letting-settle instead of forcing. The "let" moves on this site are wuwei in operation; none of them is doing nothing.
 
 The naturalness term that pairs with wuwei is [ziran](/concepts/ziran/).
+
+## What is uncertain
+
+The translation debate itself is the uncertainty: most translators since the nineteenth century have kept "non-action" for tradition's sake while footnoting its failure, and a minority have proposed alternatives ("non-coercive action," "effortless action") without winning the field. The interpretive question is settled enough in the texts' own pairing (无为而无不为); the translational question is not.
+

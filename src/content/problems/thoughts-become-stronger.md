@@ -30,7 +30,7 @@
 ## What the sources say
 
 - **Zhuangzi ch. 4:** the text does not promise silence. It diagnoses the racing mind and prescribes the *fasting of the mind* — not thinking harder against thinking, but emptying the place thinking happens: "The Dao gathers in emptiness" (唯道集虚).
-- **The manuals' counsel, as transmitted:** the discovery that the mind is loud is *information*, not failure. No manual treats a loud mind as proof that sitting is not working; every manual treats the slow settling of it as the work.
+- **The manuals' counsel, as transmitted:** the discovery that the mind is loud is *information*, not failure. No manual treats a loud mind as proof that sitting is not working; the manuals treat the slow settling of it as the work.
 
 ## What practitioners report
 

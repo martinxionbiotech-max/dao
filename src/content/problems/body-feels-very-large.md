@@ -35,7 +35,7 @@
 
 ## What the sources say
 
-- **Zhuangzi ch. 2:** "Heaven and earth were born together with me, and the myriad things and I are one" (天地与我并生，而万物与我为一). The sentence is cosmology, but the tradition has always also read it as the *felt* version of that cosmology: the boundary between this body and the rest of things is not a wall but a habit of perception.
+- **Zhuangzi ch. 2:** "Heaven and earth were born together with me, and the myriad things and I are one" (天地与我并生，而万物与我为一). The sentence is cosmology, but the tradition has also long read it as the *felt* version of that cosmology: the boundary between this body and the rest of things is not a wall but a habit of perception.
 - **The manuals' counsel, as transmitted:** sensations of the body changing shape or size in stillness are passed through, not collected — the same non-grasping rule applied to [light](/problems/seeing-light-in-sitting/) applies here. Neither chase the sensation nor fear it.
 
 ## What practitioners report

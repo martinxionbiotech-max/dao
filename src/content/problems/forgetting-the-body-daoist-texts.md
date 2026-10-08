@@ -43,3 +43,5 @@
 ## The companion page
 
 The experiential side of this question — "why do I lose awareness of my body?" — is treated at [losing body awareness](/problems/losing-body-awareness/), including the medical boundary that textual pages do not cross.
+
+**Not medical advice:** this page is about what the texts mean. Changes in felt body experience during practice have their own boundary — see [losing body awareness](/problems/losing-body-awareness/) and [body feels very large](/problems/body-feels-very-large/).
