@@ -19,7 +19,8 @@
   "relatedResearch": [],
   "sources": [
     "Khalsa, S. S., Adolphs, R., Cameron, O. G., et al. (2018). Interoception and mental health: a roadmap. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 3(6), 501-513. DOI: 10.1016/j.bpsc.2017.12.004"
-  ]
+  ],
+  "traditionRelevance": "Indirect (adjacent): interoception model is general; not specific to Daoist practice."
 }
 ---
 

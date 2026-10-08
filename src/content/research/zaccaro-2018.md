@@ -18,7 +18,8 @@
   "relatedResearch": [],
   "sources": [
     "Zaccaro, A., Piarulli, A., Laurino, M., Garbella, E., Menicucci, D., Neri, B., & Gemignani, A. (2018). How breath-control can change your life: a systematic review on psycho-physiological correlates of slow breathing. Frontiers in Human Neuroscience, 12, 353. DOI: 10.3389/fnhum.2018.00353"
-  ]
+  ],
+  "traditionRelevance": "Indirect (adjacent): slow-breathing physiology; relevant to tiaoxi as adjacent evidence."
 }
 ---
 

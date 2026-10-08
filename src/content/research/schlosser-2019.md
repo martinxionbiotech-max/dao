@@ -1,7 +1,11 @@
 ---
+
 title: "Schlosser 2019: How Common Are Unpleasant Meditation Experiences?"
 description: "The largest survey to date of unpleasant meditation-related experiences: roughly one in four regular meditators reports having had one — and the study's predictors map the conditions that make them likelier."
 question: "How common are unpleasant meditation-related experiences among regular meditators, and what predicts them?"
+method: "Cross-sectional online survey of 1,232 regular meditators (mean age 44.8; 53.6% female), asking about particularly unpleasant meditation-related experiences; logistic models of predictors."
+findingsSummary: "25.6% reported at least one particularly unpleasant meditation-related experience (95% CI 23.1-28.0); less likely in women and religious participants; more likely with deconstructive practices and repeated retreat attendance."
+limitations: "Cross-sectional self-report; single-item outcome; cannot establish causation or base rates across traditions; not Daoist sitting."
 status: published
 date: 2026-10-07
 evidence: ["MODERN RESEARCH"]
@@ -9,6 +13,7 @@ relatedConcepts: []
 relatedResearch: ["lindahl-2017", "farias-adverse-events-2020"]
 sources:
   - "Schlosser M, Sparby T, Vörös S, Jones R, Marchant NL (2019) Unpleasant meditation-related experiences in regular meditators: Prevalence, predictors, and conceptual considerations. PLoS ONE 14(5): e0216643. PMID 31071152"
+traditionRelevance: "Indirect (adjacent): regular meditators across traditions; not Daoist sitting."
 ---
 
 **Direct answer:** About **one in four** regular meditators — 315 of 1,232 (25.6%, 95% CI 23.1–28.0) — reported having had a particularly unpleasant meditation-related experience they thought may have been caused by their practice. The finding comes from the largest cross-sectional survey of the topic to date (Schlosser et al., *PLoS ONE* 2019), and it is the **quantitative companion** to this site's [Lindahl 2017](/research/lindahl-2017/) page (the qualitative phenomenology of the same events) and [Farias 2020](/research/farias-adverse-events-2020/) (the trial-literature review).

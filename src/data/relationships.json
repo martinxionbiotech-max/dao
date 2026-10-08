@@ -7671,6 +7671,81 @@
    "from": "yi",
    "to": "wuwei",
    "relation": "associated_with"
+  },
+  {
+   "from": "dizziness-during-sitting",
+   "to": "qi",
+   "relation": "concerns"
+  },
+  {
+   "from": "dizziness-during-sitting",
+   "to": "tiaoxi",
+   "relation": "concerns"
+  },
+  {
+   "from": "dizziness-during-sitting",
+   "to": "jingzuo",
+   "relation": "concerns"
+  },
+  {
+   "from": "head-pressure-during-sitting",
+   "to": "qi",
+   "relation": "concerns"
+  },
+  {
+   "from": "head-pressure-during-sitting",
+   "to": "tiaoxi",
+   "relation": "concerns"
+  },
+  {
+   "from": "what-is-neiguan",
+   "to": "neiguan",
+   "relation": "discusses"
+  },
+  {
+   "from": "what-is-neiguan",
+   "to": "neiguan-jing",
+   "relation": "references"
+  },
+  {
+   "from": "chinese-meditation-terms-explained",
+   "to": "zuowang",
+   "relation": "discusses"
+  },
+  {
+   "from": "chinese-meditation-terms-explained",
+   "to": "jingzuo",
+   "relation": "discusses"
+  },
+  {
+   "from": "chinese-meditation-terms-explained",
+   "to": "tiaoxi",
+   "relation": "discusses"
+  },
+  {
+   "from": "chinese-meditation-terms-explained",
+   "to": "qi",
+   "relation": "discusses"
+  },
+  {
+   "from": "what-modern-research-can-and-cannot-tell-us",
+   "to": "farias-adverse-events-2020",
+   "relation": "references"
+  },
+  {
+   "from": "what-modern-research-can-and-cannot-tell-us",
+   "to": "britton-2021",
+   "relation": "references"
+  },
+  {
+   "from": "what-modern-research-can-and-cannot-tell-us",
+   "to": "mindfulness-meta-analysis-2014",
+   "relation": "references"
+  },
+  {
+   "from": "what-modern-research-can-and-cannot-tell-us",
+   "to": "zaccaro-2018",
+   "relation": "references"
   }
  ]
 }

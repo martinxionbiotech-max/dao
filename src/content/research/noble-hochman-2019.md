@@ -20,7 +20,8 @@
   ],
   "sources": [
     "Noble, D. J., & Hochman, S. (2019). Hypothesis: pulmonary afferent activity patterns during slow, deep breathing contribute to the neural induction of physiological relaxation. Frontiers in Physiology, 10, 1176. DOI: 10.3389/fphys.2019.01176"
-  ]
+  ],
+  "traditionRelevance": "Indirect (adjacent): physiological hypothesis; not Daoist-specific."
 }
 ---
 

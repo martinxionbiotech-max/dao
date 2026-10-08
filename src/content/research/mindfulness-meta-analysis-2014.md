@@ -1,4 +1,5 @@
 ---
+
 title: "Do Meditation Programs Improve Psychological Stress and Well-being? (Goyal 2014)"
 description: "The landmark 2014 JAMA Internal Medicine meta-analysis: moderate evidence for mindfulness meditation on anxiety, depression, and pain — and what it does not say about Daoist sitting."
 question: "Do meditation programs improve psychological stress and well-being compared with no treatment?"
@@ -11,6 +12,7 @@ evidence: ["MODERN RESEARCH"]
 relatedConcepts: ["jingzuo", "zuowang"]
 sources:
   - "Goyal, M., et al. 'Meditation Programs for Psychological Stress and Well-being: A Systematic Review and Meta-analysis.' JAMA Internal Medicine 174(3):357–368, 2014. DOI: 10.1001/jamainternmed.2013.13018"
+traditionRelevance: "Indirect (adjacent): mindfulness programs; no Daoist sitting studied."
 ---
 
 ## The question
@@ -48,3 +50,5 @@ Meditation research supports a modest, real effect of structured sitting practic
 ## Editorial synthesis
 
 For this knowledge base the takeaway is methodological: **the evidence base is about mindfulness programs, not about Daoist sitting, and the two cannot be substituted.** Where the traditions' claims are empirical (settled sitting reduces distress), modest modern support exists at the family level. Where they are metaphysical (attaining the Dao), the research is silent. See the [zuowang vs. mindfulness comparison](/comparisons/zuowang-vs-mindfulness/) for the structured version of this distinction.
+
+The full boundary — what the nine study records on this site can and cannot establish — is drawn in the guide [what modern research can and cannot tell us about meditation](/guides/what-modern-research-can-and-cannot-tell-us/).

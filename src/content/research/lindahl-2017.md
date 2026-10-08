@@ -1,4 +1,5 @@
 ---
+
 title: "Varieties of Contemplative Experience (Lindahl 2017)"
 description: "The first taxonomy of meditation-related challenges: interviews with Western Buddhist practitioners and teachers, mapping the phenomena, the influencing factors, and the remedies."
 question: "What kinds of difficult experiences arise in meditation, when do they arise, and how are they worked with?"
@@ -13,6 +14,7 @@ relatedQuestions: ["can-sitting-go-wrong"]
 relatedResearch: ["farias-adverse-events-2020"]
 sources:
   - "Lindahl, J. R., Fisher, N. E., Cooper, D. J., Rosen, R. K., & Britton, W. B. (2017). The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists. PLoS ONE 12(5): e0176239. DOI: 10.1371/journal.pone.0176239"
+traditionRelevance: "Indirect (adjacent): Western Buddhist practitioners; not Daoist sitting."
 ---
 
 ## What the study did

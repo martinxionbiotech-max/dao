@@ -119,6 +119,7 @@ const research = defineCollection({
     method: z.string().optional(),
     findingsSummary: z.string().optional(),
     limitations: z.string().optional(),
+    traditionRelevance: z.string().optional(), // direct / indirect / adjacent evidence boundary (§16)
   }),
 });
 

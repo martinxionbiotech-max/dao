@@ -25,7 +25,8 @@
   ],
   "sources": [
     "Britton, W. B., Lindahl, J. R., Cooper, D. J., Canby, N. K., & Palitsky, R. (2021). Defining and measuring meditation-related adverse effects in mindfulness-based programs. Clinical Psychological Science, 9(6), 1185-1204. DOI: 10.1177/2167702621996340"
-  ]
+  ],
+  "traditionRelevance": "Indirect (adjacent): clinical mindfulness programs; no Daoist sitting studied."
 }
 ---
 
