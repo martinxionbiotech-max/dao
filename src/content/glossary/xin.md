@@ -9,7 +9,7 @@ recommended: "heart-mind on first use in philosophical contexts; then plain 'min
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
 date: 2026-10-07
-relatedConcepts: ["xinzhai", "qi"]
+relatedConcepts: ["xinzhai", "qi", "xing"]
 sources:
   - "Zhuangzi ch. 4 ('the mind stops at matching')"
 ---
@@ -18,4 +18,4 @@ sources:
 
 **Translation note:** premodern Chinese never separated "heart" from "mind" the way English does; translating *xin* as "mind" loses the feeling-register, and "heart" loses the cognitive register. "Heart-mind" is the standard scholarly compromise for first use. The xinzhai concept page keeps the nuance throughout.
 
-See the [xinzhai](/concepts/xinzhai/) and [qi](/concepts/qi/) pages.
+See the [xinzhai](/concepts/xinzhai/), [qi](/concepts/qi/), and [xing](/concepts/xing/) pages — xing names the nature this heart-mind is born with.
