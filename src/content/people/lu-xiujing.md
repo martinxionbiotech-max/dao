@@ -1,6 +1,6 @@
 ---
 title: "Lu Xiujing (陆修静)"
-description: "Lu Xiujing 陆修静 (406–477) — the cataloger of the Daoist canon: compiler of the first complete scripture directory, the Three Caverns classification that every later Daoist canon still uses, and the reformer who gave southern Celestial Masters Daoism its rites and its library."
+description: "Lu Xiujing 陆修静 (406–477) — the cataloger of the Daoist canon: compiler of the first complete scripture directory, the Three Caverns classification still used by later Daoist canons, and the reformer who gave southern Celestial Masters Daoism its rites and its library."
 chinese: "陆修静"
 pinyin: "Lù Xiūjìng"
 period: "406–477 CE (Liu Song, Southern Dynasties)"

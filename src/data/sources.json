@@ -12,7 +12,9 @@
         "/concepts/zuowang/",
         "/concepts/xinzhai/",
         "/concepts/qi/",
-        "/texts/zhuangzi/"
+        "/texts/zhuangzi/",
+        "/concepts/dao/",
+        "/concepts/wu-you/"
       ]
     },
     {
@@ -166,7 +168,8 @@
       "language": "zh",
       "url": "http://www.taoist.org.cn/showInfoContent.do?id=2549",
       "pages_used_in": [
-        "/texts/qingjing-jing/"
+        "/texts/qingjing-jing/",
+        "/practices/neiguan/"
       ]
     },
     {
@@ -176,7 +179,8 @@
       "language": "zh",
       "url": "https://zh.daoinfo.org/index.php?title=%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
       "pages_used_in": [
-        "/texts/neiguan-jing/"
+        "/texts/neiguan-jing/",
+        "/practices/neiguan/"
       ]
     },
     {
@@ -388,7 +392,8 @@
       "url": "https://zh.wikisource.org/wiki/道樞",
       "pages_used_in": [
         "/timeline/daoshu-neiguan-zuowang/",
-        "/glossary/neiguan/"
+        "/glossary/neiguan/",
+        "/practices/neiguan/"
       ]
     },
     {
@@ -584,7 +589,9 @@
       "type": "primary_text",
       "language": "zh",
       "pages_used_in": [
-        "/translations/daodejing-25/"
+        "/translations/daodejing-25/",
+        "/concepts/dao/",
+        "/concepts/fan/"
       ]
     },
     {
@@ -612,7 +619,8 @@
         "/glossary/jian-du/",
         "/stories/sanghu-friends/",
         "/glossary/xian-jie/",
-        "/glossary/ji-ren/"
+        "/glossary/ji-ren/",
+        "/concepts/dao/"
       ]
     },
     {
@@ -763,7 +771,9 @@
       "type": "primary_text",
       "language": "zh",
       "pages_used_in": [
-        "/translations/daodejing-01/"
+        "/translations/daodejing-01/",
+        "/concepts/dao/",
+        "/concepts/wu-you/"
       ]
     },
     {
@@ -812,7 +822,9 @@
       "type": "primary_text",
       "language": "zh",
       "pages_used_in": [
-        "/translations/daodejing-37/"
+        "/translations/daodejing-37/",
+        "/concepts/dao/",
+        "/concepts/pu/"
       ]
     },
     {
@@ -869,7 +881,9 @@
       "language": "zh",
       "pages_used_in": [
         "/people/wang-bi/",
-        "/timeline/wangbi-laozi-commentary/"
+        "/timeline/wangbi-laozi-commentary/",
+        "/concepts/de/",
+        "/concepts/wu-you/"
       ]
     },
     {
@@ -1303,7 +1317,8 @@
       "language": "zh",
       "url": "https://m.guwendao.net/mingju/juv_6c051ff33c92.aspx",
       "pages_used_in": [
-        "/translations/daodejing-02/"
+        "/translations/daodejing-02/",
+        "/concepts/wu-you/"
       ]
     },
     {
@@ -1363,7 +1378,8 @@
       "language": "zh",
       "url": "https://www.daodejing.org/11.html",
       "pages_used_in": [
-        "/translations/daodejing-11/"
+        "/translations/daodejing-11/",
+        "/concepts/wu-you/"
       ]
     },
     {
@@ -1483,7 +1499,9 @@
       "language": "zh",
       "url": "https://mindiver.se/ddj-40",
       "pages_used_in": [
-        "/translations/daodejing-40/"
+        "/translations/daodejing-40/",
+        "/concepts/wu-you/",
+        "/concepts/fan/"
       ]
     },
     {
@@ -1574,7 +1592,9 @@
       "language": "zh",
       "url": "https://mindiver.se/ddj-32",
       "pages_used_in": [
-        "/translations/daodejing-32/"
+        "/translations/daodejing-32/",
+        "/concepts/dao/",
+        "/concepts/pu/"
       ]
     },
     {
@@ -1763,7 +1783,9 @@
         "/stories/light-brightness-asks-nothingness/",
         "/stories/taiqing-asks-wuqiong/",
         "/stories/ran-qiu-asks-zhongni/",
-        "/glossary/wu-shi-wu-zhong/"
+        "/glossary/wu-shi-wu-zhong/",
+        "/concepts/dao/",
+        "/concepts/wu-you/"
       ]
     },
     {
@@ -1783,7 +1805,8 @@
       "language": "zh",
       "url": "https://www.daodejing.org/42.html",
       "pages_used_in": [
-        "/translations/daodejing-42/"
+        "/translations/daodejing-42/",
+        "/concepts/yin-yang/"
       ]
     },
     {
@@ -1813,7 +1836,8 @@
       "language": "zh",
       "url": "https://ctext.org/text.pl?node=11669&if=gb",
       "pages_used_in": [
-        "/translations/daodejing-78/"
+        "/translations/daodejing-78/",
+        "/concepts/fan/"
       ]
     },
     {
@@ -1853,7 +1877,8 @@
       "language": "zh",
       "url": "https://mindiver.se/ddj-51",
       "pages_used_in": [
-        "/translations/daodejing-51/"
+        "/translations/daodejing-51/",
+        "/concepts/de/"
       ]
     },
     {
@@ -1874,6 +1899,76 @@
       "url": "https://taiguanglin.org",
       "pages_used_in": [
         "/experiences/exp-032-from-zero-to-desire-realm/"
+      ]
+    },
+    {
+      "id": "daodejing-19-28-editions",
+      "title": "Daodejing chs. 19 & 28 (received text), Shanxi University Philosophy School commentary edition",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "http://zxxy.sxu.edu.cn/zxypt/zlxz1/8910d895971d42c2a8e8c819b37c6945.htm",
+      "pages_used_in": [
+        "/concepts/pu/"
+      ]
+    },
+    {
+      "id": "daodejing-15-editions",
+      "title": "Daodejing ch. 15 (received text): 敦兮其若樸",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://ctext.org/dao-de-jing/zh",
+      "pages_used_in": [
+        "/concepts/pu/"
+      ]
+    },
+    {
+      "id": "daodejing-16-editions",
+      "title": "Daodejing ch. 16 (received text): 萬物並作，吾以觀復",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://ctext.org/dao-de-jing/zh",
+      "pages_used_in": [
+        "/concepts/fan/"
+      ]
+    },
+    {
+      "id": "daodejing-38-editions",
+      "title": "Daodejing ch. 38 (received text), with Wang Bi note 德者得也 (Jinling dushu commentary ed.)",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://www.sohu.com/a/128169177_488646",
+      "pages_used_in": [
+        "/concepts/de/"
+      ]
+    },
+    {
+      "id": "xici-zhuan",
+      "title": "Yijing, Xici zhuan (Appended Statements) shang ch. 5: 一陰一陽之謂道",
+      "type": "classical_text",
+      "language": "zh",
+      "url": "https://ctext.org/book-of-changes/xi-ci-shang",
+      "pages_used_in": [
+        "/concepts/yin-yang/"
+      ]
+    },
+    {
+      "id": "huangdi-neijing-su-wen",
+      "title": "Huangdi Neijing, Suwen ch. 5 (Yinyang yingxiang dalun): 陰陽者，天地之道也",
+      "type": "classical_text",
+      "language": "zh",
+      "url": "https://ctext.org/huangdi-neijing/su-wen",
+      "pages_used_in": [
+        "/concepts/yin-yang/"
+      ]
+    },
+    {
+      "id": "dingguan-jing-zhu",
+      "title": "Dongxuan Lingbao Dingguan Jing zhu: 慧心內照名曰內觀",
+      "type": "primary_text",
+      "language": "zh",
+      "url": "https://zh.wikipedia.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+      "pages_used_in": [
+        "/practices/neiguan/"
       ]
     }
   ]

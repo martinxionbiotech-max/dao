@@ -8,7 +8,7 @@ translationOptions: ["virtue", "power", "integrity", "potency", "virtuosity"]
 recommended: "keep romanized as De/dé where technical; 'virtue/power' gloss on first use"
 status: published
 date: 2026-10-07
-relatedConcepts: ["wuwei"]
+relatedConcepts: ["dao", "wuwei"]
 relatedTexts: ["daodejing"]
 sources:
   - "Daodejing ch. 38 ('the highest De does not act')"
@@ -18,4 +18,4 @@ sources:
 
 **Translation note:** "virtue" misleads toward moralism; "power" misleads toward coercion; "potency" is closer but clinical. Arthur Waley's "power" and modern scholarship's "integrity" are both partial. Keep romanized in technical contexts; gloss as "virtue/power."
 
-See the [Daodejing](/texts/daodejing/) page.
+See the full concept page: [De](/concepts/de/). See also the [Daodejing](/texts/daodejing/) page.

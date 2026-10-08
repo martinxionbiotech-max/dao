@@ -35,7 +35,7 @@ Traditionally a minor official and near-contemporary of Mencius (4th c. BCE), kn
 
 ## Why this book matters for contemplation
 
-The *Zhuangzi* supplies the classical descriptions that every later Chinese sitting tradition quotes or adapts:
+The *Zhuangzi* supplies the classical descriptions that later Chinese sitting traditions quote or adapt:
 
 - **Zuowang** (ch. 6): dropping body, senses, and knowledge to merge with the Great Thoroughfare — the root text of Tang zuowang practice.
 - **Xinzhai** (ch. 4): listening with qi, the emptiness where the Dao gathers — the root text of "empty-mind" practice language.
@@ -52,4 +52,4 @@ The *Zhuangzi* supplies the classical descriptions that every later Chinese sitt
 
 ## Editorial synthesis
 
-The *Zhuangzi* is the root text of this knowledge base not because it is a meditation manual — it is not — but because it is the earliest Chinese literature describing *what it is like* for the self to fall away in sitting, and because every later tradition's technical vocabulary (emptiness, qi, forgetting, merging) borrows from it. Reading its practice passages as literal technique is anachronistic; reading them as the description-and-ideal later technicians systematized is exactly right.
+The *Zhuangzi* is the root text of this knowledge base not because it is a meditation manual — it is not — but because it is the earliest Chinese literature describing *what it is like* for the self to fall away in sitting, and because later traditions' technical vocabulary (emptiness, qi, forgetting, merging) borrows from it. Reading its practice passages as literal technique is anachronistic; reading them as the description-and-ideal later technicians systematized is exactly right.

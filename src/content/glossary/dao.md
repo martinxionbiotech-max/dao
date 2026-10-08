@@ -8,7 +8,7 @@ translationOptions: ["Way (capitalized)", "the Dao (romanized)", "path", "method
 recommended: "keep romanized as Dao/dào; capitalize 'Way' when the technical sense is meant"
 status: published
 date: 2026-10-07
-relatedConcepts: ["wuwei"]
+relatedConcepts: ["dao", "wuwei"]
 relatedTexts: ["daodejing"]
 sources:
   - "Daodejing chs. 1, 25, 37; Qingjing Jing opening"
@@ -18,4 +18,4 @@ sources:
 
 **Translation note:** the word plays on the double sense "way/path" and "to speak." English "Way" (capitalized) captures the first sense; no English word captures the cosmic-source sense, so modern scholarship keeps *Dao* romanized. "The Tao" (Wade-Giles) is the same word; this site uses pinyin. Avoid "God," "Nature" (too narrow), and "the Force" (popular-culture register).
 
-See the [Daodejing](/texts/daodejing/) and [wuwei](/concepts/wuwei/) pages.
+See the full concept page: [Dao](/concepts/dao/). See also the [Daodejing](/texts/daodejing/) and [wuwei](/concepts/wuwei/) pages.

@@ -7021,6 +7021,241 @@
       "from": "exp-032-from-zero-to-desire-realm",
       "to": "jingzuo",
       "relation": "related_to"
+    },
+    {
+      "from": "dao",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "dao",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "dao",
+      "to": "de",
+      "relation": "associated_with"
+    },
+    {
+      "from": "dao",
+      "to": "wu-you",
+      "relation": "associated_with"
+    },
+    {
+      "from": "dao",
+      "to": "ziran",
+      "relation": "associated_with"
+    },
+    {
+      "from": "dao",
+      "to": "fan",
+      "relation": "associated_with"
+    },
+    {
+      "from": "dao",
+      "to": "pu",
+      "relation": "associated_with"
+    },
+    {
+      "from": "dao",
+      "to": "xu",
+      "relation": "associated_with"
+    },
+    {
+      "from": "dao",
+      "to": "wuwei",
+      "relation": "associated_with"
+    },
+    {
+      "from": "de",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "de",
+      "to": "wuwei",
+      "relation": "associated_with"
+    },
+    {
+      "from": "de",
+      "to": "ziran",
+      "relation": "associated_with"
+    },
+    {
+      "from": "de",
+      "to": "pu",
+      "relation": "associated_with"
+    },
+    {
+      "from": "wu-you",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "wu-you",
+      "to": "zhuangzi",
+      "relation": "described_in"
+    },
+    {
+      "from": "wu-you",
+      "to": "xu",
+      "relation": "associated_with"
+    },
+    {
+      "from": "wu-you",
+      "to": "fan",
+      "relation": "associated_with"
+    },
+    {
+      "from": "daodejing-01",
+      "to": "wu-you",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-02",
+      "to": "wu-you",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-11",
+      "to": "wu-you",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-40",
+      "to": "wu-you",
+      "relation": "concerns"
+    },
+    {
+      "from": "light-brightness-asks-nothingness",
+      "to": "wu-you",
+      "relation": "concerns"
+    },
+    {
+      "from": "yin-yang",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "yin-yang",
+      "to": "qi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "yin-yang",
+      "to": "jing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "yin-yang",
+      "to": "fan",
+      "relation": "associated_with"
+    },
+    {
+      "from": "daodejing-42",
+      "to": "yin-yang",
+      "relation": "concerns"
+    },
+    {
+      "from": "fan",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "fan",
+      "to": "jing",
+      "relation": "associated_with"
+    },
+    {
+      "from": "fan",
+      "to": "wu-you",
+      "relation": "associated_with"
+    },
+    {
+      "from": "fan",
+      "to": "yin-yang",
+      "relation": "associated_with"
+    },
+    {
+      "from": "daodejing-40",
+      "to": "fan",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-25",
+      "to": "fan",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-16",
+      "to": "fan",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-78",
+      "to": "fan",
+      "relation": "concerns"
+    },
+    {
+      "from": "pu",
+      "to": "daodejing",
+      "relation": "described_in"
+    },
+    {
+      "from": "pu",
+      "to": "ziran",
+      "relation": "associated_with"
+    },
+    {
+      "from": "pu",
+      "to": "wuwei",
+      "relation": "associated_with"
+    },
+    {
+      "from": "daodejing-32",
+      "to": "pu",
+      "relation": "concerns"
+    },
+    {
+      "from": "daodejing-37",
+      "to": "pu",
+      "relation": "concerns"
+    },
+    {
+      "from": "neiguan",
+      "to": "xu",
+      "relation": "associated_with"
+    },
+    {
+      "from": "neiguan",
+      "to": "xinzhai",
+      "relation": "associated_with"
+    },
+    {
+      "from": "neiguan",
+      "to": "shouyi",
+      "relation": "associated_with"
+    },
+    {
+      "from": "neiguan",
+      "to": "cunsi",
+      "relation": "contrasts_with"
+    },
+    {
+      "from": "neiguan",
+      "to": "qingjing-jing",
+      "relation": "described_in"
+    },
+    {
+      "from": "wang-bi",
+      "to": "wu-you",
+      "relation": "discusses"
+    },
+    {
+      "from": "guo-xiang",
+      "to": "wu-you",
+      "relation": "discusses"
     }
   ]
 }
