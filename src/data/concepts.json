@@ -3,34 +3,44 @@
   "description": "Structured concept records: id, name, chinese, pinyin, tradition, page, evidence, related[]",
   "items": [
     {
-      "id": "zuowang",
-      "name": "Zuowang",
-      "chinese": "坐忘",
-      "pinyin": "zuòwàng",
+      "id": "dao",
+      "name": "Dao",
+      "chinese": "道",
+      "pinyin": "dào",
       "tradition": "Daoist",
-      "page": "/concepts/zuowang/",
-      "evidence": "PRIMARY SOURCE",
-      "related": ["zhuangzi", "xinzhai", "wuwei", "qi", "jingzuo"]
+      "page": "/concepts/dao/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
     },
     {
-      "id": "xinzhai",
-      "name": "Xinzhai",
-      "chinese": "心斋",
-      "pinyin": "xīnzhāi",
+      "id": "de",
+      "name": "De",
+      "chinese": "德",
+      "pinyin": "dé",
       "tradition": "Daoist",
-      "page": "/concepts/xinzhai/",
-      "evidence": "PRIMARY SOURCE",
-      "related": ["zhuangzi", "zuowang", "qi", "wuwei"]
+      "page": "/concepts/de/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
     },
     {
-      "id": "wuwei",
-      "name": "Wuwei",
-      "chinese": "无为",
-      "pinyin": "wúwéi",
+      "id": "fan",
+      "name": "Fan",
+      "chinese": "反",
+      "pinyin": "fǎn",
       "tradition": "Daoist",
-      "page": "/concepts/wuwei/",
-      "evidence": "PRIMARY SOURCE",
-      "related": ["daodejing", "zuowang", "xinzhai", "qi"]
+      "page": "/concepts/fan/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
+    },
+    {
+      "id": "jing",
+      "name": "Jing",
+      "chinese": "静",
+      "pinyin": "jìng",
+      "tradition": "Daoist (Daodejing, Zhuangzi); adopted by Neo-Confucian jingzuo",
+      "page": "/concepts/jing/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
     },
     {
       "id": "jingzuo",
@@ -40,17 +50,37 @@
       "tradition": "Neo-Confucian",
       "page": "/concepts/jingzuo/",
       "evidence": "PRIMARY SOURCE",
-      "related": ["zuowang", "shouyi", "xinzhai"]
+      "related": [
+        "zuowang",
+        "shouyi",
+        "xinzhai"
+      ]
     },
     {
-      "id": "shouyi",
-      "name": "Shouyi",
-      "chinese": "守一",
-      "pinyin": "shǒuyī",
-      "tradition": "Daoist",
-      "page": "/concepts/shouyi/",
+      "id": "ming",
+      "name": "Ming",
+      "chinese": "命",
+      "pinyin": "mìng",
+      "tradition": "Daoist (Zhuangzi; later internal alchemy)",
+      "page": "/concepts/ming/",
       "evidence": "PRIMARY SOURCE",
-      "related": ["daodejing", "wuwei", "qi", "zuowang", "jingzuo"]
+      "related": [
+        "xing",
+        "de",
+        "wu-you",
+        "taixi",
+        "shouyi"
+      ]
+    },
+    {
+      "id": "pu",
+      "name": "Pu",
+      "chinese": "朴",
+      "pinyin": "pǔ",
+      "tradition": "Daoist",
+      "page": "/concepts/pu/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
     },
     {
       "id": "qi",
@@ -60,7 +90,146 @@
       "tradition": "Pan-Chinese",
       "page": "/concepts/qi/",
       "evidence": "PRIMARY SOURCE",
-      "related": ["zhuangzi", "daodejing", "xinzhai", "zuowang", "shouyi", "wuwei"]
+      "related": [
+        "zhuangzi",
+        "daodejing",
+        "xinzhai",
+        "zuowang",
+        "shouyi",
+        "wuwei"
+      ]
+    },
+    {
+      "id": "shouyi",
+      "name": "Shouyi",
+      "chinese": "守一",
+      "pinyin": "shǒuyī",
+      "tradition": "Daoist",
+      "page": "/concepts/shouyi/",
+      "evidence": "PRIMARY SOURCE",
+      "related": [
+        "daodejing",
+        "wuwei",
+        "qi",
+        "zuowang",
+        "jingzuo"
+      ]
+    },
+    {
+      "id": "wu-you",
+      "name": "Wu and You",
+      "chinese": "无 / 有",
+      "pinyin": "wú / yǒu",
+      "tradition": "Daoist",
+      "page": "/concepts/wu-you/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
+    },
+    {
+      "id": "wuwei",
+      "name": "Wuwei",
+      "chinese": "无为",
+      "pinyin": "wúwéi",
+      "tradition": "Daoist",
+      "page": "/concepts/wuwei/",
+      "evidence": "PRIMARY SOURCE",
+      "related": [
+        "daodejing",
+        "zuowang",
+        "xinzhai",
+        "qi"
+      ]
+    },
+    {
+      "id": "xing",
+      "name": "Xing",
+      "chinese": "性",
+      "pinyin": "xìng",
+      "tradition": "Daoist (Zhuangzi; later internal alchemy)",
+      "page": "/concepts/xing/",
+      "evidence": "PRIMARY SOURCE",
+      "related": [
+        "de",
+        "ziran",
+        "ming",
+        "zuowang",
+        "shouyi"
+      ]
+    },
+    {
+      "id": "xinzhai",
+      "name": "Xinzhai",
+      "chinese": "心斋",
+      "pinyin": "xīnzhāi",
+      "tradition": "Daoist",
+      "page": "/concepts/xinzhai/",
+      "evidence": "PRIMARY SOURCE",
+      "related": [
+        "zhuangzi",
+        "zuowang",
+        "qi",
+        "wuwei"
+      ]
+    },
+    {
+      "id": "xu",
+      "name": "Xu",
+      "chinese": "虚",
+      "pinyin": "xū",
+      "tradition": "Daoist",
+      "page": "/concepts/xu/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
+    },
+    {
+      "id": "yi",
+      "name": "Yi",
+      "chinese": "意",
+      "pinyin": "yì",
+      "tradition": "Daoist and related Chinese practice traditions (term shared across schools)",
+      "page": "/concepts/yi/",
+      "evidence": "PRIMARY SOURCE",
+      "related": [
+        "qi",
+        "tiaoxi",
+        "neiguan"
+      ]
+    },
+    {
+      "id": "yin-yang",
+      "name": "Yin-Yang",
+      "chinese": "阴阳",
+      "pinyin": "yīnyáng",
+      "tradition": "Shared Warring States cosmology (Yin-Yang school); adopted into Daoism",
+      "page": "/concepts/yin-yang/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
+    },
+    {
+      "id": "ziran",
+      "name": "Ziran",
+      "chinese": "自然",
+      "pinyin": "zìrán",
+      "tradition": "Daoist (classical); with Confucian echoes",
+      "page": "/concepts/ziran/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
+    },
+    {
+      "id": "zuowang",
+      "name": "Zuowang",
+      "chinese": "坐忘",
+      "pinyin": "zuòwàng",
+      "tradition": "Daoist",
+      "page": "/concepts/zuowang/",
+      "evidence": "PRIMARY SOURCE",
+      "related": [
+        "zhuangzi",
+        "xinzhai",
+        "wuwei",
+        "qi",
+        "jingzuo"
+      ]
     }
   ]
 }

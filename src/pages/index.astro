@@ -1,16 +1,39 @@
 ---
 import Base from '../layouts/Base.astro';
+import concepts from '../data/concepts.json';
+import practices from '../data/practices.json';
+import experiences from '../data/experiences.json';
+import patterns from '../data/patterns.json';
+import relationships from '../data/relationships.json';
+import sources from '../data/sources.json';
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'Dao Knowledge Base',
+  url: 'https://dao-7g5.pages.dev/',
+  description:
+    'A structured English-language knowledge system for Chinese contemplative traditions — Daoism, Chan Buddhism, and related self-cultivation — with typed entities, relationships and sources.',
+  inLanguage: 'en',
+};
 ---
 
 <Base
   title=""
   description="An English-language knowledge infrastructure for understanding Chinese contemplative traditions — Daoism, Chan Buddhism, and related self-cultivation — through texts, history, concepts, practices, research and anonymized practitioner experience."
 >
+  <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
   <h1>Chinese Contemplative Traditions</h1>
   <p class="lede">
     A structured knowledge system — not a blog — for understanding Daoism, Chan/Zen
     Buddhism, and Chinese self-cultivation through texts, history, concepts, practices,
     modern research, and real practitioner experience.
+  </p>
+
+  <p class="meta">
+    {concepts.items.length} concepts &middot; {practices.items.length} practices &middot;
+    {experiences.items.length} practitioner records &middot; {relationships.items.length} typed
+    knowledge-graph relationships &middot; {sources.items.length} sources. Live counts, generated from the
+    same data files that power the <a href="https://data-dao.pages.dev/">Data Registry</a>.
   </p>
 
   <h2>How knowledge moves here</h2>
@@ -21,6 +44,30 @@ import Base from '../layouts/Base.astro';
     Claims carry explicit evidence classes; primary sources, scholarly interpretation,
     practitioner reports and editorial analysis are never conflated.
   </p>
+
+  <h2>Start where you are</h2>
+  <div class="grid">
+    <div class="card">
+      <h2><a href="/experiences/questions/">I have a question</a></h2>
+      <p>Real questions from practitioners — posture, sleepiness, progress, safety — each answered with what the evidence does and does not support.</p>
+    </div>
+    <div class="card">
+      <h2><a href="/practices/">I want to understand a practice</a></h2>
+      <p>Zuowang, Neiguan, Jingzuo, Cunxiang, Qigong, Neidan — origins, instructions, textual evidence, and what modern research cannot confirm.</p>
+    </div>
+    <div class="card">
+      <h2><a href="/concepts/">I want to learn the concepts and classics</a></h2>
+      <p>Dao, Wuwei, Xinzhai, the Daodejing, the Zhuangzi — Chinese terms, pinyin, translations, and the contested history behind them.</p>
+    </div>
+    <div class="card">
+      <h2><a href="/research/">I want the modern evidence</a></h2>
+      <p>Meditation and contemplative research reviewed with methods, limitations, and clear boundaries — what studies show, and what they do not prove.</p>
+    </div>
+    <div class="card">
+      <h2><a href="https://data-dao.pages.dev/">I want the machine-readable data</a></h2>
+      <p>The Data Registry: entities, typed relationships, the source registry, schemas and a graph explorer — all publicly queryable.</p>
+    </div>
+  </div>
 
   <h2>Explore</h2>
   <div class="grid">

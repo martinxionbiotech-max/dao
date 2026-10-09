@@ -3,14 +3,29 @@
   "description": "Structured practice records: id, name, chinese, pinyin, tradition, page, evidence, related[]",
   "items": [
     {
-      "id": "zuowang",
-      "name": "Zuowang (practice)",
-      "chinese": "坐忘",
-      "pinyin": "zuòwàng",
-      "tradition": "Daoist",
-      "page": "/practices/zuowang/",
+      "id": "cunsi",
+      "name": "Cunsi",
+      "chinese": "存思",
+      "pinyin": "cúnsī",
+      "tradition": "Daoist (Shangqing visualization; earlier strata in Baopuzi)",
+      "page": "/practices/cunsi/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
+    },
+    {
+      "id": "daoyin",
+      "name": "Daoyin",
+      "chinese": "导引",
+      "pinyin": "dǎoyǐn",
+      "tradition": "Daoist health cultivation (later absorbed into qigong)",
+      "page": "/practices/daoyin/",
       "evidence": "PRIMARY SOURCE",
-      "related": ["zhuangzi", "xinzhai", "wuwei", "qi"]
+      "related": [
+        "qi",
+        "ziran",
+        "tiaoxi",
+        "taixi"
+      ]
     },
     {
       "id": "jingzuo",
@@ -20,7 +35,96 @@
       "tradition": "Neo-Confucian",
       "page": "/practices/jingzuo/",
       "evidence": "PRIMARY SOURCE",
-      "related": ["zuowang", "xinzhai", "shouyi"]
+      "related": [
+        "zuowang",
+        "xinzhai",
+        "shouyi"
+      ]
+    },
+    {
+      "id": "neigong",
+      "name": "Neigong",
+      "chinese": "内功",
+      "pinyin": "nèigōng",
+      "tradition": "Martial arts and internal-cultivation traditions (the term's precise early attestation is uncertain)",
+      "page": "/practices/neigong/",
+      "evidence": "TRADITIONAL / LINEAGE INTERPRETATION",
+      "related": [
+        "qi",
+        "tiaoxi",
+        "taixi",
+        "daoyin"
+      ]
+    },
+    {
+      "id": "neiguan",
+      "name": "Neiguan",
+      "chinese": "内观",
+      "pinyin": "nèiguān",
+      "tradition": "Daoist (Sui–Tang scripture; built on earlier inner-cultivation vocabulary)",
+      "page": "/practices/neiguan/",
+      "evidence": "[\"PRIMARY SOURCE\", \"HISTORICAL EVIDENCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
+    },
+    {
+      "id": "qigong",
+      "name": "Qigong",
+      "chinese": "气功",
+      "pinyin": "qìgōng",
+      "tradition": "Modern (mid-20th c.) systematization of classical daoyin, tiaoxi, and related arts",
+      "page": "/practices/qigong/",
+      "evidence": "HISTORICAL EVIDENCE",
+      "related": [
+        "qi",
+        "ziran",
+        "daoyin",
+        "tiaoxi"
+      ]
+    },
+    {
+      "id": "shouyi",
+      "name": "Shouyi",
+      "chinese": "守一",
+      "pinyin": "shǒuyī",
+      "tradition": "Daoist (Daodejing root; Han Taiping Jing protocol; Baopuzi consolidation)",
+      "page": "/practices/shouyi/",
+      "evidence": "[\"PRIMARY SOURCE\", \"HISTORICAL EVIDENCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
+    },
+    {
+      "id": "taixi",
+      "name": "Taixi",
+      "chinese": "胎息",
+      "pinyin": "tāixī",
+      "tradition": "Daoist (Baopuzi; later internal alchemy)",
+      "page": "/practices/taixi/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
+    },
+    {
+      "id": "tiaoxi",
+      "name": "Tiaoxi",
+      "chinese": "调息",
+      "pinyin": "tiáoxī",
+      "tradition": "Chinese sitting common vocabulary (systematized in the Buddhist Tiantai Xiao Zhiguan; adopted across Daoist and Neo-Confucian practice)",
+      "page": "/practices/tiaoxi/",
+      "evidence": "[\"PRIMARY SOURCE\", \"SCHOLARLY INTERPRETATION\"]",
+      "related": []
+    },
+    {
+      "id": "zuowang",
+      "name": "Zuowang (practice)",
+      "chinese": "坐忘",
+      "pinyin": "zuòwàng",
+      "tradition": "Daoist",
+      "page": "/practices/zuowang/",
+      "evidence": "PRIMARY SOURCE",
+      "related": [
+        "zhuangzi",
+        "xinzhai",
+        "wuwei",
+        "qi"
+      ]
     }
   ]
 }

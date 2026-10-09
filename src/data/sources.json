@@ -245,8 +245,8 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G39KI8J90545316K.html",
       "pages_used_in": [
-        "/experiences/exp-002-warmth-rotation/",
-        "/experiences/exp-003-leg-pain-filling/"
+        "/experiences/reports/exp-002-warmth-rotation/",
+        "/experiences/reports/exp-003-leg-pain-filling/"
       ]
     },
     {
@@ -256,8 +256,8 @@
       "language": "zh",
       "url": "https://www.xinli001.com/qa/100730877",
       "pages_used_in": [
-        "/experiences/exp-001-falling-asleep/",
-        "/questions/falling-asleep-during-meditation/"
+        "/experiences/notes/exp-001-falling-asleep/",
+        "/experiences/questions/falling-asleep-during-meditation/"
       ]
     },
     {
@@ -267,7 +267,7 @@
       "language": "zh",
       "url": "https://health.baidu.com/m/detail/ar_4677752938025913780",
       "pages_used_in": [
-        "/patterns/warmth-and-qi-sensations/"
+        "/experiences/patterns/warmth-and-qi-sensations/"
       ]
     },
     {
@@ -277,8 +277,8 @@
       "language": "zh",
       "url": "https://tieba.baidu.com/f?kw=冥想",
       "pages_used_in": [
-        "/experiences/exp-004-emotional-surfacing/",
-        "/experiences/exp-005-night-qi-movement/"
+        "/experiences/notes/exp-004-emotional-surfacing/",
+        "/experiences/notes/exp-005-night-qi-movement/"
       ]
     },
     {
@@ -288,8 +288,8 @@
       "language": "zh",
       "url": "https://zhuanlan.zhihu.com/p/568488445",
       "pages_used_in": [
-        "/patterns/drowsiness-vs-stillness/",
-        "/questions/falling-asleep-during-meditation/"
+        "/experiences/patterns/drowsiness-vs-stillness/",
+        "/experiences/questions/falling-asleep-during-meditation/"
       ]
     },
     {
@@ -310,7 +310,7 @@
       "url": "https://doi.org/10.1111/acps.13225",
       "pages_used_in": [
         "/research/farias-adverse-events-2020/",
-        "/questions/can-sitting-go-wrong/"
+        "/experiences/questions/can-sitting-go-wrong/"
       ]
     },
     {
@@ -420,7 +420,7 @@
     {
       "id": "jin-shu-ge-hong",
       "title": "Jin shu (Book of Jin), biography of Ge Hong",
-      "type": "historical_text",
+      "type": "historical_record",
       "language": "zh",
       "pages_used_in": [
         "/people/ge-hong/",
@@ -506,18 +506,18 @@
     {
       "id": "plos-one-e0216643",
       "title": "Schlosser et al. 2019, PLoS ONE 14(5): e0216643",
-      "type": "academic_study",
+      "type": "research",
       "language": "en",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216643",
       "pages_used_in": [
         "/research/schlosser-2019/",
-        "/questions/warmth-tingling-when-sitting/"
+        "/experiences/questions/warmth-tingling-when-sitting/"
       ]
     },
     {
       "id": "nature-reviews-nrn3916",
       "title": "Tang, Hölzel & Posner 2015, Nature Reviews Neuroscience 16: 213-225",
-      "type": "academic_study",
+      "type": "research",
       "language": "en",
       "url": "https://www.nature.com/articles/nrn3916",
       "pages_used_in": [
@@ -557,7 +557,7 @@
     {
       "id": "zdic-jiafuzuo",
       "title": "Zdic dictionary entry: jiafuzuo (with Faxian, Foguo Ji attestation)",
-      "type": "reference_work",
+      "type": "reference",
       "language": "zh",
       "url": "https://zdic.net/hans/结跏趺坐",
       "pages_used_in": [
@@ -571,7 +571,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G59VFFCR0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-009-dissolving-void/"
+        "/experiences/notes/exp-009-dissolving-void/"
       ]
     },
     {
@@ -601,8 +601,8 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G2V23JGP0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-010-lotus-pain/",
-        "/questions/must-i-sit-cross-legged/"
+        "/experiences/notes/exp-010-lotus-pain/",
+        "/experiences/questions/must-i-sit-cross-legged/"
       ]
     },
     {
@@ -654,7 +654,7 @@
     {
       "id": "sun-mingjun-2022",
       "title": "Sun Mingjun, 'Dao and De in the Zhuangzi' (National Office for Philosophy and Social Science, 2022)",
-      "type": "scholarly",
+      "type": "scholarship",
       "language": "zh",
       "pages_used_in": [
         "/translations/yongxin-ruo-jing-passage/",
@@ -668,7 +668,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G2V35NKQ0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-011-shougong-protocol/"
+        "/experiences/notes/exp-011-shougong-protocol/"
       ]
     },
     {
@@ -683,7 +683,7 @@
     {
       "id": "ccdi-tangbi-dangche",
       "title": "CCDI study column on the idiom 螳臂当车 (sense-drift from Zhuangzi to Huainanzi to modern usage)",
-      "type": "scholarly",
+      "type": "scholarship",
       "language": "zh",
       "pages_used_in": [
         "/stories/mantis-and-chariot/"
@@ -724,7 +724,7 @@
       "language": "zh",
       "url": "https://c.m.163.com/news/a/G3C0P3HD0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-012-restless-body/"
+        "/experiences/notes/exp-012-restless-body/"
       ]
     },
     {
@@ -739,7 +739,7 @@
     {
       "id": "tao-hongjing-biography",
       "title": "Tao Hongjing biography: standard biography tradition, Wikipedia entry, Taiwan MOE encyclopedia, Nanjing gazetteer office 2024 profile (456-536, 488 manuscript discovery, 492 retirement, 'prime minister in the mountains')",
-      "type": "scholarly",
+      "type": "scholarship",
       "language": "zh",
       "pages_used_in": [
         "/people/tao-hongjing/"
@@ -752,7 +752,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G3C19JPB0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-013-buddhist-daoist-boundary/"
+        "/experiences/notes/exp-013-buddhist-daoist-boundary/"
       ]
     },
     {
@@ -793,7 +793,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G2SOIJDD0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-014-double-lotus-doctrine/"
+        "/experiences/notes/exp-014-double-lotus-doctrine/"
       ]
     },
     {
@@ -834,7 +834,7 @@
       "language": "zh",
       "url": "https://m.163.com/dy/article_cambrian/G39KI8J90545316K.html",
       "pages_used_in": [
-        "/experiences/exp-015-heat-sweat-qi/"
+        "/experiences/notes/exp-015-heat-sweat-qi/"
       ]
     },
     {
@@ -868,7 +868,7 @@
     {
       "id": "nanya-yangshengzhu-paper",
       "title": "Zhao Shiwei, 'Problems in the Zhuangzi Yangsheng Zhu' (Nanya University teaching-research paper): the marsh pheasant passage and the chapter's argument",
-      "type": "scholarly",
+      "type": "scholarship",
       "language": "zh",
       "pages_used_in": [
         "/stories/marsh-pheasant/"
@@ -877,7 +877,7 @@
     {
       "id": "wang-bi-sources",
       "title": "Wang Bi dossier: Wikipedia (zh) biography, the Shuge Classic Library Laozi Wang Bi zhu (with Siku abstract), and Sun Mingjun's Laozi editions survey (chinawriter.com.cn)",
-      "type": "scholarly",
+      "type": "scholarship",
       "language": "zh",
       "pages_used_in": [
         "/people/wang-bi/",
@@ -902,13 +902,13 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G5755VBH0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-016-nine-dhyanas-map/"
+        "/experiences/notes/exp-016-nine-dhyanas-map/"
       ]
     },
     {
       "id": "shidian-zhuangzi-tongyi-qiushui",
       "title": "Zhuangzi tongyi (Shidian guji, HY1407, Ming ed.): full commentary on Qiushui 17, incl. the pity-chain reading, the Shanhai jing note on Kui, and why the chain stops at the mind",
-      "type": "commentary",
+      "type": "traditional_commentary",
       "language": "zh",
       "pages_used_in": [
         "/stories/kui-xian-chain/"
@@ -957,7 +957,7 @@
       "language": "zh",
       "url": "https://www.360kuai.com/pc/9e6f36b9dd6094ba8",
       "pages_used_in": [
-        "/experiences/exp-017-why-he-began/"
+        "/experiences/notes/exp-017-why-he-began/"
       ]
     },
     {
@@ -972,7 +972,7 @@
     {
       "id": "pku-2009-qiwulun-study",
       "title": "Peking University Journal (2009), 'Doubts in reading Zhuangzi Qiwu Lun and their analysis': Lu Deming's one-character gloss (sang), Cheng Xuanying's subcommentary (天机自张莫知其宰), Liu Fengbao's Nanhua xuexin bian, and the study's own reading",
-      "type": "scholarly",
+      "type": "scholarship",
       "language": "zh",
       "pages_used_in": [
         "/stories/wang-liang-wen-jing/",
@@ -982,7 +982,7 @@
     {
       "id": "shidian-zhuangzi-yi-qiwulun",
       "title": "Zhuangzi yi (Shidian guji, HY1406): commentary on Qiwu Lun 2, incl. the dakuai gloss (块者无物也, 块然而自生)",
-      "type": "commentary",
+      "type": "traditional_commentary",
       "language": "zh",
       "pages_used_in": [
         "/glossary/da-kuai/"
@@ -1013,7 +1013,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G2SNHL2M0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-018-halflotus-to-full-lotus/"
+        "/experiences/notes/exp-018-halflotus-to-full-lotus/"
       ]
     },
     {
@@ -1037,12 +1037,12 @@
     {
       "id": "qiwulun-zhenzai-commentaries",
       "title": "China Daoist Association article on the Yangshengzhu title question, quoting Guo Xiang's zhenzai note and Cheng Xuanying's subcommentary verbatim",
-      "type": "scholarly",
+      "type": "scholarship",
       "language": "zh",
       "url": "http://www.taoist.org.cn/showInfoContent.do?id=1653",
       "pages_used_in": [
         "/glossary/zhen-zai/",
-        "/questions/does-daoism-believe-in-a-creator/"
+        "/experiences/questions/does-daoism-believe-in-a-creator/"
       ]
     },
     {
@@ -1070,7 +1070,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G3PS03JE0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-019-one-remedy-body/"
+        "/experiences/notes/exp-019-one-remedy-body/"
       ]
     },
     {
@@ -1125,7 +1125,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G5A08M6T0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-020-false-first-dhyana/"
+        "/experiences/notes/exp-020-false-first-dhyana/"
       ]
     },
     {
@@ -1162,7 +1162,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G50IOBL70545316K.html",
       "pages_used_in": [
-        "/experiences/exp-021-prostrations-channel-circuit/"
+        "/experiences/notes/exp-021-prostrations-channel-circuit/"
       ]
     },
     {
@@ -1217,7 +1217,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G575TU0N0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-022-its-all-theatre/"
+        "/experiences/notes/exp-022-its-all-theatre/"
       ]
     },
     {
@@ -1277,7 +1277,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G3FCB7LO0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-023-breath-is-the-key/"
+        "/experiences/notes/exp-023-breath-is-the-key/"
       ]
     },
     {
@@ -1338,7 +1338,7 @@
       "language": "zh",
       "url": "https://www.163.com/dy/article/G3FCGTLQ0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-024-standing-and-sitting/"
+        "/experiences/notes/exp-024-standing-and-sitting/"
       ]
     },
     {
@@ -1455,11 +1455,11 @@
     {
       "id": "163-taishi-26",
       "title": "Taishi Q&A episode 26 (lying-down practice and the innovation question), full text retrieved from the 163 news mirror on 2026-10-07: practitioner letter (contemporary liberation-stages framework, lying-down practice argument) and teacher reply (armchair-theory charge, eighteen-heavens challenge, dreaming diagnosis, auspicious-reclining as provisional method, time-conditions ladder, Buddha fasting narrative, anti-innovation rule)",
-      "type": "community_archive",
+      "type": "community",
       "language": "zh",
       "url": "https://www.163.com/dy/article/G2SPN49Q0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-025-lying-down-innovation/"
+        "/experiences/notes/exp-025-lying-down-innovation/"
       ]
     },
     {
@@ -1485,7 +1485,7 @@
     {
       "id": "qiwulun-title-readings",
       "title": "The Qi Wu Lun title ambiguity, registered from the scholarly record: the Peking University Journal (2009) survey with Yang Liuqiao evidence (early readers took qiwu together, Wang Yinglin the later wulun reading, and the observation that the character qi never occurs in the chapter body); the Chinese Academy of Social Sciences survey (2022); the Guangming Daily survey; and the 8bei8 chapter introduction",
-      "type": "scholarly_interpretation",
+      "type": "scholarship",
       "language": "zh",
       "url": "https://ccj.pku.edu.cn/Article/DownLoad?id=271011691&type=ArticleFile",
       "pages_used_in": [
@@ -1614,8 +1614,8 @@
       "language": "zh",
       "url": "https://taiguanglin.org/",
       "pages_used_in": [
-        "/experiences/exp-026-diet-gate/",
-        "/questions/does-diet-matter/"
+        "/experiences/notes/exp-026-diet-gate/",
+        "/experiences/questions/does-diet-matter/"
       ]
     },
     {
@@ -1656,8 +1656,8 @@
       "language": "zh",
       "url": "https://taiguanglin.org/",
       "pages_used_in": [
-        "/experiences/exp-027-finding-a-teacher/",
-        "/questions/do-i-need-a-teacher/"
+        "/experiences/notes/exp-027-finding-a-teacher/",
+        "/experiences/questions/do-i-need-a-teacher/"
       ]
     },
     {
@@ -1717,7 +1717,7 @@
       "language": "zh",
       "url": "https://taiguanglin.org/",
       "pages_used_in": [
-        "/experiences/exp-028-abdominal-breathing/"
+        "/experiences/notes/exp-028-abdominal-breathing/"
       ]
     },
     {
@@ -1767,7 +1767,7 @@
       "language": "zh",
       "url": "https://taiguanglin.org/",
       "pages_used_in": [
-        "/experiences/exp-029-the-human-body/"
+        "/experiences/notes/exp-029-the-human-body/"
       ]
     },
     {
@@ -1822,17 +1822,17 @@
     {
       "id": "taiguanglin-ep31-163",
       "title": "Taishi Q&A episode 31 (太师修行问答31：双盘时身体的反应，各种痛感汇总), NetEase Hao repost dated 2021-02-18, full text retrieved 2026-10-07 from 163.com: the cell-turnover schedule (skin 28 days, muscle 2-3 years, sinew 3-4 years, bone 7+ years), the 90-minute-to-two-hour pain window, the two-hour sit justification, the ankle-knee-hip sequence, the three-months-heat vs 2-3-years-dhyana account, the head-sweating explanation, the demon-subduing/lotus leg assignment, the whole-body pain sequence, the prostrations-for-spine answer, the teacher's own hip injury from one-sided hoeing, and the reader exchanges",
-      "type": "community_archive",
+      "type": "community",
       "language": "zh",
       "url": "https://www.163.com/dy/article/G345DDVI0545316K.html",
       "pages_used_in": [
-        "/experiences/exp-030-the-pain-ledger/"
+        "/experiences/notes/exp-030-the-pain-ledger/"
       ]
     },
     {
       "id": "daodejing-78-editions",
       "title": "Daodejing ch. 78, received text, cross-verified 2026-10-07 across six independent sources (zhihu zhuanlan 600183501; xueqiu 189739462; ctext node 11669; 8bei8 laozi_78; baike item 10363512; daodejing.org 78): 天下莫柔弱于水，而攻坚强者莫之能胜，以其无以易之。弱之胜强，柔之胜刚，天下莫不知，莫能行。是以圣人云：受国之垢，是谓社稷主；受国不祥，是为天下王。正言若反",
-      "type": "classical_text",
+      "type": "primary_text",
       "language": "zh",
       "url": "https://ctext.org/text.pl?node=11669&if=gb",
       "pages_used_in": [
@@ -1843,7 +1843,7 @@
     {
       "id": "sun-buer-sources",
       "title": "Sun Bu'er (孙不二) biography: baike.baidu.com item 2402303 (1119-1182, 名富春，法名不二，号清静散人，金代宁海人，马丹阳之妻，生三子，大定七年王重阳住其家); daode.in jwsx/09/1548 (全真七子唯一女性，清静派创立者); zh.wikipedia.org (1119年2月16日-1183年1月24日, 洛阳风仙姑洞趺坐); epochtimes 2009-09-08 (马钰与孙不二); sohu 244794515 — dates 1182 vs 1183 both registered",
-      "type": "biography",
+      "type": "historical_record",
       "language": "zh",
       "url": "https://baike.baidu.com/item/%E5%AD%99%E4%B8%8D%E4%BA%8C/2402303",
       "pages_used_in": [
@@ -1853,7 +1853,7 @@
     {
       "id": "wuheyou-editions",
       "title": "Zhuangzi 无何有之乡 in three chapters, full texts retrieved 2026-10-07 from zh.wikisource.org: Xiao Yao You 1 (今子有大树，患其无用，何不树之于无何有之乡，广莫之野，彷徨乎无为其侧，逍遥乎寝卧其下？不夭斤斧，物无害者，无所可用，安所困苦哉？); Ying Di Wang 7 (厌则又乘夫莽眇之鸟，以出六极之外，而游无何有之乡，以处圹埌之野); Zhi Bei You 22 variant 无何有之宫 (尝相与游乎无何有之宫，同合而论，无所终穷乎？)",
-      "type": "classical_text",
+      "type": "primary_text",
       "language": "zh",
       "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A",
       "pages_used_in": [
@@ -1863,11 +1863,11 @@
     {
       "id": "taiguanglin-zuochan-fujiazuo-01-08",
       "title": "Taiguanglin's official Zuochan Q&A collection (坐禅问答录), ch. 6 on lotus posture (跏趺坐), sections 01-08 (单盘/from单盘to双盘/双盘的优势/双盘须知/双盘时的身体反应/疾病与双盘/快速打通经脉的方法/经脉打通的特征), full text of all eight sections retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02 through 2014-06",
-      "type": "community_archive",
+      "type": "community",
       "language": "zh",
       "url": "https://taiguanglin.org/《坐禅问答录》第六章：跏趺坐-第01节-单盘/",
       "pages_used_in": [
-        "/experiences/exp-031-lotus-posture-chapter/"
+        "/experiences/notes/exp-031-lotus-posture-chapter/"
       ]
     },
     {
@@ -1884,7 +1884,7 @@
     {
       "id": "tan-chuduan-sources",
       "title": "Tan Chuduan (1123-1185) biography, cross-verified 2026-10-08 across the Daoist Culture Centre Database (zh.daoinfo.org: the wind-paralysis cure story, the Luoyang years of 对境炼心, the third patriarchate, 忠孝仁慈胜出家, the turtle-and-snake calligraphy, the two-teeth anecdote from Jinlian zhengzong ji, the Water-Cloud Collection), zh.wikipedia.org (precise dates 1123-03-29 to 1185-05-02, titles 长真云水荡德真人 and 长真凝神玄静蕴德真君, the Nanwu lineage), baike.baidu.com item 2401128 (paralysis from sleeping drunk in wind and snow), and the Weihai Municipal Government article on the founding of Quanzhen",
-      "type": "biography",
+      "type": "historical_record",
       "language": "zh",
       "url": "https://zh.daoinfo.org/index.php?title=譚處端&variant=zh-hans",
       "pages_used_in": [
@@ -1898,7 +1898,7 @@
       "language": "zh",
       "url": "https://taiguanglin.org",
       "pages_used_in": [
-        "/experiences/exp-032-from-zero-to-desire-realm/"
+        "/experiences/notes/exp-032-from-zero-to-desire-realm/"
       ]
     },
     {
@@ -1944,7 +1944,7 @@
     {
       "id": "xici-zhuan",
       "title": "Yijing, Xici zhuan (Appended Statements) shang ch. 5: 一陰一陽之謂道",
-      "type": "classical_text",
+      "type": "primary_text",
       "language": "zh",
       "url": "https://ctext.org/book-of-changes/xi-ci-shang",
       "pages_used_in": [
@@ -1954,7 +1954,7 @@
     {
       "id": "huangdi-neijing-su-wen",
       "title": "Huangdi Neijing, Suwen ch. 5 (Yinyang yingxiang dalun): 陰陽者，天地之道也",
-      "type": "classical_text",
+      "type": "primary_text",
       "language": "zh",
       "url": "https://ctext.org/huangdi-neijing/su-wen",
       "pages_used_in": [
@@ -1974,7 +1974,7 @@
     {
       "id": "britton-2021",
       "title": "Britton et al., 'Defining and measuring meditation-related adverse effects in mindfulness-based programs' (Clinical Psychological Science, 2021)",
-      "type": "journal_article",
+      "type": "research",
       "language": "en",
       "url": "https://doi.org/10.1177/2167702621996340",
       "pages_used_in": [
@@ -1984,7 +1984,7 @@
     {
       "id": "zaccaro-2018",
       "title": "Zaccaro et al., 'How breath-control can change your life' (Frontiers in Human Neuroscience, 2018)",
-      "type": "journal_article",
+      "type": "research",
       "language": "en",
       "url": "https://doi.org/10.3389/fnhum.2018.00353",
       "pages_used_in": [
@@ -1995,7 +1995,7 @@
     {
       "id": "noble-hochman-2019",
       "title": "Noble & Hochman, 'Pulmonary afferent activity patterns during slow, deep breathing' (Frontiers in Physiology, 2019)",
-      "type": "journal_article",
+      "type": "research",
       "language": "en",
       "url": "https://doi.org/10.3389/fphys.2019.01176",
       "pages_used_in": [
@@ -2005,7 +2005,7 @@
     {
       "id": "khalsa-2018",
       "title": "Khalsa et al., 'Interoception and mental health: a roadmap' (Biological Psychiatry: CNNI, 2018)",
-      "type": "journal_article",
+      "type": "research",
       "language": "en",
       "url": "https://doi.org/10.1016/j.bpsc.2017.12.004",
       "pages_used_in": [
@@ -2028,7 +2028,7 @@
     {
       "id": "mawangdui-daoyin-tu",
       "title": "Mawangdui tomb 3 silk manuscript 'Daoyin tu' (导引图), sealed 168 BCE — 44 figures in movement postures",
-      "type": "historical_artifact",
+      "type": "historical_record",
       "language": "zh",
       "url": "https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts",
       "pages_used_in": [

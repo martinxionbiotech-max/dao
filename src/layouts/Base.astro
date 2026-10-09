@@ -15,6 +15,12 @@ const pageTitle = title ? `${title} — Dao Knowledge Base` : 'Dao Knowledge Bas
     <title>{pageTitle}</title>
     {description && <meta name="description" content={description} />}
     <meta name="robots" content="index, follow" />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Dao Knowledge Base" />
+    <meta property="og:title" content={pageTitle} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site)} />
     <style is:global>
       :root {
         --ink: #1a1a1a;
