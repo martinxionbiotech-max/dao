@@ -44,7 +44,7 @@
 | Practice | Building and stabilizing inner images: palaces, colors, directions, resident spirits | Subtracting: dropping the body, expelling the senses, merging with the Great Thoroughfare |
 | Goal | Protection and transformation; constructing the inner map | Union with the Dao through dissolution of the self-construction |
 | Attention | Concentrated, constructive — holding one image steady | Released — attention dissolves with its objects |
-| Phenomenology | A vivid, structured inner landscape | The absence of content: "body like deadwood, mind like dead ashes" |
+| Phenomenology | A vivid, structured inner landscape | The absence of content: "drop the body, expel the senses" (堕肢体，黜聪明) |
 | Texts | Baopuzi, Huangting Jing, Shangqing scriptures | Zhuangzi, Zuowang lun |
 | Scholarly interpretation | The imagistic pole of early medieval Daoism; Shangqing's central method | The emptying tradition; later systematized and (Tang) identified with neiguan |
 | Modern interpretation | Structured visualization with traditional aims; no modern research on cunsi specifically | The site's center of gravity; ancestor of modern "meditation" vocabulary |

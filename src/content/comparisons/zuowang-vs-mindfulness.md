@@ -20,11 +20,13 @@ sources:
 | Source | Zhuangzi ch. 6; Zuowang Lun (Tang) | Kabat-Zinn's MBSR (1979 onward); research literature |
 | Stated goal | Merge with the Great Thoroughfare (大通); attain the Dao | Reduce stress/anxiety/depression; improve well-being |
 | Method | Progressive forgetting: virtues → ritual → body → knowledge | Sustained attention to present experience, non-judgmentally |
-| Attention | Dropped below the conceptual level ("listen with qi") | Kept, trained, and stabilized on an object or open field |
-| Self | Dissolved as a boundary ("no longer any Hui") | Observed; its contents accepted without identification |
+| Attention | Dropped below the conceptual level ("dismiss hearing and sight" — 黜聪明) | Kept, trained, and stabilized on an object or open field |
+| Self | Dissolved as a boundary ("leave the form, depart knowledge" — 离形去知) | Observed; its contents accepted without identification |
 | Relation to world | Return to affairs with no fixed preferences (wuwei) | Carry the skill into daily life for stress resilience |
 | Progress metric | Stages (Sima Chengzhen's seven); traditional signs | Validated scales (anxiety, depression, pain); clinical trials |
 | Evidence base | Primary texts; tradition; no dedicated empirical studies | Meta-analyses (Goyal 2014: moderate evidence for anxiety, depression, pain) |
+
+(The phrases "listen with qi" and "no longer any Hui" belong to the *xinzhai* passage, Zhuangzi ch. 4 — the neighbor instruction, not the zuowang passage itself, ch. 6; see [xinzhai](/concepts/xinzhai/).)
 
 ## What the research actually shows (and doesn't)
 

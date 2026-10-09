@@ -50,7 +50,7 @@ sources:
 
 ## Modern research
 
-Empirical research specific to Neo-Confucian jingzuo is extremely scarce. Studies of sitting meditation generally (often Buddhist-derived practices) show attention-related and stress-related effects, but generalizing those findings to the historical jingzuo tradition is an interpretive leap this site does not make. The historical claim stands on its own register: jingzuo is one of the main vehicles through which seated contemplative practice entered the Confucian mainstream of East Asia.
+Empirical research specific to Neo-Confucian jingzuo is extremely scarce. Studies of sitting meditation generally (often Buddhist-derived practices) show attention-related and stress-related effects (see the [Goyal 2014 meta-analysis](/research/mindfulness-meta-analysis-2014/)), but generalizing those findings to the historical jingzuo tradition is an interpretive leap this site does not make; the meditation-harms literature (see the [Farias 2020 review](/research/farias-adverse-events-2020/)) likewise concerns other traditions and says nothing about jingzuo itself. The historical claim stands on its own register: jingzuo is one of the main vehicles through which seated contemplative practice entered the Confucian mainstream of East Asia.
 
 ## Editorial synthesis
 

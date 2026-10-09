@@ -15,6 +15,8 @@ sources:
   - "Taiping Jing (Scripture of Great Peace), Han dynasty"
   - "Ge Hong, Baopuzi neipian, 'Di Zhen' chapter (Jin dynasty)"
   - "Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993"
+  - "Tang Yongtong (湯用彤), Han Wei Liang Jin Nanbeichao Fojiao Shi (History of Buddhism in the Han, Wei, Jin, and Northern and Southern Dynasties), 1938"
+  - "Li Zongding (李宗定), on the Anban Shouyi Jing's Buddhist 'guarding the intention' and the Taiping Jing's Daoist 'guarding the One', Dharma Drum Journal of Buddhist Studies, https://sp.dila.edu.tw/journal_detail/1059.htm"
 ---
 
 **Direct answer:** Shouyi (守一, "guarding the One") is the early Daoist seated practice of holding attention on the "One" — understood at once as the Dao, as the unity of essence (jing), qi, and spirit (shen), and as the cohesion of soul and body. Its scriptural root is *Daodejing* ch. 10: "Carrying the soul and embracing the One — can you let them not separate?" (載營魄抱一，能無離乎？).
@@ -33,7 +35,7 @@ In the Shangqing (Maoshan) tradition shouyi evolved into *cun* (存, visualizati
 ## Interpretation disputes
 
 1. **What is "the One"?** Candidates across the sources: the Dao itself; the undivided mind; jing–qi–shen unity; the body–soul composite. The sources move among these; no single definition governs all periods.
-2. **Daoist or Buddhist origin?** The term's usage in early Buddhist translations (for *samadhi*-like concentration, via the translation practice of *geyi* — matching Chinese terms to Indian concepts) raises the question whether the Daoist practice borrowed the name from Buddhism or vice versa. Tang Yongtong argued the Buddhist translators coined the usage; others hold the Daoist sense derives from *Daodejing* "embracing the One." The question remains open.
+2. **Daoist or Buddhist origin?** The term's usage in early Buddhist translations (for *samadhi*-like concentration, via the translation practice of *geyi* — matching Chinese terms to Indian concepts; Tang Yongtong's 1938 history documents the *geyi* period) raises the question whether the Daoist practice borrowed the name from Buddhism or vice versa. Scholarship has argued both directions: some read the Daoist sense as primary (from *Daodejing* "embracing the One"), while others hold the Buddhist translators' usage shaped the Daoist term; a recent study of the *Anban Shouyi Jing*'s Buddhist "guarding the intention" (守意) and the *Taiping Jing*'s Daoist "guarding the One" (守一) treats the influence as two-way. The question remains open.
 3. **Visualization or concentration?** The *Taiping Jing* method is imagistic (a seen inner form); later neidan usage is more abstract. Scholarship treats "guarding" as the constant element — an attention held without grasping.
 
 ## Safety note (from the sources themselves)
