@@ -1,5 +1,5 @@
 ---
-title: "Qi"
+title: "Qi (气): Translating the Term"
 description: "Glossary: qi 气 — why 'energy' is a partial translation, and how to handle the term in English."
 chinese: "气"
 pinyin: "qì"

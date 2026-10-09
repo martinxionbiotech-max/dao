@@ -26,3 +26,5 @@
 ---
 
 See the full concept page: [Xing (性)](/concepts/xing/). The pair term is [ming](/concepts/ming/); the related terms are [de](/concepts/de/) (the nature's power in action) and [ziran](/concepts/ziran/) (its spontaneity).
+
+Xing (性, xìng) is the nature a being is born with — the "nature" half of the xingming pair, defended in Zhuangzi ch. 8's webbed-toes passage.

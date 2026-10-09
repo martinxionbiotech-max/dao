@@ -28,3 +28,5 @@
 ---
 
 See the full concept page: [Yi (意)](/concepts/yi/). Its family: the whole field is [xin](/glossary/xin/), the clarity is [shen](/glossary/shen/).
+
+Yi (意, yì) is the mind's directedness — in the practice manuals, the aiming edge of attention that leads the qi.

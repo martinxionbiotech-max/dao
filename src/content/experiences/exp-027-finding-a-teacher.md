@@ -10,6 +10,8 @@ context: "The teacher's official Sit-in Q&A collection, ch. 11 on worldly matter
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
+sourceType: note
+anonymity: "anonymous"
 relatedExperiences: ["exp-021-prostrations-channel-circuit", "exp-017-why-he-began", "exp-025-lying-down-innovation"]
 relatedQuestions: ["do-i-need-a-teacher", "zuowang-safety-without-teacher"]
 relatedPractices: ["jingzuo"]

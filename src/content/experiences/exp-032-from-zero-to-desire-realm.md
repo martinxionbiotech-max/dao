@@ -10,6 +10,8 @@ context: "The teacher's official collection, Zuochan (坐禅) ch. 2 'From 零 to
 status: published
 date: 2026-10-08
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
+sourceType: note
+anonymity: "anonymous"
 relatedExperiences: ["exp-031-lotus-posture-chapter", "exp-016-nine-dhyanas-map", "exp-026-diet-gate", "exp-028-abdominal-breathing", "exp-023-breath-is-the-key", "exp-014-double-lotus-doctrine", "exp-030-the-pain-ledger"]
 relatedQuestions: ["does-practice-need-faith", "how-long-until-results", "what-counts-as-progress"]
 relatedPractices: ["jingzuo"]

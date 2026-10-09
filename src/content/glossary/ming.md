@@ -27,3 +27,5 @@
 ---
 
 See the full concept page: [Ming (命)](/concepts/ming/). The pair term is [xing](/concepts/xing/); the boundary case of having-and-losing is treated at [wu-you](/concepts/wu-you/).
+
+Ming (命, mìng) is command, fate, and the life one is allotted — the "life" half of the xingming pair, contrasted with the inborn xing.

@@ -10,6 +10,8 @@ context: "The teacher's official Sit-in Q&A collection, ch. 4 on abdominal breat
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
+sourceType: note
+anonymity: "anonymous"
 relatedExperiences: ["exp-023-breath-is-the-key", "exp-008-breath-stopping", "exp-021-prostrations-channel-circuit", "exp-020-false-first-dhyana"]
 relatedQuestions: ["what-counts-as-progress", "can-meditation-cure-illness"]
 relatedPractices: ["taixi", "tiaoxi", "jingzuo"]

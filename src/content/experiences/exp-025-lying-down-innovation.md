@@ -10,6 +10,8 @@ context: "Public teacher Q&A column, episode 26: a long letter from a practition
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
+sourceType: note
+anonymity: "anonymous"
 relatedExperiences: ["exp-016-nine-dhyanas-map", "exp-014-double-lotus-doctrine", "exp-018-halflotus-to-full-lotus", "exp-022-its-all-theatre", "exp-023-breath-is-the-key"]
 relatedQuestions: ["does-practice-need-faith", "what-counts-as-progress"]
 relatedProblems: ["drowsiness-in-sitting"]

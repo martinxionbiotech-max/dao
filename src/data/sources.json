@@ -1,2062 +1,2062 @@
 {
-  "_schema": "data-schema-v1",
-  "description": "Source registry: id, title, type (primary_text/scholarship/research/community), language, url, pages_used_in[]",
-  "items": [
-    {
-      "id": "zhuangzi",
-      "title": "Zhuangzi (received text, Guo Xiang recension)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/zhuangzi",
-      "pages_used_in": [
-        "/concepts/zuowang/",
-        "/concepts/xinzhai/",
-        "/concepts/qi/",
-        "/texts/zhuangzi/",
-        "/concepts/dao/",
-        "/concepts/wu-you/"
-      ]
-    },
-    {
-      "id": "daodejing",
-      "title": "Daodejing (received Wang Bi text, 81 chapters)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/dao-de-jing",
-      "pages_used_in": [
-        "/concepts/wuwei/",
-        "/concepts/shouyi/",
-        "/concepts/qi/",
-        "/texts/daodejing/"
-      ]
-    },
-    {
-      "id": "zuowang-lun",
-      "title": "Sima Chengzhen, Zuowang lun (Treatise on Sitting in Oblivion)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": null,
-      "pages_used_in": [
-        "/concepts/zuowang/",
-        "/practices/zuowang/",
-        "/texts/zuowang-lun/"
-      ]
-    },
-    {
-      "id": "taiping-jing",
-      "title": "Taiping Jing (Scripture of Great Peace)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": null,
-      "pages_used_in": [
-        "/concepts/shouyi/",
-        "/problems/wandering-mind-in-sitting/",
-        "/problems/restlessness-in-sitting/"
-      ]
-    },
-    {
-      "id": "zhuzi-yulei",
-      "title": "Zhu Xi yulei (Classified Conversations of Master Zhu), juan 116",
-      "type": "primary_text",
-      "language": "zh",
-      "url": null,
-      "pages_used_in": [
-        "/concepts/jingzuo/",
-        "/practices/jingzuo/",
-        "/problems/wandering-mind-in-sitting/"
-      ]
-    },
-    {
-      "id": "er-cheng-waishu",
-      "title": "Er Cheng waishu (Outer Collection of the Two Chengs), juan 12",
-      "type": "primary_text",
-      "language": "zh",
-      "url": null,
-      "pages_used_in": [
-        "/concepts/jingzuo/",
-        "/practices/jingzuo/"
-      ]
-    },
-    {
-      "id": "kohn-2010",
-      "title": "Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010",
-      "type": "scholarship",
-      "language": "en",
-      "url": "https://archive.org/details/sitting-in-oblivion-daoist-meditation-livia-kohn",
-      "pages_used_in": [
-        "/concepts/zuowang/",
-        "/practices/zuowang/",
-        "/texts/zuowang-lun/"
-      ]
-    },
-    {
-      "id": "slingerland-2003",
-      "title": "Slingerland, Edward. Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China. Oxford University Press, 2003",
-      "type": "scholarship",
-      "language": "en",
-      "url": null,
-      "pages_used_in": [
-        "/concepts/wuwei/"
-      ]
-    },
-    {
-      "id": "robinet-1993",
-      "title": "Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993",
-      "type": "scholarship",
-      "language": "en",
-      "url": null,
-      "pages_used_in": [
-        "/concepts/shouyi/"
-      ]
-    },
-    {
-      "id": "taylor-1988",
-      "title": "Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988",
-      "type": "scholarship",
-      "language": "en",
-      "url": null,
-      "pages_used_in": [
-        "/concepts/jingzuo/",
-        "/practices/jingzuo/"
-      ]
-    },
-    {
-      "id": "watson-1968",
-      "title": "Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968",
-      "type": "scholarship",
-      "language": "en",
-      "url": null,
-      "pages_used_in": [
-        "/texts/zhuangzi/",
-        "/concepts/zuowang/"
-      ]
-    },
-    {
-      "id": "iep-zhuangzi",
-      "title": "Internet Encyclopedia of Philosophy, 'Zhuangzi'",
-      "type": "scholarship",
-      "language": "en",
-      "url": "https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher",
-      "pages_used_in": [
-        "/texts/zhuangzi/"
-      ]
-    },
-    {
-      "id": "henricks-1989",
-      "title": "Henricks, Robert G., trans. Lao-Tzu Te-Tao Ching (Mawangdui text). Ballantine, 1989",
-      "type": "scholarship",
-      "language": "en",
-      "url": null,
-      "pages_used_in": [
-        "/texts/daodejing/"
-      ]
-    },
-    {
-      "id": "cook-2012",
-      "title": "Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012",
-      "type": "scholarship",
-      "language": "en",
-      "url": null,
-      "pages_used_in": [
-        "/texts/daodejing/"
-      ]
-    },
-    {
-      "id": "qingjing-jing",
-      "title": "Qingjing Jing (Scripture of Constant Clarity and Stillness)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "http://www.taoist.org.cn/showInfoContent.do?id=2549",
-      "pages_used_in": [
-        "/texts/qingjing-jing/",
-        "/practices/neiguan/"
-      ]
-    },
-    {
-      "id": "neiguan-jing",
-      "title": "Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.daoinfo.org/index.php?title=%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
-      "pages_used_in": [
-        "/texts/neiguan-jing/",
-        "/practices/neiguan/"
-      ]
-    },
-    {
-      "id": "shiji-63",
-      "title": "Shiji (Records of the Grand Historian), ch. 63, 'Laozi Han Fei liezhuan'",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7063",
-      "pages_used_in": [
-        "/people/laozi/",
-        "/people/zhuang-zhou/",
-        "/stories/confucius-meets-laozi/"
-      ]
-    },
-    {
-      "id": "goyal-2014",
-      "title": "Goyal, M., et al. Meditation Programs for Psychological Stress and Well-being. JAMA Internal Medicine 174(3):357-368, 2014",
-      "type": "research",
-      "language": "en",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/24395196",
-      "pages_used_in": [
-        "/comparisons/zuowang-vs-mindfulness/",
-        "/research/mindfulness-meta-analysis-2014/"
-      ]
-    },
-    {
-      "id": "kohn-1998",
-      "title": "Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998",
-      "type": "scholarship",
-      "language": "en",
-      "url": null,
-      "pages_used_in": [
-        "/people/laozi/"
-      ]
-    },
-    {
-      "id": "song-shi-yangshi",
-      "title": "Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7428",
-      "pages_used_in": [
-        "/concepts/jingzuo/",
-        "/timeline/cheng-men-li-xue/",
-        "/stories/standing-in-snow/"
-      ]
-    },
-    {
-      "id": "guodian-report",
-      "title": "Jingmen City Museum, 'Jingmen Guodian yihao Chumu', Wenwu 1997.7 (Guodian tomb no. 1 excavation report)",
-      "type": "research",
-      "language": "zh",
-      "url": null,
-      "pages_used_in": [
-        "/timeline/guodian-daodejing/"
-      ]
-    },
-    {
-      "id": "taishi-qa-163",
-      "title": "Taishi xiuxing wenda (meditation teacher Q&A column), 163.com no. 34",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G39KI8J90545316K.html",
-      "pages_used_in": [
-        "/experiences/reports/exp-002-warmth-rotation/",
-        "/experiences/reports/exp-003-leg-pain-filling/"
-      ]
-    },
-    {
-      "id": "xinli001-qa",
-      "title": "Xinli001 (Yixinli) meditation Q&A — anonymous user questions",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.xinli001.com/qa/100730877",
-      "pages_used_in": [
-        "/experiences/notes/exp-001-falling-asleep/",
-        "/experiences/questions/falling-asleep-during-meditation/"
-      ]
-    },
-    {
-      "id": "health-baidu-dazuo",
-      "title": "Baidu Health: 'Why the body warms during sitting' (medical popularization)",
-      "type": "community",
-      "language": "zh",
-      "url": "https://health.baidu.com/m/detail/ar_4677752938025913780",
-      "pages_used_in": [
-        "/experiences/patterns/warmth-and-qi-sensations/"
-      ]
-    },
-    {
-      "id": "tieba-dazuo-bar",
-      "title": "Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets)",
-      "type": "community",
-      "language": "zh",
-      "url": "https://tieba.baidu.com/f?kw=冥想",
-      "pages_used_in": [
-        "/experiences/notes/exp-004-emotional-surfacing/",
-        "/experiences/notes/exp-005-night-qi-movement/"
-      ]
-    },
-    {
-      "id": "zhihu-daozuo-method",
-      "title": "Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness)",
-      "type": "community",
-      "language": "zh",
-      "url": "https://zhuanlan.zhihu.com/p/568488445",
-      "pages_used_in": [
-        "/experiences/patterns/drowsiness-vs-stillness/",
-        "/experiences/questions/falling-asleep-during-meditation/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-ys",
-      "title": "Zhuangzi ch. 3 (Yangsheng zhu), Wikisource",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/莊子/養生主",
-      "pages_used_in": [
-        "/stories/cook-ding/"
-      ]
-    },
-    {
-      "id": "farias-2020",
-      "title": "Farias et al., 'Adverse events in meditation practices and meditation-based therapies: a systematic review', Acta Psychiatr Scand 142(5):374-393 (2020)",
-      "type": "research",
-      "language": "en",
-      "url": "https://doi.org/10.1111/acps.13225",
-      "pages_used_in": [
-        "/research/farias-adverse-events-2020/",
-        "/experiences/questions/can-sitting-go-wrong/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-zaiyou",
-      "title": "Zhuangzi ch. 11 (Zaiyou), Wikisource",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/莊子/在宥",
-      "pages_used_in": [
-        "/stories/guangchengzi/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-yingdiwang",
-      "title": "Zhuangzi ch. 7 (Ying diwang), Wikisource",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/莊子/應帝王",
-      "pages_used_in": [
-        "/stories/huzi-jixian/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-dasheng",
-      "title": "Zhuangzi ch. 19 (Dasheng), Wikisource",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/莊子/達生",
-      "pages_used_in": [
-        "/stories/wooden-rooster/",
-        "/stories/artisan-qing/",
-        "/stories/cicada-catcher/",
-        "/translations/artisan-qing-passage/",
-        "/blog/three-craftsmen-dazheng/",
-        "/glossary/shen/",
-        "/stories/boatman/",
-        "/stories/swimmer-lvliang/"
-      ]
-    },
-    {
-      "id": "huangting-jing",
-      "title": "Huangting neijing jing (Yellow Court inner scripture), Shangqing tradition",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/黃庭內景經",
-      "pages_used_in": [
-        "/glossary/dantian/",
-        "/timeline/huangting-jing-dantian/"
-      ]
-    },
-    {
-      "id": "xiao-zhiguan",
-      "title": "Zhiyi, Xiao zhiguan (Tongmeng zhiguan), Tiaohe chapter",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/修習止觀坐禪法要",
-      "pages_used_in": [
-        "/glossary/tiaoxi/",
-        "/problems/drowsiness-in-sitting/",
-        "/timeline/xiao-zhiguan-five-adjustments/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-renjianshi",
-      "title": "Zhuangzi ch. 4 (Renjian shi), Wikisource",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/莊子/人間世",
-      "pages_used_in": [
-        "/concepts/xu/",
-        "/problems/seeing-light-in-sitting/"
-      ]
-    },
-    {
-      "id": "daoshu",
-      "title": "Daoshu (道枢), comp. Zeng Zao, Southern Song",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/道樞",
-      "pages_used_in": [
-        "/timeline/daoshu-neiguan-zuowang/",
-        "/glossary/neiguan/",
-        "/practices/neiguan/"
-      ]
-    },
-    {
-      "id": "lindahl-2017",
-      "title": "Lindahl et al., The varieties of contemplative experience, PLoS ONE 12(5):e0176239 (2017)",
-      "type": "research",
-      "language": "en",
-      "url": "https://doi.org/10.1371/journal.pone.0176239",
-      "pages_used_in": [
-        "/research/lindahl-2017/"
-      ]
-    },
-    {
-      "id": "baopuzi-shizhi",
-      "title": "Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/baopuzi",
-      "pages_used_in": [
-        "/practices/taixi/",
-        "/problems/breath-stopping-anxiety/"
-      ]
-    },
-    {
-      "id": "jin-shu-ge-hong",
-      "title": "Jin shu (Book of Jin), biography of Ge Hong",
-      "type": "historical_record",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/ge-hong/",
-        "/texts/baopuzi/",
-        "/timeline/baopuzi-composition/"
-      ]
-    },
-    {
-      "id": "baopuzi-received",
-      "title": "Baopuzi, received text (inner 20 juan, outer 52 juan as received)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/texts/baopuzi/"
-      ]
-    },
-    {
-      "id": "taiping-jing-received",
-      "title": "Taiping Jing, received text (57 juan / 126 pian in the Ming Daoist Canon; Wang Ming, Taiping Jing Hejiao, 1960)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/texts/taiping-jing/",
-        "/practices/shouyi/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-qiushui",
-      "title": "Zhuangzi ch. 17 (Qiushui), received text (Wikisource)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/莊子/秋水",
-      "pages_used_in": [
-        "/stories/fish-happiness/",
-        "/stories/handan-walk/",
-        "/stories/jingdi-zhiwa/",
-        "/stories/wangyang-xingtan/",
-        "/stories/phoenix-and-owl/",
-        "/stories/turtle-in-the-mud/",
-        "/stories/kui-xian-chain/",
-        "/glossary/tian-ji/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-xuwugui",
-      "title": "Zhuangzi ch. 24 (Xuwugui), received text (Wikisource / Shidian Guji edition)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/莊子/徐無鬼",
-      "pages_used_in": [
-        "/stories/carpenter-shi/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-tianzifang",
-      "title": "Zhuangzi ch. 21 (Tian Zifang), received text (Wikisource)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/painter-unrobed/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-zhile",
-      "title": "Zhuangzi ch. 18 (Zhile), received text (Wikisource / Shidian Guji)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/drumming-basin/"
-      ]
-    },
-    {
-      "id": "sxu-zhuangzi-renjianshi",
-      "title": "Zhuangzi ch. 4 (Renjianshi) full text and translation (Shanxi University Philosophy Dept)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zxxy.sxu.edu.cn/zxypt/zlxz1/52285330952e4f7fa870891ef868295b.htm",
-      "pages_used_in": [
-        "/translations/virtual-room-passage/",
-        "/glossary/zuochi/"
-      ]
-    },
-    {
-      "id": "plos-one-e0216643",
-      "title": "Schlosser et al. 2019, PLoS ONE 14(5): e0216643",
-      "type": "research",
-      "language": "en",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216643",
-      "pages_used_in": [
-        "/research/schlosser-2019/",
-        "/experiences/questions/warmth-tingling-when-sitting/"
-      ]
-    },
-    {
-      "id": "nature-reviews-nrn3916",
-      "title": "Tang, Hölzel & Posner 2015, Nature Reviews Neuroscience 16: 213-225",
-      "type": "research",
-      "language": "en",
-      "url": "https://www.nature.com/articles/nrn3916",
-      "pages_used_in": [
-        "/research/tang-2015/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-qiwulun",
-      "title": "Zhuangzi ch. 2 (Qiwulun), received text (Wikisource)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/three-in-the-morning/",
-        "/glossary/tian-jun/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-xiaoyaoyou",
-      "title": "Zhuangzi ch. 1 (Xiaoyaoyou), received text (Wikisource / Gushiwen)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/peng-bird/",
-        "/stories/useless-gourd/"
-      ]
-    },
-    {
-      "id": "liezi-received",
-      "title": "Liezi, received text in eight chapters with Zhang Zhan's commentary; Hanshu Yiwenzhi bibliography; Ma Xulun, Liezi Weishu Kao; Ji Xianlin on the Sheng Jing borrowing",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/texts/liezi/",
-        "/timeline/liezi-compilation/"
-      ]
-    },
-    {
-      "id": "zdic-jiafuzuo",
-      "title": "Zdic dictionary entry: jiafuzuo (with Faxian, Foguo Ji attestation)",
-      "type": "reference",
-      "language": "zh",
-      "url": "https://zdic.net/hans/结跏趺坐",
-      "pages_used_in": [
-        "/glossary/jiafuzuo/"
-      ]
-    },
-    {
-      "id": "163-taishi-49",
-      "title": "Taishi cultivation Q&A no. 49 (163.com community column, 2021)",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G59VFFCR0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-009-dissolving-void/"
-      ]
-    },
-    {
-      "id": "wei-huacun-biography",
-      "title": "Wei Huacun biographical tradition (251/252-334; Wei Shu's daughter; posthumous titles Wei Furen / Nanyue Furen); Shangqing revelation lineage",
-      "type": "traditional_record",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/wei-huacun/"
-      ]
-    },
-    {
-      "id": "shidian-daodejing-25",
-      "title": "Daodejing ch. 25, Heshang Gong recension (Shidian Guji edition)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-25/",
-        "/concepts/dao/",
-        "/concepts/fan/"
-      ]
-    },
-    {
-      "id": "163-taishi-28",
-      "title": "Taishi cultivation Q&A no. 28 (163.com community column, 2021)",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G2V23JGP0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-010-lotus-pain/",
-        "/experiences/questions/must-i-sit-cross-legged/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-dazongshi",
-      "title": "Zhuangzi ch. 6 (Dazongshi), full text (Gushiwen and teaching editions, cross-checked with ctext parallel text)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/fish-in-the-dry-spring/",
-        "/glossary/liang-wang/",
-        "/translations/yingning-passage/",
-        "/glossary/zhaoche/",
-        "/stories/four-friends/",
-        "/glossary/jian-du/",
-        "/stories/sanghu-friends/",
-        "/glossary/xian-jie/",
-        "/glossary/ji-ren/",
-        "/concepts/dao/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-tianyun",
-      "title": "Zhuangzi ch. 14 (Tianyun), full text (Gushiwen-classical, Hong Kong Education Bureau teaching edition, Taiwan Ministry of Education idiom dictionary)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/dongshi-frowning/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-dechongfu",
-      "title": "Zhuangzi ch. 5 (Dechongfu): 'ren mo jian yu liushui er jian yu zhishui', as quoted in Sun Mingjun 2022",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/glossary/zhi-shui/"
-      ]
-    },
-    {
-      "id": "weishu-shilao-zhi",
-      "title": "Wei shu, Shilao zhi (treatise on Buddhism and Daoism); Bei shi, biography of Kou Zan",
-      "type": "historical_record",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/kou-qianzhi/",
-        "/timeline/kou-qianzhi-reform/"
-      ]
-    },
-    {
-      "id": "sun-mingjun-2022",
-      "title": "Sun Mingjun, 'Dao and De in the Zhuangzi' (National Office for Philosophy and Social Science, 2022)",
-      "type": "scholarship",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/yongxin-ruo-jing-passage/",
-        "/glossary/zhi-shui/"
-      ]
-    },
-    {
-      "id": "163-taishi-29",
-      "title": "Taishi cultivation Q&A no. 29 (163.com community column, 2021)",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G2V35NKQ0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-011-shougong-protocol/"
-      ]
-    },
-    {
-      "id": "shidian-zhuangzi-tongyi-renjianshi",
-      "title": "Zhuangzi Tongyi (Shidian Guji edition), Renjianshi chapter with commentary",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/mantis-and-chariot/"
-      ]
-    },
-    {
-      "id": "ccdi-tangbi-dangche",
-      "title": "CCDI study column on the idiom 螳臂当车 (sense-drift from Zhuangzi to Huainanzi to modern usage)",
-      "type": "scholarship",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/mantis-and-chariot/"
-      ]
-    },
-    {
-      "id": "zhengao-maoshan-lineage",
-      "title": "Shangqing tradition records: the Zhengao, Maoshan lineage chronicles, and the Maoshan Daoist center's lineage account",
-      "type": "traditional_record",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/yang-xi/",
-        "/timeline/shangqing-revelations/"
-      ]
-    },
-    {
-      "id": "shidian-zhuangzi-neipianzhu-dazongshi",
-      "title": "Zhuangzi Neipian Zhu (Shidian Guji edition), Dazongshi chapter with commentary (yingning passage)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/glossary/yingning/"
-      ]
-    },
-    {
-      "id": "daodejing-05-editions",
-      "title": "Daodejing ch. 5: received text with Wang Bi and Su Zhe commentaries (Daodejing.org), Gushiwen teaching edition, CCDI study column",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-05/"
-      ]
-    },
-    {
-      "id": "163-taishi-36",
-      "title": "Taishi cultivation Q&A no. 36 (163.com community column, 2021)",
-      "type": "community",
-      "language": "zh",
-      "url": "https://c.m.163.com/news/a/G3C0P3HD0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-012-restless-body/"
-      ]
-    },
-    {
-      "id": "daodejing-48-editions",
-      "title": "Daodejing ch. 48: received text with Wang Bi commentary transmission, Baike teaching edition, Daodejing.org",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-48/"
-      ]
-    },
-    {
-      "id": "tao-hongjing-biography",
-      "title": "Tao Hongjing biography: standard biography tradition, Wikipedia entry, Taiwan MOE encyclopedia, Nanjing gazetteer office 2024 profile (456-536, 488 manuscript discovery, 492 retirement, 'prime minister in the mountains')",
-      "type": "scholarship",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/tao-hongjing/"
-      ]
-    },
-    {
-      "id": "163-taishi-38",
-      "title": "Taishi cultivation Q&A no. 38 (163.com community column, 2021): the Buddhist-Daoist boundary question",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G3C19JPB0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-013-buddhist-daoist-boundary/"
-      ]
-    },
-    {
-      "id": "shidian-yihai-zuanwei-qiushui",
-      "title": "Nanhua Zhenjing Yihai Zuanwei (Shidian Guji edition), Qiushui chapter with Guo Xiang/Lu/other commentary chain (turtle and phoenix passages)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/turtle-in-the-mud/",
-        "/stories/phoenix-and-owl/"
-      ]
-    },
-    {
-      "id": "daodejing-01-editions",
-      "title": "Daodejing ch. 1: received text with teaching editions, full-text 81-chapter edition, and the punctuation-variant discussion (Wang Bi cutting vs received cutting)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-01/",
-        "/concepts/dao/",
-        "/concepts/wu-you/"
-      ]
-    },
-    {
-      "id": "heshang-gong-sources",
-      "title": "Heshang Gong dossier: Shenxian Zhuan ch. 8 (Ctext edition), Global Daoist database entry (dao.jic.io), Shuge edition note (Lu Zuqian recension), Shiji Yue Yi liezhuan transmission line",
-      "type": "traditional_record",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/heshang-gong/",
-        "/timeline/heshang-gong-commentary/"
-      ]
-    },
-    {
-      "id": "163-taishi-25",
-      "title": "Taishi cultivation Q&A no. 25 (163.com community column, 2021): why double-lotus is required",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G2SOIJDD0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-014-double-lotus-doctrine/"
-      ]
-    },
-    {
-      "id": "wikisource-zhuangzi-yangshengzhu",
-      "title": "Zhuangzi ch. 3 (Yangsheng Zhu), Wikisource full text",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/qinshi-mourning/",
-        "/stories/marsh-pheasant/",
-        "/glossary/xian-jie/"
-      ]
-    },
-    {
-      "id": "shidian-zhuangzi-yi-dz1487",
-      "title": "Zhuangzi Yi (DZ1487, Jiao Hong edition with Guo Xiang commentary), Shidian Guji, Yangsheng Zhu chapter",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/qinshi-mourning/"
-      ]
-    },
-    {
-      "id": "daodejing-37-editions",
-      "title": "Daodejing ch. 37: received text editions and the Guodian manuscript variant (道恒无为也, without 而无不为)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-37/",
-        "/concepts/dao/",
-        "/concepts/pu/"
-      ]
-    },
-    {
-      "id": "163-taishi-34",
-      "title": "Taishi cultivation Q&A no. 34 (163.com community column, 2021): bodily responses in double-lotus — heat, sweat, qi-sensations",
-      "type": "community",
-      "language": "zh",
-      "url": "https://m.163.com/dy/article_cambrian/G39KI8J90545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-015-heat-sweat-qi/"
-      ]
-    },
-    {
-      "id": "pedia-cloud-edu-yangshengzhu",
-      "title": "Education encyclopedia (pedia.cloud.edu.tw) entry on Yangsheng Zhu: the chapter's structure and the 帝之悬解 gloss",
-      "type": "reference",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/qinshi-mourning/",
-        "/glossary/xian-jie/"
-      ]
-    },
-    {
-      "id": "ikt-classics-zhuangzi-ch6",
-      "title": "Zhuangzi ch. 6 (Dazongshi), I-Kuan Tao classics full-text edition (with.org)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/sanghu-friends/"
-      ]
-    },
-    {
-      "id": "haitang-zhuangzi-ch6",
-      "title": "Zhuangzi ch. 6 (Dazongshi), Haitang poetry-club teaching edition with translation",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/sanghu-friends/"
-      ]
-    },
-    {
-      "id": "nanya-yangshengzhu-paper",
-      "title": "Zhao Shiwei, 'Problems in the Zhuangzi Yangsheng Zhu' (Nanya University teaching-research paper): the marsh pheasant passage and the chapter's argument",
-      "type": "scholarship",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/marsh-pheasant/"
-      ]
-    },
-    {
-      "id": "wang-bi-sources",
-      "title": "Wang Bi dossier: Wikipedia (zh) biography, the Shuge Classic Library Laozi Wang Bi zhu (with Siku abstract), and Sun Mingjun's Laozi editions survey (chinawriter.com.cn)",
-      "type": "scholarship",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/wang-bi/",
-        "/timeline/wangbi-laozi-commentary/",
-        "/concepts/de/",
-        "/concepts/wu-you/"
-      ]
-    },
-    {
-      "id": "daodejing-22-editions",
-      "title": "Daodejing ch. 22: Gushiwen teaching edition and the Mawangdui manuscript variants (曲则金/枉则定; 执一以为天下牧)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-22/"
-      ]
-    },
-    {
-      "id": "163-taishi-47",
-      "title": "Taishi cultivation Q&A no. 47 (163.com community column, 2021): what is concentration — the nine dhyānas and how far an ordinary person can go",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G5755VBH0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-016-nine-dhyanas-map/"
-      ]
-    },
-    {
-      "id": "shidian-zhuangzi-tongyi-qiushui",
-      "title": "Zhuangzi tongyi (Shidian guji, HY1407, Ming ed.): full commentary on Qiushui 17, incl. the pity-chain reading, the Shanhai jing note on Kui, and why the chain stops at the mind",
-      "type": "traditional_commentary",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/kui-xian-chain/"
-      ]
-    },
-    {
-      "id": "shanmu-editions",
-      "title": "Zhuangzi ch. 20 (Shanmu) opening passage: Wang Nengxian's scholarly exposition (Sohu, 'between timber and no-timber') and the full text on Xueqiu, agreeing word for word",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/mountain-tree-goose/"
-      ]
-    },
-    {
-      "id": "zeyang-editions",
-      "title": "Zhuangzi ch. 25 (Zeyang) King Wei Ying passage: I-Kuan Tao classics full text (with.org), Wix temple teaching edition, and the Taiping yulan parallel noted by ctext",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/snail-horn-war/"
-      ]
-    },
-    {
-      "id": "daodejing-06-xuanpin",
-      "title": "Daodejing ch. 6: Gushiwen teaching edition with translation and gloss (xuanpin as the source breeding the ten thousand things, an image of the Way)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/glossary/xuan-pin/"
-      ]
-    },
-    {
-      "id": "daodejing-17-editions",
-      "title": "Daodejing ch. 17, received text with the 下知有之/不知有之 variant, from the site's earlier Daodejing verification passes",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-17/"
-      ]
-    },
-    {
-      "id": "360kuai-taishi-01",
-      "title": "Taishi cultivation Q&A no. 1 (360kuai reprint, 2021): why he began — the teacher's origin story, daily schedule, retreat record, and lineage refusal",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.360kuai.com/pc/9e6f36b9dd6094ba8",
-      "pages_used_in": [
-        "/experiences/notes/exp-017-why-he-began/"
-      ]
-    },
-    {
-      "id": "xuwugui-editions",
-      "title": "Zhuangzi ch. 24 (Xu Wugui) passage at Huizi's grave: Shidian guji full text (SBCK108) and the Gushiwen teaching edition with notes, agreeing throughout",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/yun-jin-cheng-feng/"
-      ]
-    },
-    {
-      "id": "pku-2009-qiwulun-study",
-      "title": "Peking University Journal (2009), 'Doubts in reading Zhuangzi Qiwu Lun and their analysis': Lu Deming's one-character gloss (sang), Cheng Xuanying's subcommentary (天机自张莫知其宰), Liu Fengbao's Nanhua xuexin bian, and the study's own reading",
-      "type": "scholarship",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/wang-liang-wen-jing/",
-        "/glossary/tian-ji/"
-      ]
-    },
-    {
-      "id": "shidian-zhuangzi-yi-qiwulun",
-      "title": "Zhuangzi yi (Shidian guji, HY1406): commentary on Qiwu Lun 2, incl. the dakuai gloss (块者无物也, 块然而自生)",
-      "type": "traditional_commentary",
-      "language": "zh",
-      "pages_used_in": [
-        "/glossary/da-kuai/"
-      ]
-    },
-    {
-      "id": "daodejing-63-editions",
-      "title": "Daodejing ch. 63, received text: Sreading full-text edition and a second full-text reproduction; the editions' treatment of 报怨以德 recorded without adjudication",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-63/"
-      ]
-    },
-    {
-      "id": "chen-tuan-sources",
-      "title": "Chen Tuan dossier: Wikipedia (zh) with Song shi ch. 457 and Tang caizi zhuan citations; Baidu Baike with the Song shi quotations (Shizong's yellow-white question, Taizong's praise)",
-      "type": "historical",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/chen-tuan/"
-      ]
-    },
-    {
-      "id": "163-taishi-24",
-      "title": "Taishi cultivation Q&A no. 24 (163.com community column, 2021): training the full lotus — the half-to-full-lotus program",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G2SNHL2M0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-018-halflotus-to-full-lotus/"
-      ]
-    },
-    {
-      "id": "zhile-editions",
-      "title": "Zhuangzi ch. 18 (Zhile), seabird passage: full text quoted verbatim in a teaching essay (mmh.org.tw) and the Guwendao teaching edition with translation; the Baidu Baike idiom entry (luhou yang niao) confirms location and standard reading",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/luhou-yang-niao/"
-      ]
-    },
-    {
-      "id": "shanmu-empty-boat-editions",
-      "title": "Zhuangzi ch. 20 (Shanmu), empty-boat passage: full passage quoted verbatim in two independent reproductions (a Xueqiu teaching post with translation; a Xinhuanet essay)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/xuzhou-empty-boat/"
-      ]
-    },
-    {
-      "id": "qiwulun-zhenzai-commentaries",
-      "title": "China Daoist Association article on the Yangshengzhu title question, quoting Guo Xiang's zhenzai note and Cheng Xuanying's subcommentary verbatim",
-      "type": "scholarship",
-      "language": "zh",
-      "url": "http://www.taoist.org.cn/showInfoContent.do?id=1653",
-      "pages_used_in": [
-        "/glossary/zhen-zai/",
-        "/experiences/questions/does-daoism-believe-in-a-creator/"
-      ]
-    },
-    {
-      "id": "daodejing-14-editions",
-      "title": "Daodejing ch. 14, received text: two independent full-text reproductions agreeing (mindiver.se; a Sheng sheng xuetang teaching edition with Heshang Gong gloss 无色曰夷无声曰希无形曰微)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-14/"
-      ]
-    },
-    {
-      "id": "yan-zun-sources",
-      "title": "Yan Zun dossier: Baidu Baike biography (Hanshu and Gaoshi zhuan material, the rich man exchange, the Junping well); a National Taiwan Normal University thesis on the Laozi zhiguì via Airiti; Wikisource listing of the zhiguì among Daodejing commentary editions",
-      "type": "historical",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/yan-zun/"
-      ]
-    },
-    {
-      "id": "163-taishi-42",
-      "title": "Taishi cultivation Q&A no. 42 (163.com community column): solving body problems through practice — breath practice as the one remedy",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G3PS03JE0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-019-one-remedy-body/"
-      ]
-    },
-    {
-      "id": "waiwu-editions",
-      "title": "Zhuangzi ch. 26 (Waiwu), borrowing-grain passage: Gushiwen full text with translation and notes; Baidu Baike entry (zhuang zhou dai su); CText parallel-verse snippet (recording the 监河侯/监何侯 variant)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/hezhe-zhi-fu/"
-      ]
-    },
-    {
-      "id": "shanmu-mantis-editions",
-      "title": "Zhuangzi ch. 20 (Shanmu), Diaoling passage: Wikisource full text with variants (樊/野, 见利/见得); a Sohu teaching commentary on the passage",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/mantis-stalks-cicada/"
-      ]
-    },
-    {
-      "id": "renjianshi-xinzhai-passage",
-      "title": "Zhuangzi ch. 4 (Renjian Shi), mind-fasting passage: Wikisource full text; a Baidu Jingyan teaching entry on 虚室生白",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/glossary/xushi-sheng-bai/"
-      ]
-    },
-    {
-      "id": "daodejing-45-editions",
-      "title": "Daodejing ch. 45, received text: three independent reproductions (mindiver.se; a Vocus teaching post; Wang Yijia's Laozi jinjie on Pixnet) with variant characters and the swapped final couplet recorded",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-45/"
-      ]
-    },
-    {
-      "id": "fu-yi-sources",
-      "title": "Fu Yi dossier: Wikisource author page (555-639, taishi ling, petition titles); Baidu Baike biography; Wikipedia (zh); Zhongguo zuojia wang essay on the Daodejing guben pian recension",
-      "type": "historical",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/fu-yi/"
-      ]
-    },
-    {
-      "id": "163-taishi-50",
-      "title": "Taishi cultivation Q&A no. 50 (163.com community column): 'Is this real concentration?' — the false first-dhyāna correction, the three gates refused",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G5A08M6T0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-020-false-first-dhyana/"
-      ]
-    },
-    {
-      "id": "tiandi-baoweng-editions",
-      "title": "Zhuangzi ch. 12 (Tiandi), Han-shade gardener passage: a Cambridge Chinese studies reading-group PDF with running glosses (citing Li Mian's Zhuangzi zonglun for 卬/挈/泆/槔 readings); CText parallel-text snippet; People's Daily essay (2024-05); the chapter's authorship noted as disputed in the study notes",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/bao-weng-guan-qi/"
-      ]
-    },
-    {
-      "id": "zhile-skeleton-editions",
-      "title": "Zhuangzi ch. 18 (Zhile), skull passage: Zhihu annotated edition, Baidu Baike full text, Ziyexing full text, CText parallel snippet (dream dialogue verified verbatim across all four); an education-encyclopedia entry (pedia.cloud.edu.tw) on the chapter's two-skull structure",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/zhuangzi-skeleton/"
-      ]
-    },
-    {
-      "id": "li-ao-sources",
-      "title": "Li Ao dossier: Gushiwen author biography (772-841, Xizhi, Didao in Longxi, Han Yu's student, anti-Buddhist-Daoist, Fuxing Shu); Gushiwen page for 'To the Eminent Monk Weiyan of Yaoshan' (both poems with variants, Jingde chuandeng lu ch. 14 background); Baidu Baike entry on 'cloud in the blue sky, water in the bottle'",
-      "type": "historical",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/li-ao/"
-      ]
-    },
-    {
-      "id": "163-taishi-46",
-      "title": "Taishi cultivation Q&A no. 46 (163.com community column): the channel circuit, the 864-prostration regime, the thermostat explanation, and the anti-display joke",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G50IOBL70545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-021-prostrations-channel-circuit/"
-      ]
-    },
-    {
-      "id": "daodejing-06-editions",
-      "title": "Daodejing ch. 6 (received text): Gushiwen teaching edition with translation and gloss (玄牝 = source that breeds the ten thousand things; 勤 = 尽), as documented on the xuan-pin glossary page",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-06/"
-      ]
-    },
-    {
-      "id": "renjianshi-zhili-shu-editions",
-      "title": "Zhuangzi ch. 4 (Renjian Shi), Zhili Shu passage: Taiji Shuguan edition with running glosses; Fu Peirong's annotated edition (variants: 齊/臍, 鼓廁/鼓筴); education-encyclopedia entry on the chapter's structure (Cheng Xuanying's sub-commentary on 支離其德)",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/zhili-shu/"
-      ]
-    },
-    {
-      "id": "tianzifang-archer-editions",
-      "title": "Zhuangzi ch. 21 (Tian Zifang), the archery passage: Taiji Shuguan edition with translation and chapter-structure notes; Zhuangzi at 5000yan full text; CText parallel snippet; Lawforever teaching essay",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/stories/boshun-archer/"
-      ]
-    },
-    {
-      "id": "daodejing-64-editions",
-      "title": "Daodejing ch. 64, received text: Taiji Shuguan edition with notes (the ch. 29 misplaced-strip tradition recorded); Wikipedia entry on the idiom; Kekenet bilingual edition; Dudianji bilingual edition",
-      "type": "primary_text",
-      "language": "zh",
-      "pages_used_in": [
-        "/translations/daodejing-64/"
-      ]
-    },
-    {
-      "id": "guo-xiang-sources",
-      "title": "Guo Xiang dossier: Wikipedia (zh) biography with the Shishuo xinyu Wenxue quote in full, Wang Yan's verdict, Qian Mu's charge, the Tang Yijie formulation, and the Zonggao saying; Guangming ribao / Zhonghua dushu bao survey (Siku zongmu collation, Yang Mingzhao's summary of both camps, Feng Youlan's collected-commentary view, Wang Zhongling's dissent); CText wiki on the Zhuangzi zhu",
-      "type": "historical",
-      "language": "zh",
-      "pages_used_in": [
-        "/people/guo-xiang/"
-      ]
-    },
-    {
-      "id": "163-taishi-48",
-      "title": "Taishi cultivation Q&A no. 48 (163.com community column): the theatre doctrine, the daily-sitting rule, the deep-concentration reassurance, and the yoga ceiling",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G575TU0N0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-022-its-all-theatre/"
-      ]
-    },
-    {
-      "id": "lieyukou-caoshang-editions",
-      "title": "Zhuangzi ch. 32 (Lie Yukou), the Cao Shang passage, verified against the Gushiwen full text with translation and notes, the Baidu Baike entry, and the Zhuangzi jishi (juan 10) text quoted in a teaching post",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://m.gushiwen.cn/shiwenv_7e7df8ac1a77.aspx",
-      "pages_used_in": [
-        "/stories/cao-shang/"
-      ]
-    },
-    {
-      "id": "qiwulun-tianlai-editions",
-      "title": "Zhuangzi ch. 2 (Qiwu Lun), the three-pipes passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, HY1406, Guo Xiang note quoted in full), a 2011 sinoss.net study of the term, and the ht.org.tw teaching column on the modern drift",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%8A%E7%89%A9%E8%AB%96",
-      "pages_used_in": [
-        "/glossary/tian-lai/"
-      ]
-    },
-    {
-      "id": "daodejing-33-editions",
-      "title": "Daodejing ch. 33, received text, verified against the 5000yan edition with Wang Bi commentary quoted and the Gushiwen famous-line page, which agree verbatim; a Hong Kong Education Bureau classics handout supplies the standard gloss",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://www.5000yan.com/33.html",
-      "pages_used_in": [
-        "/translations/daodejing-33/"
-      ]
-    },
-    {
-      "id": "daodejing-08-editions",
-      "title": "Daodejing ch. 8, received text, verified against three independent reproductions that agree (a Douban Read column quoting Su Zhe Laozi jie glosses on the seven skills; a traditional-text reading; the Our China Story column, which records 政善治 for received 正善治)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://read.douban.com/reader/column/2624468/chapter/17171875",
-      "pages_used_in": [
-        "/translations/daodejing-08/"
-      ]
-    },
-    {
-      "id": "zhang-daoling-sources",
-      "title": "Zhang Daoling: Baidu Baike (biography, 142 revelation, twenty-four parishes, 156 ascent at 123); Sina Yunxiuxing essay (birth record, dragon-tiger elixir legend, the three treasures); Taiwan Ministry of the Interior religion database (founder of the Daoist church); Wikipedia Five Pecks of Rice Way (Hou Han shu and Sanguo zhi attestation)",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://baike.baidu.com/item/%E5%BC%A0%E9%81%93%E9%99%B5/1707760",
-      "pages_used_in": [
-        "/people/zhang-daoling/"
-      ]
-    },
-    {
-      "id": "163-taishi-39",
-      "title": "Taishi cultivation Q&A no. 39 (163.com community column): the all-day breathing doctrine, the 4-6 breaths-per-minute standard, and the moderate corners (eat more, afternoon nap, legs may hurt but dullness stops the sit)",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G3FCB7LO0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-023-breath-is-the-key/"
-      ]
-    },
-    {
-      "id": "mati-editions",
-      "title": "Zhuangzi ch. 9 (Ma Ti, outer chapter), the Bole passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, DZ1487, Ma Ti di jiu, verbatim), and the Haitang Shishe reading text with translation, which agree verbatim",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%A6%AC%E8%B9%84",
-      "pages_used_in": [
-        "/stories/bole-horses/"
-      ]
-    },
-    {
-      "id": "rangwang-tushan-editions",
-      "title": "Zhuangzi ch. 28 (Rang Wang, mixed chapter), the Tu Yang passage, verified against the Wikisource full text, the Chinese Text Project parallel text, the Xueqiu reading text, and a Zhihu teaching column, which agree verbatim (CTP closing word variant registered)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E8%AE%93%E7%8E%8B",
-      "pages_used_in": [
-        "/stories/tushan-shuo/"
-      ]
-    },
-    {
-      "id": "qiwulun-baoguang-editions",
-      "title": "Zhuangzi ch. 2 (Qiwu Lun), the baoguang passage, verified against the Wikisource full text, the Dudianji interactive text, and a Zhihu full-text column, which agree verbatim; plus a Zhuzi xuekan study of the term (reprinted at homeinmists) linking baoguang to the Daodejing xuanlan",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://dudianji.com/book/%E5%BA%84%E5%AD%90/%E9%BD%90%E7%89%A9%E8%AE%BA",
-      "pages_used_in": [
-        "/glossary/bao-guang/"
-      ]
-    },
-    {
-      "id": "daodejing-02-editions",
-      "title": "Daodejing ch. 2, received text, verified against three independent reproductions that agree (the Mindiver bilingual edition; the Gushiwen Dao famous-line page, which notes the Dunhuang variant 不为始 for received 不辞; a Beijing Institute of Technology course text of the full received chapter)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://m.guwendao.net/mingju/juv_6c051ff33c92.aspx",
-      "pages_used_in": [
-        "/translations/daodejing-02/",
-        "/concepts/wu-you/"
-      ]
-    },
-    {
-      "id": "lu-xiujing-sources",
-      "title": "Lu Xiujing (406-477): Baidu Baike (biography, 437 Lingbao jing mu, 461 Lu Shan Taixu guan, 467 Chongxu guan, 471 San Dong jing shu mu lu with 1,228 scrolls, zhaijiao codes); Taiwan Ministry of the Interior religion database; Chinese Taoist Association essay (southern reform, three teachings); Tushuguan xuekan 2013 library-science study (three-caverns classification attested from the 471 catalog); Wikipedia",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://baike.baidu.com/item/%E9%99%86%E4%BF%AE%E9%9D%99/1709413",
-      "pages_used_in": [
-        "/people/lu-xiujing/"
-      ]
-    },
-    {
-      "id": "163-taishi-40",
-      "title": "Taishi cultivation Q&A no. 40 (163.com community column): standing post versus sitting, the habit-seeds-surfacing doctrine, the alternating-legs rule, and the moderate corners (eat less, move more, fix the present)",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G3FCGTLQ0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-024-standing-and-sitting/"
-      ]
-    },
-    {
-      "id": "quqie-editions",
-      "title": "Zhuangzi ch. 10 (Qu Qie, outer chapter), the Robber Zhi passage and the chapter argument, verified against the Wikisource full text, the Chinese Text Project parallel text, the Zhihu full-text column, and the Zhuangzi kouyi (Shidian guji, SK2166), which agree verbatim",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E8%83%A0%E7%AF%8B",
-      "pages_used_in": [
-        "/stories/dao-yi-you-dao/"
-      ]
-    },
-    {
-      "id": "dasheng-shanbao-editions",
-      "title": "Zhuangzi ch. 19 (Da Sheng), the Shan Bao and Zhang Yi passage, verified against the Wikisource full text, the Zhihu full-text commentary, the 8bei8 reading text, the Wang Xianqian Zhuangzi jijie (zdic.net), and the Chinese Text Project parallel text, which agree verbatim (游/游 and 縣/悬 gloss variants registered)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%81%94%E7%94%9F",
-      "pages_used_in": [
-        "/stories/shanbao-zhangyi/"
-      ]
-    },
-    {
-      "id": "xiaoyaoyou-xiaoyao-editions",
-      "title": "Zhuangzi ch. 1 (Xiao Yao You), the closing tree passage and the Guo Xiang commentary, verified against the Wikisource full text and the Zhuangzi yi (Shidian guji, DZ1487, verbatim, including the commentary defining xiaoyao as non-dependence); plus the ch. 19 Bianzi usage from the same session; plus the HK EDB recommended-passages PDF",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A",
-      "pages_used_in": [
-        "/glossary/xiaoyao/"
-      ]
-    },
-    {
-      "id": "daodejing-11-editions",
-      "title": "Daodejing ch. 11, received text, verified against four independent reproductions that agree (the Zhihu full-text edition; the Jingangjin bilingual edition; the Daodejing.org chapter page with glosses; the Chinese Text Project Heshang Gong zhangju parallel, whose chapter title is Wu Yong)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://www.daodejing.org/11.html",
-      "pages_used_in": [
-        "/translations/daodejing-11/",
-        "/concepts/wu-you/"
-      ]
-    },
-    {
-      "id": "zhang-boduan-sources",
-      "title": "Zhang Boduan (984-1082): Global Daoism database (dao.jic.io, citing the Wuzhen pian prefaces and Qing Xitai); Shaoyang Yuqing Gong biography (quoting the preface verbatim, the Lu Yanfu record, the death-verse); Zheng Weiyi study in Hongdao 58 (2014) on the two threes in the postface; Airiti thesis abstract on the Wuzhen pian; Zhejiang CPPCC cultural-history entry (1075 completion, Yongzheng enfeoffment); Baidu Baike",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://dao.jic.io/figures/zhang-boduan",
-      "pages_used_in": [
-        "/people/zhang-boduan/"
-      ]
-    },
-    {
-      "id": "daodejing-07-editions",
-      "title": "Daodejing ch. 7, received text, verified against four independent reproductions that agree (the Daodejing.org chapter page; the Vocus bilingual edition printing the Mawangdui variants; the Taiwan Education Ministry dictionary entry for 外身身存 with the commentary tradition; the Zhihu silk-text edition with gloss)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://www.daodejing.org/7.html",
-      "pages_used_in": [
-        "/translations/daodejing-07/"
-      ]
-    },
-    {
-      "id": "waiwu-rengongzi-editions",
-      "title": "Zhuangzi ch. 26 (Wai Wu, miscellaneous chapter), the Lord Ren passage, verified against the Wikisource full chapter, the Xueqiu full-text column, the Guwendao reading text with translation, and the Baidu Baike entry, which agree (variants: 会稽/会嵇, 骛/惊, 累/纍)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%A4%96%E7%89%A9",
-      "pages_used_in": [
-        "/stories/ren-gongzi-fishing/"
-      ]
-    },
-    {
-      "id": "zhibeiyou-chuigou-editions",
-      "title": "Zhuangzi ch. 22 (Zhi Bei You), the hook-forger passage, verified against the Shidian guji Zhuangzi gu text, the Wang Xianqian Zhuangzi jijie (zdic.net, carrying Cheng Xuanying, Guo Xiang, Sima, Wang Niansun and Su Yu glosses; Wang Niansun: shou is the old reading of dao), the 8bei8 full-text edition, and the Baidu Baike entry",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://gj.zdic.net/zibu/476/12113.html",
-      "pages_used_in": [
-        "/stories/chui-gou-zhe/"
-      ]
-    },
-    {
-      "id": "qiwulun-wusangwo-editions",
-      "title": "Zhuangzi ch. 2 (Qi Wu Lun), the opening wu sang wo passage, verified against the Wikisource full chapter, the Zhihu full-text column, and the Dudianji text, with the Guo Xiang commentary registered from the tradition (wu sang wo = self-forgetting, the dissolution of the paired body)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%8A%E7%89%A9%E8%AB%96",
-      "pages_used_in": [
-        "/glossary/wu-sang-wo/"
-      ]
-    },
-    {
-      "id": "daodejing-36-editions",
-      "title": "Daodejing ch. 36, received text, verified against four independent reproductions that agree (the Shandong University page with glosses; the Zhihu Wang Bi Laozi Daodejing zhu column; the Daodejing.org chapter page; the Baidu Baike entry with the interpretive tradition), variant qu zhi/duo zhi registered",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://www.daodejing.org/36.html",
-      "pages_used_in": [
-        "/translations/daodejing-36/"
-      ]
-    },
-    {
-      "id": "zhang-sanfeng-sources",
-      "title": "Zhang Sanfeng: the Ming Shi Fangji zhuan (juan 299) official biography (name, sobriquet, appearance, Wudang prophecy and rebuilding, Jintai guan death-and-revival, the emperors searches, the Yingzong title); the Wudang Daoist Association biography (Zhenwu dream-transmission and bird-and-snake legends, quiet-mind nurturing-nature doctrine); Baidu Baike local traditions (1248 birth claim, 1314 Fire Dragon Zhenren initiation, attributed works); Wikipedia survey (disputed dates and birthplace, contested Taijiquan attribution)",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E4%B8%89%E4%B8%B0",
-      "pages_used_in": [
-        "/people/zhang-sanfeng/"
-      ]
-    },
-    {
-      "id": "163-taishi-26",
-      "title": "Taishi Q&A episode 26 (lying-down practice and the innovation question), full text retrieved from the 163 news mirror on 2026-10-07: practitioner letter (contemporary liberation-stages framework, lying-down practice argument) and teacher reply (armchair-theory charge, eighteen-heavens challenge, dreaming diagnosis, auspicious-reclining as provisional method, time-conditions ladder, Buddha fasting narrative, anti-innovation rule)",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G2SPN49Q0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-025-lying-down-innovation/"
-      ]
-    },
-    {
-      "id": "dazongshi-daye-editions",
-      "title": "Zhuangzi ch. 6 (Da Zong Shi), the Zi Lai smelter passage, verified against the Wikisource full chapter, the Xiang Xiu-Guo Xiang commentary edition (ab.newdu.com, with full glosses), the with.org chapter text, and the Education Encyclopedia survey, which agree (variants: 大块载我以形/大块以载我以形, 造化者/造物者)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E5%A4%A7%E5%AE%97%E5%B8%AB",
-      "pages_used_in": [
-        "/stories/daye-zhu-jin/"
-      ]
-    },
-    {
-      "id": "lieyukou-tulong-editions",
-      "title": "Zhuangzi ch. 32 (Lie Yukou), the dragon-slaying passage with its chapter frame, verified against the Guwendao full-chapter text, the Baidu Baike idiom entry, the Threads quotation, and a close-reading blog, which agree (朱泙漫学屠龙于支离益，单千金之家，三年技成而无所用其巧)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://m.guwendao.net/guwen/bookv_05c8a5609ebf.aspx",
-      "pages_used_in": [
-        "/stories/tu-long-zhi-ji/"
-      ]
-    },
-    {
-      "id": "qiwulun-title-readings",
-      "title": "The Qi Wu Lun title ambiguity, registered from the scholarly record: the Peking University Journal (2009) survey with Yang Liuqiao evidence (early readers took qiwu together, Wang Yinglin the later wulun reading, and the observation that the character qi never occurs in the chapter body); the Chinese Academy of Social Sciences survey (2022); the Guangming Daily survey; and the 8bei8 chapter introduction",
-      "type": "scholarship",
-      "language": "zh",
-      "url": "https://ccj.pku.edu.cn/Article/DownLoad?id=271011691&type=ArticleFile",
-      "pages_used_in": [
-        "/glossary/qiwu/"
-      ]
-    },
-    {
-      "id": "daodejing-40-editions",
-      "title": "Daodejing ch. 40, received text, verified against the Mindiver commentary edition, the Baidu Baike entry, the Shandong University chapter page, and the Zhang Qingxiang lecture transcript, with Qian Zhongshu two-senses gloss and the ch. 25 chain registered from the Hans Publishers academic paper",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://mindiver.se/ddj-40",
-      "pages_used_in": [
-        "/translations/daodejing-40/",
-        "/concepts/wu-you/",
-        "/concepts/fan/"
-      ]
-    },
-    {
-      "id": "wang-chongyang-sources",
-      "title": "Wang Chongyang (1112/1113-1170): the Quanzhen tradition biography (Dao Zhan journal, Baidu Baike Quanzhen entry — Ganhe transmission, Living-Dead-Man Tomb, the eastward journey, the seven disciples, the three-teachings associations and doctrine); the Weihai city government account; the Taiwan national religion information network entry; and the Wikipedia Quanzhen survey (Qiu Chuji and the Mongol court; the fiction-vs-record contrast)",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://zh.wikipedia.org/zh-hans/%E5%85%A8%E7%9C%9F%E9%81%93",
-      "pages_used_in": [
-        "/people/wang-chongyang/"
-      ]
-    },
-    {
-      "id": "daodejing-12-editions",
-      "title": "Daodejing ch. 12, received text, verified against four independent reproductions that agree (the Zhihu Wang Bi edition with glosses; the Baidu Baike entry with translation; the Shandong University chapter page; the Daodejing.org chapter page), with the kou shuang injury-sense gloss and the Heshang Gong chapter title jianyu registered",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://www.daodejing.org/12.html",
-      "pages_used_in": [
-        "/translations/daodejing-12/"
-      ]
-    },
-    {
-      "id": "yuyan-zhiyan-editions",
-      "title": "Zhuangzi ch. 27 (Yu Yan), the opening self-summary of the three modes of speech (yuyan/zhongyan/zhiyan), verified against the Wikisource full chapter and the Tsinghua literary research center close reading (quoting the Guo Qingfan punctuated text), with the commentary tradition registered from the Guangming Daily study by Song Xiaoke (Chinawriter reprint: Sima Biao, Guo Xiang, Cheng Xuanying, Luo Miandao readings plus the modern Li Binghai and Guo Changbao proposals)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%AF%93%E8%A8%80",
-      "pages_used_in": [
-        "/stories/zhi-yan/",
-        "/glossary/hua/"
-      ]
-    },
-    {
-      "id": "dasheng-huangong-editions",
-      "title": "Zhuangzi ch. 19 (Da Sheng), the Duke Huan ghost passage, verified against the Wikisource full chapter, the with.org chapter text, the Wang Xianqian jijie edition (zdic, with Lu Deming glosses, Sima Biao ghost names, the vermillion-cap variant, and the Guo Xiang chapter note), and the ctext parallel passage",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%81%94%E7%94%9F",
-      "pages_used_in": [
-        "/stories/huan-gong-jian-gui/"
-      ]
-    },
-    {
-      "id": "daodejing-13-editions",
-      "title": "Daodejing ch. 13, verified against the Mawangdui silk A collation (6dsy.cn, recording the 贵为身于为天下 and 宠之为下 readings), the Shandong University chapter page, the Qstheory reprint of the Guangming Daily study by Zhang Jing (Gao Heng, Chen Guying, Zhang Songhui, Feng Youlan, Ren Jiyu interpretations; the two idioms both from this chapter), and the Daodejing.org chapter page",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://6dsy.cn/daodejing-boshujiaben-13zhang",
-      "pages_used_in": [
-        "/translations/daodejing-13/"
-      ]
-    },
-    {
-      "id": "cheng-xuanying-sources",
-      "title": "Cheng Xuanying (608-669): the Baidu Baike Zhuangzi zhushu biographical entry (Zishi, Shanzhou, Xihua fashi title Zhenguan 5, Yuntai mountain retreat, Chongxuan school, the three works); the Daoist Culture Centre database record of the Nanhua zhenjing zhushu (35 juan, Zhengtong Daozang, Guo Qingfan incorporation, Zhonghua shuju 1998 edition); the Gong Pengcheng study of his Buddhist absorption (Chengguan's charge, the huahu thesis, the Wude 7 three-teachings debates)",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://zh.daoinfo.org/index.php?title=%E5%8D%97%E8%8F%AF%E7%9C%9F%E7%B6%93%E6%B3%A8%E7%96%8F%EF%BC%88%E9%83%AD%E8%B1%A1%E3%80%81%E6%88%90%E7%8E%84%E8%8B%B1%EF%BC%89",
-      "pages_used_in": [
-        "/people/cheng-xuanying/"
-      ]
-    },
-    {
-      "id": "qiwulun-qiuhao-editions",
-      "title": "Zhuangzi ch. 2 (Qi Wu Lun), the scale-reversal and oneness passage (天下莫大于秋豪之末，而太山为小；莫寿乎殇子，而彭祖为夭。天地与我并生，而万物与我为一), verified against the Wikisource full chapter and the Taiji Shuguan annotated chapter text (agreeing, including the 秋豪/秋毫 variant and the glosses), plus the Peking University journal article on Qi Wu Lun difficulties (quoting the passage and discussing the 一与言为二 counting puzzle)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%8A%E7%89%A9%E8%AB%96",
-      "pages_used_in": [
-        "/stories/qiu-hao/"
-      ]
-    },
-    {
-      "id": "tianxia-huishi-editions",
-      "title": "Zhuangzi ch. 33 (Tian Xia), the Huishi section (惠施多方，其书五车，其道舛驳，其言也不中 — the ten theses, the twenty-one paradoxes, the closing verdict through 悲夫), verified against the Wikisource full chapter and the Taiji Shuguan chapter text, with the Ministry of Education Idiom Dictionary (2020) entry for 惠施五车/学富五车 (provenance, glosses, Huishi dates, and the idiom drift record)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%A4%A9%E4%B8%8B",
-      "pages_used_in": [
-        "/stories/hui-shi-wu-che/"
-      ]
-    },
-    {
-      "id": "daodejing-32-editions",
-      "title": "Daodejing ch. 32, verified against the Mindiver chapter study (道常无名，朴。虽小，天下莫能臣。侯王若能守之，万物将自宾。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦将知止。知止可以不殆。譬道之在天下，犹川谷之于江海) and the Beijing Institute of Technology traditional-text archive (unpunctuated received form), with the two competing punctuations of the opening registered without adjudication",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://mindiver.se/ddj-32",
-      "pages_used_in": [
-        "/translations/daodejing-32/",
-        "/concepts/dao/",
-        "/concepts/pu/"
-      ]
-    },
-    {
-      "id": "qiu-chuji-sources",
-      "title": "Qiu Chuji (1148-1227): Baidu Baike and Wikipedia biographical records (Tongmi, Changchunzi, Qixia, youngest of the Seven, the western journey at 74, the 尊卑虽异性命各同耳 line, Longmen lineage founder, the imperial titles, the one-word-stops-killing praise and its recorded dispute); the Daoist database record (dao.jic.io: ordained at nineteen, Wang Chongyang disciple the next year, Panxi cave six years, Longmen seven years, Straw-cloak Master); the Beijing Evening News historical article (2021: died 1227 in Yanjing at 79, original name Qiu Ge, tax exemptions for the order)",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://baike.baidu.com/item/%E4%B8%98%E5%A4%84%E6%9C%BA/384923",
-      "pages_used_in": [
-        "/people/qiu-chuji/"
-      ]
-    },
-    {
-      "id": "taiguanglin-zuochan-jiexing-07",
-      "title": "Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 2 on precepts, section 7, Vegetarianism is the necessary choice (full text retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02-20): the animals-have-consciousness claim, the meat-blocks-the-dhyanas gate, the Four Heavenly Kings rebirth, the three-stage dream-test with its seven-year frame, the eye-test, the Buddha two-stage narrative with the Shurangama line, the honesty rule, and the nutrition exchange (ten years one meal a day, no colds; the transition-period correction; tofu daily; no coffee/cola/tea; Pu-er tea), with the community counter-voices (the diabetes report, the gradual-protein advice)",
-      "type": "web_archive",
-      "language": "zh",
-      "url": "https://taiguanglin.org/",
-      "pages_used_in": [
-        "/experiences/notes/exp-026-diet-gate/",
-        "/experiences/questions/does-diet-matter/"
-      ]
-    },
-    {
-      "id": "shanmu-chapter-editions",
-      "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Beigong She and Shinan Yiliao passages, verified against the Wikisource full chapter and the Zhihu chapter-verse reading (agreeing on the Beigong She passage: 北宫奢为卫灵公赋敛以为锺…一之间，无敢设也…既雕既琢，复归于朴…来者勿禁，往者勿止…因其自穷…豪毛不挫, and carrying the Shinan Yiliao passage: 市南宜僚见鲁侯…丰狐文豹…其皮为之灾也。今鲁国，独非君之皮邪…建德之国…无形倨无留居以为君车…送君者皆自崖而反…有人者累见有于人者忧), with the gushiwen famous-line page carrying the same 既雕既琢，复归于朴 and its standard gloss",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%B1%B1%E6%9C%A8",
-      "pages_used_in": [
-        "/stories/bei-gong-she/",
-        "/stories/shinan-yiliao/"
-      ]
-    },
-    {
-      "id": "daodejing-46-editions",
-      "title": "Daodejing ch. 46, verified against three independent reproductions that agree on the received text (the Zhihu chapter study with glosses: 天下有道，却走马以粪。天下无道，戎马生于郊。罪莫大于可欲；祸莫大于不知足；咎莫大于欲得。故知足之足，常足矣; the Baidu Baike chapter page; the Shandong University chapter page), with the variant registered (the Zhihu text carries the first superlative 罪莫大于可欲 and the Baike text omits it)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zhuanlan.zhihu.com/p/388526071",
-      "pages_used_in": [
-        "/translations/daodejing-46/"
-      ]
-    },
-    {
-      "id": "bai-yuchan-sources",
-      "title": "Bai Yuchan (1134-1229): Wikipedia, the Guwendao author page, and the Daoist Culture Centre database (agreeing on the biography: born Ge Changgeng, adopted Bai, Qiongzhou birth, the prodigy record, the examination failure, the flight to Wuyi after a killing, nine years with Chen Nan, the Luofu transmission of 1212, the disciples of 1217, the open teaching seat, the Ningzong title, the Yulong Palace state jiao, the Lin-an memorial and the heterodox-arts accusation; the essence-breath-spirit and thunder-rites doctrine; the collections and the Palace Museum calligraphy), with the Daozhan source registering the birth-date dispute (1134 vs 1194) and the sohu biography carrying the 道情 poem",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%8E%89%E8%9F%BE",
-      "pages_used_in": [
-        "/people/bai-yuchan/"
-      ]
-    },
-    {
-      "id": "taiguanglin-zuochan-hongchen-11",
-      "title": "Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 11 on worldly matters, section 11, Finding a teacher (full text retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02-22 through 2014-02-26): the teacher-student bond doctrine, the aspiration rule, the try-and-see rule, the precepts-as-teacher answer to the demonic-practice question, the swindler warning, the support teaching, the ladder of teachers, the no-shortcut rule, the fraud analysis, and the reposted silent-illumination teacher dialogue with the meta-reaction",
-      "type": "web_archive",
-      "language": "zh",
-      "url": "https://taiguanglin.org/",
-      "pages_used_in": [
-        "/experiences/notes/exp-027-finding-a-teacher/",
-        "/experiences/questions/do-i-need-a-teacher/"
-      ]
-    },
-    {
-      "id": "shanmu-yidainiao-editions",
-      "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Taigong Ren passage, verified against the Wikisource full chapter and the Shidianguji Zhuangzi Yi edition (Jiao Hong compilation carrying the Guo Xiang subcommentary), which agree on the received text: 孔子围于陈蔡之间，七日不火食。太公任往吊之…东海有鸟焉，其名曰意怠。其为鸟也，翂翂翐翐，而似无能，引援而飞，迫胁而栖，进不敢为前，退不敢为后，食不敢先尝，必取其绪，是故其行列不斥，而外人卒不得害，是以免于患。直木先伐，甘井先竭…饰知以惊愚，修身以明污，昭昭乎如揭日月而行，故不免也…自伐者无功，功成者堕，名成者亏…至人不闻，子何喜哉…入兽不乱群，入鸟不乱行。鸟兽不恶，而况人乎 — with the Baidu Baike idiom page carrying 直木先伐甘井先竭 as a standalone idiom of talent-persecution, and the ctext parallel-section page confirming the core bird passage",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%B1%B1%E6%9C%A8",
-      "pages_used_in": [
-        "/stories/yi-dai-niao/"
-      ]
-    },
-    {
-      "id": "shanmu-linhui-editions",
-      "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Lin Hui passage, verified against the Shidianguji Zhuangzi Yi edition (carrying the Guo Xiang subcommentary) and the Wikisource full chapter, which agree on the received text: 孔子问子桑雽曰：吾再逐于鲁…林回弃千金之璧，负赤子而趋。或曰：为其布与？赤子之布寡矣。为其累与？赤子之累多矣…林回曰：彼以利合，此以天属也…君子之交淡若水，小人之交甘若醴；君子淡以亲，小人甘以绝…绝学捐书，弟子无挹于前，其爱益加进 — with the name variant registered (子桑雽 in Wikisource, 子桑虖 in the Zhuangzi Yi edition) and the Baidu Baike entry and ctext parallel section confirming the story as the fixed source of 君子之交淡若水",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://www.shidianguji.com/book/DZ1487/chapter/1klznucwzy1py",
-      "pages_used_in": [
-        "/stories/lin-hui-qi-bi/"
-      ]
-    },
-    {
-      "id": "qiwulun-daoshu-editions",
-      "title": "Zhuangzi ch. 2 (Qi Wu Lun, inner chapter), the pivot passage, previously verified on this site s huan-zhong page (Wikisource chapter text and the site s earlier verification trail): 彼是莫得其偶，谓之道枢。枢始得其环中，以应无穷。是亦一无穷，非亦一无穷也。故曰莫若以明 — the term 道枢 named in the passage s first clause",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%90%E7%89%A9%E8%AE%BA",
-      "pages_used_in": [
-        "/glossary/dao-shu/"
-      ]
-    },
-    {
-      "id": "daodejing-55-editions",
-      "title": "Daodejing ch. 55, verified against five independent reproductions that agree on the received text (the 8bei8 full-chapter page with modern translation; the Zhihu chapter study; the ctext Wang Bi commentary text: 含德之厚，比于赤子。毒虫不螫，猛兽不据，攫鸷不搏。骨弱筋柔而握固，未知牝牡之合而朘作，精之至也。终日号而嗌不嗄，和之至也。知和曰常，知常曰明。益生曰祥; the Shandong University chapter page; the daodejing.org chapter page), with variants registered without adjudication: 攫鸟 (received text) vs 攫鸷 (ctext Wang Bi text); 号而不嗄 vs 号而嗌不嗄 (ctext); the Zhihu text s opening variant 蜂虿虺蛇不螫 for the first animal clause",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://www.8bei8.com/book/laozi_55.html",
-      "pages_used_in": [
-        "/translations/daodejing-55/"
-      ]
-    },
-    {
-      "id": "chen-nan-sources",
-      "title": "Chen Nan (d. 1213), fourth patriarch of the southern lineage: the Baidu Baike Nan Wu Zu entry and the Wikipedia Nan Wu Zu article (agreeing on the biography: courtesy name Nanmu, style Cuixu; from Boluo, Huizhou; worked as a barrel-hooper; received the Guigen Fuming pian from Xue Daoguang; studied the Taiyi Daogui golden-elixir method under Xue; received the Jingxiao Dalei langshu thunder-scripture from a spirit-man of Limu Mountain; the mud-pill healing practice and the name Chen Niwan; the mad-sage image; his own transmission poem naming Bai Yuchan and the 1212 Luofu date; the Hun Yuan Lie Xian Tu record of four disciples and 南宗自陈楠起门徒始众; the three-grade inner-alchemy doctrine), with the Li Yuanguo study (陈楠与神霄派) and the Zhihu study of the Xiuzhen Bianhuo Lun (海南白玉蟾自幼事陈泥丸忽已九年) confirming the teacher-student line",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://baike.baidu.com/item/%E5%85%A8%E7%9C%9F%E9%81%93%E5%8D%97%E4%BA%94%E7%A5%96/65357232",
-      "pages_used_in": [
-        "/people/chen-nan/"
-      ]
-    },
-    {
-      "id": "taiguanglin-zuochan-fushi-huxi-01-04",
-      "title": "Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 4 on abdominal breathing, sections 01-04 (full text of all four sections retrieved 2026-10-07 from taiguanglin.org; original posts 2014-06-03 through 2014-06-18): the purpose (changing the habit, not lengthening the breath), the mechanics (release to inhale, contract to exhale, the hiss optional), the 20% rule, the standing rule, the ten-to-twelve-breaths standard, the anti-overpractice warnings, the Anapanasati criticism, the four-dhyana blood doctrine, the Inception methodological confession, the three-months claim, the monthly self-check, and the fire-dhyana joke",
-      "type": "web_archive",
-      "language": "zh",
-      "url": "https://taiguanglin.org/",
-      "pages_used_in": [
-        "/experiences/notes/exp-028-abdominal-breathing/"
-      ]
-    },
-    {
-      "id": "shanmu-diaoling-editions",
-      "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Diaoling passage, verified against the Wikisource full chapter (retrieved 2026-10-07): 庄周游乎雕陵之野一作樊，睹一异鹊，自南方来者，翼广七尺，目大运寸，感周之颡，而集于栗林…蹇裳躩步，执弹而留之；睹一蝉，方得美荫而忘其身；螳螂执翳而搏之，见得而忘其形；异鹊从而利之，见利一作得而忘其真。庄周怵然，曰：噫！物固相累，二类相召也！捐弹而反走，虞人逐而谇之。庄周反入，三月不庭…吾守形而忘身，观于浊水而迷于清渊…入其俗，从其俗 — with the reading variants registered (雕陵之野/雕陵之樊; 见利/见得) and the passage s fixed status as the source of the idiom 螳螂捕蝉，黄雀在后",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%B1%B1%E6%9C%A8",
-      "pages_used_in": [
-        "/stories/diao-ling-yi-que/"
-      ]
-    },
-    {
-      "id": "shanmu-yanshi-editions",
-      "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Yanshi-wind passage, verified against the Wikisource full chapter (retrieved 2026-10-07): 孔子穷于陈蔡之间，七日不火食，左据槁木，右击槁枝，而歌猋一作焱氏之风，有其具而无其数，有其声而无宫角，木声与人声，犁然有当于人之心。颜回端拱还目而窥之…无受天损易，无受人益难，无始而非卒也，人与天一也…饥渴寒暑，穷桎不行，天地之行也，运物之泄也，言与之偕逝之谓也…鸟莫知于鷾鸸，目之所不宜处，不给视，虽落其实，弃之而走；其畏人也，而袭诸人间社稷存焉尔…化其万物，而不知其禅之者，焉知其所终？焉知其所始？正而待之而已耳…圣人晏然，体逝而终矣 — with the name variant registered (歌猋氏之风, annotated 一作焱 in the Wikisource text)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%B1%B1%E6%9C%A8",
-      "pages_used_in": [
-        "/stories/yanshi-wind-song/"
-      ]
-    },
-    {
-      "id": "qiwulun-ming-editions",
-      "title": "Zhuangzi ch. 2 (Qi Wu Lun, inner chapter), the two occurrences of 莫若以明, verified against the Wikisource full chapter (retrieved 2026-10-07): (1) 道隐于小成，言隐于荣华，故有儒墨之是非，以是其所非而非其所是。欲是其所非而非其所是，则莫若以明; (2) 彼是莫得其偶，谓之道枢。枢始得其环中，以应无穷。是亦一无穷，非亦一无穷也，故曰莫若以明 — both occurrences confirmed in the chapter text, bracketing the this/that machinery",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%90%E7%89%A9%E8%AE%BA",
-      "pages_used_in": [
-        "/glossary/mo-ruo-yi-ming/"
-      ]
-    },
-    {
-      "id": "wang-chuyi-sources",
-      "title": "Wang Chuyi (1142-1217), Quanzhen ascetic: the Baidu Baike entry; the Chinese Wikipedia article (1142年4月15日-1217年5月28日; the name-cluster 号玉阳子 in most records, 字玉阳 号介阳子/全阳子/华阳子 in the Wikipedia cluster; from Dongmou, Ninghai, modern Rushan, Weihai); the Sohu survey (taken by Wang Chongyang in 1168 金大定八年; long seclusion at the Yunguang Cave, Wendeng); the Taiwan Ministry of the Interior religion database (fatherless in childhood, devoted to his mother; the earlier name 伞阳子 later changed to 玉阳子); the Kaiwind survey (the branch record); the daoys.net profile (nine years of bitter mountain practice) — with the Iron-Foot Immortal nickname (铁脚仙人), the retained court trust during the Jin suppression, and the Yuan title 玉阳体玄广度真人",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E8%99%95%E4%B8%80",
-      "pages_used_in": [
-        "/people/wang-chuyi/"
-      ]
-    },
-    {
-      "id": "taiguanglin-zuochan-renti-01-06",
-      "title": "Taiguanglin official Zuochan collection (坐禅), ch. 6 on the human body, sections 01-06 (full text of all six sections retrieved 2026-10-07 from taiguanglin.org; original posts 2014-06-17 through 2014-07-02): the breath-and-distraction index (呼吸越快死得越快; tortoise/elephant/dog/human breath rates; the antediluvian 38% oxygen claim; the Buddha-era eight-breaths claim; 呼吸次数多 = 消耗能量多 = 妄想多 = 烦恼多), the American/Korean statistics, the near-awakening thresholds, the nose/mouth doctrine, the brain s oxygen-and-glucose requirement, the hormone doctrine, the blood-pressure origin account, the newborn-blood-pressure paper, the six-vessel heart, the body-contemplation correction, the reverse-breathing lung-pressure warning, the five-stage repair sequence, the two-nervous-system doctrine, the commander-and-signal-corps analogy, the boundary declaration against current medicine (这里开始和目前的医学理论可能有不同的地方), and the dantian-as-two-vessels account",
-      "type": "web_archive",
-      "language": "zh",
-      "url": "https://taiguanglin.org/",
-      "pages_used_in": [
-        "/experiences/notes/exp-029-the-human-body/"
-      ]
-    },
-    {
-      "id": "zhibeiyou-22-editions",
-      "title": "Zhuangzi ch. 22 (Zhi Bei You, outer chapter), Wikisource full chapter (retrieved 2026-10-07): the opening passage (Knowledge's three questions to Wuwei Wei, Mad Bend's forgotten answer, the Yellow Emperor's full answer and self-verdict) and the Dongguo Zi passage (the Way in mole-crickets, weeds, tiles, dung; the market-inspector pig; every-lower-more-evident; the three names one reality; the thing-er of things)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/莊子/知北遊",
-      "pages_used_in": [
-        "/stories/zhi-wen-wuwei/",
-        "/stories/dongguo-zi-asks/",
-        "/stories/hook-smith/",
-        "/stories/light-brightness-asks-nothingness/",
-        "/stories/taiqing-asks-wuqiong/",
-        "/stories/ran-qiu-asks-zhongni/",
-        "/glossary/wu-shi-wu-zhong/",
-        "/concepts/dao/",
-        "/concepts/wu-you/"
-      ]
-    },
-    {
-      "id": "yangshengzhu-03-editions",
-      "title": "Zhuangzi ch. 3 (Yang Sheng Zhu, inner chapter), opening lines with the commentary trail: Wikisource full chapter (retrieved 2026-10-07) and the Shidianguji Zhuangzi Yi edition carrying Guo Xiang's notes (缘督以为经者，顺中以为常也), plus the China Daoist Association study and the Renmin University philosophy faculty essay carrying Guo Xiang, Cheng Xuanying, Zhao Yifu, Wang Fuzhi, and Zhu Xi's recorded critique",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/莊子/養生主",
-      "pages_used_in": [
-        "/glossary/yuan-du-yi-wei-jing/"
-      ]
-    },
-    {
-      "id": "daodejing-42-editions",
-      "title": "Daodejing ch. 42, verified against multiple independent reproductions agreeing on the received text (Baidu Baike chapter page; mindiver.se full-chapter study; Shandong University chapter page; Apple Podcasts chapter reading; h2o-china comparative study; Taiwan Ministry of Education reference entry on 道生一); variant registered: 冲气/中气 (Mawangdui silk-text reading reported by the h2o-china study), 不榖/不谷",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://www.daodejing.org/42.html",
-      "pages_used_in": [
-        "/translations/daodejing-42/",
-        "/concepts/yin-yang/"
-      ]
-    },
-    {
-      "id": "ma-yu-sources",
-      "title": "Biographical records on Ma Yu (马钰, Danyang Zi, 1123-1183; Wikipedia 1123-1185 registered): Baidu Baike Quanzhen-seven entry, Chinese Wikipedia, China Daoist Association profile, Weihai municipal government Quanzhen founding story, Sohu survey, Kaiwind survey — agreeing on the Ninghai wealth, the Quanzhen Hermitage funding, the renaming, the 1170 coffin journey, the three-year mourning, and the Yuxian branch",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://baike.baidu.com/item/全真七子/142146",
-      "pages_used_in": [
-        "/people/ma-yu/"
-      ]
-    },
-    {
-      "id": "taiguanglin-ep31-163",
-      "title": "Taishi Q&A episode 31 (太师修行问答31：双盘时身体的反应，各种痛感汇总), NetEase Hao repost dated 2021-02-18, full text retrieved 2026-10-07 from 163.com: the cell-turnover schedule (skin 28 days, muscle 2-3 years, sinew 3-4 years, bone 7+ years), the 90-minute-to-two-hour pain window, the two-hour sit justification, the ankle-knee-hip sequence, the three-months-heat vs 2-3-years-dhyana account, the head-sweating explanation, the demon-subduing/lotus leg assignment, the whole-body pain sequence, the prostrations-for-spine answer, the teacher's own hip injury from one-sided hoeing, and the reader exchanges",
-      "type": "community",
-      "language": "zh",
-      "url": "https://www.163.com/dy/article/G345DDVI0545316K.html",
-      "pages_used_in": [
-        "/experiences/notes/exp-030-the-pain-ledger/"
-      ]
-    },
-    {
-      "id": "daodejing-78-editions",
-      "title": "Daodejing ch. 78, received text, cross-verified 2026-10-07 across six independent sources (zhihu zhuanlan 600183501; xueqiu 189739462; ctext node 11669; 8bei8 laozi_78; baike item 10363512; daodejing.org 78): 天下莫柔弱于水，而攻坚强者莫之能胜，以其无以易之。弱之胜强，柔之胜刚，天下莫不知，莫能行。是以圣人云：受国之垢，是谓社稷主；受国不祥，是为天下王。正言若反",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/text.pl?node=11669&if=gb",
-      "pages_used_in": [
-        "/translations/daodejing-78/",
-        "/concepts/fan/"
-      ]
-    },
-    {
-      "id": "sun-buer-sources",
-      "title": "Sun Bu'er (孙不二) biography: baike.baidu.com item 2402303 (1119-1182, 名富春，法名不二，号清静散人，金代宁海人，马丹阳之妻，生三子，大定七年王重阳住其家); daode.in jwsx/09/1548 (全真七子唯一女性，清静派创立者); zh.wikipedia.org (1119年2月16日-1183年1月24日, 洛阳风仙姑洞趺坐); epochtimes 2009-09-08 (马钰与孙不二); sohu 244794515 — dates 1182 vs 1183 both registered",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://baike.baidu.com/item/%E5%AD%99%E4%B8%8D%E4%BA%8C/2402303",
-      "pages_used_in": [
-        "/people/sun-buer/"
-      ]
-    },
-    {
-      "id": "wuheyou-editions",
-      "title": "Zhuangzi 无何有之乡 in three chapters, full texts retrieved 2026-10-07 from zh.wikisource.org: Xiao Yao You 1 (今子有大树，患其无用，何不树之于无何有之乡，广莫之野，彷徨乎无为其侧，逍遥乎寝卧其下？不夭斤斧，物无害者，无所可用，安所困苦哉？); Ying Di Wang 7 (厌则又乘夫莽眇之鸟，以出六极之外，而游无何有之乡，以处圹埌之野); Zhi Bei You 22 variant 无何有之宫 (尝相与游乎无何有之宫，同合而论，无所终穷乎？)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A",
-      "pages_used_in": [
-        "/glossary/wu-he-you-zhi-xiang/"
-      ]
-    },
-    {
-      "id": "taiguanglin-zuochan-fujiazuo-01-08",
-      "title": "Taiguanglin's official Zuochan Q&A collection (坐禅问答录), ch. 6 on lotus posture (跏趺坐), sections 01-08 (单盘/from单盘to双盘/双盘的优势/双盘须知/双盘时的身体反应/疾病与双盘/快速打通经脉的方法/经脉打通的特征), full text of all eight sections retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02 through 2014-06",
-      "type": "community",
-      "language": "zh",
-      "url": "https://taiguanglin.org/《坐禅问答录》第六章：跏趺坐-第01节-单盘/",
-      "pages_used_in": [
-        "/experiences/notes/exp-031-lotus-posture-chapter/"
-      ]
-    },
-    {
-      "id": "daodejing-51-editions",
-      "title": "Daodejing ch. 51 (dao gives life, de nurtures), received text retrieved 2026-10-08 from mindiver.se/ddj-51 (full text), cross-checked against baike.baidu.com item 7734315 and daodejing.org/51.html; textual variants from Ven. Dharmagupta's MA thesis comparison table (nanda.online-dhamma.net chap4-s3.htm): Wang Bi reads 亭之毒之 and 夫莫之命常自然; Heshang Gong reads 成之熟之 and 夫莫之命而常自然 (chapter title 养德)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://mindiver.se/ddj-51",
-      "pages_used_in": [
-        "/translations/daodejing-51/",
-        "/concepts/de/"
-      ]
-    },
-    {
-      "id": "tan-chuduan-sources",
-      "title": "Tan Chuduan (1123-1185) biography, cross-verified 2026-10-08 across the Daoist Culture Centre Database (zh.daoinfo.org: the wind-paralysis cure story, the Luoyang years of 对境炼心, the third patriarchate, 忠孝仁慈胜出家, the turtle-and-snake calligraphy, the two-teeth anecdote from Jinlian zhengzong ji, the Water-Cloud Collection), zh.wikipedia.org (precise dates 1123-03-29 to 1185-05-02, titles 长真云水荡德真人 and 长真凝神玄静蕴德真君, the Nanwu lineage), baike.baidu.com item 2401128 (paralysis from sleeping drunk in wind and snow), and the Weihai Municipal Government article on the founding of Quanzhen",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://zh.daoinfo.org/index.php?title=譚處端&variant=zh-hans",
-      "pages_used_in": [
-        "/people/tan-chuduan/"
-      ]
-    },
-    {
-      "id": "taiguanglin-zuochan-ch02-01-04",
-      "title": "Taiguanglin's official collection, Zuochan (坐禅) ch. 2 'From Zero to the Desire-Realm Dhyana', sections 01-04 (业障 / 戒斗戒杀戒肉 / 灭八成淫欲 / 打通任督二脉——三气归元), full text retrieved 2026-10-08 from taiguanglin.org (original posts 2014-03 through 2014-07): the karma-debt doctrine and anti-emptiness declaration; the no-fighting no-killing no-meat cascade with the three-stage dream test; the lust-quota wave model and the teacher's knife-thoughts and ghost episodes; the full posture sequence, one-hour rule, food list, ren-du meridian route, and three-qi-returning event",
-      "type": "community",
-      "language": "zh",
-      "url": "https://taiguanglin.org",
-      "pages_used_in": [
-        "/experiences/notes/exp-032-from-zero-to-desire-realm/"
-      ]
-    },
-    {
-      "id": "daodejing-19-28-editions",
-      "title": "Daodejing chs. 19 & 28 (received text), Shanxi University Philosophy School commentary edition",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "http://zxxy.sxu.edu.cn/zxypt/zlxz1/8910d895971d42c2a8e8c819b37c6945.htm",
-      "pages_used_in": [
-        "/concepts/pu/"
-      ]
-    },
-    {
-      "id": "daodejing-15-editions",
-      "title": "Daodejing ch. 15 (received text): 敦兮其若樸",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/dao-de-jing/zh",
-      "pages_used_in": [
-        "/concepts/pu/"
-      ]
-    },
-    {
-      "id": "daodejing-16-editions",
-      "title": "Daodejing ch. 16 (received text): 萬物並作，吾以觀復",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/dao-de-jing/zh",
-      "pages_used_in": [
-        "/concepts/fan/"
-      ]
-    },
-    {
-      "id": "daodejing-38-editions",
-      "title": "Daodejing ch. 38 (received text), with Wang Bi note 德者得也 (Jinling dushu commentary ed.)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://www.sohu.com/a/128169177_488646",
-      "pages_used_in": [
-        "/concepts/de/"
-      ]
-    },
-    {
-      "id": "xici-zhuan",
-      "title": "Yijing, Xici zhuan (Appended Statements) shang ch. 5: 一陰一陽之謂道",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/book-of-changes/xi-ci-shang",
-      "pages_used_in": [
-        "/concepts/yin-yang/"
-      ]
-    },
-    {
-      "id": "huangdi-neijing-su-wen",
-      "title": "Huangdi Neijing, Suwen ch. 5 (Yinyang yingxiang dalun): 陰陽者，天地之道也",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/huangdi-neijing/su-wen",
-      "pages_used_in": [
-        "/concepts/yin-yang/"
-      ]
-    },
-    {
-      "id": "dingguan-jing-zhu",
-      "title": "Dongxuan Lingbao Dingguan Jing zhu: 慧心內照名曰內觀",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://zh.wikipedia.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
-      "pages_used_in": [
-        "/practices/neiguan/"
-      ]
-    },
-    {
-      "id": "britton-2021",
-      "title": "Britton et al., 'Defining and measuring meditation-related adverse effects in mindfulness-based programs' (Clinical Psychological Science, 2021)",
-      "type": "research",
-      "language": "en",
-      "url": "https://doi.org/10.1177/2167702621996340",
-      "pages_used_in": [
-        "/research/britton-2021/"
-      ]
-    },
-    {
-      "id": "zaccaro-2018",
-      "title": "Zaccaro et al., 'How breath-control can change your life' (Frontiers in Human Neuroscience, 2018)",
-      "type": "research",
-      "language": "en",
-      "url": "https://doi.org/10.3389/fnhum.2018.00353",
-      "pages_used_in": [
-        "/research/zaccaro-2018/",
-        "/problems/breathing-gets-shallow/"
-      ]
-    },
-    {
-      "id": "noble-hochman-2019",
-      "title": "Noble & Hochman, 'Pulmonary afferent activity patterns during slow, deep breathing' (Frontiers in Physiology, 2019)",
-      "type": "research",
-      "language": "en",
-      "url": "https://doi.org/10.3389/fphys.2019.01176",
-      "pages_used_in": [
-        "/research/noble-hochman-2019/"
-      ]
-    },
-    {
-      "id": "khalsa-2018",
-      "title": "Khalsa et al., 'Interoception and mental health: a roadmap' (Biological Psychiatry: CNNI, 2018)",
-      "type": "research",
-      "language": "en",
-      "url": "https://doi.org/10.1016/j.bpsc.2017.12.004",
-      "pages_used_in": [
-        "/research/khalsa-2018/",
-        "/problems/body-feels-very-large/"
-      ]
-    },
-    {
-      "id": "zhuangzi-keyi-daoyin",
-      "title": "Zhuangzi ch. 15 (Keyi): the daoyin passage — 'blowing and breathing, expelling the old and drawing in the new, the bear's strides and the bird's stretch'",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/zhuangzi/ingrained-ideas",
-      "pages_used_in": [
-        "/practices/daoyin/",
-        "/practices/qigong/",
-        "/glossary/daoyin/"
-      ]
-    },
-    {
-      "id": "mawangdui-daoyin-tu",
-      "title": "Mawangdui tomb 3 silk manuscript 'Daoyin tu' (导引图), sealed 168 BCE — 44 figures in movement postures",
-      "type": "historical_record",
-      "language": "zh",
-      "url": "https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts",
-      "pages_used_in": [
-        "/practices/daoyin/",
-        "/glossary/daoyin/"
-      ]
-    },
-    {
-      "id": "zhuangzi-an-zhi-ruo-ming",
-      "title": "Zhuangzi ch. 4 (Renjian shi): 'knowing what cannot be helped and settling into it as fate' (安之若命)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/zhuangzi/in-the-world-of-men",
-      "pages_used_in": [
-        "/concepts/ming/",
-        "/glossary/ming/"
-      ]
-    },
-    {
-      "id": "zhuangzi-pianmu-xing",
-      "title": "Zhuangzi ch. 8 (Pianmu): the webbed-toes defense of the inborn nature (性)",
-      "type": "primary_text",
-      "language": "zh",
-      "url": "https://ctext.org/zhuangzi/webbed-toes",
-      "pages_used_in": [
-        "/concepts/xing/",
-        "/glossary/xing/"
-      ]
-    }
-  ]
+ "_schema": "data-schema-v1",
+ "description": "Source registry: id, title, type (primary_text/scholarship/research/community), language, url, pages_used_in[]",
+ "items": [
+  {
+   "id": "zhuangzi",
+   "title": "Zhuangzi (received text, Guo Xiang recension)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/zhuangzi",
+   "pages_used_in": [
+    "/concepts/zuowang/",
+    "/concepts/xinzhai/",
+    "/concepts/qi/",
+    "/texts/zhuangzi/",
+    "/concepts/dao/",
+    "/concepts/wu-you/"
+   ]
+  },
+  {
+   "id": "daodejing",
+   "title": "Daodejing (received Wang Bi text, 81 chapters)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/dao-de-jing",
+   "pages_used_in": [
+    "/concepts/wuwei/",
+    "/concepts/shouyi/",
+    "/concepts/qi/",
+    "/texts/daodejing/"
+   ]
+  },
+  {
+   "id": "zuowang-lun",
+   "title": "Sima Chengzhen, Zuowang lun (Treatise on Sitting in Oblivion)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": null,
+   "pages_used_in": [
+    "/concepts/zuowang/",
+    "/practices/zuowang/",
+    "/texts/zuowang-lun/"
+   ]
+  },
+  {
+   "id": "taiping-jing",
+   "title": "Taiping Jing (Scripture of Great Peace)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": null,
+   "pages_used_in": [
+    "/concepts/shouyi/",
+    "/problems/wandering-mind-in-sitting/",
+    "/problems/restlessness-in-sitting/"
+   ]
+  },
+  {
+   "id": "zhuzi-yulei",
+   "title": "Zhu Xi yulei (Classified Conversations of Master Zhu), juan 116",
+   "type": "primary_text",
+   "language": "zh",
+   "url": null,
+   "pages_used_in": [
+    "/concepts/jingzuo/",
+    "/practices/jingzuo/",
+    "/problems/wandering-mind-in-sitting/"
+   ]
+  },
+  {
+   "id": "er-cheng-waishu",
+   "title": "Er Cheng waishu (Outer Collection of the Two Chengs), juan 12",
+   "type": "primary_text",
+   "language": "zh",
+   "url": null,
+   "pages_used_in": [
+    "/concepts/jingzuo/",
+    "/practices/jingzuo/"
+   ]
+  },
+  {
+   "id": "kohn-2010",
+   "title": "Kohn, Livia. Sitting in Oblivion: The Heart of Daoist Meditation. Three Pines Press, 2010",
+   "type": "scholarship",
+   "language": "en",
+   "url": "https://archive.org/details/sitting-in-oblivion-daoist-meditation-livia-kohn",
+   "pages_used_in": [
+    "/concepts/zuowang/",
+    "/practices/zuowang/",
+    "/texts/zuowang-lun/"
+   ]
+  },
+  {
+   "id": "slingerland-2003",
+   "title": "Slingerland, Edward. Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China. Oxford University Press, 2003",
+   "type": "scholarship",
+   "language": "en",
+   "url": null,
+   "pages_used_in": [
+    "/concepts/wuwei/"
+   ]
+  },
+  {
+   "id": "robinet-1993",
+   "title": "Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993",
+   "type": "scholarship",
+   "language": "en",
+   "url": null,
+   "pages_used_in": [
+    "/concepts/shouyi/"
+   ]
+  },
+  {
+   "id": "taylor-1988",
+   "title": "Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988",
+   "type": "scholarship",
+   "language": "en",
+   "url": null,
+   "pages_used_in": [
+    "/concepts/jingzuo/",
+    "/practices/jingzuo/"
+   ]
+  },
+  {
+   "id": "watson-1968",
+   "title": "Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968",
+   "type": "scholarship",
+   "language": "en",
+   "url": null,
+   "pages_used_in": [
+    "/texts/zhuangzi/",
+    "/concepts/zuowang/"
+   ]
+  },
+  {
+   "id": "iep-zhuangzi",
+   "title": "Internet Encyclopedia of Philosophy, 'Zhuangzi'",
+   "type": "scholarship",
+   "language": "en",
+   "url": "https://iep.utm.edu/zhuangzi-chuang-tzu-chinese-philosopher",
+   "pages_used_in": [
+    "/texts/zhuangzi/"
+   ]
+  },
+  {
+   "id": "henricks-1989",
+   "title": "Henricks, Robert G., trans. Lao-Tzu Te-Tao Ching (Mawangdui text). Ballantine, 1989",
+   "type": "scholarship",
+   "language": "en",
+   "url": null,
+   "pages_used_in": [
+    "/texts/daodejing/"
+   ]
+  },
+  {
+   "id": "cook-2012",
+   "title": "Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012",
+   "type": "scholarship",
+   "language": "en",
+   "url": null,
+   "pages_used_in": [
+    "/texts/daodejing/"
+   ]
+  },
+  {
+   "id": "qingjing-jing",
+   "title": "Qingjing Jing (Scripture of Constant Clarity and Stillness)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "http://www.taoist.org.cn/showInfoContent.do?id=2549",
+   "pages_used_in": [
+    "/texts/qingjing-jing/",
+    "/practices/neiguan/"
+   ]
+  },
+  {
+   "id": "neiguan-jing",
+   "title": "Neiguan Jing (Scripture of Inner Observation), Daozang; Yunji Qiqian juan 17",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.daoinfo.org/index.php?title=%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+   "pages_used_in": [
+    "/texts/neiguan-jing/",
+    "/practices/neiguan/"
+   ]
+  },
+  {
+   "id": "shiji-63",
+   "title": "Shiji (Records of the Grand Historian), ch. 63, 'Laozi Han Fei liezhuan'",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7063",
+   "pages_used_in": [
+    "/people/laozi/",
+    "/people/zhuang-zhou/",
+    "/stories/confucius-meets-laozi/"
+   ]
+  },
+  {
+   "id": "goyal-2014",
+   "title": "Goyal, M., et al. Meditation Programs for Psychological Stress and Well-being. JAMA Internal Medicine 174(3):357-368, 2014",
+   "type": "research",
+   "language": "en",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/24395196",
+   "pages_used_in": [
+    "/comparisons/zuowang-vs-mindfulness/",
+    "/research/mindfulness-meta-analysis-2014/"
+   ]
+  },
+  {
+   "id": "kohn-1998",
+   "title": "Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998",
+   "type": "scholarship",
+   "language": "en",
+   "url": null,
+   "pages_used_in": [
+    "/people/laozi/"
+   ]
+  },
+  {
+   "id": "song-shi-yangshi",
+   "title": "Song shi, 'Yang Shi zhuan' (ch. 428), Cheng Men Li Xue episode",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/%E5%AE%8B%E5%8F%B2/%E5%8D%B7428",
+   "pages_used_in": [
+    "/concepts/jingzuo/",
+    "/timeline/cheng-men-li-xue/",
+    "/stories/standing-in-snow/"
+   ]
+  },
+  {
+   "id": "guodian-report",
+   "title": "Jingmen City Museum, 'Jingmen Guodian yihao Chumu', Wenwu 1997.7 (Guodian tomb no. 1 excavation report)",
+   "type": "research",
+   "language": "zh",
+   "url": null,
+   "pages_used_in": [
+    "/timeline/guodian-daodejing/"
+   ]
+  },
+  {
+   "id": "taishi-qa-163",
+   "title": "Taishi xiuxing wenda (meditation teacher Q&A column), 163.com no. 34",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G39KI8J90545316K.html",
+   "pages_used_in": [
+    "/experiences/reports/exp-002-warmth-rotation/",
+    "/experiences/reports/exp-003-leg-pain-filling/"
+   ]
+  },
+  {
+   "id": "xinli001-qa",
+   "title": "Xinli001 (Yixinli) meditation Q&A — anonymous user questions",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.xinli001.com/qa/100730877",
+   "pages_used_in": [
+    "/experiences/notes/exp-001-falling-asleep/",
+    "/experiences/questions/falling-asleep-during-meditation/"
+   ]
+  },
+  {
+   "id": "health-baidu-dazuo",
+   "title": "Baidu Health: 'Why the body warms during sitting' (medical popularization)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://health.baidu.com/m/detail/ar_4677752938025913780",
+   "pages_used_in": [
+    "/experiences/patterns/warmth-and-qi-sensations/"
+   ]
+  },
+  {
+   "id": "tieba-dazuo-bar",
+   "title": "Baidu Tieba 打坐吧/冥想吧 threads (search-indexed snippets)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://tieba.baidu.com/f?kw=冥想",
+   "pages_used_in": [
+    "/experiences/notes/exp-004-emotional-surfacing/",
+    "/experiences/notes/exp-005-night-qi-movement/"
+   ]
+  },
+  {
+   "id": "zhihu-daozuo-method",
+   "title": "Zhihu column: 'Correct Daoist sitting method' (drowsiness vs. stillness)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://zhuanlan.zhihu.com/p/568488445",
+   "pages_used_in": [
+    "/experiences/patterns/drowsiness-vs-stillness/",
+    "/experiences/questions/falling-asleep-during-meditation/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-ys",
+   "title": "Zhuangzi ch. 3 (Yangsheng zhu), Wikisource",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+   "pages_used_in": [
+    "/stories/cook-ding/"
+   ]
+  },
+  {
+   "id": "farias-2020",
+   "title": "Farias et al., 'Adverse events in meditation practices and meditation-based therapies: a systematic review', Acta Psychiatr Scand 142(5):374-393 (2020)",
+   "type": "research",
+   "language": "en",
+   "url": "https://doi.org/10.1111/acps.13225",
+   "pages_used_in": [
+    "/research/farias-adverse-events-2020/",
+    "/experiences/questions/can-sitting-go-wrong/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-zaiyou",
+   "title": "Zhuangzi ch. 11 (Zaiyou), Wikisource",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/在宥",
+   "pages_used_in": [
+    "/stories/guangchengzi/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-yingdiwang",
+   "title": "Zhuangzi ch. 7 (Ying diwang), Wikisource",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/應帝王",
+   "pages_used_in": [
+    "/stories/huzi-jixian/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-dasheng",
+   "title": "Zhuangzi ch. 19 (Dasheng), Wikisource",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/達生",
+   "pages_used_in": [
+    "/stories/wooden-rooster/",
+    "/stories/artisan-qing/",
+    "/stories/cicada-catcher/",
+    "/translations/artisan-qing-passage/",
+    "/blog/three-craftsmen-dazheng/",
+    "/glossary/shen/",
+    "/stories/boatman/",
+    "/stories/swimmer-lvliang/"
+   ]
+  },
+  {
+   "id": "huangting-jing",
+   "title": "Huangting neijing jing (Yellow Court inner scripture), Shangqing tradition",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/黃庭內景經",
+   "pages_used_in": [
+    "/glossary/dantian/",
+    "/timeline/huangting-jing-dantian/"
+   ]
+  },
+  {
+   "id": "xiao-zhiguan",
+   "title": "Zhiyi, Xiao zhiguan (Tongmeng zhiguan), Tiaohe chapter",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/修習止觀坐禪法要",
+   "pages_used_in": [
+    "/glossary/tiaoxi/",
+    "/problems/drowsiness-in-sitting/",
+    "/timeline/xiao-zhiguan-five-adjustments/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-renjianshi",
+   "title": "Zhuangzi ch. 4 (Renjian shi), Wikisource",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/人間世",
+   "pages_used_in": [
+    "/concepts/xu/",
+    "/problems/seeing-light-in-sitting/"
+   ]
+  },
+  {
+   "id": "daoshu",
+   "title": "Daoshu (道枢), comp. Zeng Zao, Southern Song",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/道樞",
+   "pages_used_in": [
+    "/timeline/daoshu-neiguan-zuowang/",
+    "/glossary/neiguan/",
+    "/practices/neiguan/"
+   ]
+  },
+  {
+   "id": "lindahl-2017",
+   "title": "Lindahl et al., The varieties of contemplative experience, PLoS ONE 12(5):e0176239 (2017)",
+   "type": "research",
+   "language": "en",
+   "url": "https://doi.org/10.1371/journal.pone.0176239",
+   "pages_used_in": [
+    "/research/lindahl-2017/"
+   ]
+  },
+  {
+   "id": "baopuzi-shizhi",
+   "title": "Baopuzi, Inner Chapters, Shizhi chapter (释滞): taixi definition and moving-qi conditions",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/baopuzi",
+   "pages_used_in": [
+    "/practices/taixi/",
+    "/problems/breath-stopping-anxiety/"
+   ]
+  },
+  {
+   "id": "jin-shu-ge-hong",
+   "title": "Jin shu (Book of Jin), biography of Ge Hong",
+   "type": "historical_record",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/ge-hong/",
+    "/texts/baopuzi/",
+    "/timeline/baopuzi-composition/"
+   ]
+  },
+  {
+   "id": "baopuzi-received",
+   "title": "Baopuzi, received text (inner 20 juan, outer 52 juan as received)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/texts/baopuzi/"
+   ]
+  },
+  {
+   "id": "taiping-jing-received",
+   "title": "Taiping Jing, received text (57 juan / 126 pian in the Ming Daoist Canon; Wang Ming, Taiping Jing Hejiao, 1960)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/texts/taiping-jing/",
+    "/practices/shouyi/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-qiushui",
+   "title": "Zhuangzi ch. 17 (Qiushui), received text (Wikisource)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/秋水",
+   "pages_used_in": [
+    "/stories/fish-happiness/",
+    "/stories/handan-walk/",
+    "/stories/jingdi-zhiwa/",
+    "/stories/wangyang-xingtan/",
+    "/stories/phoenix-and-owl/",
+    "/stories/turtle-in-the-mud/",
+    "/stories/kui-xian-chain/",
+    "/glossary/tian-ji/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-xuwugui",
+   "title": "Zhuangzi ch. 24 (Xuwugui), received text (Wikisource / Shidian Guji edition)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/徐無鬼",
+   "pages_used_in": [
+    "/stories/carpenter-shi/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-tianzifang",
+   "title": "Zhuangzi ch. 21 (Tian Zifang), received text (Wikisource)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/painter-unrobed/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-zhile",
+   "title": "Zhuangzi ch. 18 (Zhile), received text (Wikisource / Shidian Guji)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/drumming-basin/"
+   ]
+  },
+  {
+   "id": "sxu-zhuangzi-renjianshi",
+   "title": "Zhuangzi ch. 4 (Renjianshi) full text and translation (Shanxi University Philosophy Dept)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zxxy.sxu.edu.cn/zxypt/zlxz1/52285330952e4f7fa870891ef868295b.htm",
+   "pages_used_in": [
+    "/translations/virtual-room-passage/",
+    "/glossary/zuochi/"
+   ]
+  },
+  {
+   "id": "plos-one-e0216643",
+   "title": "Schlosser et al. 2019, PLoS ONE 14(5): e0216643",
+   "type": "research",
+   "language": "en",
+   "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216643",
+   "pages_used_in": [
+    "/research/schlosser-2019/",
+    "/experiences/questions/warmth-tingling-when-sitting/"
+   ]
+  },
+  {
+   "id": "nature-reviews-nrn3916",
+   "title": "Tang, Hölzel & Posner 2015, Nature Reviews Neuroscience 16: 213-225",
+   "type": "research",
+   "language": "en",
+   "url": "https://www.nature.com/articles/nrn3916",
+   "pages_used_in": [
+    "/research/tang-2015/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-qiwulun",
+   "title": "Zhuangzi ch. 2 (Qiwulun), received text (Wikisource)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/three-in-the-morning/",
+    "/glossary/tian-jun/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-xiaoyaoyou",
+   "title": "Zhuangzi ch. 1 (Xiaoyaoyou), received text (Wikisource / Gushiwen)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/peng-bird/",
+    "/stories/useless-gourd/"
+   ]
+  },
+  {
+   "id": "liezi-received",
+   "title": "Liezi, received text in eight chapters with Zhang Zhan's commentary; Hanshu Yiwenzhi bibliography; Ma Xulun, Liezi Weishu Kao; Ji Xianlin on the Sheng Jing borrowing",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/texts/liezi/",
+    "/timeline/liezi-compilation/"
+   ]
+  },
+  {
+   "id": "zdic-jiafuzuo",
+   "title": "Zdic dictionary entry: jiafuzuo (with Faxian, Foguo Ji attestation)",
+   "type": "reference",
+   "language": "zh",
+   "url": "https://zdic.net/hans/结跏趺坐",
+   "pages_used_in": [
+    "/glossary/jiafuzuo/"
+   ]
+  },
+  {
+   "id": "163-taishi-49",
+   "title": "Taishi cultivation Q&A no. 49 (163.com community column, 2021)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G59VFFCR0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-009-dissolving-void/"
+   ]
+  },
+  {
+   "id": "wei-huacun-biography",
+   "title": "Wei Huacun biographical tradition (251/252-334; Wei Shu's daughter; posthumous titles Wei Furen / Nanyue Furen); Shangqing revelation lineage",
+   "type": "traditional_record",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/wei-huacun/"
+   ]
+  },
+  {
+   "id": "shidian-daodejing-25",
+   "title": "Daodejing ch. 25, Heshang Gong recension (Shidian Guji edition)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-25/",
+    "/concepts/dao/",
+    "/concepts/fan/"
+   ]
+  },
+  {
+   "id": "163-taishi-28",
+   "title": "Taishi cultivation Q&A no. 28 (163.com community column, 2021)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G2V23JGP0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-010-lotus-pain/",
+    "/experiences/questions/must-i-sit-cross-legged/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-dazongshi",
+   "title": "Zhuangzi ch. 6 (Dazongshi), full text (Gushiwen and teaching editions, cross-checked with ctext parallel text)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/fish-in-the-dry-spring/",
+    "/glossary/liang-wang/",
+    "/translations/yingning-passage/",
+    "/glossary/zhao-che/",
+    "/stories/four-friends/",
+    "/glossary/jian-du/",
+    "/stories/sanghu-friends/",
+    "/glossary/xian-jie/",
+    "/glossary/ji-ren/",
+    "/concepts/dao/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-tianyun",
+   "title": "Zhuangzi ch. 14 (Tianyun), full text (Gushiwen-classical, Hong Kong Education Bureau teaching edition, Taiwan Ministry of Education idiom dictionary)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/dongshi-frowning/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-dechongfu",
+   "title": "Zhuangzi ch. 5 (Dechongfu): 'ren mo jian yu liushui er jian yu zhishui', as quoted in Sun Mingjun 2022",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/glossary/zhi-shui/"
+   ]
+  },
+  {
+   "id": "weishu-shilao-zhi",
+   "title": "Wei shu, Shilao zhi (treatise on Buddhism and Daoism); Bei shi, biography of Kou Zan",
+   "type": "historical_record",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/kou-qianzhi/",
+    "/timeline/kou-qianzhi-reform/"
+   ]
+  },
+  {
+   "id": "sun-mingjun-2022",
+   "title": "Sun Mingjun, 'Dao and De in the Zhuangzi' (National Office for Philosophy and Social Science, 2022)",
+   "type": "scholarship",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/yongxin-ruo-jing-passage/",
+    "/glossary/zhi-shui/"
+   ]
+  },
+  {
+   "id": "163-taishi-29",
+   "title": "Taishi cultivation Q&A no. 29 (163.com community column, 2021)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G2V35NKQ0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-011-shougong-protocol/"
+   ]
+  },
+  {
+   "id": "shidian-zhuangzi-tongyi-renjianshi",
+   "title": "Zhuangzi Tongyi (Shidian Guji edition), Renjianshi chapter with commentary",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/mantis-and-chariot/"
+   ]
+  },
+  {
+   "id": "ccdi-tangbi-dangche",
+   "title": "CCDI study column on the idiom 螳臂当车 (sense-drift from Zhuangzi to Huainanzi to modern usage)",
+   "type": "scholarship",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/mantis-and-chariot/"
+   ]
+  },
+  {
+   "id": "zhengao-maoshan-lineage",
+   "title": "Shangqing tradition records: the Zhengao, Maoshan lineage chronicles, and the Maoshan Daoist center's lineage account",
+   "type": "traditional_record",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/yang-xi/",
+    "/timeline/shangqing-revelations/"
+   ]
+  },
+  {
+   "id": "shidian-zhuangzi-neipianzhu-dazongshi",
+   "title": "Zhuangzi Neipian Zhu (Shidian Guji edition), Dazongshi chapter with commentary (yingning passage)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/glossary/yingning/"
+   ]
+  },
+  {
+   "id": "daodejing-05-editions",
+   "title": "Daodejing ch. 5: received text with Wang Bi and Su Zhe commentaries (Daodejing.org), Gushiwen teaching edition, CCDI study column",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-05/"
+   ]
+  },
+  {
+   "id": "163-taishi-36",
+   "title": "Taishi cultivation Q&A no. 36 (163.com community column, 2021)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://c.m.163.com/news/a/G3C0P3HD0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-012-restless-body/"
+   ]
+  },
+  {
+   "id": "daodejing-48-editions",
+   "title": "Daodejing ch. 48: received text with Wang Bi commentary transmission, Baike teaching edition, Daodejing.org",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-48/"
+   ]
+  },
+  {
+   "id": "tao-hongjing-biography",
+   "title": "Tao Hongjing biography: standard biography tradition, Wikipedia entry, Taiwan MOE encyclopedia, Nanjing gazetteer office 2024 profile (456-536, 488 manuscript discovery, 492 retirement, 'prime minister in the mountains')",
+   "type": "scholarship",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/tao-hongjing/"
+   ]
+  },
+  {
+   "id": "163-taishi-38",
+   "title": "Taishi cultivation Q&A no. 38 (163.com community column, 2021): the Buddhist-Daoist boundary question",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G3C19JPB0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-013-buddhist-daoist-boundary/"
+   ]
+  },
+  {
+   "id": "shidian-yihai-zuanwei-qiushui",
+   "title": "Nanhua Zhenjing Yihai Zuanwei (Shidian Guji edition), Qiushui chapter with Guo Xiang/Lu/other commentary chain (turtle and phoenix passages)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/turtle-in-the-mud/",
+    "/stories/phoenix-and-owl/"
+   ]
+  },
+  {
+   "id": "daodejing-01-editions",
+   "title": "Daodejing ch. 1: received text with teaching editions, full-text 81-chapter edition, and the punctuation-variant discussion (Wang Bi cutting vs received cutting)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-01/",
+    "/concepts/dao/",
+    "/concepts/wu-you/"
+   ]
+  },
+  {
+   "id": "heshang-gong-sources",
+   "title": "Heshang Gong dossier: Shenxian Zhuan ch. 8 (Ctext edition), Global Daoist database entry (dao.jic.io), Shuge edition note (Lu Zuqian recension), Shiji Yue Yi liezhuan transmission line",
+   "type": "traditional_record",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/heshang-gong/",
+    "/timeline/heshang-gong-commentary/"
+   ]
+  },
+  {
+   "id": "163-taishi-25",
+   "title": "Taishi cultivation Q&A no. 25 (163.com community column, 2021): why double-lotus is required",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G2SOIJDD0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-014-double-lotus-doctrine/"
+   ]
+  },
+  {
+   "id": "wikisource-zhuangzi-yangshengzhu",
+   "title": "Zhuangzi ch. 3 (Yangsheng Zhu), Wikisource full text",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/qinshi-mourning/",
+    "/stories/marsh-pheasant/",
+    "/glossary/xian-jie/"
+   ]
+  },
+  {
+   "id": "shidian-zhuangzi-yi-dz1487",
+   "title": "Zhuangzi Yi (DZ1487, Jiao Hong edition with Guo Xiang commentary), Shidian Guji, Yangsheng Zhu chapter",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/qinshi-mourning/"
+   ]
+  },
+  {
+   "id": "daodejing-37-editions",
+   "title": "Daodejing ch. 37: received text editions and the Guodian manuscript variant (道恒无为也, without 而无不为)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-37/",
+    "/concepts/dao/",
+    "/concepts/pu/"
+   ]
+  },
+  {
+   "id": "163-taishi-34",
+   "title": "Taishi cultivation Q&A no. 34 (163.com community column, 2021): bodily responses in double-lotus — heat, sweat, qi-sensations",
+   "type": "community",
+   "language": "zh",
+   "url": "https://m.163.com/dy/article_cambrian/G39KI8J90545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-015-heat-sweat-qi/"
+   ]
+  },
+  {
+   "id": "pedia-cloud-edu-yangshengzhu",
+   "title": "Education encyclopedia (pedia.cloud.edu.tw) entry on Yangsheng Zhu: the chapter's structure and the 帝之悬解 gloss",
+   "type": "reference",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/qinshi-mourning/",
+    "/glossary/xian-jie/"
+   ]
+  },
+  {
+   "id": "ikt-classics-zhuangzi-ch6",
+   "title": "Zhuangzi ch. 6 (Dazongshi), I-Kuan Tao classics full-text edition (with.org)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/sanghu-friends/"
+   ]
+  },
+  {
+   "id": "haitang-zhuangzi-ch6",
+   "title": "Zhuangzi ch. 6 (Dazongshi), Haitang poetry-club teaching edition with translation",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/sanghu-friends/"
+   ]
+  },
+  {
+   "id": "nanya-yangshengzhu-paper",
+   "title": "Zhao Shiwei, 'Problems in the Zhuangzi Yangsheng Zhu' (Nanya University teaching-research paper): the marsh pheasant passage and the chapter's argument",
+   "type": "scholarship",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/marsh-pheasant/"
+   ]
+  },
+  {
+   "id": "wang-bi-sources",
+   "title": "Wang Bi dossier: Wikipedia (zh) biography, the Shuge Classic Library Laozi Wang Bi zhu (with Siku abstract), and Sun Mingjun's Laozi editions survey (chinawriter.com.cn)",
+   "type": "scholarship",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/wang-bi/",
+    "/timeline/wangbi-laozi-commentary/",
+    "/concepts/de/",
+    "/concepts/wu-you/"
+   ]
+  },
+  {
+   "id": "daodejing-22-editions",
+   "title": "Daodejing ch. 22: Gushiwen teaching edition and the Mawangdui manuscript variants (曲则金/枉则定; 执一以为天下牧)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-22/"
+   ]
+  },
+  {
+   "id": "163-taishi-47",
+   "title": "Taishi cultivation Q&A no. 47 (163.com community column, 2021): what is concentration — the nine dhyānas and how far an ordinary person can go",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G5755VBH0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-016-nine-dhyanas-map/"
+   ]
+  },
+  {
+   "id": "shidian-zhuangzi-tongyi-qiushui",
+   "title": "Zhuangzi tongyi (Shidian guji, HY1407, Ming ed.): full commentary on Qiushui 17, incl. the pity-chain reading, the Shanhai jing note on Kui, and why the chain stops at the mind",
+   "type": "traditional_commentary",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/kui-xian-chain/"
+   ]
+  },
+  {
+   "id": "shanmu-editions",
+   "title": "Zhuangzi ch. 20 (Shanmu) opening passage: Wang Nengxian's scholarly exposition (Sohu, 'between timber and no-timber') and the full text on Xueqiu, agreeing word for word",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/mountain-tree-goose/"
+   ]
+  },
+  {
+   "id": "zeyang-editions",
+   "title": "Zhuangzi ch. 25 (Zeyang) King Wei Ying passage: I-Kuan Tao classics full text (with.org), Wix temple teaching edition, and the Taiping yulan parallel noted by ctext",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/snail-horn-war/"
+   ]
+  },
+  {
+   "id": "daodejing-06-xuanpin",
+   "title": "Daodejing ch. 6: Gushiwen teaching edition with translation and gloss (xuanpin as the source breeding the ten thousand things, an image of the Way)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/glossary/xuan-pin/"
+   ]
+  },
+  {
+   "id": "daodejing-17-editions",
+   "title": "Daodejing ch. 17, received text with the 下知有之/不知有之 variant, from the site's earlier Daodejing verification passes",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-17/"
+   ]
+  },
+  {
+   "id": "360kuai-taishi-01",
+   "title": "Taishi cultivation Q&A no. 1 (360kuai reprint, 2021): why he began — the teacher's origin story, daily schedule, retreat record, and lineage refusal",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.360kuai.com/pc/9e6f36b9dd6094ba8",
+   "pages_used_in": [
+    "/experiences/notes/exp-017-why-he-began/"
+   ]
+  },
+  {
+   "id": "xuwugui-editions",
+   "title": "Zhuangzi ch. 24 (Xu Wugui) passage at Huizi's grave: Shidian guji full text (SBCK108) and the Gushiwen teaching edition with notes, agreeing throughout",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/yun-jin-cheng-feng/"
+   ]
+  },
+  {
+   "id": "pku-2009-qiwulun-study",
+   "title": "Peking University Journal (2009), 'Doubts in reading Zhuangzi Qiwu Lun and their analysis': Lu Deming's one-character gloss (sang), Cheng Xuanying's subcommentary (天机自张莫知其宰), Liu Fengbao's Nanhua xuexin bian, and the study's own reading",
+   "type": "scholarship",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/wang-liang-wen-jing/",
+    "/glossary/tian-ji/"
+   ]
+  },
+  {
+   "id": "shidian-zhuangzi-yi-qiwulun",
+   "title": "Zhuangzi yi (Shidian guji, HY1406): commentary on Qiwu Lun 2, incl. the dakuai gloss (块者无物也, 块然而自生)",
+   "type": "traditional_commentary",
+   "language": "zh",
+   "pages_used_in": [
+    "/glossary/da-kuai/"
+   ]
+  },
+  {
+   "id": "daodejing-63-editions",
+   "title": "Daodejing ch. 63, received text: Sreading full-text edition and a second full-text reproduction; the editions' treatment of 报怨以德 recorded without adjudication",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-63/"
+   ]
+  },
+  {
+   "id": "chen-tuan-sources",
+   "title": "Chen Tuan dossier: Wikipedia (zh) with Song shi ch. 457 and Tang caizi zhuan citations; Baidu Baike with the Song shi quotations (Shizong's yellow-white question, Taizong's praise)",
+   "type": "historical",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/chen-tuan/"
+   ]
+  },
+  {
+   "id": "163-taishi-24",
+   "title": "Taishi cultivation Q&A no. 24 (163.com community column, 2021): training the full lotus — the half-to-full-lotus program",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G2SNHL2M0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-018-halflotus-to-full-lotus/"
+   ]
+  },
+  {
+   "id": "zhile-editions",
+   "title": "Zhuangzi ch. 18 (Zhile), seabird passage: full text quoted verbatim in a teaching essay (mmh.org.tw) and the Guwendao teaching edition with translation; the Baidu Baike idiom entry (luhou yang niao) confirms location and standard reading",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/luhou-yang-niao/"
+   ]
+  },
+  {
+   "id": "shanmu-empty-boat-editions",
+   "title": "Zhuangzi ch. 20 (Shanmu), empty-boat passage: full passage quoted verbatim in two independent reproductions (a Xueqiu teaching post with translation; a Xinhuanet essay)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/xuzhou-empty-boat/"
+   ]
+  },
+  {
+   "id": "qiwulun-zhenzai-commentaries",
+   "title": "China Daoist Association article on the Yangshengzhu title question, quoting Guo Xiang's zhenzai note and Cheng Xuanying's subcommentary verbatim",
+   "type": "scholarship",
+   "language": "zh",
+   "url": "http://www.taoist.org.cn/showInfoContent.do?id=1653",
+   "pages_used_in": [
+    "/glossary/zhen-zai/",
+    "/experiences/questions/does-daoism-believe-in-a-creator/"
+   ]
+  },
+  {
+   "id": "daodejing-14-editions",
+   "title": "Daodejing ch. 14, received text: two independent full-text reproductions agreeing (mindiver.se; a Sheng sheng xuetang teaching edition with Heshang Gong gloss 无色曰夷无声曰希无形曰微)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-14/"
+   ]
+  },
+  {
+   "id": "yan-zun-sources",
+   "title": "Yan Zun dossier: Baidu Baike biography (Hanshu and Gaoshi zhuan material, the rich man exchange, the Junping well); a National Taiwan Normal University thesis on the Laozi zhiguì via Airiti; Wikisource listing of the zhiguì among Daodejing commentary editions",
+   "type": "historical",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/yan-zun/"
+   ]
+  },
+  {
+   "id": "163-taishi-42",
+   "title": "Taishi cultivation Q&A no. 42 (163.com community column): solving body problems through practice — breath practice as the one remedy",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G3PS03JE0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-019-one-remedy-body/"
+   ]
+  },
+  {
+   "id": "waiwu-editions",
+   "title": "Zhuangzi ch. 26 (Waiwu), borrowing-grain passage: Gushiwen full text with translation and notes; Baidu Baike entry (zhuang zhou dai su); CText parallel-verse snippet (recording the 监河侯/监何侯 variant)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/hezhe-zhi-fu/"
+   ]
+  },
+  {
+   "id": "shanmu-mantis-editions",
+   "title": "Zhuangzi ch. 20 (Shanmu), Diaoling passage: Wikisource full text with variants (樊/野, 见利/见得); a Sohu teaching commentary on the passage",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/mantis-stalks-cicada/"
+   ]
+  },
+  {
+   "id": "renjianshi-xinzhai-passage",
+   "title": "Zhuangzi ch. 4 (Renjian Shi), mind-fasting passage: Wikisource full text; a Baidu Jingyan teaching entry on 虚室生白",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/glossary/xushi-sheng-bai/"
+   ]
+  },
+  {
+   "id": "daodejing-45-editions",
+   "title": "Daodejing ch. 45, received text: three independent reproductions (mindiver.se; a Vocus teaching post; Wang Yijia's Laozi jinjie on Pixnet) with variant characters and the swapped final couplet recorded",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-45/"
+   ]
+  },
+  {
+   "id": "fu-yi-sources",
+   "title": "Fu Yi dossier: Wikisource author page (555-639, taishi ling, petition titles); Baidu Baike biography; Wikipedia (zh); Zhongguo zuojia wang essay on the Daodejing guben pian recension",
+   "type": "historical",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/fu-yi/"
+   ]
+  },
+  {
+   "id": "163-taishi-50",
+   "title": "Taishi cultivation Q&A no. 50 (163.com community column): 'Is this real concentration?' — the false first-dhyāna correction, the three gates refused",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G5A08M6T0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-020-false-first-dhyana/"
+   ]
+  },
+  {
+   "id": "tiandi-baoweng-editions",
+   "title": "Zhuangzi ch. 12 (Tiandi), Han-shade gardener passage: a Cambridge Chinese studies reading-group PDF with running glosses (citing Li Mian's Zhuangzi zonglun for 卬/挈/泆/槔 readings); CText parallel-text snippet; People's Daily essay (2024-05); the chapter's authorship noted as disputed in the study notes",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/bao-weng-guan-qi/"
+   ]
+  },
+  {
+   "id": "zhile-skeleton-editions",
+   "title": "Zhuangzi ch. 18 (Zhile), skull passage: Zhihu annotated edition, Baidu Baike full text, Ziyexing full text, CText parallel snippet (dream dialogue verified verbatim across all four); an education-encyclopedia entry (pedia.cloud.edu.tw) on the chapter's two-skull structure",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/zhuangzi-skeleton/"
+   ]
+  },
+  {
+   "id": "li-ao-sources",
+   "title": "Li Ao dossier: Gushiwen author biography (772-841, Xizhi, Didao in Longxi, Han Yu's student, anti-Buddhist-Daoist, Fuxing Shu); Gushiwen page for 'To the Eminent Monk Weiyan of Yaoshan' (both poems with variants, Jingde chuandeng lu ch. 14 background); Baidu Baike entry on 'cloud in the blue sky, water in the bottle'",
+   "type": "historical",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/li-ao/"
+   ]
+  },
+  {
+   "id": "163-taishi-46",
+   "title": "Taishi cultivation Q&A no. 46 (163.com community column): the channel circuit, the 864-prostration regime, the thermostat explanation, and the anti-display joke",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G50IOBL70545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-021-prostrations-channel-circuit/"
+   ]
+  },
+  {
+   "id": "daodejing-06-editions",
+   "title": "Daodejing ch. 6 (received text): Gushiwen teaching edition with translation and gloss (玄牝 = source that breeds the ten thousand things; 勤 = 尽), as documented on the xuan-pin glossary page",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-06/"
+   ]
+  },
+  {
+   "id": "renjianshi-zhili-shu-editions",
+   "title": "Zhuangzi ch. 4 (Renjian Shi), Zhili Shu passage: Taiji Shuguan edition with running glosses; Fu Peirong's annotated edition (variants: 齊/臍, 鼓廁/鼓筴); education-encyclopedia entry on the chapter's structure (Cheng Xuanying's sub-commentary on 支離其德)",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/zhili-shu/"
+   ]
+  },
+  {
+   "id": "tianzifang-archer-editions",
+   "title": "Zhuangzi ch. 21 (Tian Zifang), the archery passage: Taiji Shuguan edition with translation and chapter-structure notes; Zhuangzi at 5000yan full text; CText parallel snippet; Lawforever teaching essay",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/stories/boshun-archer/"
+   ]
+  },
+  {
+   "id": "daodejing-64-editions",
+   "title": "Daodejing ch. 64, received text: Taiji Shuguan edition with notes (the ch. 29 misplaced-strip tradition recorded); Wikipedia entry on the idiom; Kekenet bilingual edition; Dudianji bilingual edition",
+   "type": "primary_text",
+   "language": "zh",
+   "pages_used_in": [
+    "/translations/daodejing-64/"
+   ]
+  },
+  {
+   "id": "guo-xiang-sources",
+   "title": "Guo Xiang dossier: Wikipedia (zh) biography with the Shishuo xinyu Wenxue quote in full, Wang Yan's verdict, Qian Mu's charge, the Tang Yijie formulation, and the Zonggao saying; Guangming ribao / Zhonghua dushu bao survey (Siku zongmu collation, Yang Mingzhao's summary of both camps, Feng Youlan's collected-commentary view, Wang Zhongling's dissent); CText wiki on the Zhuangzi zhu",
+   "type": "historical",
+   "language": "zh",
+   "pages_used_in": [
+    "/people/guo-xiang/"
+   ]
+  },
+  {
+   "id": "163-taishi-48",
+   "title": "Taishi cultivation Q&A no. 48 (163.com community column): the theatre doctrine, the daily-sitting rule, the deep-concentration reassurance, and the yoga ceiling",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G575TU0N0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-022-its-all-theatre/"
+   ]
+  },
+  {
+   "id": "lieyukou-caoshang-editions",
+   "title": "Zhuangzi ch. 32 (Lie Yukou), the Cao Shang passage, verified against the Gushiwen full text with translation and notes, the Baidu Baike entry, and the Zhuangzi jishi (juan 10) text quoted in a teaching post",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://m.gushiwen.cn/shiwenv_7e7df8ac1a77.aspx",
+   "pages_used_in": [
+    "/stories/cao-shang/"
+   ]
+  },
+  {
+   "id": "qiwulun-tianlai-editions",
+   "title": "Zhuangzi ch. 2 (Qiwu Lun), the three-pipes passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, HY1406, Guo Xiang note quoted in full), a 2011 sinoss.net study of the term, and the ht.org.tw teaching column on the modern drift",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%8A%E7%89%A9%E8%AB%96",
+   "pages_used_in": [
+    "/glossary/tian-lai/"
+   ]
+  },
+  {
+   "id": "daodejing-33-editions",
+   "title": "Daodejing ch. 33, received text, verified against the 5000yan edition with Wang Bi commentary quoted and the Gushiwen famous-line page, which agree verbatim; a Hong Kong Education Bureau classics handout supplies the standard gloss",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.5000yan.com/33.html",
+   "pages_used_in": [
+    "/translations/daodejing-33/"
+   ]
+  },
+  {
+   "id": "daodejing-08-editions",
+   "title": "Daodejing ch. 8, received text, verified against three independent reproductions that agree (a Douban Read column quoting Su Zhe Laozi jie glosses on the seven skills; a traditional-text reading; the Our China Story column, which records 政善治 for received 正善治)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://read.douban.com/reader/column/2624468/chapter/17171875",
+   "pages_used_in": [
+    "/translations/daodejing-08/"
+   ]
+  },
+  {
+   "id": "zhang-daoling-sources",
+   "title": "Zhang Daoling: Baidu Baike (biography, 142 revelation, twenty-four parishes, 156 ascent at 123); Sina Yunxiuxing essay (birth record, dragon-tiger elixir legend, the three treasures); Taiwan Ministry of the Interior religion database (founder of the Daoist church); Wikipedia Five Pecks of Rice Way (Hou Han shu and Sanguo zhi attestation)",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://baike.baidu.com/item/%E5%BC%A0%E9%81%93%E9%99%B5/1707760",
+   "pages_used_in": [
+    "/people/zhang-daoling/"
+   ]
+  },
+  {
+   "id": "163-taishi-39",
+   "title": "Taishi cultivation Q&A no. 39 (163.com community column): the all-day breathing doctrine, the 4-6 breaths-per-minute standard, and the moderate corners (eat more, afternoon nap, legs may hurt but dullness stops the sit)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G3FCB7LO0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-023-breath-is-the-key/"
+   ]
+  },
+  {
+   "id": "mati-editions",
+   "title": "Zhuangzi ch. 9 (Ma Ti, outer chapter), the Bole passage, verified against the Wikisource full text, the Zhuangzi yi commentary (Shidian guji, DZ1487, Ma Ti di jiu, verbatim), and the Haitang Shishe reading text with translation, which agree verbatim",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%A6%AC%E8%B9%84",
+   "pages_used_in": [
+    "/stories/bole-horses/"
+   ]
+  },
+  {
+   "id": "rangwang-tushan-editions",
+   "title": "Zhuangzi ch. 28 (Rang Wang, mixed chapter), the Tu Yang passage, verified against the Wikisource full text, the Chinese Text Project parallel text, the Xueqiu reading text, and a Zhihu teaching column, which agree verbatim (CTP closing word variant registered)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E8%AE%93%E7%8E%8B",
+   "pages_used_in": [
+    "/stories/tushan-shuo/"
+   ]
+  },
+  {
+   "id": "qiwulun-baoguang-editions",
+   "title": "Zhuangzi ch. 2 (Qiwu Lun), the baoguang passage, verified against the Wikisource full text, the Dudianji interactive text, and a Zhihu full-text column, which agree verbatim; plus a Zhuzi xuekan study of the term (reprinted at homeinmists) linking baoguang to the Daodejing xuanlan",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://dudianji.com/book/%E5%BA%84%E5%AD%90/%E9%BD%90%E7%89%A9%E8%AE%BA",
+   "pages_used_in": [
+    "/glossary/bao-guang/"
+   ]
+  },
+  {
+   "id": "daodejing-02-editions",
+   "title": "Daodejing ch. 2, received text, verified against three independent reproductions that agree (the Mindiver bilingual edition; the Gushiwen Dao famous-line page, which notes the Dunhuang variant 不为始 for received 不辞; a Beijing Institute of Technology course text of the full received chapter)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://m.guwendao.net/mingju/juv_6c051ff33c92.aspx",
+   "pages_used_in": [
+    "/translations/daodejing-02/",
+    "/concepts/wu-you/"
+   ]
+  },
+  {
+   "id": "lu-xiujing-sources",
+   "title": "Lu Xiujing (406-477): Baidu Baike (biography, 437 Lingbao jing mu, 461 Lu Shan Taixu guan, 467 Chongxu guan, 471 San Dong jing shu mu lu with 1,228 scrolls, zhaijiao codes); Taiwan Ministry of the Interior religion database; Chinese Taoist Association essay (southern reform, three teachings); Tushuguan xuekan 2013 library-science study (three-caverns classification attested from the 471 catalog); Wikipedia",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://baike.baidu.com/item/%E9%99%86%E4%BF%AE%E9%9D%99/1709413",
+   "pages_used_in": [
+    "/people/lu-xiujing/"
+   ]
+  },
+  {
+   "id": "163-taishi-40",
+   "title": "Taishi cultivation Q&A no. 40 (163.com community column): standing post versus sitting, the habit-seeds-surfacing doctrine, the alternating-legs rule, and the moderate corners (eat less, move more, fix the present)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G3FCGTLQ0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-024-standing-and-sitting/"
+   ]
+  },
+  {
+   "id": "quqie-editions",
+   "title": "Zhuangzi ch. 10 (Qu Qie, outer chapter), the Robber Zhi passage and the chapter argument, verified against the Wikisource full text, the Chinese Text Project parallel text, the Zhihu full-text column, and the Zhuangzi kouyi (Shidian guji, SK2166), which agree verbatim",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E8%83%A0%E7%AF%8B",
+   "pages_used_in": [
+    "/stories/dao-yi-you-dao/"
+   ]
+  },
+  {
+   "id": "dasheng-shanbao-editions",
+   "title": "Zhuangzi ch. 19 (Da Sheng), the Shan Bao and Zhang Yi passage, verified against the Wikisource full text, the Zhihu full-text commentary, the 8bei8 reading text, the Wang Xianqian Zhuangzi jijie (zdic.net), and the Chinese Text Project parallel text, which agree verbatim (游/游 and 縣/悬 gloss variants registered)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%81%94%E7%94%9F",
+   "pages_used_in": [
+    "/stories/shanbao-zhangyi/"
+   ]
+  },
+  {
+   "id": "xiaoyaoyou-xiaoyao-editions",
+   "title": "Zhuangzi ch. 1 (Xiao Yao You), the closing tree passage and the Guo Xiang commentary, verified against the Wikisource full text and the Zhuangzi yi (Shidian guji, DZ1487, verbatim, including the commentary defining xiaoyao as non-dependence); plus the ch. 19 Bianzi usage from the same session; plus the HK EDB recommended-passages PDF",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A",
+   "pages_used_in": [
+    "/glossary/xiaoyao/"
+   ]
+  },
+  {
+   "id": "daodejing-11-editions",
+   "title": "Daodejing ch. 11, received text, verified against four independent reproductions that agree (the Zhihu full-text edition; the Jingangjin bilingual edition; the Daodejing.org chapter page with glosses; the Chinese Text Project Heshang Gong zhangju parallel, whose chapter title is Wu Yong)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.daodejing.org/11.html",
+   "pages_used_in": [
+    "/translations/daodejing-11/",
+    "/concepts/wu-you/"
+   ]
+  },
+  {
+   "id": "zhang-boduan-sources",
+   "title": "Zhang Boduan (984-1082): Global Daoism database (dao.jic.io, citing the Wuzhen pian prefaces and Qing Xitai); Shaoyang Yuqing Gong biography (quoting the preface verbatim, the Lu Yanfu record, the death-verse); Zheng Weiyi study in Hongdao 58 (2014) on the two threes in the postface; Airiti thesis abstract on the Wuzhen pian; Zhejiang CPPCC cultural-history entry (1075 completion, Yongzheng enfeoffment); Baidu Baike",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://dao.jic.io/figures/zhang-boduan",
+   "pages_used_in": [
+    "/people/zhang-boduan/"
+   ]
+  },
+  {
+   "id": "daodejing-07-editions",
+   "title": "Daodejing ch. 7, received text, verified against four independent reproductions that agree (the Daodejing.org chapter page; the Vocus bilingual edition printing the Mawangdui variants; the Taiwan Education Ministry dictionary entry for 外身身存 with the commentary tradition; the Zhihu silk-text edition with gloss)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.daodejing.org/7.html",
+   "pages_used_in": [
+    "/translations/daodejing-07/"
+   ]
+  },
+  {
+   "id": "waiwu-rengongzi-editions",
+   "title": "Zhuangzi ch. 26 (Wai Wu, miscellaneous chapter), the Lord Ren passage, verified against the Wikisource full chapter, the Xueqiu full-text column, the Guwendao reading text with translation, and the Baidu Baike entry, which agree (variants: 会稽/会嵇, 骛/惊, 累/纍)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%A4%96%E7%89%A9",
+   "pages_used_in": [
+    "/stories/ren-gongzi-fishing/"
+   ]
+  },
+  {
+   "id": "zhibeiyou-chuigou-editions",
+   "title": "Zhuangzi ch. 22 (Zhi Bei You), the hook-forger passage, verified against the Shidian guji Zhuangzi gu text, the Wang Xianqian Zhuangzi jijie (zdic.net, carrying Cheng Xuanying, Guo Xiang, Sima, Wang Niansun and Su Yu glosses; Wang Niansun: shou is the old reading of dao), the 8bei8 full-text edition, and the Baidu Baike entry",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://gj.zdic.net/zibu/476/12113.html",
+   "pages_used_in": [
+    "/stories/chui-gou-zhe/"
+   ]
+  },
+  {
+   "id": "qiwulun-wusangwo-editions",
+   "title": "Zhuangzi ch. 2 (Qi Wu Lun), the opening wu sang wo passage, verified against the Wikisource full chapter, the Zhihu full-text column, and the Dudianji text, with the Guo Xiang commentary registered from the tradition (wu sang wo = self-forgetting, the dissolution of the paired body)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%8A%E7%89%A9%E8%AB%96",
+   "pages_used_in": [
+    "/glossary/wu-sang-wo/"
+   ]
+  },
+  {
+   "id": "daodejing-36-editions",
+   "title": "Daodejing ch. 36, received text, verified against four independent reproductions that agree (the Shandong University page with glosses; the Zhihu Wang Bi Laozi Daodejing zhu column; the Daodejing.org chapter page; the Baidu Baike entry with the interpretive tradition), variant qu zhi/duo zhi registered",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.daodejing.org/36.html",
+   "pages_used_in": [
+    "/translations/daodejing-36/"
+   ]
+  },
+  {
+   "id": "zhang-sanfeng-sources",
+   "title": "Zhang Sanfeng: the Ming Shi Fangji zhuan (juan 299) official biography (name, sobriquet, appearance, Wudang prophecy and rebuilding, Jintai guan death-and-revival, the emperors searches, the Yingzong title); the Wudang Daoist Association biography (Zhenwu dream-transmission and bird-and-snake legends, quiet-mind nurturing-nature doctrine); Baidu Baike local traditions (1248 birth claim, 1314 Fire Dragon Zhenren initiation, attributed works); Wikipedia survey (disputed dates and birthplace, contested Taijiquan attribution)",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://zh.wikipedia.org/zh-hans/%E5%BC%A0%E4%B8%89%E4%B8%B0",
+   "pages_used_in": [
+    "/people/zhang-sanfeng/"
+   ]
+  },
+  {
+   "id": "163-taishi-26",
+   "title": "Taishi Q&A episode 26 (lying-down practice and the innovation question), full text retrieved from the 163 news mirror on 2026-10-07: practitioner letter (contemporary liberation-stages framework, lying-down practice argument) and teacher reply (armchair-theory charge, eighteen-heavens challenge, dreaming diagnosis, auspicious-reclining as provisional method, time-conditions ladder, Buddha fasting narrative, anti-innovation rule)",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G2SPN49Q0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-025-lying-down-innovation/"
+   ]
+  },
+  {
+   "id": "dazongshi-daye-editions",
+   "title": "Zhuangzi ch. 6 (Da Zong Shi), the Zi Lai smelter passage, verified against the Wikisource full chapter, the Xiang Xiu-Guo Xiang commentary edition (ab.newdu.com, with full glosses), the with.org chapter text, and the Education Encyclopedia survey, which agree (variants: 大块载我以形/大块以载我以形, 造化者/造物者)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E5%A4%A7%E5%AE%97%E5%B8%AB",
+   "pages_used_in": [
+    "/stories/daye-zhu-jin/"
+   ]
+  },
+  {
+   "id": "lieyukou-tulong-editions",
+   "title": "Zhuangzi ch. 32 (Lie Yukou), the dragon-slaying passage with its chapter frame, verified against the Guwendao full-chapter text, the Baidu Baike idiom entry, the Threads quotation, and a close-reading blog, which agree (朱泙漫学屠龙于支离益，单千金之家，三年技成而无所用其巧)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://m.guwendao.net/guwen/bookv_05c8a5609ebf.aspx",
+   "pages_used_in": [
+    "/stories/tu-long-zhi-ji/"
+   ]
+  },
+  {
+   "id": "qiwulun-title-readings",
+   "title": "The Qi Wu Lun title ambiguity, registered from the scholarly record: the Peking University Journal (2009) survey with Yang Liuqiao evidence (early readers took qiwu together, Wang Yinglin the later wulun reading, and the observation that the character qi never occurs in the chapter body); the Chinese Academy of Social Sciences survey (2022); the Guangming Daily survey; and the 8bei8 chapter introduction",
+   "type": "scholarship",
+   "language": "zh",
+   "url": "https://ccj.pku.edu.cn/Article/DownLoad?id=271011691&type=ArticleFile",
+   "pages_used_in": [
+    "/glossary/qiwu/"
+   ]
+  },
+  {
+   "id": "daodejing-40-editions",
+   "title": "Daodejing ch. 40, received text, verified against the Mindiver commentary edition, the Baidu Baike entry, the Shandong University chapter page, and the Zhang Qingxiang lecture transcript, with Qian Zhongshu two-senses gloss and the ch. 25 chain registered from the Hans Publishers academic paper",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://mindiver.se/ddj-40",
+   "pages_used_in": [
+    "/translations/daodejing-40/",
+    "/concepts/wu-you/",
+    "/concepts/fan/"
+   ]
+  },
+  {
+   "id": "wang-chongyang-sources",
+   "title": "Wang Chongyang (1112/1113-1170): the Quanzhen tradition biography (Dao Zhan journal, Baidu Baike Quanzhen entry — Ganhe transmission, Living-Dead-Man Tomb, the eastward journey, the seven disciples, the three-teachings associations and doctrine); the Weihai city government account; the Taiwan national religion information network entry; and the Wikipedia Quanzhen survey (Qiu Chuji and the Mongol court; the fiction-vs-record contrast)",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://zh.wikipedia.org/zh-hans/%E5%85%A8%E7%9C%9F%E9%81%93",
+   "pages_used_in": [
+    "/people/wang-chongyang/"
+   ]
+  },
+  {
+   "id": "daodejing-12-editions",
+   "title": "Daodejing ch. 12, received text, verified against four independent reproductions that agree (the Zhihu Wang Bi edition with glosses; the Baidu Baike entry with translation; the Shandong University chapter page; the Daodejing.org chapter page), with the kou shuang injury-sense gloss and the Heshang Gong chapter title jianyu registered",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.daodejing.org/12.html",
+   "pages_used_in": [
+    "/translations/daodejing-12/"
+   ]
+  },
+  {
+   "id": "yuyan-zhiyan-editions",
+   "title": "Zhuangzi ch. 27 (Yu Yan), the opening self-summary of the three modes of speech (yuyan/zhongyan/zhiyan), verified against the Wikisource full chapter and the Tsinghua literary research center close reading (quoting the Guo Qingfan punctuated text), with the commentary tradition registered from the Guangming Daily study by Song Xiaoke (Chinawriter reprint: Sima Biao, Guo Xiang, Cheng Xuanying, Luo Miandao readings plus the modern Li Binghai and Guo Changbao proposals)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%AF%93%E8%A8%80",
+   "pages_used_in": [
+    "/stories/zhi-yan/",
+    "/glossary/hua/"
+   ]
+  },
+  {
+   "id": "dasheng-huangong-editions",
+   "title": "Zhuangzi ch. 19 (Da Sheng), the Duke Huan ghost passage, verified against the Wikisource full chapter, the with.org chapter text, the Wang Xianqian jijie edition (zdic, with Lu Deming glosses, Sima Biao ghost names, the vermillion-cap variant, and the Guo Xiang chapter note), and the ctext parallel passage",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%81%94%E7%94%9F",
+   "pages_used_in": [
+    "/stories/huan-gong-jian-gui/"
+   ]
+  },
+  {
+   "id": "daodejing-13-editions",
+   "title": "Daodejing ch. 13, verified against the Mawangdui silk A collation (6dsy.cn, recording the 贵为身于为天下 and 宠之为下 readings), the Shandong University chapter page, the Qstheory reprint of the Guangming Daily study by Zhang Jing (Gao Heng, Chen Guying, Zhang Songhui, Feng Youlan, Ren Jiyu interpretations; the two idioms both from this chapter), and the Daodejing.org chapter page",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://6dsy.cn/daodejing-boshujiaben-13zhang",
+   "pages_used_in": [
+    "/translations/daodejing-13/"
+   ]
+  },
+  {
+   "id": "cheng-xuanying-sources",
+   "title": "Cheng Xuanying (608-669): the Baidu Baike Zhuangzi zhushu biographical entry (Zishi, Shanzhou, Xihua fashi title Zhenguan 5, Yuntai mountain retreat, Chongxuan school, the three works); the Daoist Culture Centre database record of the Nanhua zhenjing zhushu (35 juan, Zhengtong Daozang, Guo Qingfan incorporation, Zhonghua shuju 1998 edition); the Gong Pengcheng study of his Buddhist absorption (Chengguan's charge, the huahu thesis, the Wude 7 three-teachings debates)",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://zh.daoinfo.org/index.php?title=%E5%8D%97%E8%8F%AF%E7%9C%9F%E7%B6%93%E6%B3%A8%E7%96%8F%EF%BC%88%E9%83%AD%E8%B1%A1%E3%80%81%E6%88%90%E7%8E%84%E8%8B%B1%EF%BC%89",
+   "pages_used_in": [
+    "/people/cheng-xuanying/"
+   ]
+  },
+  {
+   "id": "qiwulun-qiuhao-editions",
+   "title": "Zhuangzi ch. 2 (Qi Wu Lun), the scale-reversal and oneness passage (天下莫大于秋豪之末，而太山为小；莫寿乎殇子，而彭祖为夭。天地与我并生，而万物与我为一), verified against the Wikisource full chapter and the Taiji Shuguan annotated chapter text (agreeing, including the 秋豪/秋毫 variant and the glosses), plus the Peking University journal article on Qi Wu Lun difficulties (quoting the passage and discussing the 一与言为二 counting puzzle)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%8A%E7%89%A9%E8%AB%96",
+   "pages_used_in": [
+    "/stories/qiu-hao/"
+   ]
+  },
+  {
+   "id": "tianxia-huishi-editions",
+   "title": "Zhuangzi ch. 33 (Tian Xia), the Huishi section (惠施多方，其书五车，其道舛驳，其言也不中 — the ten theses, the twenty-one paradoxes, the closing verdict through 悲夫), verified against the Wikisource full chapter and the Taiji Shuguan chapter text, with the Ministry of Education Idiom Dictionary (2020) entry for 惠施五车/学富五车 (provenance, glosses, Huishi dates, and the idiom drift record)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%A4%A9%E4%B8%8B",
+   "pages_used_in": [
+    "/stories/hui-shi-wu-che/"
+   ]
+  },
+  {
+   "id": "daodejing-32-editions",
+   "title": "Daodejing ch. 32, verified against the Mindiver chapter study (道常无名，朴。虽小，天下莫能臣。侯王若能守之，万物将自宾。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦将知止。知止可以不殆。譬道之在天下，犹川谷之于江海) and the Beijing Institute of Technology traditional-text archive (unpunctuated received form), with the two competing punctuations of the opening registered without adjudication",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://mindiver.se/ddj-32",
+   "pages_used_in": [
+    "/translations/daodejing-32/",
+    "/concepts/dao/",
+    "/concepts/pu/"
+   ]
+  },
+  {
+   "id": "qiu-chuji-sources",
+   "title": "Qiu Chuji (1148-1227): Baidu Baike and Wikipedia biographical records (Tongmi, Changchunzi, Qixia, youngest of the Seven, the western journey at 74, the 尊卑虽异性命各同耳 line, Longmen lineage founder, the imperial titles, the one-word-stops-killing praise and its recorded dispute); the Daoist database record (dao.jic.io: ordained at nineteen, Wang Chongyang disciple the next year, Panxi cave six years, Longmen seven years, Straw-cloak Master); the Beijing Evening News historical article (2021: died 1227 in Yanjing at 79, original name Qiu Ge, tax exemptions for the order)",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://baike.baidu.com/item/%E4%B8%98%E5%A4%84%E6%9C%BA/384923",
+   "pages_used_in": [
+    "/people/qiu-chuji/"
+   ]
+  },
+  {
+   "id": "taiguanglin-zuochan-jiexing-07",
+   "title": "Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 2 on precepts, section 7, Vegetarianism is the necessary choice (full text retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02-20): the animals-have-consciousness claim, the meat-blocks-the-dhyanas gate, the Four Heavenly Kings rebirth, the three-stage dream-test with its seven-year frame, the eye-test, the Buddha two-stage narrative with the Shurangama line, the honesty rule, and the nutrition exchange (ten years one meal a day, no colds; the transition-period correction; tofu daily; no coffee/cola/tea; Pu-er tea), with the community counter-voices (the diabetes report, the gradual-protein advice)",
+   "type": "web_archive",
+   "language": "zh",
+   "url": "https://taiguanglin.org/",
+   "pages_used_in": [
+    "/experiences/notes/exp-026-diet-gate/",
+    "/experiences/questions/does-diet-matter/"
+   ]
+  },
+  {
+   "id": "shanmu-chapter-editions",
+   "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Beigong She and Shinan Yiliao passages, verified against the Wikisource full chapter and the Zhihu chapter-verse reading (agreeing on the Beigong She passage: 北宫奢为卫灵公赋敛以为锺…一之间，无敢设也…既雕既琢，复归于朴…来者勿禁，往者勿止…因其自穷…豪毛不挫, and carrying the Shinan Yiliao passage: 市南宜僚见鲁侯…丰狐文豹…其皮为之灾也。今鲁国，独非君之皮邪…建德之国…无形倨无留居以为君车…送君者皆自崖而反…有人者累见有于人者忧), with the gushiwen famous-line page carrying the same 既雕既琢，复归于朴 and its standard gloss",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%B1%B1%E6%9C%A8",
+   "pages_used_in": [
+    "/stories/bei-gong-she/",
+    "/stories/shinan-yiliao/"
+   ]
+  },
+  {
+   "id": "daodejing-46-editions",
+   "title": "Daodejing ch. 46, verified against three independent reproductions that agree on the received text (the Zhihu chapter study with glosses: 天下有道，却走马以粪。天下无道，戎马生于郊。罪莫大于可欲；祸莫大于不知足；咎莫大于欲得。故知足之足，常足矣; the Baidu Baike chapter page; the Shandong University chapter page), with the variant registered (the Zhihu text carries the first superlative 罪莫大于可欲 and the Baike text omits it)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zhuanlan.zhihu.com/p/388526071",
+   "pages_used_in": [
+    "/translations/daodejing-46/"
+   ]
+  },
+  {
+   "id": "bai-yuchan-sources",
+   "title": "Bai Yuchan (1134-1229): Wikipedia, the Guwendao author page, and the Daoist Culture Centre database (agreeing on the biography: born Ge Changgeng, adopted Bai, Qiongzhou birth, the prodigy record, the examination failure, the flight to Wuyi after a killing, nine years with Chen Nan, the Luofu transmission of 1212, the disciples of 1217, the open teaching seat, the Ningzong title, the Yulong Palace state jiao, the Lin-an memorial and the heterodox-arts accusation; the essence-breath-spirit and thunder-rites doctrine; the collections and the Palace Museum calligraphy), with the Daozhan source registering the birth-date dispute (1134 vs 1194) and the sohu biography carrying the 道情 poem",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://zh.wikipedia.org/wiki/%E7%99%BD%E7%8E%89%E8%9F%BE",
+   "pages_used_in": [
+    "/people/bai-yuchan/"
+   ]
+  },
+  {
+   "id": "taiguanglin-zuochan-hongchen-11",
+   "title": "Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 11 on worldly matters, section 11, Finding a teacher (full text retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02-22 through 2014-02-26): the teacher-student bond doctrine, the aspiration rule, the try-and-see rule, the precepts-as-teacher answer to the demonic-practice question, the swindler warning, the support teaching, the ladder of teachers, the no-shortcut rule, the fraud analysis, and the reposted silent-illumination teacher dialogue with the meta-reaction",
+   "type": "web_archive",
+   "language": "zh",
+   "url": "https://taiguanglin.org/",
+   "pages_used_in": [
+    "/experiences/notes/exp-027-finding-a-teacher/",
+    "/experiences/questions/do-i-need-a-teacher/"
+   ]
+  },
+  {
+   "id": "shanmu-yidainiao-editions",
+   "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Taigong Ren passage, verified against the Wikisource full chapter and the Shidianguji Zhuangzi Yi edition (Jiao Hong compilation carrying the Guo Xiang subcommentary), which agree on the received text: 孔子围于陈蔡之间，七日不火食。太公任往吊之…东海有鸟焉，其名曰意怠。其为鸟也，翂翂翐翐，而似无能，引援而飞，迫胁而栖，进不敢为前，退不敢为后，食不敢先尝，必取其绪，是故其行列不斥，而外人卒不得害，是以免于患。直木先伐，甘井先竭…饰知以惊愚，修身以明污，昭昭乎如揭日月而行，故不免也…自伐者无功，功成者堕，名成者亏…至人不闻，子何喜哉…入兽不乱群，入鸟不乱行。鸟兽不恶，而况人乎 — with the Baidu Baike idiom page carrying 直木先伐甘井先竭 as a standalone idiom of talent-persecution, and the ctext parallel-section page confirming the core bird passage",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%B1%B1%E6%9C%A8",
+   "pages_used_in": [
+    "/stories/yi-dai-niao/"
+   ]
+  },
+  {
+   "id": "shanmu-linhui-editions",
+   "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Lin Hui passage, verified against the Shidianguji Zhuangzi Yi edition (carrying the Guo Xiang subcommentary) and the Wikisource full chapter, which agree on the received text: 孔子问子桑雽曰：吾再逐于鲁…林回弃千金之璧，负赤子而趋。或曰：为其布与？赤子之布寡矣。为其累与？赤子之累多矣…林回曰：彼以利合，此以天属也…君子之交淡若水，小人之交甘若醴；君子淡以亲，小人甘以绝…绝学捐书，弟子无挹于前，其爱益加进 — with the name variant registered (子桑雽 in Wikisource, 子桑虖 in the Zhuangzi Yi edition) and the Baidu Baike entry and ctext parallel section confirming the story as the fixed source of 君子之交淡若水",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.shidianguji.com/book/DZ1487/chapter/1klznucwzy1py",
+   "pages_used_in": [
+    "/stories/lin-hui-qi-bi/"
+   ]
+  },
+  {
+   "id": "qiwulun-daoshu-editions",
+   "title": "Zhuangzi ch. 2 (Qi Wu Lun, inner chapter), the pivot passage, previously verified on this site s huan-zhong page (Wikisource chapter text and the site s earlier verification trail): 彼是莫得其偶，谓之道枢。枢始得其环中，以应无穷。是亦一无穷，非亦一无穷也。故曰莫若以明 — the term 道枢 named in the passage s first clause",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%90%E7%89%A9%E8%AE%BA",
+   "pages_used_in": [
+    "/glossary/dao-shu/"
+   ]
+  },
+  {
+   "id": "daodejing-55-editions",
+   "title": "Daodejing ch. 55, verified against five independent reproductions that agree on the received text (the 8bei8 full-chapter page with modern translation; the Zhihu chapter study; the ctext Wang Bi commentary text: 含德之厚，比于赤子。毒虫不螫，猛兽不据，攫鸷不搏。骨弱筋柔而握固，未知牝牡之合而朘作，精之至也。终日号而嗌不嗄，和之至也。知和曰常，知常曰明。益生曰祥; the Shandong University chapter page; the daodejing.org chapter page), with variants registered without adjudication: 攫鸟 (received text) vs 攫鸷 (ctext Wang Bi text); 号而不嗄 vs 号而嗌不嗄 (ctext); the Zhihu text s opening variant 蜂虿虺蛇不螫 for the first animal clause",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.8bei8.com/book/laozi_55.html",
+   "pages_used_in": [
+    "/translations/daodejing-55/"
+   ]
+  },
+  {
+   "id": "chen-nan-sources",
+   "title": "Chen Nan (d. 1213), fourth patriarch of the southern lineage: the Baidu Baike Nan Wu Zu entry and the Wikipedia Nan Wu Zu article (agreeing on the biography: courtesy name Nanmu, style Cuixu; from Boluo, Huizhou; worked as a barrel-hooper; received the Guigen Fuming pian from Xue Daoguang; studied the Taiyi Daogui golden-elixir method under Xue; received the Jingxiao Dalei langshu thunder-scripture from a spirit-man of Limu Mountain; the mud-pill healing practice and the name Chen Niwan; the mad-sage image; his own transmission poem naming Bai Yuchan and the 1212 Luofu date; the Hun Yuan Lie Xian Tu record of four disciples and 南宗自陈楠起门徒始众; the three-grade inner-alchemy doctrine), with the Li Yuanguo study (陈楠与神霄派) and the Zhihu study of the Xiuzhen Bianhuo Lun (海南白玉蟾自幼事陈泥丸忽已九年) confirming the teacher-student line",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://baike.baidu.com/item/%E5%85%A8%E7%9C%9F%E9%81%93%E5%8D%97%E4%BA%94%E7%A5%96/65357232",
+   "pages_used_in": [
+    "/people/chen-nan/"
+   ]
+  },
+  {
+   "id": "taiguanglin-zuochan-fushi-huxi-01-04",
+   "title": "Taiguanglin official Sit-in Q&A collection (坐禅问答录), ch. 4 on abdominal breathing, sections 01-04 (full text of all four sections retrieved 2026-10-07 from taiguanglin.org; original posts 2014-06-03 through 2014-06-18): the purpose (changing the habit, not lengthening the breath), the mechanics (release to inhale, contract to exhale, the hiss optional), the 20% rule, the standing rule, the ten-to-twelve-breaths standard, the anti-overpractice warnings, the Anapanasati criticism, the four-dhyana blood doctrine, the Inception methodological confession, the three-months claim, the monthly self-check, and the fire-dhyana joke",
+   "type": "web_archive",
+   "language": "zh",
+   "url": "https://taiguanglin.org/",
+   "pages_used_in": [
+    "/experiences/notes/exp-028-abdominal-breathing/"
+   ]
+  },
+  {
+   "id": "shanmu-diaoling-editions",
+   "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Diaoling passage, verified against the Wikisource full chapter (retrieved 2026-10-07): 庄周游乎雕陵之野一作樊，睹一异鹊，自南方来者，翼广七尺，目大运寸，感周之颡，而集于栗林…蹇裳躩步，执弹而留之；睹一蝉，方得美荫而忘其身；螳螂执翳而搏之，见得而忘其形；异鹊从而利之，见利一作得而忘其真。庄周怵然，曰：噫！物固相累，二类相召也！捐弹而反走，虞人逐而谇之。庄周反入，三月不庭…吾守形而忘身，观于浊水而迷于清渊…入其俗，从其俗 — with the reading variants registered (雕陵之野/雕陵之樊; 见利/见得) and the passage s fixed status as the source of the idiom 螳螂捕蝉，黄雀在后",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%B1%B1%E6%9C%A8",
+   "pages_used_in": [
+    "/stories/diao-ling-yi-que/"
+   ]
+  },
+  {
+   "id": "shanmu-yanshi-editions",
+   "title": "Zhuangzi ch. 20 (Shan Mu, outer chapter), the Yanshi-wind passage, verified against the Wikisource full chapter (retrieved 2026-10-07): 孔子穷于陈蔡之间，七日不火食，左据槁木，右击槁枝，而歌猋一作焱氏之风，有其具而无其数，有其声而无宫角，木声与人声，犁然有当于人之心。颜回端拱还目而窥之…无受天损易，无受人益难，无始而非卒也，人与天一也…饥渴寒暑，穷桎不行，天地之行也，运物之泄也，言与之偕逝之谓也…鸟莫知于鷾鸸，目之所不宜处，不给视，虽落其实，弃之而走；其畏人也，而袭诸人间社稷存焉尔…化其万物，而不知其禅之者，焉知其所终？焉知其所始？正而待之而已耳…圣人晏然，体逝而终矣 — with the name variant registered (歌猋氏之风, annotated 一作焱 in the Wikisource text)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E5%B1%B1%E6%9C%A8",
+   "pages_used_in": [
+    "/stories/yanshi-wind-song/"
+   ]
+  },
+  {
+   "id": "qiwulun-ming-editions",
+   "title": "Zhuangzi ch. 2 (Qi Wu Lun, inner chapter), the two occurrences of 莫若以明, verified against the Wikisource full chapter (retrieved 2026-10-07): (1) 道隐于小成，言隐于荣华，故有儒墨之是非，以是其所非而非其所是。欲是其所非而非其所是，则莫若以明; (2) 彼是莫得其偶，谓之道枢。枢始得其环中，以应无穷。是亦一无穷，非亦一无穷也，故曰莫若以明 — both occurrences confirmed in the chapter text, bracketing the this/that machinery",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/zh-hans/%E8%8E%8A%E5%AD%90/%E9%BD%90%E7%89%A9%E8%AE%BA",
+   "pages_used_in": [
+    "/glossary/mo-ruo-yi-ming/"
+   ]
+  },
+  {
+   "id": "wang-chuyi-sources",
+   "title": "Wang Chuyi (1142-1217), Quanzhen ascetic: the Baidu Baike entry; the Chinese Wikipedia article (1142年4月15日-1217年5月28日; the name-cluster 号玉阳子 in most records, 字玉阳 号介阳子/全阳子/华阳子 in the Wikipedia cluster; from Dongmou, Ninghai, modern Rushan, Weihai); the Sohu survey (taken by Wang Chongyang in 1168 金大定八年; long seclusion at the Yunguang Cave, Wendeng); the Taiwan Ministry of the Interior religion database (fatherless in childhood, devoted to his mother; the earlier name 伞阳子 later changed to 玉阳子); the Kaiwind survey (the branch record); the daoys.net profile (nine years of bitter mountain practice) — with the Iron-Foot Immortal nickname (铁脚仙人), the retained court trust during the Jin suppression, and the Yuan title 玉阳体玄广度真人",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E8%99%95%E4%B8%80",
+   "pages_used_in": [
+    "/people/wang-chuyi/"
+   ]
+  },
+  {
+   "id": "taiguanglin-zuochan-renti-01-06",
+   "title": "Taiguanglin official Zuochan collection (坐禅), ch. 6 on the human body, sections 01-06 (full text of all six sections retrieved 2026-10-07 from taiguanglin.org; original posts 2014-06-17 through 2014-07-02): the breath-and-distraction index (呼吸越快死得越快; tortoise/elephant/dog/human breath rates; the antediluvian 38% oxygen claim; the Buddha-era eight-breaths claim; 呼吸次数多 = 消耗能量多 = 妄想多 = 烦恼多), the American/Korean statistics, the near-awakening thresholds, the nose/mouth doctrine, the brain s oxygen-and-glucose requirement, the hormone doctrine, the blood-pressure origin account, the newborn-blood-pressure paper, the six-vessel heart, the body-contemplation correction, the reverse-breathing lung-pressure warning, the five-stage repair sequence, the two-nervous-system doctrine, the commander-and-signal-corps analogy, the boundary declaration against current medicine (这里开始和目前的医学理论可能有不同的地方), and the dantian-as-two-vessels account",
+   "type": "web_archive",
+   "language": "zh",
+   "url": "https://taiguanglin.org/",
+   "pages_used_in": [
+    "/experiences/notes/exp-029-the-human-body/"
+   ]
+  },
+  {
+   "id": "zhibeiyou-22-editions",
+   "title": "Zhuangzi ch. 22 (Zhi Bei You, outer chapter), Wikisource full chapter (retrieved 2026-10-07): the opening passage (Knowledge's three questions to Wuwei Wei, Mad Bend's forgotten answer, the Yellow Emperor's full answer and self-verdict) and the Dongguo Zi passage (the Way in mole-crickets, weeds, tiles, dung; the market-inspector pig; every-lower-more-evident; the three names one reality; the thing-er of things)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/知北遊",
+   "pages_used_in": [
+    "/stories/zhi-wen-wuwei/",
+    "/stories/dongguo-zi-asks/",
+    "/stories/hook-smith/",
+    "/stories/light-brightness-asks-nothingness/",
+    "/stories/taiqing-asks-wuqiong/",
+    "/stories/ran-qiu-asks-zhongni/",
+    "/glossary/wu-shi-wu-zhong/",
+    "/concepts/dao/",
+    "/concepts/wu-you/"
+   ]
+  },
+  {
+   "id": "yangshengzhu-03-editions",
+   "title": "Zhuangzi ch. 3 (Yang Sheng Zhu, inner chapter), opening lines with the commentary trail: Wikisource full chapter (retrieved 2026-10-07) and the Shidianguji Zhuangzi Yi edition carrying Guo Xiang's notes (缘督以为经者，顺中以为常也), plus the China Daoist Association study and the Renmin University philosophy faculty essay carrying Guo Xiang, Cheng Xuanying, Zhao Yifu, Wang Fuzhi, and Zhu Xi's recorded critique",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/莊子/養生主",
+   "pages_used_in": [
+    "/glossary/yuan-du-yi-wei-jing/"
+   ]
+  },
+  {
+   "id": "daodejing-42-editions",
+   "title": "Daodejing ch. 42, verified against multiple independent reproductions agreeing on the received text (Baidu Baike chapter page; mindiver.se full-chapter study; Shandong University chapter page; Apple Podcasts chapter reading; h2o-china comparative study; Taiwan Ministry of Education reference entry on 道生一); variant registered: 冲气/中气 (Mawangdui silk-text reading reported by the h2o-china study), 不榖/不谷",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.daodejing.org/42.html",
+   "pages_used_in": [
+    "/translations/daodejing-42/",
+    "/concepts/yin-yang/"
+   ]
+  },
+  {
+   "id": "ma-yu-sources",
+   "title": "Biographical records on Ma Yu (马钰, Danyang Zi, 1123-1183; Wikipedia 1123-1185 registered): Baidu Baike Quanzhen-seven entry, Chinese Wikipedia, China Daoist Association profile, Weihai municipal government Quanzhen founding story, Sohu survey, Kaiwind survey — agreeing on the Ninghai wealth, the Quanzhen Hermitage funding, the renaming, the 1170 coffin journey, the three-year mourning, and the Yuxian branch",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://baike.baidu.com/item/全真七子/142146",
+   "pages_used_in": [
+    "/people/ma-yu/"
+   ]
+  },
+  {
+   "id": "taiguanglin-ep31-163",
+   "title": "Taishi Q&A episode 31 (太师修行问答31：双盘时身体的反应，各种痛感汇总), NetEase Hao repost dated 2021-02-18, full text retrieved 2026-10-07 from 163.com: the cell-turnover schedule (skin 28 days, muscle 2-3 years, sinew 3-4 years, bone 7+ years), the 90-minute-to-two-hour pain window, the two-hour sit justification, the ankle-knee-hip sequence, the three-months-heat vs 2-3-years-dhyana account, the head-sweating explanation, the demon-subduing/lotus leg assignment, the whole-body pain sequence, the prostrations-for-spine answer, the teacher's own hip injury from one-sided hoeing, and the reader exchanges",
+   "type": "community",
+   "language": "zh",
+   "url": "https://www.163.com/dy/article/G345DDVI0545316K.html",
+   "pages_used_in": [
+    "/experiences/notes/exp-030-the-pain-ledger/"
+   ]
+  },
+  {
+   "id": "daodejing-78-editions",
+   "title": "Daodejing ch. 78, received text, cross-verified 2026-10-07 across six independent sources (zhihu zhuanlan 600183501; xueqiu 189739462; ctext node 11669; 8bei8 laozi_78; baike item 10363512; daodejing.org 78): 天下莫柔弱于水，而攻坚强者莫之能胜，以其无以易之。弱之胜强，柔之胜刚，天下莫不知，莫能行。是以圣人云：受国之垢，是谓社稷主；受国不祥，是为天下王。正言若反",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/text.pl?node=11669&if=gb",
+   "pages_used_in": [
+    "/translations/daodejing-78/",
+    "/concepts/fan/"
+   ]
+  },
+  {
+   "id": "sun-buer-sources",
+   "title": "Sun Bu'er (孙不二) biography: baike.baidu.com item 2402303 (1119-1182, 名富春，法名不二，号清静散人，金代宁海人，马丹阳之妻，生三子，大定七年王重阳住其家); daode.in jwsx/09/1548 (全真七子唯一女性，清静派创立者); zh.wikipedia.org (1119年2月16日-1183年1月24日, 洛阳风仙姑洞趺坐); epochtimes 2009-09-08 (马钰与孙不二); sohu 244794515 — dates 1182 vs 1183 both registered",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://baike.baidu.com/item/%E5%AD%99%E4%B8%8D%E4%BA%8C/2402303",
+   "pages_used_in": [
+    "/people/sun-buer/"
+   ]
+  },
+  {
+   "id": "wuheyou-editions",
+   "title": "Zhuangzi 无何有之乡 in three chapters, full texts retrieved 2026-10-07 from zh.wikisource.org: Xiao Yao You 1 (今子有大树，患其无用，何不树之于无何有之乡，广莫之野，彷徨乎无为其侧，逍遥乎寝卧其下？不夭斤斧，物无害者，无所可用，安所困苦哉？); Ying Di Wang 7 (厌则又乘夫莽眇之鸟，以出六极之外，而游无何有之乡，以处圹埌之野); Zhi Bei You 22 variant 无何有之宫 (尝相与游乎无何有之宫，同合而论，无所终穷乎？)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikisource.org/wiki/%E8%8E%8A%E5%AD%90/%E9%80%8D%E9%81%99%E9%81%8A",
+   "pages_used_in": [
+    "/glossary/wu-he-you-zhi-xiang/"
+   ]
+  },
+  {
+   "id": "taiguanglin-zuochan-fujiazuo-01-08",
+   "title": "Taiguanglin's official Zuochan Q&A collection (坐禅问答录), ch. 6 on lotus posture (跏趺坐), sections 01-08 (单盘/from单盘to双盘/双盘的优势/双盘须知/双盘时的身体反应/疾病与双盘/快速打通经脉的方法/经脉打通的特征), full text of all eight sections retrieved 2026-10-07 from taiguanglin.org; original posts 2014-02 through 2014-06",
+   "type": "community",
+   "language": "zh",
+   "url": "https://taiguanglin.org/《坐禅问答录》第六章：跏趺坐-第01节-单盘/",
+   "pages_used_in": [
+    "/experiences/notes/exp-031-lotus-posture-chapter/"
+   ]
+  },
+  {
+   "id": "daodejing-51-editions",
+   "title": "Daodejing ch. 51 (dao gives life, de nurtures), received text retrieved 2026-10-08 from mindiver.se/ddj-51 (full text), cross-checked against baike.baidu.com item 7734315 and daodejing.org/51.html; textual variants from Ven. Dharmagupta's MA thesis comparison table (nanda.online-dhamma.net chap4-s3.htm): Wang Bi reads 亭之毒之 and 夫莫之命常自然; Heshang Gong reads 成之熟之 and 夫莫之命而常自然 (chapter title 养德)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://mindiver.se/ddj-51",
+   "pages_used_in": [
+    "/translations/daodejing-51/",
+    "/concepts/de/"
+   ]
+  },
+  {
+   "id": "tan-chuduan-sources",
+   "title": "Tan Chuduan (1123-1185) biography, cross-verified 2026-10-08 across the Daoist Culture Centre Database (zh.daoinfo.org: the wind-paralysis cure story, the Luoyang years of 对境炼心, the third patriarchate, 忠孝仁慈胜出家, the turtle-and-snake calligraphy, the two-teeth anecdote from Jinlian zhengzong ji, the Water-Cloud Collection), zh.wikipedia.org (precise dates 1123-03-29 to 1185-05-02, titles 长真云水荡德真人 and 长真凝神玄静蕴德真君, the Nanwu lineage), baike.baidu.com item 2401128 (paralysis from sleeping drunk in wind and snow), and the Weihai Municipal Government article on the founding of Quanzhen",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://zh.daoinfo.org/index.php?title=譚處端&variant=zh-hans",
+   "pages_used_in": [
+    "/people/tan-chuduan/"
+   ]
+  },
+  {
+   "id": "taiguanglin-zuochan-ch02-01-04",
+   "title": "Taiguanglin's official collection, Zuochan (坐禅) ch. 2 'From Zero to the Desire-Realm Dhyana', sections 01-04 (业障 / 戒斗戒杀戒肉 / 灭八成淫欲 / 打通任督二脉——三气归元), full text retrieved 2026-10-08 from taiguanglin.org (original posts 2014-03 through 2014-07): the karma-debt doctrine and anti-emptiness declaration; the no-fighting no-killing no-meat cascade with the three-stage dream test; the lust-quota wave model and the teacher's knife-thoughts and ghost episodes; the full posture sequence, one-hour rule, food list, ren-du meridian route, and three-qi-returning event",
+   "type": "community",
+   "language": "zh",
+   "url": "https://taiguanglin.org",
+   "pages_used_in": [
+    "/experiences/notes/exp-032-from-zero-to-desire-realm/"
+   ]
+  },
+  {
+   "id": "daodejing-19-28-editions",
+   "title": "Daodejing chs. 19 & 28 (received text), Shanxi University Philosophy School commentary edition",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "http://zxxy.sxu.edu.cn/zxypt/zlxz1/8910d895971d42c2a8e8c819b37c6945.htm",
+   "pages_used_in": [
+    "/concepts/pu/"
+   ]
+  },
+  {
+   "id": "daodejing-15-editions",
+   "title": "Daodejing ch. 15 (received text): 敦兮其若樸",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/dao-de-jing/zh",
+   "pages_used_in": [
+    "/concepts/pu/"
+   ]
+  },
+  {
+   "id": "daodejing-16-editions",
+   "title": "Daodejing ch. 16 (received text): 萬物並作，吾以觀復",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/dao-de-jing/zh",
+   "pages_used_in": [
+    "/concepts/fan/"
+   ]
+  },
+  {
+   "id": "daodejing-38-editions",
+   "title": "Daodejing ch. 38 (received text), with Wang Bi note 德者得也 (Jinling dushu commentary ed.)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://www.sohu.com/a/128169177_488646",
+   "pages_used_in": [
+    "/concepts/de/"
+   ]
+  },
+  {
+   "id": "xici-zhuan",
+   "title": "Yijing, Xici zhuan (Appended Statements) shang ch. 5: 一陰一陽之謂道",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/book-of-changes/xi-ci-shang",
+   "pages_used_in": [
+    "/concepts/yin-yang/"
+   ]
+  },
+  {
+   "id": "huangdi-neijing-su-wen",
+   "title": "Huangdi Neijing, Suwen ch. 5 (Yinyang yingxiang dalun): 陰陽者，天地之道也",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/huangdi-neijing/su-wen",
+   "pages_used_in": [
+    "/concepts/yin-yang/"
+   ]
+  },
+  {
+   "id": "dingguan-jing-zhu",
+   "title": "Dongxuan Lingbao Dingguan Jing zhu: 慧心內照名曰內觀",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://zh.wikipedia.org/wiki/%E5%A4%AA%E4%B8%8A%E8%80%81%E5%90%9B%E5%85%A7%E8%A7%80%E7%B6%93",
+   "pages_used_in": [
+    "/practices/neiguan/"
+   ]
+  },
+  {
+   "id": "britton-2021",
+   "title": "Britton et al., 'Defining and measuring meditation-related adverse effects in mindfulness-based programs' (Clinical Psychological Science, 2021)",
+   "type": "research",
+   "language": "en",
+   "url": "https://doi.org/10.1177/2167702621996340",
+   "pages_used_in": [
+    "/research/britton-2021/"
+   ]
+  },
+  {
+   "id": "zaccaro-2018",
+   "title": "Zaccaro et al., 'How breath-control can change your life' (Frontiers in Human Neuroscience, 2018)",
+   "type": "research",
+   "language": "en",
+   "url": "https://doi.org/10.3389/fnhum.2018.00353",
+   "pages_used_in": [
+    "/research/zaccaro-2018/",
+    "/problems/breathing-gets-shallow/"
+   ]
+  },
+  {
+   "id": "noble-hochman-2019",
+   "title": "Noble & Hochman, 'Pulmonary afferent activity patterns during slow, deep breathing' (Frontiers in Physiology, 2019)",
+   "type": "research",
+   "language": "en",
+   "url": "https://doi.org/10.3389/fphys.2019.01176",
+   "pages_used_in": [
+    "/research/noble-hochman-2019/"
+   ]
+  },
+  {
+   "id": "khalsa-2018",
+   "title": "Khalsa et al., 'Interoception and mental health: a roadmap' (Biological Psychiatry: CNNI, 2018)",
+   "type": "research",
+   "language": "en",
+   "url": "https://doi.org/10.1016/j.bpsc.2017.12.004",
+   "pages_used_in": [
+    "/research/khalsa-2018/",
+    "/problems/body-feels-very-large/"
+   ]
+  },
+  {
+   "id": "zhuangzi-keyi-daoyin",
+   "title": "Zhuangzi ch. 15 (Keyi): the daoyin passage — 'blowing and breathing, expelling the old and drawing in the new, the bear's strides and the bird's stretch'",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/zhuangzi/ingrained-ideas",
+   "pages_used_in": [
+    "/practices/daoyin/",
+    "/practices/qigong/",
+    "/glossary/daoyin/"
+   ]
+  },
+  {
+   "id": "mawangdui-daoyin-tu",
+   "title": "Mawangdui tomb 3 silk manuscript 'Daoyin tu' (导引图), sealed 168 BCE — 44 figures in movement postures",
+   "type": "historical_record",
+   "language": "zh",
+   "url": "https://en.wikipedia.org/wiki/Mawangdui_Silk_Texts",
+   "pages_used_in": [
+    "/practices/daoyin/",
+    "/glossary/daoyin/"
+   ]
+  },
+  {
+   "id": "zhuangzi-an-zhi-ruo-ming",
+   "title": "Zhuangzi ch. 4 (Renjian shi): 'knowing what cannot be helped and settling into it as fate' (安之若命)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/zhuangzi/in-the-world-of-men",
+   "pages_used_in": [
+    "/concepts/ming/",
+    "/glossary/ming/"
+   ]
+  },
+  {
+   "id": "zhuangzi-pianmu-xing",
+   "title": "Zhuangzi ch. 8 (Pianmu): the webbed-toes defense of the inborn nature (性)",
+   "type": "primary_text",
+   "language": "zh",
+   "url": "https://ctext.org/zhuangzi/webbed-toes",
+   "pages_used_in": [
+    "/concepts/xing/",
+    "/glossary/xing/"
+   ]
+  }
+ ]
 }

@@ -27,3 +27,5 @@
 ---
 
 See the full practice page: [Daoyin](/practices/daoyin/). Its modern umbrella is [qigong](/practices/qigong/); its breath side is [tiaoxi](/glossary/tiaoxi/).
+
+Daoyin (导引, dǎoyǐn, "guiding and pulling") is the classical movement-and-breath art, attested from Zhuangzi ch. 15 (Keyi) and the Mawangdui "Daoyin tu" silk manuscript (168 BCE).

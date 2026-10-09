@@ -10,6 +10,8 @@ context: "The teacher's official Zuochan collection, ch. 6 on the human body, se
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
+sourceType: note
+anonymity: "anonymous"
 relatedExperiences: ["exp-028-abdominal-breathing", "exp-023-breath-is-the-key", "exp-008-breath-stopping", "exp-015-heat-sweat-qi", "exp-016-nine-dhyanas-map"]
 relatedQuestions: ["what-counts-as-progress", "can-meditation-cure-illness", "why-am-i-so-sleepy"]
 relatedPractices: ["tiaoxi", "jingzuo"]

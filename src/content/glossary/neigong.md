@@ -27,3 +27,5 @@
 ---
 
 See the full practice page: [Neigong](/practices/neigong/). Its older-named parts: [tiaoxi](/glossary/tiaoxi/), [taixi](/practices/taixi/), [jing-qi-shen](/glossary/jing-qi-shen/).
+
+Neigong (内功, nèigōng, "internal work") is the counter-term to external exercise: training aimed inward at breath, qi, and body alignment rather than outward at force.

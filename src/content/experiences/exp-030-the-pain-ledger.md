@@ -10,6 +10,8 @@ context: "Taishi Q&A episode 31 (太师修行问答31：双盘时身体的反应
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
+sourceType: note
+anonymity: "anonymous"
 relatedExperiences: ["exp-003-leg-pain-filling", "exp-006-leg-numbness", "exp-010-lotus-pain", "exp-018-halflotus-to-full-lotus", "exp-029-the-human-body"]
 relatedQuestions: ["how-long-should-i-sit", "must-i-sit-cross-legged", "what-counts-as-progress"]
 relatedPractices: ["jingzuo"]

@@ -10,6 +10,8 @@ context: "The teacher's official Sit-in Q&A collection, ch. 2 on precepts, secti
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
+sourceType: note
+anonymity: "anonymous"
 relatedExperiences: ["exp-013-buddhist-daoist-boundary", "exp-016-nine-dhyanas-map", "exp-007-digestive-release", "exp-024-standing-and-sitting"]
 relatedQuestions: ["does-diet-matter", "does-practice-need-faith"]
 relatedProblems: ["drowsiness-in-sitting"]

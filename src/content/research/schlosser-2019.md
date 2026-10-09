@@ -12,7 +12,7 @@ evidence: ["MODERN RESEARCH"]
 relatedConcepts: []
 relatedResearch: ["lindahl-2017", "farias-adverse-events-2020"]
 sources:
-  - "Schlosser M, Sparby T, Vörös S, Jones R, Marchant NL (2019) Unpleasant meditation-related experiences in regular meditators: Prevalence, predictors, and conceptual considerations. PLoS ONE 14(5): e0216643. PMID 31071152"
+  - "Schlosser M, Sparby T, Vörös S, Jones R, Marchant NL (2019) Unpleasant meditation-related experiences in regular meditators: Prevalence, predictors, and conceptual considerations. PLoS ONE 14(5): e0216643. DOI: 10.1371/journal.pone.0216643. PMID 31071152"
 traditionRelevance: "Indirect (adjacent): regular meditators across traditions; not Daoist sitting."
 ---
 

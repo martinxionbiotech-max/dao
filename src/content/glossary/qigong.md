@@ -26,3 +26,5 @@
 ---
 
 See the full practice page: [Qigong](/practices/qigong/). Its classical ancestor is [daoyin](/practices/daoyin/).
+
+Qigong (气功, qìgōng, "qi-work") is the 20th-century institutional name for China's breathing-and-movement arts, standardized in the 1950s as an umbrella term.

@@ -10,6 +10,8 @@ context: "The teacher's official Zuochan Q&A collection, ch. 6 on lotus posture 
 status: published
 date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
+sourceType: note
+anonymity: "anonymous"
 relatedExperiences: ["exp-030-the-pain-ledger", "exp-014-double-lotus-doctrine", "exp-018-halflotus-to-full-lotus", "exp-003-leg-pain-filling", "exp-006-leg-numbness", "exp-010-lotus-pain", "exp-029-the-human-body"]
 relatedQuestions: ["must-i-sit-cross-legged", "how-long-should-i-sit", "should-i-use-timers", "can-meditation-cure-illness"]
 relatedPractices: ["jingzuo"]
