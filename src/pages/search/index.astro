@@ -1,0 +1,77 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base title="Search" description="Search the DaoismHub knowledge base — concepts, practices, texts, people, stories, research, glossary and more.">
+  <h1>Search</h1>
+  <p class="lede">Search titles and descriptions across the knowledge base.</p>
+
+  <div style="margin: 18px 0;">
+    <input
+      id="q"
+      type="search"
+      placeholder="e.g. zuowang, breathing, Laozi…"
+      autocomplete="off"
+      style="width: 100%; padding: 12px 14px; font-size: 1rem; font-family: inherit; border: 1px solid var(--line); border-radius: 6px; background: var(--card);"
+    />
+  </div>
+  <div id="hits" style="margin-top: 8px;"></div>
+  <p class="meta" id="count" style="margin-top: 6px;"></p>
+
+  <script>
+    const input = document.getElementById('q') as HTMLInputElement;
+    const hits = document.getElementById('hits')!;
+    const count = document.getElementById('count')!;
+    let docs: { title: string; description: string; url: string; coll: string }[] = [];
+    let loading = false;
+
+    const esc = (s: string) => s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]!));
+
+    function render(list: { title: string; description: string; url: string; coll: string }[]) {
+      if (!list.length) {
+        hits.innerHTML = '<p class="lede">No matches. Try a different term.</p>';
+        return;
+      }
+      hits.innerHTML = list.map((d) => `
+        <div class="card" style="padding:14px 18px;">
+          <a href="${esc(d.url)}" style="font-size:1.05rem;">${esc(d.title)}</a>
+          <span class="tag" style="margin-left:8px;">${esc(d.coll)}</span>
+          ${d.description ? `<p class="lede" style="font-size:0.9rem; margin:4px 0 0;">${esc(d.description.slice(0, 180))}${d.description.length > 180 ? '…' : ''}</p>` : ''}
+        </div>
+      `).join('');
+    }
+
+    async function load() {
+      if (loading || docs.length) return;
+      loading = true;
+      try {
+        const r = await fetch('/search-index.json');
+        docs = await r.json();
+        count.textContent = `${docs.length} pages indexed`;
+      } catch (e) {
+        count.textContent = 'Index failed to load.';
+      }
+      loading = false;
+    }
+
+    function run() {
+      const q = input.value.trim().toLowerCase();
+      if (!q) { hits.innerHTML = ''; count.textContent = docs.length ? `${docs.length} pages indexed` : ''; return; }
+      const terms = q.split(/\s+/).filter(Boolean);
+      const out = docs
+        .map((d) => {
+          const hay = (d.title + ' ' + d.description + ' ' + d.coll).toLowerCase();
+          const score = terms.reduce((s, t) => (hay.includes(t) ? s + 1 : s), 0);
+          return { d, score };
+        })
+        .filter((x) => x.score > 0)
+        .sort((a, b) => b.score - a.score || a.d.title.localeCompare(b.d.title))
+        .slice(0, 30)
+        .map((x) => x.d);
+      render(out);
+      count.textContent = out.length ? `${out.length} result${out.length > 1 ? 's' : ''}` : '';
+    }
+
+    input.addEventListener('input', () => { load().then(run); });
+    input.addEventListener('focus', load);
+  </script>
+</Base>

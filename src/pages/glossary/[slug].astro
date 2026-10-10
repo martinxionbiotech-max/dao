@@ -15,9 +15,22 @@ const { Content } = await render(entry);
 const d = entry.data;
 const ev = (d.evidence || []).length ? d.evidence : undefined;
 const slug = entry.id.replace(/\.md$/, '');
+const definedTermSchema = d.description ? {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTerm',
+  name: d.title,
+  description: d.description,
+  termCode: slug,
+  inDefinedTermSet: {
+    '@type': 'DefinedTermSet',
+    name: 'DaoismHub Glossary',
+    url: 'https://daoismhub.com/glossary/',
+  },
+} : null;
 ---
 
 <Base title={d.title} description={d.description}>
+  {definedTermSchema && <script type="application/ld+json" set:html={JSON.stringify(definedTermSchema)} />}
   <h1>{d.title}</h1>
   {d.description && <p class="lede">{d.description}</p>}
   {(d.chinese || d.pinyin || d.tradition || d.period || d.dynasty || d.author) && (
