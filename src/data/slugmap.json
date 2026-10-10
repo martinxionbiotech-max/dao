@@ -1,0 +1,2111 @@
+{
+  "items": [
+    {
+      "slug": "artisan-qing",
+      "urls": [
+        "/stories/artisan-qing/"
+      ]
+    },
+    {
+      "slug": "artisan-qing-passage",
+      "urls": [
+        "/translations/artisan-qing-passage/"
+      ]
+    },
+    {
+      "slug": "bai-yuchan",
+      "urls": [
+        "/people/bai-yuchan/"
+      ]
+    },
+    {
+      "slug": "bao-guang",
+      "urls": [
+        "/glossary/bao-guang/"
+      ]
+    },
+    {
+      "slug": "bao-weng-guan-qi",
+      "urls": [
+        "/stories/bao-weng-guan-qi/"
+      ]
+    },
+    {
+      "slug": "baopuzi",
+      "urls": [
+        "/texts/baopuzi/"
+      ]
+    },
+    {
+      "slug": "baopuzi-composition",
+      "urls": [
+        "/timeline/baopuzi-composition/"
+      ]
+    },
+    {
+      "slug": "baopuzi-shouyi",
+      "urls": [
+        "/timeline/baopuzi-shouyi/"
+      ]
+    },
+    {
+      "slug": "baoyi",
+      "urls": [
+        "/glossary/baoyi/"
+      ]
+    },
+    {
+      "slug": "bei-gong-she",
+      "urls": [
+        "/stories/bei-gong-she/"
+      ]
+    },
+    {
+      "slug": "boatman",
+      "urls": [
+        "/stories/boatman/"
+      ]
+    },
+    {
+      "slug": "body-feels-very-large",
+      "urls": [
+        "/problems/body-feels-very-large/"
+      ]
+    },
+    {
+      "slug": "bole-horses",
+      "urls": [
+        "/stories/bole-horses/"
+      ]
+    },
+    {
+      "slug": "boshun-archer",
+      "urls": [
+        "/stories/boshun-archer/"
+      ]
+    },
+    {
+      "slug": "breath-retention-daoist",
+      "urls": [
+        "/problems/breath-retention-daoist/"
+      ]
+    },
+    {
+      "slug": "breath-stopping-anxiety",
+      "urls": [
+        "/problems/breath-stopping-anxiety/"
+      ]
+    },
+    {
+      "slug": "breath-stopping-intentional-spontaneous",
+      "urls": [
+        "/problems/breath-stopping-intentional-spontaneous/"
+      ]
+    },
+    {
+      "slug": "breathing-gets-shallow",
+      "urls": [
+        "/problems/breathing-gets-shallow/"
+      ]
+    },
+    {
+      "slug": "britton-2021",
+      "urls": [
+        "/research/britton-2021/"
+      ]
+    },
+    {
+      "slug": "butterfly-dream",
+      "urls": [
+        "/stories/butterfly-dream/"
+      ]
+    },
+    {
+      "slug": "can-i-sit-in-bed",
+      "urls": [
+        "/questions/can-i-sit-in-bed/"
+      ]
+    },
+    {
+      "slug": "can-meditation-cure-illness",
+      "urls": [
+        "/questions/can-meditation-cure-illness/"
+      ]
+    },
+    {
+      "slug": "can-sitting-go-wrong",
+      "urls": [
+        "/questions/can-sitting-go-wrong/"
+      ]
+    },
+    {
+      "slug": "cao-shang",
+      "urls": [
+        "/stories/cao-shang/"
+      ]
+    },
+    {
+      "slug": "carpenter-shi",
+      "urls": [
+        "/stories/carpenter-shi/"
+      ]
+    },
+    {
+      "slug": "chen-nan",
+      "urls": [
+        "/people/chen-nan/"
+      ]
+    },
+    {
+      "slug": "chen-tuan",
+      "urls": [
+        "/people/chen-tuan/"
+      ]
+    },
+    {
+      "slug": "cheng-men-li-xue",
+      "urls": [
+        "/timeline/cheng-men-li-xue/"
+      ]
+    },
+    {
+      "slug": "cheng-xuanying",
+      "urls": [
+        "/people/cheng-xuanying/"
+      ]
+    },
+    {
+      "slug": "chinese-meditation-explained",
+      "urls": [
+        "/guides/chinese-meditation-explained/"
+      ]
+    },
+    {
+      "slug": "chinese-meditation-terms-explained",
+      "urls": [
+        "/guides/chinese-meditation-terms-explained/"
+      ]
+    },
+    {
+      "slug": "chui-gou-zhe",
+      "urls": [
+        "/stories/chui-gou-zhe/"
+      ]
+    },
+    {
+      "slug": "cicada-catcher",
+      "urls": [
+        "/stories/cicada-catcher/"
+      ]
+    },
+    {
+      "slug": "combine-zuowang-mindfulness",
+      "urls": [
+        "/questions/combine-zuowang-mindfulness/"
+      ]
+    },
+    {
+      "slug": "confucius-meets-laozi",
+      "urls": [
+        "/stories/confucius-meets-laozi/"
+      ]
+    },
+    {
+      "slug": "cook-ding",
+      "urls": [
+        "/stories/cook-ding/"
+      ]
+    },
+    {
+      "slug": "cunsi",
+      "urls": [
+        "/practices/cunsi/"
+      ]
+    },
+    {
+      "slug": "cunsi-or-zuowang",
+      "urls": [
+        "/questions/cunsi-or-zuowang/"
+      ]
+    },
+    {
+      "slug": "cunsi-vs-zuowang",
+      "urls": [
+        "/comparisons/cunsi-vs-zuowang/"
+      ]
+    },
+    {
+      "slug": "da-kuai",
+      "urls": [
+        "/glossary/da-kuai/"
+      ]
+    },
+    {
+      "slug": "dantian",
+      "urls": [
+        "/glossary/dantian/"
+      ]
+    },
+    {
+      "slug": "dao",
+      "urls": [
+        "/concepts/dao/",
+        "/glossary/dao/"
+      ]
+    },
+    {
+      "slug": "dao-shu",
+      "urls": [
+        "/glossary/dao-shu/"
+      ]
+    },
+    {
+      "slug": "dao-yi-you-dao",
+      "urls": [
+        "/stories/dao-yi-you-dao/"
+      ]
+    },
+    {
+      "slug": "daodejing",
+      "urls": [
+        "/texts/daodejing/"
+      ]
+    },
+    {
+      "slug": "daodejing-01",
+      "urls": [
+        "/translations/daodejing-01/"
+      ]
+    },
+    {
+      "slug": "daodejing-02",
+      "urls": [
+        "/translations/daodejing-02/"
+      ]
+    },
+    {
+      "slug": "daodejing-05",
+      "urls": [
+        "/translations/daodejing-05/"
+      ]
+    },
+    {
+      "slug": "daodejing-06",
+      "urls": [
+        "/translations/daodejing-06/"
+      ]
+    },
+    {
+      "slug": "daodejing-07",
+      "urls": [
+        "/translations/daodejing-07/"
+      ]
+    },
+    {
+      "slug": "daodejing-08",
+      "urls": [
+        "/translations/daodejing-08/"
+      ]
+    },
+    {
+      "slug": "daodejing-10-shouyi",
+      "urls": [
+        "/translations/daodejing-10-shouyi/"
+      ]
+    },
+    {
+      "slug": "daodejing-11",
+      "urls": [
+        "/translations/daodejing-11/"
+      ]
+    },
+    {
+      "slug": "daodejing-12",
+      "urls": [
+        "/translations/daodejing-12/"
+      ]
+    },
+    {
+      "slug": "daodejing-13",
+      "urls": [
+        "/translations/daodejing-13/"
+      ]
+    },
+    {
+      "slug": "daodejing-14",
+      "urls": [
+        "/translations/daodejing-14/"
+      ]
+    },
+    {
+      "slug": "daodejing-16",
+      "urls": [
+        "/translations/daodejing-16/"
+      ]
+    },
+    {
+      "slug": "daodejing-17",
+      "urls": [
+        "/translations/daodejing-17/"
+      ]
+    },
+    {
+      "slug": "daodejing-22",
+      "urls": [
+        "/translations/daodejing-22/"
+      ]
+    },
+    {
+      "slug": "daodejing-25",
+      "urls": [
+        "/translations/daodejing-25/"
+      ]
+    },
+    {
+      "slug": "daodejing-32",
+      "urls": [
+        "/translations/daodejing-32/"
+      ]
+    },
+    {
+      "slug": "daodejing-33",
+      "urls": [
+        "/translations/daodejing-33/"
+      ]
+    },
+    {
+      "slug": "daodejing-36",
+      "urls": [
+        "/translations/daodejing-36/"
+      ]
+    },
+    {
+      "slug": "daodejing-37",
+      "urls": [
+        "/translations/daodejing-37/"
+      ]
+    },
+    {
+      "slug": "daodejing-40",
+      "urls": [
+        "/translations/daodejing-40/"
+      ]
+    },
+    {
+      "slug": "daodejing-42",
+      "urls": [
+        "/translations/daodejing-42/"
+      ]
+    },
+    {
+      "slug": "daodejing-45",
+      "urls": [
+        "/translations/daodejing-45/"
+      ]
+    },
+    {
+      "slug": "daodejing-46",
+      "urls": [
+        "/translations/daodejing-46/"
+      ]
+    },
+    {
+      "slug": "daodejing-48",
+      "urls": [
+        "/translations/daodejing-48/"
+      ]
+    },
+    {
+      "slug": "daodejing-51",
+      "urls": [
+        "/translations/daodejing-51/"
+      ]
+    },
+    {
+      "slug": "daodejing-55",
+      "urls": [
+        "/translations/daodejing-55/"
+      ]
+    },
+    {
+      "slug": "daodejing-63",
+      "urls": [
+        "/translations/daodejing-63/"
+      ]
+    },
+    {
+      "slug": "daodejing-64",
+      "urls": [
+        "/translations/daodejing-64/"
+      ]
+    },
+    {
+      "slug": "daodejing-78",
+      "urls": [
+        "/translations/daodejing-78/"
+      ]
+    },
+    {
+      "slug": "daoist-meditation-explained",
+      "urls": [
+        "/guides/daoist-meditation-explained/"
+      ]
+    },
+    {
+      "slug": "daoist-vs-buddhist-meditation",
+      "urls": [
+        "/comparisons/daoist-vs-buddhist-meditation/"
+      ]
+    },
+    {
+      "slug": "daoshu-neiguan-zuowang",
+      "urls": [
+        "/timeline/daoshu-neiguan-zuowang/"
+      ]
+    },
+    {
+      "slug": "daoyin",
+      "urls": [
+        "/practices/daoyin/",
+        "/glossary/daoyin/"
+      ]
+    },
+    {
+      "slug": "daye-zhu-jin",
+      "urls": [
+        "/stories/daye-zhu-jin/"
+      ]
+    },
+    {
+      "slug": "de",
+      "urls": [
+        "/concepts/de/",
+        "/glossary/de/"
+      ]
+    },
+    {
+      "slug": "diao-ling-yi-que",
+      "urls": [
+        "/stories/diao-ling-yi-que/"
+      ]
+    },
+    {
+      "slug": "dizziness-during-sitting",
+      "urls": [
+        "/problems/dizziness-during-sitting/"
+      ]
+    },
+    {
+      "slug": "do-i-need-a-teacher",
+      "urls": [
+        "/questions/do-i-need-a-teacher/"
+      ]
+    },
+    {
+      "slug": "does-daoism-believe-in-a-creator",
+      "urls": [
+        "/questions/does-daoism-believe-in-a-creator/"
+      ]
+    },
+    {
+      "slug": "does-diet-matter",
+      "urls": [
+        "/questions/does-diet-matter/"
+      ]
+    },
+    {
+      "slug": "does-practice-need-faith",
+      "urls": [
+        "/questions/does-practice-need-faith/"
+      ]
+    },
+    {
+      "slug": "dongguo-zi-asks",
+      "urls": [
+        "/stories/dongguo-zi-asks/"
+      ]
+    },
+    {
+      "slug": "dongshi-frowning",
+      "urls": [
+        "/stories/dongshi-frowning/"
+      ]
+    },
+    {
+      "slug": "drowsiness-in-sitting",
+      "urls": [
+        "/problems/drowsiness-in-sitting/"
+      ]
+    },
+    {
+      "slug": "drowsiness-vs-stillness",
+      "urls": [
+        "/patterns/drowsiness-vs-stillness/"
+      ]
+    },
+    {
+      "slug": "drumming-basin",
+      "urls": [
+        "/stories/drumming-basin/"
+      ]
+    },
+    {
+      "slug": "drumming-basin-passage",
+      "urls": [
+        "/translations/drumming-basin-passage/"
+      ]
+    },
+    {
+      "slug": "exp-001-falling-asleep",
+      "urls": [
+        "/experiences/exp-001-falling-asleep/"
+      ]
+    },
+    {
+      "slug": "exp-002-warmth-rotation",
+      "urls": [
+        "/experiences/exp-002-warmth-rotation/"
+      ]
+    },
+    {
+      "slug": "exp-003-leg-pain-filling",
+      "urls": [
+        "/experiences/exp-003-leg-pain-filling/"
+      ]
+    },
+    {
+      "slug": "exp-004-emotional-surfacing",
+      "urls": [
+        "/experiences/exp-004-emotional-surfacing/"
+      ]
+    },
+    {
+      "slug": "exp-005-night-qi-movement",
+      "urls": [
+        "/experiences/exp-005-night-qi-movement/"
+      ]
+    },
+    {
+      "slug": "exp-006-leg-numbness",
+      "urls": [
+        "/experiences/exp-006-leg-numbness/"
+      ]
+    },
+    {
+      "slug": "exp-007-digestive-release",
+      "urls": [
+        "/experiences/exp-007-digestive-release/"
+      ]
+    },
+    {
+      "slug": "exp-008-breath-stopping",
+      "urls": [
+        "/experiences/exp-008-breath-stopping/"
+      ]
+    },
+    {
+      "slug": "exp-009-dissolving-void",
+      "urls": [
+        "/experiences/exp-009-dissolving-void/"
+      ]
+    },
+    {
+      "slug": "exp-010-lotus-pain",
+      "urls": [
+        "/experiences/exp-010-lotus-pain/"
+      ]
+    },
+    {
+      "slug": "exp-011-shougong-protocol",
+      "urls": [
+        "/experiences/exp-011-shougong-protocol/"
+      ]
+    },
+    {
+      "slug": "exp-012-restless-body",
+      "urls": [
+        "/experiences/exp-012-restless-body/"
+      ]
+    },
+    {
+      "slug": "exp-013-buddhist-daoist-boundary",
+      "urls": [
+        "/experiences/exp-013-buddhist-daoist-boundary/"
+      ]
+    },
+    {
+      "slug": "exp-014-double-lotus-doctrine",
+      "urls": [
+        "/experiences/exp-014-double-lotus-doctrine/"
+      ]
+    },
+    {
+      "slug": "exp-015-heat-sweat-qi",
+      "urls": [
+        "/experiences/exp-015-heat-sweat-qi/"
+      ]
+    },
+    {
+      "slug": "exp-016-nine-dhyanas-map",
+      "urls": [
+        "/experiences/exp-016-nine-dhyanas-map/"
+      ]
+    },
+    {
+      "slug": "exp-017-why-he-began",
+      "urls": [
+        "/experiences/exp-017-why-he-began/"
+      ]
+    },
+    {
+      "slug": "exp-018-halflotus-to-full-lotus",
+      "urls": [
+        "/experiences/exp-018-halflotus-to-full-lotus/"
+      ]
+    },
+    {
+      "slug": "exp-019-one-remedy-body",
+      "urls": [
+        "/experiences/exp-019-one-remedy-body/"
+      ]
+    },
+    {
+      "slug": "exp-020-false-first-dhyana",
+      "urls": [
+        "/experiences/exp-020-false-first-dhyana/"
+      ]
+    },
+    {
+      "slug": "exp-021-prostrations-channel-circuit",
+      "urls": [
+        "/experiences/exp-021-prostrations-channel-circuit/"
+      ]
+    },
+    {
+      "slug": "exp-022-its-all-theatre",
+      "urls": [
+        "/experiences/exp-022-its-all-theatre/"
+      ]
+    },
+    {
+      "slug": "exp-023-breath-is-the-key",
+      "urls": [
+        "/experiences/exp-023-breath-is-the-key/"
+      ]
+    },
+    {
+      "slug": "exp-024-standing-and-sitting",
+      "urls": [
+        "/experiences/exp-024-standing-and-sitting/"
+      ]
+    },
+    {
+      "slug": "exp-025-lying-down-innovation",
+      "urls": [
+        "/experiences/exp-025-lying-down-innovation/"
+      ]
+    },
+    {
+      "slug": "exp-026-diet-gate",
+      "urls": [
+        "/experiences/exp-026-diet-gate/"
+      ]
+    },
+    {
+      "slug": "exp-027-finding-a-teacher",
+      "urls": [
+        "/experiences/exp-027-finding-a-teacher/"
+      ]
+    },
+    {
+      "slug": "exp-028-abdominal-breathing",
+      "urls": [
+        "/experiences/exp-028-abdominal-breathing/"
+      ]
+    },
+    {
+      "slug": "exp-029-the-human-body",
+      "urls": [
+        "/experiences/exp-029-the-human-body/"
+      ]
+    },
+    {
+      "slug": "exp-030-the-pain-ledger",
+      "urls": [
+        "/experiences/exp-030-the-pain-ledger/"
+      ]
+    },
+    {
+      "slug": "exp-031-lotus-posture-chapter",
+      "urls": [
+        "/experiences/exp-031-lotus-posture-chapter/"
+      ]
+    },
+    {
+      "slug": "exp-032-from-zero-to-desire-realm",
+      "urls": [
+        "/experiences/exp-032-from-zero-to-desire-realm/"
+      ]
+    },
+    {
+      "slug": "falling-asleep-during-meditation",
+      "urls": [
+        "/questions/falling-asleep-during-meditation/"
+      ]
+    },
+    {
+      "slug": "falling-asleep-during-sitting",
+      "urls": [
+        "/problems/falling-asleep-during-sitting/"
+      ]
+    },
+    {
+      "slug": "fan",
+      "urls": [
+        "/concepts/fan/"
+      ]
+    },
+    {
+      "slug": "farias-adverse-events-2020",
+      "urls": [
+        "/research/farias-adverse-events-2020/"
+      ]
+    },
+    {
+      "slug": "fish-happiness",
+      "urls": [
+        "/stories/fish-happiness/"
+      ]
+    },
+    {
+      "slug": "fish-in-the-dry-spring",
+      "urls": [
+        "/stories/fish-in-the-dry-spring/"
+      ]
+    },
+    {
+      "slug": "forgetting-the-body-daoist-texts",
+      "urls": [
+        "/problems/forgetting-the-body-daoist-texts/"
+      ]
+    },
+    {
+      "slug": "four-friends",
+      "urls": [
+        "/stories/four-friends/"
+      ]
+    },
+    {
+      "slug": "fu-yi",
+      "urls": [
+        "/people/fu-yi/"
+      ]
+    },
+    {
+      "slug": "ge-hong",
+      "urls": [
+        "/people/ge-hong/"
+      ]
+    },
+    {
+      "slug": "guan",
+      "urls": [
+        "/glossary/guan/"
+      ]
+    },
+    {
+      "slug": "guangchengzi",
+      "urls": [
+        "/stories/guangchengzi/"
+      ]
+    },
+    {
+      "slug": "guo-xiang",
+      "urls": [
+        "/people/guo-xiang/"
+      ]
+    },
+    {
+      "slug": "guodian-daodejing",
+      "urls": [
+        "/timeline/guodian-daodejing/"
+      ]
+    },
+    {
+      "slug": "handan-walk",
+      "urls": [
+        "/stories/handan-walk/"
+      ]
+    },
+    {
+      "slug": "hao-datong",
+      "urls": [
+        "/people/hao-datong/"
+      ]
+    },
+    {
+      "slug": "head-pressure-during-sitting",
+      "urls": [
+        "/problems/head-pressure-during-sitting/"
+      ]
+    },
+    {
+      "slug": "heshang-gong",
+      "urls": [
+        "/people/heshang-gong/"
+      ]
+    },
+    {
+      "slug": "heshang-gong-commentary",
+      "urls": [
+        "/timeline/heshang-gong-commentary/"
+      ]
+    },
+    {
+      "slug": "hezhe-zhi-fu",
+      "urls": [
+        "/stories/hezhe-zhi-fu/"
+      ]
+    },
+    {
+      "slug": "hook-smith",
+      "urls": [
+        "/stories/hook-smith/"
+      ]
+    },
+    {
+      "slug": "how-do-i-know-my-posture-is-right",
+      "urls": [
+        "/questions/how-do-i-know-my-posture-is-right/"
+      ]
+    },
+    {
+      "slug": "how-long-should-i-sit",
+      "urls": [
+        "/questions/how-long-should-i-sit/"
+      ]
+    },
+    {
+      "slug": "how-long-until-results",
+      "urls": [
+        "/questions/how-long-until-results/"
+      ]
+    },
+    {
+      "slug": "how-to-read-daoist-meditation-texts",
+      "urls": [
+        "/guides/how-to-read-daoist-meditation-texts/"
+      ]
+    },
+    {
+      "slug": "how-to-verify-sources",
+      "urls": [
+        "/tools/how-to-verify-sources/"
+      ]
+    },
+    {
+      "slug": "hua",
+      "urls": [
+        "/glossary/hua/"
+      ]
+    },
+    {
+      "slug": "huan-gong-jian-gui",
+      "urls": [
+        "/stories/huan-gong-jian-gui/"
+      ]
+    },
+    {
+      "slug": "huan-zhong",
+      "urls": [
+        "/glossary/huan-zhong/"
+      ]
+    },
+    {
+      "slug": "huangting-jing",
+      "urls": [
+        "/texts/huangting-jing/"
+      ]
+    },
+    {
+      "slug": "huangting-jing-dantian",
+      "urls": [
+        "/timeline/huangting-jing-dantian/"
+      ]
+    },
+    {
+      "slug": "hui-shi-wu-che",
+      "urls": [
+        "/stories/hui-shi-wu-che/"
+      ]
+    },
+    {
+      "slug": "hundun",
+      "urls": [
+        "/stories/hundun/"
+      ]
+    },
+    {
+      "slug": "huzi-jixian",
+      "urls": [
+        "/stories/huzi-jixian/"
+      ]
+    },
+    {
+      "slug": "i-feel-nothing-when-i-sit",
+      "urls": [
+        "/questions/i-feel-nothing-when-i-sit/"
+      ]
+    },
+    {
+      "slug": "is-one-style-enough",
+      "urls": [
+        "/questions/is-one-style-enough/"
+      ]
+    },
+    {
+      "slug": "is-sitting-religious",
+      "urls": [
+        "/questions/is-sitting-religious/"
+      ]
+    },
+    {
+      "slug": "ji-ren",
+      "urls": [
+        "/glossary/ji-ren/"
+      ]
+    },
+    {
+      "slug": "ji-xin",
+      "urls": [
+        "/glossary/ji-xin/"
+      ]
+    },
+    {
+      "slug": "jiafuzuo",
+      "urls": [
+        "/glossary/jiafuzuo/"
+      ]
+    },
+    {
+      "slug": "jian-du",
+      "urls": [
+        "/glossary/jian-du/"
+      ]
+    },
+    {
+      "slug": "jing",
+      "urls": [
+        "/concepts/jing/"
+      ]
+    },
+    {
+      "slug": "jing-qi-shen",
+      "urls": [
+        "/glossary/jing-qi-shen/"
+      ]
+    },
+    {
+      "slug": "jingdi-zhiwa",
+      "urls": [
+        "/stories/jingdi-zhiwa/"
+      ]
+    },
+    {
+      "slug": "jingzuo",
+      "urls": [
+        "/concepts/jingzuo/",
+        "/practices/jingzuo/",
+        "/glossary/jingzuo/"
+      ]
+    },
+    {
+      "slug": "jingzuo-vs-zazen",
+      "urls": [
+        "/comparisons/jingzuo-vs-zazen/"
+      ]
+    },
+    {
+      "slug": "jingzuo-vs-zuowang",
+      "urls": [
+        "/comparisons/jingzuo-vs-zuowang/"
+      ]
+    },
+    {
+      "slug": "khalsa-2018",
+      "urls": [
+        "/research/khalsa-2018/"
+      ]
+    },
+    {
+      "slug": "kou-qianzhi",
+      "urls": [
+        "/people/kou-qianzhi/"
+      ]
+    },
+    {
+      "slug": "kou-qianzhi-reform",
+      "urls": [
+        "/timeline/kou-qianzhi-reform/"
+      ]
+    },
+    {
+      "slug": "kui-xian-chain",
+      "urls": [
+        "/stories/kui-xian-chain/"
+      ]
+    },
+    {
+      "slug": "laozi",
+      "urls": [
+        "/people/laozi/"
+      ]
+    },
+    {
+      "slug": "leg-numbness-pain",
+      "urls": [
+        "/patterns/leg-numbness-pain/"
+      ]
+    },
+    {
+      "slug": "li-ao",
+      "urls": [
+        "/people/li-ao/"
+      ]
+    },
+    {
+      "slug": "liang-wang",
+      "urls": [
+        "/glossary/liang-wang/"
+      ]
+    },
+    {
+      "slug": "liang-xing",
+      "urls": [
+        "/glossary/liang-xing/"
+      ]
+    },
+    {
+      "slug": "liezi",
+      "urls": [
+        "/texts/liezi/"
+      ]
+    },
+    {
+      "slug": "liezi-compilation",
+      "urls": [
+        "/timeline/liezi-compilation/"
+      ]
+    },
+    {
+      "slug": "light-brightness-asks-nothingness",
+      "urls": [
+        "/stories/light-brightness-asks-nothingness/"
+      ]
+    },
+    {
+      "slug": "lin-hui-qi-bi",
+      "urls": [
+        "/stories/lin-hui-qi-bi/"
+      ]
+    },
+    {
+      "slug": "lindahl-2017",
+      "urls": [
+        "/research/lindahl-2017/"
+      ]
+    },
+    {
+      "slug": "liu-chuxuan",
+      "urls": [
+        "/people/liu-chuxuan/"
+      ]
+    },
+    {
+      "slug": "losing-body-awareness",
+      "urls": [
+        "/problems/losing-body-awareness/"
+      ]
+    },
+    {
+      "slug": "lu-xiujing",
+      "urls": [
+        "/people/lu-xiujing/"
+      ]
+    },
+    {
+      "slug": "luhou-yang-niao",
+      "urls": [
+        "/stories/luhou-yang-niao/"
+      ]
+    },
+    {
+      "slug": "ma-yu",
+      "urls": [
+        "/people/ma-yu/"
+      ]
+    },
+    {
+      "slug": "mantis-and-chariot",
+      "urls": [
+        "/stories/mantis-and-chariot/"
+      ]
+    },
+    {
+      "slug": "mantis-stalks-cicada",
+      "urls": [
+        "/stories/mantis-stalks-cicada/"
+      ]
+    },
+    {
+      "slug": "map-of-chinese-contemplative-traditions",
+      "urls": [
+        "/guides/map-of-chinese-contemplative-traditions/"
+      ]
+    },
+    {
+      "slug": "marsh-pheasant",
+      "urls": [
+        "/stories/marsh-pheasant/"
+      ]
+    },
+    {
+      "slug": "mindfulness-meta-analysis-2014",
+      "urls": [
+        "/research/mindfulness-meta-analysis-2014/"
+      ]
+    },
+    {
+      "slug": "ming",
+      "urls": [
+        "/concepts/ming/",
+        "/glossary/ming/"
+      ]
+    },
+    {
+      "slug": "mo-ruo-yi-ming",
+      "urls": [
+        "/glossary/mo-ruo-yi-ming/"
+      ]
+    },
+    {
+      "slug": "mountain-tree-goose",
+      "urls": [
+        "/stories/mountain-tree-goose/"
+      ]
+    },
+    {
+      "slug": "must-i-sit-cross-legged",
+      "urls": [
+        "/questions/must-i-sit-cross-legged/"
+      ]
+    },
+    {
+      "slug": "neigong",
+      "urls": [
+        "/practices/neigong/",
+        "/glossary/neigong/"
+      ]
+    },
+    {
+      "slug": "neiguan",
+      "urls": [
+        "/practices/neiguan/",
+        "/glossary/neiguan/"
+      ]
+    },
+    {
+      "slug": "neiguan-jing",
+      "urls": [
+        "/texts/neiguan-jing/"
+      ]
+    },
+    {
+      "slug": "neiguan-vs-vipassana",
+      "urls": [
+        "/comparisons/neiguan-vs-vipassana/"
+      ]
+    },
+    {
+      "slug": "noble-hochman-2019",
+      "urls": [
+        "/research/noble-hochman-2019/"
+      ]
+    },
+    {
+      "slug": "painter-unrobed",
+      "urls": [
+        "/stories/painter-unrobed/"
+      ]
+    },
+    {
+      "slug": "peng-bird",
+      "urls": [
+        "/stories/peng-bird/"
+      ]
+    },
+    {
+      "slug": "phoenix-and-owl",
+      "urls": [
+        "/stories/phoenix-and-owl/"
+      ]
+    },
+    {
+      "slug": "pu",
+      "urls": [
+        "/concepts/pu/"
+      ]
+    },
+    {
+      "slug": "qi",
+      "urls": [
+        "/concepts/qi/",
+        "/glossary/qi/"
+      ]
+    },
+    {
+      "slug": "qi-belief-necessary",
+      "urls": [
+        "/questions/qi-belief-necessary/"
+      ]
+    },
+    {
+      "slug": "qi-vs-prana",
+      "urls": [
+        "/comparisons/qi-vs-prana/"
+      ]
+    },
+    {
+      "slug": "qigong",
+      "urls": [
+        "/practices/qigong/",
+        "/glossary/qigong/"
+      ]
+    },
+    {
+      "slug": "qingjing-jing",
+      "urls": [
+        "/texts/qingjing-jing/"
+      ]
+    },
+    {
+      "slug": "qingjing-jing-opening",
+      "urls": [
+        "/translations/qingjing-jing-opening/"
+      ]
+    },
+    {
+      "slug": "qingjing-neiguan-jing",
+      "urls": [
+        "/timeline/qingjing-neiguan-jing/"
+      ]
+    },
+    {
+      "slug": "qinshi-mourning",
+      "urls": [
+        "/stories/qinshi-mourning/"
+      ]
+    },
+    {
+      "slug": "qiu-chuji",
+      "urls": [
+        "/people/qiu-chuji/"
+      ]
+    },
+    {
+      "slug": "qiu-hao",
+      "urls": [
+        "/stories/qiu-hao/"
+      ]
+    },
+    {
+      "slug": "qiwu",
+      "urls": [
+        "/glossary/qiwu/"
+      ]
+    },
+    {
+      "slug": "qiwulun-wu-sang-wo",
+      "urls": [
+        "/translations/qiwulun-wu-sang-wo/"
+      ]
+    },
+    {
+      "slug": "ran-qiu-asks-zhongni",
+      "urls": [
+        "/stories/ran-qiu-asks-zhongni/"
+      ]
+    },
+    {
+      "slug": "reading-order",
+      "urls": [
+        "/tools/reading-order/"
+      ]
+    },
+    {
+      "slug": "ren-gongzi-fishing",
+      "urls": [
+        "/stories/ren-gongzi-fishing/"
+      ]
+    },
+    {
+      "slug": "restlessness-in-sitting",
+      "urls": [
+        "/problems/restlessness-in-sitting/"
+      ]
+    },
+    {
+      "slug": "sanghu-friends",
+      "urls": [
+        "/stories/sanghu-friends/"
+      ]
+    },
+    {
+      "slug": "schlosser-2019",
+      "urls": [
+        "/research/schlosser-2019/"
+      ]
+    },
+    {
+      "slug": "seeing-light-in-sitting",
+      "urls": [
+        "/problems/seeing-light-in-sitting/"
+      ]
+    },
+    {
+      "slug": "shanbao-zhangyi",
+      "urls": [
+        "/stories/shanbao-zhangyi/"
+      ]
+    },
+    {
+      "slug": "shangqing-revelations",
+      "urls": [
+        "/timeline/shangqing-revelations/"
+      ]
+    },
+    {
+      "slug": "shen",
+      "urls": [
+        "/glossary/shen/"
+      ]
+    },
+    {
+      "slug": "shiji-biographies",
+      "urls": [
+        "/timeline/shiji-biographies/"
+      ]
+    },
+    {
+      "slug": "shinan-yiliao",
+      "urls": [
+        "/stories/shinan-yiliao/"
+      ]
+    },
+    {
+      "slug": "should-i-meditate-when-sick",
+      "urls": [
+        "/questions/should-i-meditate-when-sick/"
+      ]
+    },
+    {
+      "slug": "should-i-use-timers",
+      "urls": [
+        "/questions/should-i-use-timers/"
+      ]
+    },
+    {
+      "slug": "shouyi",
+      "urls": [
+        "/concepts/shouyi/",
+        "/practices/shouyi/",
+        "/glossary/shouyi/"
+      ]
+    },
+    {
+      "slug": "shouyi-vs-concentration",
+      "urls": [
+        "/comparisons/shouyi-vs-concentration/"
+      ]
+    },
+    {
+      "slug": "sima-chengzhen",
+      "urls": [
+        "/people/sima-chengzhen/"
+      ]
+    },
+    {
+      "slug": "sitting-protocol",
+      "urls": [
+        "/tools/sitting-protocol/"
+      ]
+    },
+    {
+      "slug": "snail-horn-war",
+      "urls": [
+        "/stories/snail-horn-war/"
+      ]
+    },
+    {
+      "slug": "standing-in-snow",
+      "urls": [
+        "/stories/standing-in-snow/"
+      ]
+    },
+    {
+      "slug": "stillness-uncomfortable",
+      "urls": [
+        "/problems/stillness-uncomfortable/"
+      ]
+    },
+    {
+      "slug": "sun-buer",
+      "urls": [
+        "/people/sun-buer/"
+      ]
+    },
+    {
+      "slug": "swimmer-lvliang",
+      "urls": [
+        "/stories/swimmer-lvliang/"
+      ]
+    },
+    {
+      "slug": "taiping-jing",
+      "urls": [
+        "/texts/taiping-jing/"
+      ]
+    },
+    {
+      "slug": "taiping-jing-shouyi",
+      "urls": [
+        "/timeline/taiping-jing-shouyi/"
+      ]
+    },
+    {
+      "slug": "taiqing-asks-wuqiong",
+      "urls": [
+        "/stories/taiqing-asks-wuqiong/"
+      ]
+    },
+    {
+      "slug": "taixi",
+      "urls": [
+        "/practices/taixi/"
+      ]
+    },
+    {
+      "slug": "tan-chuduan",
+      "urls": [
+        "/people/tan-chuduan/"
+      ]
+    },
+    {
+      "slug": "tang-2015",
+      "urls": [
+        "/research/tang-2015/"
+      ]
+    },
+    {
+      "slug": "tao-hongjing",
+      "urls": [
+        "/people/tao-hongjing/"
+      ]
+    },
+    {
+      "slug": "thoughts-become-stronger",
+      "urls": [
+        "/problems/thoughts-become-stronger/"
+      ]
+    },
+    {
+      "slug": "three-craftsmen-dazheng",
+      "urls": [
+        "/blog/three-craftsmen-dazheng/"
+      ]
+    },
+    {
+      "slug": "three-in-the-morning",
+      "urls": [
+        "/stories/three-in-the-morning/"
+      ]
+    },
+    {
+      "slug": "three-languages",
+      "urls": [
+        "/blog/three-languages/"
+      ]
+    },
+    {
+      "slug": "tian-ji",
+      "urls": [
+        "/glossary/tian-ji/"
+      ]
+    },
+    {
+      "slug": "tian-jun",
+      "urls": [
+        "/glossary/tian-jun/"
+      ]
+    },
+    {
+      "slug": "tian-lai",
+      "urls": [
+        "/glossary/tian-lai/"
+      ]
+    },
+    {
+      "slug": "tiaoxi",
+      "urls": [
+        "/practices/tiaoxi/",
+        "/glossary/tiaoxi/"
+      ]
+    },
+    {
+      "slug": "translation-policy",
+      "urls": [
+        "/blog/translation-policy/"
+      ]
+    },
+    {
+      "slug": "tu-long-zhi-ji",
+      "urls": [
+        "/stories/tu-long-zhi-ji/"
+      ]
+    },
+    {
+      "slug": "tuoyue",
+      "urls": [
+        "/glossary/tuoyue/"
+      ]
+    },
+    {
+      "slug": "turtle-in-the-mud",
+      "urls": [
+        "/stories/turtle-in-the-mud/"
+      ]
+    },
+    {
+      "slug": "tushan-shuo",
+      "urls": [
+        "/stories/tushan-shuo/"
+      ]
+    },
+    {
+      "slug": "useless-gourd",
+      "urls": [
+        "/stories/useless-gourd/"
+      ]
+    },
+    {
+      "slug": "vibrations-during-sitting",
+      "urls": [
+        "/problems/vibrations-during-sitting/"
+      ]
+    },
+    {
+      "slug": "virtual-room-passage",
+      "urls": [
+        "/translations/virtual-room-passage/"
+      ]
+    },
+    {
+      "slug": "wandering-mind-in-sitting",
+      "urls": [
+        "/problems/wandering-mind-in-sitting/"
+      ]
+    },
+    {
+      "slug": "wang-bi",
+      "urls": [
+        "/people/wang-bi/"
+      ]
+    },
+    {
+      "slug": "wang-chongyang",
+      "urls": [
+        "/people/wang-chongyang/"
+      ]
+    },
+    {
+      "slug": "wang-chuyi",
+      "urls": [
+        "/people/wang-chuyi/"
+      ]
+    },
+    {
+      "slug": "wang-liang-wen-jing",
+      "urls": [
+        "/stories/wang-liang-wen-jing/"
+      ]
+    },
+    {
+      "slug": "wangbi-laozi-commentary",
+      "urls": [
+        "/timeline/wangbi-laozi-commentary/"
+      ]
+    },
+    {
+      "slug": "wangyang-xingtan",
+      "urls": [
+        "/stories/wangyang-xingtan/"
+      ]
+    },
+    {
+      "slug": "warmth-and-qi-sensations",
+      "urls": [
+        "/patterns/warmth-and-qi-sensations/"
+      ]
+    },
+    {
+      "slug": "warmth-tingling-when-sitting",
+      "urls": [
+        "/questions/warmth-tingling-when-sitting/"
+      ]
+    },
+    {
+      "slug": "wei-huacun",
+      "urls": [
+        "/people/wei-huacun/"
+      ]
+    },
+    {
+      "slug": "what-counts-as-progress",
+      "urls": [
+        "/questions/what-counts-as-progress/"
+      ]
+    },
+    {
+      "slug": "what-is-neiguan",
+      "urls": [
+        "/guides/what-is-neiguan/"
+      ]
+    },
+    {
+      "slug": "what-is-shouyi",
+      "urls": [
+        "/guides/what-is-shouyi/"
+      ]
+    },
+    {
+      "slug": "what-is-stillness",
+      "urls": [
+        "/questions/what-is-stillness/"
+      ]
+    },
+    {
+      "slug": "what-is-zuowang",
+      "urls": [
+        "/guides/what-is-zuowang/"
+      ]
+    },
+    {
+      "slug": "what-modern-research-can-and-cannot-tell-us",
+      "urls": [
+        "/guides/what-modern-research-can-and-cannot-tell-us/"
+      ]
+    },
+    {
+      "slug": "wheelwright-bian",
+      "urls": [
+        "/stories/wheelwright-bian/"
+      ]
+    },
+    {
+      "slug": "why-am-i-so-sleepy",
+      "urls": [
+        "/questions/why-am-i-so-sleepy/"
+      ]
+    },
+    {
+      "slug": "why-do-i-keep-quitting",
+      "urls": [
+        "/questions/why-do-i-keep-quitting/"
+      ]
+    },
+    {
+      "slug": "why-do-i-see-lights",
+      "urls": [
+        "/questions/why-do-i-see-lights/"
+      ]
+    },
+    {
+      "slug": "wooden-rooster",
+      "urls": [
+        "/stories/wooden-rooster/"
+      ]
+    },
+    {
+      "slug": "wooden-rooster-passage",
+      "urls": [
+        "/translations/wooden-rooster-passage/"
+      ]
+    },
+    {
+      "slug": "wu-he-you-zhi-xiang",
+      "urls": [
+        "/glossary/wu-he-you-zhi-xiang/"
+      ]
+    },
+    {
+      "slug": "wu-hua",
+      "urls": [
+        "/glossary/wu-hua/"
+      ]
+    },
+    {
+      "slug": "wu-sang-wo",
+      "urls": [
+        "/glossary/wu-sang-wo/"
+      ]
+    },
+    {
+      "slug": "wu-shi-wu-zhong",
+      "urls": [
+        "/glossary/wu-shi-wu-zhong/"
+      ]
+    },
+    {
+      "slug": "wu-you",
+      "urls": [
+        "/concepts/wu-you/"
+      ]
+    },
+    {
+      "slug": "wuwei",
+      "urls": [
+        "/concepts/wuwei/",
+        "/glossary/wuwei/"
+      ]
+    },
+    {
+      "slug": "wuwei-vs-non-action",
+      "urls": [
+        "/comparisons/wuwei-vs-non-action/"
+      ]
+    },
+    {
+      "slug": "xi",
+      "urls": [
+        "/glossary/xi/"
+      ]
+    },
+    {
+      "slug": "xian-jie",
+      "urls": [
+        "/glossary/xian-jie/"
+      ]
+    },
+    {
+      "slug": "xiao-zhiguan",
+      "urls": [
+        "/texts/xiao-zhiguan/"
+      ]
+    },
+    {
+      "slug": "xiao-zhiguan-five-adjustments",
+      "urls": [
+        "/timeline/xiao-zhiguan-five-adjustments/"
+      ]
+    },
+    {
+      "slug": "xiaoyao",
+      "urls": [
+        "/glossary/xiaoyao/"
+      ]
+    },
+    {
+      "slug": "xin",
+      "urls": [
+        "/glossary/xin/"
+      ]
+    },
+    {
+      "slug": "xing",
+      "urls": [
+        "/concepts/xing/",
+        "/glossary/xing/"
+      ]
+    },
+    {
+      "slug": "xinzhai",
+      "urls": [
+        "/concepts/xinzhai/",
+        "/glossary/xinzhai/"
+      ]
+    },
+    {
+      "slug": "xinzhai-passage",
+      "urls": [
+        "/translations/xinzhai-passage/"
+      ]
+    },
+    {
+      "slug": "xinzhai-vs-mindfulness",
+      "urls": [
+        "/comparisons/xinzhai-vs-mindfulness/"
+      ]
+    },
+    {
+      "slug": "xu",
+      "urls": [
+        "/concepts/xu/"
+      ]
+    },
+    {
+      "slug": "xuan",
+      "urls": [
+        "/glossary/xuan/"
+      ]
+    },
+    {
+      "slug": "xuan-pin",
+      "urls": [
+        "/glossary/xuan-pin/"
+      ]
+    },
+    {
+      "slug": "xushi-sheng-bai",
+      "urls": [
+        "/glossary/xushi-sheng-bai/"
+      ]
+    },
+    {
+      "slug": "xuzhou-empty-boat",
+      "urls": [
+        "/stories/xuzhou-empty-boat/"
+      ]
+    },
+    {
+      "slug": "yan-zun",
+      "urls": [
+        "/people/yan-zun/"
+      ]
+    },
+    {
+      "slug": "yang-xi",
+      "urls": [
+        "/people/yang-xi/"
+      ]
+    },
+    {
+      "slug": "yanshi-wind-song",
+      "urls": [
+        "/stories/yanshi-wind-song/"
+      ]
+    },
+    {
+      "slug": "yi",
+      "urls": [
+        "/concepts/yi/",
+        "/glossary/yi/"
+      ]
+    },
+    {
+      "slug": "yi-dai-niao",
+      "urls": [
+        "/stories/yi-dai-niao/"
+      ]
+    },
+    {
+      "slug": "yin-yang",
+      "urls": [
+        "/concepts/yin-yang/"
+      ]
+    },
+    {
+      "slug": "yingning",
+      "urls": [
+        "/glossary/yingning/"
+      ]
+    },
+    {
+      "slug": "yingning-passage",
+      "urls": [
+        "/translations/yingning-passage/"
+      ]
+    },
+    {
+      "slug": "yongxin-ruo-jing-passage",
+      "urls": [
+        "/translations/yongxin-ruo-jing-passage/"
+      ]
+    },
+    {
+      "slug": "yuan-du-yi-wei-jing",
+      "urls": [
+        "/glossary/yuan-du-yi-wei-jing/"
+      ]
+    },
+    {
+      "slug": "yun-jin-cheng-feng",
+      "urls": [
+        "/stories/yun-jin-cheng-feng/"
+      ]
+    },
+    {
+      "slug": "zaccaro-2018",
+      "urls": [
+        "/research/zaccaro-2018/"
+      ]
+    },
+    {
+      "slug": "zhang-boduan",
+      "urls": [
+        "/people/zhang-boduan/"
+      ]
+    },
+    {
+      "slug": "zhang-daoling",
+      "urls": [
+        "/people/zhang-daoling/"
+      ]
+    },
+    {
+      "slug": "zhang-sanfeng",
+      "urls": [
+        "/people/zhang-sanfeng/"
+      ]
+    },
+    {
+      "slug": "zhao-che",
+      "urls": [
+        "/glossary/zhao-che/"
+      ]
+    },
+    {
+      "slug": "zhen-zai",
+      "urls": [
+        "/glossary/zhen-zai/"
+      ]
+    },
+    {
+      "slug": "zhi-shui",
+      "urls": [
+        "/glossary/zhi-shui/"
+      ]
+    },
+    {
+      "slug": "zhi-wen-wuwei",
+      "urls": [
+        "/stories/zhi-wen-wuwei/"
+      ]
+    },
+    {
+      "slug": "zhi-yan",
+      "urls": [
+        "/stories/zhi-yan/"
+      ]
+    },
+    {
+      "slug": "zhili-shu",
+      "urls": [
+        "/stories/zhili-shu/"
+      ]
+    },
+    {
+      "slug": "zhiyi",
+      "urls": [
+        "/people/zhiyi/"
+      ]
+    },
+    {
+      "slug": "zhuang-zhou",
+      "urls": [
+        "/people/zhuang-zhou/"
+      ]
+    },
+    {
+      "slug": "zhuangzi",
+      "urls": [
+        "/texts/zhuangzi/"
+      ]
+    },
+    {
+      "slug": "zhuangzi-compilation",
+      "urls": [
+        "/timeline/zhuangzi-compilation/"
+      ]
+    },
+    {
+      "slug": "zhuangzi-skeleton",
+      "urls": [
+        "/stories/zhuangzi-skeleton/"
+      ]
+    },
+    {
+      "slug": "zhuzi-yulei-jingzuo",
+      "urls": [
+        "/timeline/zhuzi-yulei-jingzuo/"
+      ]
+    },
+    {
+      "slug": "ziran",
+      "urls": [
+        "/concepts/ziran/"
+      ]
+    },
+    {
+      "slug": "zuochi",
+      "urls": [
+        "/glossary/zuochi/"
+      ]
+    },
+    {
+      "slug": "zuowang",
+      "urls": [
+        "/concepts/zuowang/",
+        "/practices/zuowang/",
+        "/glossary/zuowang/"
+      ]
+    },
+    {
+      "slug": "zuowang-for-modern-practitioner",
+      "urls": [
+        "/blog/zuowang-for-modern-practitioner/"
+      ]
+    },
+    {
+      "slug": "zuowang-lun",
+      "urls": [
+        "/texts/zuowang-lun/"
+      ]
+    },
+    {
+      "slug": "zuowang-lun-composition",
+      "urls": [
+        "/timeline/zuowang-lun-composition/"
+      ]
+    },
+    {
+      "slug": "zuowang-passage",
+      "urls": [
+        "/translations/zuowang-passage/"
+      ]
+    },
+    {
+      "slug": "zuowang-safety-without-teacher",
+      "urls": [
+        "/questions/zuowang-safety-without-teacher/"
+      ]
+    },
+    {
+      "slug": "zuowang-vs-jingzuo",
+      "urls": [
+        "/questions/zuowang-vs-jingzuo/"
+      ]
+    },
+    {
+      "slug": "zuowang-vs-mindfulness",
+      "urls": [
+        "/comparisons/zuowang-vs-mindfulness/"
+      ]
+    },
+    {
+      "slug": "zuowang-vs-shouyi",
+      "urls": [
+        "/comparisons/zuowang-vs-shouyi/"
+      ]
+    }
+  ]
+}

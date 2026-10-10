@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import EntityFooter from '../../components/EntityFooter.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -13,6 +14,7 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
 const ev = (d.evidence || []).length ? d.evidence : undefined;
+const slug = entry.id.replace(/\.md$/, '');
 ---
 
 <Base title={d.title} description={d.description}>
@@ -30,6 +32,7 @@ const ev = (d.evidence || []).length ? d.evidence : undefined;
   )}
   {ev && <p class="meta">{ev.map((v) => <span class="tag">{v}</span>)}</p>}
   <Content />
+  <EntityFooter slug={slug} coll="research" />
   {(d.sources?.length > 0) && (
     <>
       <h2>Sources</h2>

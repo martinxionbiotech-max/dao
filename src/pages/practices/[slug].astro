@@ -1,10 +1,7 @@
 ---
 import Base from '../../layouts/Base.astro';
+import EntityFooter from '../../components/EntityFooter.astro';
 import { getCollection, render } from 'astro:content';
-import relationships from '../../data/relationships.json';
-
-const relFrom = new Set(relationships.items.map((r) => r.from));
-const relTo = new Set(relationships.items.map((r) => r.to));
 
 export async function getStaticPaths() {
   const entries = await getCollection('practices');
@@ -18,7 +15,6 @@ const { Content } = await render(entry);
 const d = entry.data;
 const ev = (d.evidence || []).length ? d.evidence : undefined;
 const slug = entry.id.replace(/\.md$/, '');
-const inGraph = relFrom.has(slug) || relTo.has(slug);
 ---
 
 <Base title={d.title} description={d.description}>
@@ -36,12 +32,7 @@ const inGraph = relFrom.has(slug) || relTo.has(slug);
   )}
   {ev && <p class="meta">{ev.map((v) => <span class="tag">{v}</span>)}</p>}
   <Content />
-  {inGraph && (
-    <p class="meta">
-      Data record: <a href={`https://data.daoismhub.com/graph/entities/${slug}/`}>{slug}</a> in the
-      Data Registry (relationships, incoming and outgoing).
-    </p>
-  )}
+  <EntityFooter slug={slug} coll="practices" />
   {(d.sources?.length > 0) && (
     <>
       <h2>Sources</h2>
