@@ -55,17 +55,17 @@
     {
       "from": "jingzuo",
       "to": "xinzhai",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "jingzuo",
       "to": "shouyi",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "shouyi",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "shouyi",
@@ -115,17 +115,17 @@
     {
       "from": "xinzhai",
       "to": "qingjing-jing",
-      "relation": "related_to"
+      "relation": "described_in"
     },
     {
       "from": "shouyi",
       "to": "neiguan-jing",
-      "relation": "related_to"
+      "relation": "described_in"
     },
     {
       "from": "neiguan-jing",
       "to": "qingjing-jing",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "xinzhai",
@@ -390,12 +390,12 @@
     {
       "from": "dantian",
       "to": "qi",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "dantian",
       "to": "shouyi",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "dantian",
@@ -405,12 +405,12 @@
     {
       "from": "tiaoxi",
       "to": "jingzuo",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "tiaoxi",
       "to": "qi",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "drowsiness-in-sitting",
@@ -1035,7 +1035,7 @@
     {
       "from": "zuochi",
       "to": "zuowang",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "zuochi",
@@ -1135,7 +1135,7 @@
     {
       "from": "liezi",
       "to": "daodejing",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "jiafuzuo",
@@ -1265,7 +1265,7 @@
     {
       "from": "liezi-compilation",
       "to": "zhuangzi-compilation",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "exp-010-lotus-pain",
@@ -1295,7 +1295,7 @@
     {
       "from": "yongxin-ruo-jing-passage",
       "to": "zhi-shui",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "yongxin-ruo-jing-passage",
@@ -1440,7 +1440,7 @@
     {
       "from": "shangqing-revelations",
       "to": "kou-qianzhi-reform",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "yingning",
@@ -1480,7 +1480,7 @@
     {
       "from": "daodejing-05",
       "to": "tuoyue",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-05",
@@ -2080,7 +2080,7 @@
     {
       "from": "wangbi-laozi-commentary",
       "to": "heshang-gong-commentary",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "daodejing-22",
@@ -2570,7 +2570,7 @@
     {
       "from": "zhen-zai",
       "to": "does-daoism-believe-in-a-creator",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-14",
@@ -2670,7 +2670,7 @@
     {
       "from": "exp-019-one-remedy-body",
       "to": "tiaoxi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "hezhe-zhi-fu",
@@ -2760,7 +2760,7 @@
     {
       "from": "xushi-sheng-bai",
       "to": "zuowang",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "daodejing-45",
@@ -2845,7 +2845,7 @@
     {
       "from": "can-meditation-cure-illness",
       "to": "exp-014-double-lotus-doctrine",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "can-meditation-cure-illness",
@@ -2894,11 +2894,6 @@
     },
     {
       "from": "zhao-che",
-      "to": "yingning",
-      "relation": "associated_with"
-    },
-    {
-      "from": "zhao-che",
       "to": "daodejing-48",
       "relation": "related_to"
     },
@@ -2915,12 +2910,12 @@
     {
       "from": "daodejing-06",
       "to": "xuan-pin",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-06",
       "to": "tuoyue",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-06",
@@ -3065,7 +3060,7 @@
     {
       "from": "li-ao",
       "to": "qingjing-jing",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "li-ao",
@@ -3375,7 +3370,7 @@
     {
       "from": "tian-lai",
       "to": "does-daoism-believe-in-a-creator",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-33",
@@ -3395,7 +3390,7 @@
     {
       "from": "daodejing-33",
       "to": "jian-du",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-33",
@@ -3440,7 +3435,7 @@
     {
       "from": "daodejing-08",
       "to": "zhi-shui",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-08",
@@ -3485,7 +3480,7 @@
     {
       "from": "zhang-daoling",
       "to": "taiping-jing",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "zhang-daoling",
@@ -3565,7 +3560,7 @@
     {
       "from": "how-long-until-results",
       "to": "daodejing-64",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "how-long-until-results",
@@ -3980,12 +3975,12 @@
     {
       "from": "xiaoyao",
       "to": "what-is-stillness",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "xiaoyao",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "xiaoyao",
@@ -4010,17 +4005,17 @@
     {
       "from": "daodejing-11",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-11",
       "to": "bao-guang",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-11",
       "to": "zhi-shui",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-11",
@@ -4085,7 +4080,7 @@
     {
       "from": "what-counts-as-progress",
       "to": "exp-021-prostrations-channel-circuit",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "what-counts-as-progress",
@@ -4165,7 +4160,7 @@
     {
       "from": "daodejing-07",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-07",
@@ -4280,12 +4275,12 @@
     {
       "from": "wu-sang-wo",
       "to": "zuowang",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "wu-sang-wo",
       "to": "xinzhai",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "wu-sang-wo",
@@ -4335,7 +4330,7 @@
     {
       "from": "daodejing-36",
       "to": "bao-guang",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-36",
@@ -4415,7 +4410,7 @@
     {
       "from": "does-practice-need-faith",
       "to": "zuowang-passage",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "does-practice-need-faith",
@@ -4445,7 +4440,7 @@
     {
       "from": "does-practice-need-faith",
       "to": "exp-016-nine-dhyanas-map",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "exp-025-lying-down-innovation",
@@ -4500,7 +4495,7 @@
     {
       "from": "exp-025-lying-down-innovation",
       "to": "jingzuo",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-025-lying-down-innovation",
@@ -4630,7 +4625,7 @@
     {
       "from": "qiwu",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "daodejing-40",
@@ -4660,7 +4655,7 @@
     {
       "from": "daodejing-40",
       "to": "bao-guang",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-40",
@@ -4770,7 +4765,7 @@
     {
       "from": "daodejing-12",
       "to": "tiaoxi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-12",
@@ -4980,12 +4975,12 @@
     {
       "from": "daodejing-13",
       "to": "wu-sang-wo",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-13",
       "to": "jing",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-13",
@@ -5030,12 +5025,12 @@
     {
       "from": "cheng-xuanying",
       "to": "zhuangzi",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "cheng-xuanying",
       "to": "daodejing",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "why-do-i-keep-quitting",
@@ -5240,17 +5235,17 @@
     {
       "from": "daodejing-32",
       "to": "zhi-shui",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-32",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-32",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "qiu-chuji",
@@ -5285,7 +5280,7 @@
     {
       "from": "qiu-chuji",
       "to": "daodejing",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "does-diet-matter",
@@ -5530,7 +5525,7 @@
     {
       "from": "daodejing-46",
       "to": "zhi-shui",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "bai-yuchan",
@@ -5560,7 +5555,7 @@
     {
       "from": "bai-yuchan",
       "to": "daodejing",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "bai-yuchan",
@@ -5590,7 +5585,7 @@
     {
       "from": "do-i-need-a-teacher",
       "to": "exp-017-why-he-began",
-      "relation": "related_to"
+      "relation": "references"
     },
     {
       "from": "do-i-need-a-teacher",
@@ -5640,7 +5635,7 @@
     {
       "from": "exp-027-finding-a-teacher",
       "to": "jingzuo",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "yi-dai-niao",
@@ -5780,12 +5775,12 @@
     {
       "from": "daodejing-55",
       "to": "jing-qi-shen",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-55",
       "to": "qi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "chen-nan",
@@ -5900,12 +5895,12 @@
     {
       "from": "exp-028-abdominal-breathing",
       "to": "tiaoxi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-028-abdominal-breathing",
       "to": "jingzuo",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "diao-ling-yi-que",
@@ -6034,11 +6029,6 @@
     },
     {
       "from": "daodejing-45",
-      "to": "daodejing",
-      "relation": "described_in"
-    },
-    {
-      "from": "daodejing-45",
       "to": "daodejing-11",
       "relation": "associated_with"
     },
@@ -6055,7 +6045,7 @@
     {
       "from": "daodejing-45",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-45",
@@ -6170,22 +6160,22 @@
     {
       "from": "exp-029-the-human-body",
       "to": "tiaoxi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-029-the-human-body",
       "to": "jingzuo",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-029-the-human-body",
       "to": "dantian",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "exp-029-the-human-body",
       "to": "qi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-45",
@@ -6295,7 +6285,7 @@
     {
       "from": "yuan-du-yi-wei-jing",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "yuan-du-yi-wei-jing",
@@ -6315,17 +6305,12 @@
     {
       "from": "yuan-du-yi-wei-jing",
       "to": "jingzuo",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "daodejing-42",
       "to": "daodejing",
       "relation": "translated_as"
-    },
-    {
-      "from": "daodejing-42",
-      "to": "daodejing",
-      "relation": "described_in"
     },
     {
       "from": "daodejing-42",
@@ -6350,22 +6335,22 @@
     {
       "from": "daodejing-42",
       "to": "qi",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-42",
       "to": "xu",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-42",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-42",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "ma-yu",
@@ -6470,7 +6455,7 @@
     {
       "from": "exp-030-the-pain-ledger",
       "to": "jingzuo",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "hook-smith",
@@ -6560,7 +6545,7 @@
     {
       "from": "wu-he-you-zhi-xiang",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "wu-he-you-zhi-xiang",
@@ -6590,17 +6575,17 @@
     {
       "from": "wu-he-you-zhi-xiang",
       "to": "zhuangzi",
-      "relation": "related_to"
+      "relation": "described_in"
     },
     {
       "from": "daodejing-78",
       "to": "wuwei",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-78",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-78",
@@ -6710,7 +6695,7 @@
     {
       "from": "exp-031-lotus-posture-chapter",
       "to": "jingzuo",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "taiqing-asks-wuqiong",
@@ -6800,7 +6785,7 @@
     {
       "from": "wu-shi-wu-zhong",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "associated_with"
     },
     {
       "from": "wu-shi-wu-zhong",
@@ -6840,22 +6825,22 @@
     {
       "from": "wu-shi-wu-zhong",
       "to": "zhuangzi",
-      "relation": "related_to"
+      "relation": "described_in"
     },
     {
       "from": "daodejing-51",
       "to": "dao",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-51",
       "to": "ziran",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-51",
       "to": "de",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "daodejing-51",
@@ -6980,7 +6965,7 @@
     {
       "from": "exp-032-from-zero-to-desire-realm",
       "to": "jingzuo",
-      "relation": "related_to"
+      "relation": "concerns"
     },
     {
       "from": "dao",

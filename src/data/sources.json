@@ -94,7 +94,7 @@
       "title": "Slingerland, Edward. Effortless Action: Wu-wei as Conceptual Metaphor and Spiritual Ideal in Early China. Oxford University Press, 2003",
       "type": "scholarship",
       "language": "en",
-      "url": null,
+      "url": "https://archive.org/details/effortlessaction0000slin",
       "pages_used_in": [
         "/concepts/wuwei/"
       ]
@@ -104,7 +104,7 @@
       "title": "Robinet, Isabelle. Taoist Meditation: The Mao-shan Tradition of Great Purity. SUNY Press, 1993",
       "type": "scholarship",
       "language": "en",
-      "url": null,
+      "url": "https://books.google.com/books?vid=ISBN0791413594",
       "pages_used_in": [
         "/concepts/shouyi/"
       ]
@@ -114,7 +114,7 @@
       "title": "Taylor, Rodney L. The Confucian Way of Contemplation: Okada Takehiko and the Tradition of Quiet-Sitting. University of South Carolina Press, 1988",
       "type": "scholarship",
       "language": "en",
-      "url": null,
+      "url": "https://archive.org/details/confucianwayofco0000tayl",
       "pages_used_in": [
         "/concepts/jingzuo/",
         "/practices/jingzuo/"
@@ -125,7 +125,7 @@
       "title": "Watson, Burton, trans. The Complete Works of Chuang Tzu. Columbia University Press, 1968",
       "type": "scholarship",
       "language": "en",
-      "url": null,
+      "url": "https://archive.org/details/completeworksofc0000burt",
       "pages_used_in": [
         "/texts/zhuangzi/",
         "/concepts/zuowang/"
@@ -146,7 +146,7 @@
       "title": "Henricks, Robert G., trans. Lao-Tzu Te-Tao Ching (Mawangdui text). Ballantine, 1989",
       "type": "scholarship",
       "language": "en",
-      "url": null,
+      "url": "https://books.google.com/books?vid=ISBN0345347900",
       "pages_used_in": [
         "/texts/daodejing/"
       ]
@@ -156,7 +156,7 @@
       "title": "Cook, Scott. The Bamboo Texts of Guodian. Cornell East Asia Series, 2012",
       "type": "scholarship",
       "language": "en",
-      "url": null,
+      "url": "https://books.google.com/books?vid=ISBN9781933947655",
       "pages_used_in": [
         "/texts/daodejing/"
       ]
@@ -211,7 +211,7 @@
       "title": "Kohn, Livia. God of the Dao: Lord Lao in History and Myth. Center for Chinese Studies, University of Michigan, 1998",
       "type": "scholarship",
       "language": "en",
-      "url": null,
+      "url": "https://archive.org/details/godofdaolordlaoi0000kohn",
       "pages_used_in": [
         "/people/laozi/"
       ]
@@ -589,7 +589,8 @@
       "language": "zh",
       "pages_used_in": [
         "/people/wei-huacun/"
-      ]
+      ],
+      "url": "https://zh.wikipedia.org/wiki/魏華存"
     },
     {
       "id": "shidian-daodejing-25",
@@ -1034,7 +1035,8 @@
       "language": "zh",
       "pages_used_in": [
         "/people/chen-tuan/"
-      ]
+      ],
+      "url": "https://zh.wikipedia.org/wiki/陳摶"
     },
     {
       "id": "163-taishi-24",
@@ -1194,7 +1196,8 @@
       "language": "zh",
       "pages_used_in": [
         "/people/li-ao/"
-      ]
+      ],
+      "url": "https://zh.wikipedia.org/wiki/李翱"
     },
     {
       "id": "163-taishi-46",
