@@ -5,6 +5,63 @@ interface Props {
 }
 const { title, description } = Astro.props;
 const pageTitle = title ? `${title} — Dao Knowledge Base` : 'Dao Knowledge Base';
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+const webPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: pageTitle,
+  ...(description ? { description } : {}),
+  url: canonicalUrl.href,
+  inLanguage: 'en',
+  isPartOf: {
+    '@type': 'WebSite',
+    name: 'Dao Knowledge Base',
+    url: Astro.site.href,
+  },
+};
+const breadcrumbSchema = (() => {
+  const segments = Astro.url.pathname.split('/').filter(Boolean);
+  if (segments.length === 0) return null;
+  const labels: Record<string, string> = {
+    concepts: 'Concepts',
+    practices: 'Practices',
+    people: 'People',
+    texts: 'Texts',
+    translations: 'Translations',
+    timeline: 'Timeline',
+    glossary: 'Glossary',
+    stories: 'Stories',
+    research: 'Research',
+    comparisons: 'Comparisons',
+    problems: 'Problems',
+    experiences: 'Experiences',
+    questions: 'Questions',
+    tools: 'Tools',
+    guides: 'Guides',
+    blog: 'Blog',
+    patterns: 'Patterns',
+    notes: 'Notes',
+    data: 'Data',
+    compliance: 'Compliance',
+    privacy: 'Privacy',
+    disclaimer: 'Disclaimer',
+  };
+  const items = [{ '@type': 'ListItem', position: 1, name: 'Home', item: Astro.site.href }];
+  let acc = '';
+  segments.forEach((seg, i) => {
+    acc += `${seg}/`;
+    const isLast = i === segments.length - 1;
+    const name = isLast ? title || seg : (labels[seg] || seg.replace(/-/g, ' '));
+    const item: Record<string, any> = {
+      '@type': 'ListItem',
+      position: i + 2,
+      name: String(name),
+    };
+    if (!isLast) item.item = new URL(`/${acc}`, Astro.site).href;
+    items.push(item);
+  });
+  return { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: items };
+})();
 ---
 
 <!doctype html>
@@ -21,6 +78,8 @@ const pageTitle = title ? `${title} — Dao Knowledge Base` : 'Dao Knowledge Bas
     <meta property="og:title" content={pageTitle} />
     {description && <meta property="og:description" content={description} />}
     <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site)} />
+    <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
+    {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
     <style is:global>
       :root {
         --ink: #1a1a1a;
