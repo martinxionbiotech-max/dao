@@ -11,7 +11,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-001-falling-asleep/"
+      "page": "/experiences/notes/exp-001-falling-asleep/"
     },
     {
       "id": "exp-002-warmth-rotation",
@@ -22,7 +22,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-002-warmth-rotation/"
+      "page": "/experiences/reports/exp-002-warmth-rotation/"
     },
     {
       "id": "exp-003-leg-pain-filling",
@@ -33,7 +33,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-003-leg-pain-filling/"
+      "page": "/experiences/reports/exp-003-leg-pain-filling/"
     },
     {
       "id": "exp-004-emotional-surfacing",
@@ -44,7 +44,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-004-emotional-surfacing/"
+      "page": "/experiences/notes/exp-004-emotional-surfacing/"
     },
     {
       "id": "exp-005-night-qi-movement",
@@ -55,7 +55,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-005-night-qi-movement/"
+      "page": "/experiences/notes/exp-005-night-qi-movement/"
     },
     {
       "id": "exp-006-leg-numbness",
@@ -66,7 +66,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-006-leg-numbness/"
+      "page": "/experiences/notes/exp-006-leg-numbness/"
     },
     {
       "id": "exp-007-digestive-release",
@@ -77,7 +77,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-007-digestive-release/"
+      "page": "/experiences/notes/exp-007-digestive-release/"
     },
     {
       "id": "exp-008-breath-stopping",
@@ -88,7 +88,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-008-breath-stopping/"
+      "page": "/experiences/notes/exp-008-breath-stopping/"
     },
     {
       "id": "exp-009-dissolving-void",
@@ -99,7 +99,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-009-dissolving-void/"
+      "page": "/experiences/notes/exp-009-dissolving-void/"
     },
     {
       "id": "exp-010-lotus-pain",
@@ -110,7 +110,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-010-lotus-pain/"
+      "page": "/experiences/notes/exp-010-lotus-pain/"
     },
     {
       "id": "exp-011-shougong-protocol",
@@ -121,7 +121,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-011-shougong-protocol/"
+      "page": "/experiences/notes/exp-011-shougong-protocol/"
     },
     {
       "id": "exp-012-restless-body",
@@ -132,7 +132,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-012-restless-body/"
+      "page": "/experiences/notes/exp-012-restless-body/"
     },
     {
       "id": "exp-013-buddhist-daoist-boundary",
@@ -143,7 +143,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-013-buddhist-daoist-boundary/"
+      "page": "/experiences/notes/exp-013-buddhist-daoist-boundary/"
     },
     {
       "id": "exp-014-double-lotus-doctrine",
@@ -154,7 +154,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-014-double-lotus-doctrine/"
+      "page": "/experiences/notes/exp-014-double-lotus-doctrine/"
     },
     {
       "id": "exp-015-heat-sweat-qi",
@@ -165,7 +165,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-015-heat-sweat-qi/"
+      "page": "/experiences/notes/exp-015-heat-sweat-qi/"
     },
     {
       "id": "exp-016-nine-dhyanas-map",
@@ -176,7 +176,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-016-nine-dhyanas-map/"
+      "page": "/experiences/notes/exp-016-nine-dhyanas-map/"
     },
     {
       "id": "exp-017-why-he-began",
@@ -187,7 +187,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-017-why-he-began/"
+      "page": "/experiences/notes/exp-017-why-he-began/"
     },
     {
       "id": "exp-018-halflotus-to-full-lotus",
@@ -198,7 +198,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-018-halflotus-to-full-lotus/"
+      "page": "/experiences/notes/exp-018-halflotus-to-full-lotus/"
     },
     {
       "id": "exp-019-one-remedy-body",
@@ -209,7 +209,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-019-one-remedy-body/"
+      "page": "/experiences/notes/exp-019-one-remedy-body/"
     },
     {
       "id": "exp-020-false-first-dhyana",
@@ -220,7 +220,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-020-false-first-dhyana/"
+      "page": "/experiences/notes/exp-020-false-first-dhyana/"
     },
     {
       "id": "exp-021-prostrations-channel-circuit",
@@ -231,7 +231,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-021-prostrations-channel-circuit/"
+      "page": "/experiences/notes/exp-021-prostrations-channel-circuit/"
     },
     {
       "id": "exp-022-its-all-theatre",
@@ -242,7 +242,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-022-its-all-theatre/"
+      "page": "/experiences/notes/exp-022-its-all-theatre/"
     },
     {
       "id": "exp-023-breath-is-the-key",
@@ -253,7 +253,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-023-breath-is-the-key/"
+      "page": "/experiences/notes/exp-023-breath-is-the-key/"
     },
     {
       "id": "exp-024-standing-and-sitting",
@@ -264,7 +264,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-024-standing-and-sitting/"
+      "page": "/experiences/notes/exp-024-standing-and-sitting/"
     },
     {
       "id": "exp-025-lying-down-innovation",
@@ -275,7 +275,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-025-lying-down-innovation/"
+      "page": "/experiences/notes/exp-025-lying-down-innovation/"
     },
     {
       "id": "exp-026-diet-gate",
@@ -286,7 +286,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-026-diet-gate/"
+      "page": "/experiences/notes/exp-026-diet-gate/"
     },
     {
       "id": "exp-027-finding-a-teacher",
@@ -297,7 +297,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-027-finding-a-teacher/"
+      "page": "/experiences/notes/exp-027-finding-a-teacher/"
     },
     {
       "id": "exp-028-abdominal-breathing",
@@ -308,7 +308,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-028-abdominal-breathing/"
+      "page": "/experiences/notes/exp-028-abdominal-breathing/"
     },
     {
       "id": "exp-029-the-human-body",
@@ -319,7 +319,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-029-the-human-body/"
+      "page": "/experiences/notes/exp-029-the-human-body/"
     },
     {
       "id": "exp-030-the-pain-ledger",
@@ -330,7 +330,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-030-the-pain-ledger/"
+      "page": "/experiences/notes/exp-030-the-pain-ledger/"
     },
     {
       "id": "exp-031-lotus-posture-chapter",
@@ -341,7 +341,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-031-lotus-posture-chapter/"
+      "page": "/experiences/notes/exp-031-lotus-posture-chapter/"
     },
     {
       "id": "exp-032-from-zero-to-desire-realm",
@@ -352,7 +352,7 @@
       "anonymity": "anonymous",
       "evidence_type": "PRACTITIONER EXPERIENCE",
       "publication_status": "published",
-      "page": "/experiences/exp-032-from-zero-to-desire-realm/"
+      "page": "/experiences/notes/exp-032-from-zero-to-desire-realm/"
     }
   ]
 }

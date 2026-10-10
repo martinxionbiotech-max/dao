@@ -123,19 +123,19 @@
     {
       "slug": "can-i-sit-in-bed",
       "urls": [
-        "/questions/can-i-sit-in-bed/"
+        "/experiences/questions/can-i-sit-in-bed/"
       ]
     },
     {
       "slug": "can-meditation-cure-illness",
       "urls": [
-        "/questions/can-meditation-cure-illness/"
+        "/experiences/questions/can-meditation-cure-illness/"
       ]
     },
     {
       "slug": "can-sitting-go-wrong",
       "urls": [
-        "/questions/can-sitting-go-wrong/"
+        "/experiences/questions/can-sitting-go-wrong/"
       ]
     },
     {
@@ -201,7 +201,7 @@
     {
       "slug": "combine-zuowang-mindfulness",
       "urls": [
-        "/questions/combine-zuowang-mindfulness/"
+        "/experiences/questions/combine-zuowang-mindfulness/"
       ]
     },
     {
@@ -225,7 +225,7 @@
     {
       "slug": "cunsi-or-zuowang",
       "urls": [
-        "/questions/cunsi-or-zuowang/"
+        "/experiences/questions/cunsi-or-zuowang/"
       ]
     },
     {
@@ -498,25 +498,25 @@
     {
       "slug": "do-i-need-a-teacher",
       "urls": [
-        "/questions/do-i-need-a-teacher/"
+        "/experiences/questions/do-i-need-a-teacher/"
       ]
     },
     {
       "slug": "does-daoism-believe-in-a-creator",
       "urls": [
-        "/questions/does-daoism-believe-in-a-creator/"
+        "/experiences/questions/does-daoism-believe-in-a-creator/"
       ]
     },
     {
       "slug": "does-diet-matter",
       "urls": [
-        "/questions/does-diet-matter/"
+        "/experiences/questions/does-diet-matter/"
       ]
     },
     {
       "slug": "does-practice-need-faith",
       "urls": [
-        "/questions/does-practice-need-faith/"
+        "/experiences/questions/does-practice-need-faith/"
       ]
     },
     {
@@ -540,7 +540,7 @@
     {
       "slug": "drowsiness-vs-stillness",
       "urls": [
-        "/patterns/drowsiness-vs-stillness/"
+        "/experiences/patterns/drowsiness-vs-stillness/"
       ]
     },
     {
@@ -558,199 +558,199 @@
     {
       "slug": "exp-001-falling-asleep",
       "urls": [
-        "/experiences/exp-001-falling-asleep/"
+        "/experiences/notes/exp-001-falling-asleep/"
       ]
     },
     {
       "slug": "exp-002-warmth-rotation",
       "urls": [
-        "/experiences/exp-002-warmth-rotation/"
+        "/experiences/reports/exp-002-warmth-rotation/"
       ]
     },
     {
       "slug": "exp-003-leg-pain-filling",
       "urls": [
-        "/experiences/exp-003-leg-pain-filling/"
+        "/experiences/reports/exp-003-leg-pain-filling/"
       ]
     },
     {
       "slug": "exp-004-emotional-surfacing",
       "urls": [
-        "/experiences/exp-004-emotional-surfacing/"
+        "/experiences/notes/exp-004-emotional-surfacing/"
       ]
     },
     {
       "slug": "exp-005-night-qi-movement",
       "urls": [
-        "/experiences/exp-005-night-qi-movement/"
+        "/experiences/notes/exp-005-night-qi-movement/"
       ]
     },
     {
       "slug": "exp-006-leg-numbness",
       "urls": [
-        "/experiences/exp-006-leg-numbness/"
+        "/experiences/notes/exp-006-leg-numbness/"
       ]
     },
     {
       "slug": "exp-007-digestive-release",
       "urls": [
-        "/experiences/exp-007-digestive-release/"
+        "/experiences/notes/exp-007-digestive-release/"
       ]
     },
     {
       "slug": "exp-008-breath-stopping",
       "urls": [
-        "/experiences/exp-008-breath-stopping/"
+        "/experiences/notes/exp-008-breath-stopping/"
       ]
     },
     {
       "slug": "exp-009-dissolving-void",
       "urls": [
-        "/experiences/exp-009-dissolving-void/"
+        "/experiences/notes/exp-009-dissolving-void/"
       ]
     },
     {
       "slug": "exp-010-lotus-pain",
       "urls": [
-        "/experiences/exp-010-lotus-pain/"
+        "/experiences/notes/exp-010-lotus-pain/"
       ]
     },
     {
       "slug": "exp-011-shougong-protocol",
       "urls": [
-        "/experiences/exp-011-shougong-protocol/"
+        "/experiences/notes/exp-011-shougong-protocol/"
       ]
     },
     {
       "slug": "exp-012-restless-body",
       "urls": [
-        "/experiences/exp-012-restless-body/"
+        "/experiences/notes/exp-012-restless-body/"
       ]
     },
     {
       "slug": "exp-013-buddhist-daoist-boundary",
       "urls": [
-        "/experiences/exp-013-buddhist-daoist-boundary/"
+        "/experiences/notes/exp-013-buddhist-daoist-boundary/"
       ]
     },
     {
       "slug": "exp-014-double-lotus-doctrine",
       "urls": [
-        "/experiences/exp-014-double-lotus-doctrine/"
+        "/experiences/notes/exp-014-double-lotus-doctrine/"
       ]
     },
     {
       "slug": "exp-015-heat-sweat-qi",
       "urls": [
-        "/experiences/exp-015-heat-sweat-qi/"
+        "/experiences/notes/exp-015-heat-sweat-qi/"
       ]
     },
     {
       "slug": "exp-016-nine-dhyanas-map",
       "urls": [
-        "/experiences/exp-016-nine-dhyanas-map/"
+        "/experiences/notes/exp-016-nine-dhyanas-map/"
       ]
     },
     {
       "slug": "exp-017-why-he-began",
       "urls": [
-        "/experiences/exp-017-why-he-began/"
+        "/experiences/notes/exp-017-why-he-began/"
       ]
     },
     {
       "slug": "exp-018-halflotus-to-full-lotus",
       "urls": [
-        "/experiences/exp-018-halflotus-to-full-lotus/"
+        "/experiences/notes/exp-018-halflotus-to-full-lotus/"
       ]
     },
     {
       "slug": "exp-019-one-remedy-body",
       "urls": [
-        "/experiences/exp-019-one-remedy-body/"
+        "/experiences/notes/exp-019-one-remedy-body/"
       ]
     },
     {
       "slug": "exp-020-false-first-dhyana",
       "urls": [
-        "/experiences/exp-020-false-first-dhyana/"
+        "/experiences/notes/exp-020-false-first-dhyana/"
       ]
     },
     {
       "slug": "exp-021-prostrations-channel-circuit",
       "urls": [
-        "/experiences/exp-021-prostrations-channel-circuit/"
+        "/experiences/notes/exp-021-prostrations-channel-circuit/"
       ]
     },
     {
       "slug": "exp-022-its-all-theatre",
       "urls": [
-        "/experiences/exp-022-its-all-theatre/"
+        "/experiences/notes/exp-022-its-all-theatre/"
       ]
     },
     {
       "slug": "exp-023-breath-is-the-key",
       "urls": [
-        "/experiences/exp-023-breath-is-the-key/"
+        "/experiences/notes/exp-023-breath-is-the-key/"
       ]
     },
     {
       "slug": "exp-024-standing-and-sitting",
       "urls": [
-        "/experiences/exp-024-standing-and-sitting/"
+        "/experiences/notes/exp-024-standing-and-sitting/"
       ]
     },
     {
       "slug": "exp-025-lying-down-innovation",
       "urls": [
-        "/experiences/exp-025-lying-down-innovation/"
+        "/experiences/notes/exp-025-lying-down-innovation/"
       ]
     },
     {
       "slug": "exp-026-diet-gate",
       "urls": [
-        "/experiences/exp-026-diet-gate/"
+        "/experiences/notes/exp-026-diet-gate/"
       ]
     },
     {
       "slug": "exp-027-finding-a-teacher",
       "urls": [
-        "/experiences/exp-027-finding-a-teacher/"
+        "/experiences/notes/exp-027-finding-a-teacher/"
       ]
     },
     {
       "slug": "exp-028-abdominal-breathing",
       "urls": [
-        "/experiences/exp-028-abdominal-breathing/"
+        "/experiences/notes/exp-028-abdominal-breathing/"
       ]
     },
     {
       "slug": "exp-029-the-human-body",
       "urls": [
-        "/experiences/exp-029-the-human-body/"
+        "/experiences/notes/exp-029-the-human-body/"
       ]
     },
     {
       "slug": "exp-030-the-pain-ledger",
       "urls": [
-        "/experiences/exp-030-the-pain-ledger/"
+        "/experiences/notes/exp-030-the-pain-ledger/"
       ]
     },
     {
       "slug": "exp-031-lotus-posture-chapter",
       "urls": [
-        "/experiences/exp-031-lotus-posture-chapter/"
+        "/experiences/notes/exp-031-lotus-posture-chapter/"
       ]
     },
     {
       "slug": "exp-032-from-zero-to-desire-realm",
       "urls": [
-        "/experiences/exp-032-from-zero-to-desire-realm/"
+        "/experiences/notes/exp-032-from-zero-to-desire-realm/"
       ]
     },
     {
       "slug": "falling-asleep-during-meditation",
       "urls": [
-        "/questions/falling-asleep-during-meditation/"
+        "/experiences/questions/falling-asleep-during-meditation/"
       ]
     },
     {
@@ -876,19 +876,19 @@
     {
       "slug": "how-do-i-know-my-posture-is-right",
       "urls": [
-        "/questions/how-do-i-know-my-posture-is-right/"
+        "/experiences/questions/how-do-i-know-my-posture-is-right/"
       ]
     },
     {
       "slug": "how-long-should-i-sit",
       "urls": [
-        "/questions/how-long-should-i-sit/"
+        "/experiences/questions/how-long-should-i-sit/"
       ]
     },
     {
       "slug": "how-long-until-results",
       "urls": [
-        "/questions/how-long-until-results/"
+        "/experiences/questions/how-long-until-results/"
       ]
     },
     {
@@ -954,19 +954,19 @@
     {
       "slug": "i-feel-nothing-when-i-sit",
       "urls": [
-        "/questions/i-feel-nothing-when-i-sit/"
+        "/experiences/questions/i-feel-nothing-when-i-sit/"
       ]
     },
     {
       "slug": "is-one-style-enough",
       "urls": [
-        "/questions/is-one-style-enough/"
+        "/experiences/questions/is-one-style-enough/"
       ]
     },
     {
       "slug": "is-sitting-religious",
       "urls": [
-        "/questions/is-sitting-religious/"
+        "/experiences/questions/is-sitting-religious/"
       ]
     },
     {
@@ -1064,7 +1064,7 @@
     {
       "slug": "leg-numbness-pain",
       "urls": [
-        "/patterns/leg-numbness-pain/"
+        "/experiences/patterns/leg-numbness-pain/"
       ]
     },
     {
@@ -1197,7 +1197,7 @@
     {
       "slug": "must-i-sit-cross-legged",
       "urls": [
-        "/questions/must-i-sit-cross-legged/"
+        "/experiences/questions/must-i-sit-cross-legged/"
       ]
     },
     {
@@ -1266,7 +1266,7 @@
     {
       "slug": "qi-belief-necessary",
       "urls": [
-        "/questions/qi-belief-necessary/"
+        "/experiences/questions/qi-belief-necessary/"
       ]
     },
     {
@@ -1405,13 +1405,13 @@
     {
       "slug": "should-i-meditate-when-sick",
       "urls": [
-        "/questions/should-i-meditate-when-sick/"
+        "/experiences/questions/should-i-meditate-when-sick/"
       ]
     },
     {
       "slug": "should-i-use-timers",
       "urls": [
-        "/questions/should-i-use-timers/"
+        "/experiences/questions/should-i-use-timers/"
       ]
     },
     {
@@ -1654,13 +1654,13 @@
     {
       "slug": "warmth-and-qi-sensations",
       "urls": [
-        "/patterns/warmth-and-qi-sensations/"
+        "/experiences/patterns/warmth-and-qi-sensations/"
       ]
     },
     {
       "slug": "warmth-tingling-when-sitting",
       "urls": [
-        "/questions/warmth-tingling-when-sitting/"
+        "/experiences/questions/warmth-tingling-when-sitting/"
       ]
     },
     {
@@ -1672,7 +1672,7 @@
     {
       "slug": "what-counts-as-progress",
       "urls": [
-        "/questions/what-counts-as-progress/"
+        "/experiences/questions/what-counts-as-progress/"
       ]
     },
     {
@@ -1690,7 +1690,7 @@
     {
       "slug": "what-is-stillness",
       "urls": [
-        "/questions/what-is-stillness/"
+        "/experiences/questions/what-is-stillness/"
       ]
     },
     {
@@ -1714,19 +1714,19 @@
     {
       "slug": "why-am-i-so-sleepy",
       "urls": [
-        "/questions/why-am-i-so-sleepy/"
+        "/experiences/questions/why-am-i-so-sleepy/"
       ]
     },
     {
       "slug": "why-do-i-keep-quitting",
       "urls": [
-        "/questions/why-do-i-keep-quitting/"
+        "/experiences/questions/why-do-i-keep-quitting/"
       ]
     },
     {
       "slug": "why-do-i-see-lights",
       "urls": [
-        "/questions/why-do-i-see-lights/"
+        "/experiences/questions/why-do-i-see-lights/"
       ]
     },
     {
@@ -2086,13 +2086,13 @@
     {
       "slug": "zuowang-safety-without-teacher",
       "urls": [
-        "/questions/zuowang-safety-without-teacher/"
+        "/experiences/questions/zuowang-safety-without-teacher/"
       ]
     },
     {
       "slug": "zuowang-vs-jingzuo",
       "urls": [
-        "/questions/zuowang-vs-jingzuo/"
+        "/experiences/questions/zuowang-vs-jingzuo/"
       ]
     },
     {
