@@ -1,5 +1,7 @@
 ---
 title: "Zuowang: The Practice of Sitting in Oblivion"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Zuowang 坐忘 as a structured method — Sima Chengzhen's seven stages (reverent faith to attaining the Dao), the classical Zhuangzi state description, and what the tradition does and does not claim."
 chinese: "坐忘"
 pinyin: "zuòwàng"
@@ -7,7 +9,6 @@ tradition: "Daoist (classical Zhuangzi; systematized in Tang Shangqing)"
 difficulty: "advanced in its full form; the stages are explicitly graduated"
 originPeriod: "State described in Zhuangzi (4th–3rd c. BCE); method systematized in Tang (7th–8th c.)"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["zuowang", "xinzhai", "wuwei", "qi"]
 relatedTexts: ["zhuangzi"]

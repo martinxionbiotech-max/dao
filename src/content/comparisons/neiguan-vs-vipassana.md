@@ -1,13 +1,14 @@
 ---
 {
   "title": "Neiguan vs. Vipassana: A Structured Comparison",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "Two observation practices with a shared verb and a shared modern translation problem: the Sui–Tang neiguan and modern Burmese-derived vipassana — where they converge, and why 'neiguan is Chinese vipassana' is historically backwards.",
   "entities": [
     "neiguan",
     "vipassana"
   ],
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "SCHOLARLY INTERPRETATION"

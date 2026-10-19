@@ -1,9 +1,10 @@
 ---
 title: "Zuowang vs. Mindfulness: A Structured Comparison"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Sitting in oblivion and modern mindfulness meditation: goals, methods, attention, and self compared from primary sources and research evidence — with the limits of the comparison stated."
 entities: ["zuowang", "mindfulness"]
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION", "MODERN RESEARCH"]
 relatedConcepts: ["zuowang", "xinzhai", "wuwei"]
 sources:

@@ -1,10 +1,11 @@
 ---
 title: "Zhuangzi and the Skull"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Zhuangzi raps a roadside skull with his horse-whip and cross-examines it about the disasters of the living. That night the skull comes to him in a dream and refuses his offer of resurrection — the book's sharpest, funniest death joke."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedStories: ["drumming-basin", "sanghu-friends", "butterfly-dream"]
 relatedQuestions: ["does-daoism-believe-in-a-creator", "can-meditation-cure-illness"]

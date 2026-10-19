@@ -1,6 +1,8 @@
 ---
 {
   "title": "Neigong: Internal Work — The Term and Its Territory",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "Neigong 内功, 'internal work' — the counter-term to external exercise: what it means in the martial and cultivation traditions, and the site's cautious treatment of a loosely attested term.",
   "chinese": "内功",
   "pinyin": "nèigōng",
@@ -8,7 +10,6 @@
   "difficulty": "advanced framing term; it names a category of practice rather than a single beginner technique",
   "originPeriod": "Term in wide use by the Ming-Qing period in martial contexts; precise first attestation uncertain",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "TRADITIONAL / LINEAGE INTERPRETATION",
     "UNCERTAIN"

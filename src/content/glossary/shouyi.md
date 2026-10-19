@@ -1,5 +1,7 @@
 ---
 title: "Shouyi"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: shouyi 守一, 'guarding the One' — the early Daoist meditation term and its translation."
 chinese: "守一"
 pinyin: "shǒuyī"
@@ -8,7 +10,6 @@ translationOptions: ["guarding the One", "keeping to the One", "maintaining Onen
 recommended: "guarding the One (standard in Robinet and Kohn)"
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["shouyi"]
 sources:
   - "Daodejing ch. 10; Taiping Jing; Robinet, Taoist Meditation (1993)"

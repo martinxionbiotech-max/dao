@@ -1,10 +1,11 @@
 ---
 title: "Why does the mind keep wandering during quiet sitting?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "A problem page: mental wandering during sitting is documented across Chinese contemplative sources from the Han chamber method to Zhu Xi's classroom. What the sources say, and what is unknown."
 question: "Why does the mind keep wandering during quiet sitting, and is that normal?"
 shortAnswer: "Yes — scattered attention is the documented starting condition of every Chinese sitting tradition, from the Han Taiping Jing to Zhu Xi. The traditions treat it as the normal state to be worked with, not a personal failure."
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE"]
 relatedConcepts: ["jingzuo", "xinzhai", "shouyi"]
 relatedPractices: ["jingzuo"]

@@ -1,10 +1,11 @@
 ---
 title: "Thirty Spokes Share One Hub (Daodejing 11)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 11: the wheel, the vessel, the room — three artifacts, each built around an emptiness, and the formula the chapter closes with: being gives the benefit, nothing gives the use."
 sourceText: "daodejing"
 chapter: "Ch. 11"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["xu", "wuwei"]
 relatedTranslations: ["daodejing-02", "daodejing-05"]

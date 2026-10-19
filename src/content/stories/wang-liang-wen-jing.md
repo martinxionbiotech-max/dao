@@ -1,10 +1,11 @@
 ---
 title: "The Penumbra Asks the Shadow"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The penumbra scolds the shadow for having no constancy of its own. The shadow answers with a chain of dependencies — and then refuses to know where the chain ends."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedStories: ["butterfly-dream", "huzi-jixian"]
 relatedGlossary: ["tian-ji"]

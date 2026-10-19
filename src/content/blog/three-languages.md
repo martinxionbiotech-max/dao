@@ -1,9 +1,10 @@
 ---
 title: "One Body, Three Languages"
+date: 2026-10-10
+updated: 2026-10-10
 description: "An editorial on how this site handles the vocabularies that meet in Chinese sitting practice — practitioner, traditional, and scientific — and why keeping them separate is the whole method."
 kind: editorial
 status: published
-date: 2026-10-07
 evidence: ["EDITORIAL SYNTHESIS", "PRACTITIONER EXPERIENCE", "MODERN RESEARCH"]
 relatedConcepts: ["qi", "jingzuo", "zuowang"]
 relatedPractices: ["jingzuo"]

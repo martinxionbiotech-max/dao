@@ -1,10 +1,11 @@
 ---
 title: "The Hunchback and the Cicada"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Confucius meets an old hunchback catching cicadas as easily as picking them up — and hears the formula that became the Chinese canon's definition of concentration: 'intention undivided, spirit condensed.'"
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["jingzuo", "shouyi"]
 relatedPractices: ["jingzuo"]

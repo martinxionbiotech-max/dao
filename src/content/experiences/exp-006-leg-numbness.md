@@ -1,5 +1,7 @@
 ---
 title: "EXP-006: Pins-and-Needles in the First Cross-Legged Session"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized note: ten minutes into a first single-cross-legged sitting, the lower leg fills with needles — and the tradition's own 'endure or adjust' fork."
 experienceId: "EXP-006"
 practice: "cross-legged seated meditation (single lotus)"
@@ -17,7 +19,6 @@ sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 relatedConcepts: ["jingzuo"]
 relatedPractices: ["jingzuo"]

@@ -1,10 +1,11 @@
 ---
 title: "Why do I get drowsy or fall asleep during sitting — and is that stillness?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "A problem page: drowsiness (昏沉) vs stillness (入静) — the manuals' explicit distinction, the named causes, and the remedies, plus the modern fatigue reading."
 question: "Why do I get drowsy or fall asleep during sitting — and is drowsiness the same as entering stillness?"
 shortAnswer: "No. The manuals are explicit: drowsiness (昏沉) is an error state, and mistaking it for stillness (入静) is a named beginner's mistake. Stillness is lucid and light; drowsiness is dull and heavy. The standard causes are heavy meals, collapsed posture, and sitting while exhausted — and the remedies are direct: eat lightly, hold the posture, rest before sitting."
 status: published
-date: 2026-10-07
 evidence: ["TRADITIONAL / LINEAGE INTERPRETATION", "CONTEMPORARY COMMUNITY OBSERVATION", "PRACTITIONER EXPERIENCE"]
 relatedConcepts: ["jingzuo", "zuowang"]
 relatedPractices: ["jingzuo", "zuowang"]

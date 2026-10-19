@@ -1,10 +1,11 @@
 ---
 title: "Returning Is the Motion of the Way (Daodejing 40)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 40 — the book's shortest chapter and its own hinge: returning is the Way's motion, the soft is the Way's use, and the generation formula — all things born from being, being born from nothing."
 sourceText: "daodejing"
 chapter: "Ch. 40"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["wuwei"]
 relatedTranslations: ["daodejing-36", "daodejing-25", "daodejing-02", "daodejing-11"]

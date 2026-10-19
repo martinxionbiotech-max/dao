@@ -29,10 +29,11 @@ const definedTermSchema = d.description ? {
 } : null;
 ---
 
-<Base title={d.title} description={d.description}>
+<Base title={d.title} description={d.description} published={d.date} updated={d.updated}>
   {definedTermSchema && <script type="application/ld+json" set:html={JSON.stringify(definedTermSchema)} />}
   <h1>{d.title}</h1>
   {d.description && <p class="lede">{d.description}</p>}
+  {d.date && <p class="meta">Published {d.date.toISOString().slice(0, 10)} &middot; Updated {(d.updated || d.date).toISOString().slice(0, 10)}</p>}
   {(d.chinese || d.pinyin || d.tradition || d.period || d.dynasty || d.author) && (
     <p class="meta">
       {d.chinese && <span>中文: {d.chinese} &middot; </span>}

@@ -1,12 +1,13 @@
 ---
 title: "Is One Style Enough?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The archive's teacher has one answer to the method-switcher: read everything first, pick one door, go deep — switching methods within a single sitting is the diagnosed error. The book's own sources agree in a different key: embrace the One, concentrate the intention, one gate. The site's position: one style at a time is the practice-tradition's rule; pairing traditions is the open question."
 question: "Should I stick to one meditation method, or is it better to practice several styles at once — mindfulness here, breath work there, visualization somewhere else — and switch between them? The archive's teacher seems to warn against exactly this."
 context: "Asked by practitioners who have read the archive's warning against switching methods mid-sitting, and by readers of this site's own page on combining zuowang with mindfulness, which seems to say the opposite."
 answerState: answered
 answerScope: "At the practice layer and the source-text layer. What the archive's teacher consistently says about method-switching, what the classical sources say about one-pointedness, and where the site's own pages already take a position."
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 relatedQuestions: ["combine-zuowang-mindfulness", "cunsi-or-zuowang", "what-counts-as-progress"]
 relatedExperiences: ["exp-027-finding-a-teacher", "exp-023-breath-is-the-key"]

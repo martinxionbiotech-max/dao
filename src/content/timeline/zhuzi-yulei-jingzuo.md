@@ -1,12 +1,13 @@
 ---
 title: "Zhu Xi Prescribes Jingzuo: 'Half a Day Sitting, Half a Day Reading' (12th c.)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Zhuzi Yulei juan 116 records Zhu Xi's famous prescription of half-day sitting, half-day reading — addressed to one scattered student as a remedy, not a universal program."
 periodStart: "12th c. CE"
 periodEnd: "12th c. CE"
 eventType: "recorded teaching"
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["jingzuo"]
 sources:
   - "Zhuzi Yulei, juan 116 (recorded sayings of Zhu Xi)"

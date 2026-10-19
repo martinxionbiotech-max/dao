@@ -1,10 +1,11 @@
 ---
 title: "Goblet Words"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The chapter where the book explains itself: three ways of speaking — yuyan (lodged words, nine in ten), zhongyan (weighty words, the elders' authority), zhiyan (goblet words) — and the goblet is the image that matters: it tips when full, rights when empty, and never holds its own shape. Words that pour out daily, fitting the moment, and the book says this is the only speech that lasts."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedStories: ["three-in-the-morning", "butterfly-dream", "ren-gongzi-fishing"]
 relatedGlossary: ["tian-jun", "qiwu", "bao-guang"]

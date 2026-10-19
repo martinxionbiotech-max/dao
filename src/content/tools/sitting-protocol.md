@@ -1,10 +1,11 @@
 ---
 title: "Classical-Grounded Sitting Protocol"
+date: 2026-10-10
+updated: 2026-10-10
 description: "A minimal sitting-session protocol assembled from verified classical instructions — with every step traced to its source and clearly marked as an editorial aid, not a traditional teaching."
 purpose: "A practice aid for modern secular or lay practitioners who want their sitting sessions to follow documented classical counsel without lineage claims"
 evidence: ["EDITORIAL SYNTHESIS", "PRIMARY SOURCE"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["zuowang", "jingzuo", "xinzhai"]
 relatedPractices: ["zuowang", "jingzuo"]
 sources:

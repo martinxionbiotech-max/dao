@@ -1,12 +1,13 @@
 ---
 title: "Why Do I Keep Quitting?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The quitting question, answered honestly: most quitting is a goal-setting problem and a measuring problem, not a character problem — and the tradition's own texts diagnose both, because they were written by people who knew how this ends."
 question: "I keep starting a sitting practice and stopping after a few days or weeks. I feel like I lack discipline. Why do I keep quitting, and how do I actually stick with it?"
 context: "The question the site's time pages raised: if there is no unified timetable (how-long-until-results) and progress is measured by practice rather than stages (what-counts-as-progress), then what actually breaks the loop of starting and stopping? Asked by beginners for whom the start itself is easy and the third week is impossible."
 answerState: answered
 answerScope: "At the practice layer. What the tradition's own texts say about endings and small steps, what the archive's teachers say about rest and forcing, and the restart rule that follows."
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "PRACTITIONER EXPERIENCE"]
 relatedQuestions: ["how-long-until-results", "what-counts-as-progress", "how-long-should-i-sit"]
 relatedExperiences: ["exp-012-restless-body", "exp-020-false-first-dhyana", "exp-024-standing-and-sitting"]

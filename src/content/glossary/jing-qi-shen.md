@@ -1,5 +1,7 @@
 ---
 title: "Jing-Qi-Shen"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: jing-qi-shen 精气神 — the 'three treasures' of Daoist cultivation, and what they are not."
 chinese: "精气神"
 pinyin: "jīng-qì-shén"
@@ -8,7 +10,6 @@ translationOptions: ["the three treasures (sanbao)", "essence, qi, spirit", "vit
 recommended: "the three treasures (jing, qi, shen), glossed once; never 'body-fluids-energy-mind' literally"
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["qi", "shouyi"]
 sources:
   - "Taiping Jing (shouyi as guarding jing, qi, shen); Daodejing ch. 10"

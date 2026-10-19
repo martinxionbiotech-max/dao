@@ -1,13 +1,14 @@
 ---
 {
   "title": "Wuwei vs. Non-Action: A Structured Comparison",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "The most famous translation problem in Daoism: what 'non-action' gets wrong about wuwei, what the texts actually say, and why the error matters for practice.",
   "entities": [
     "wuwei",
     "non-action"
   ],
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "SCHOLARLY INTERPRETATION"

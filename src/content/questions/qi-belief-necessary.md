@@ -1,12 +1,13 @@
 ---
 title: "Do I Need to Believe in Qi to Benefit from These Practices?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Whether qi-belief is a precondition of Daoist sitting practice — what the texts themselves frame as belief, what transfers without it, and what the research literature can and cannot support."
 question: "Do I need to believe in qi to benefit from Daoist sitting practices?"
 context: "Modern secular readers ask whether the traditional physiology is a load-bearing part of the practice or an optional frame."
 answerState: open
 evidence: ["PRIMARY SOURCE", "PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["qi", "xinzhai", "zuowang", "jing-qi-shen"]
 sources:
   - "Zhuangzi chs. 4, 6; Qingjing Jing; Neiguan Jing; Goyal et al. 2014"

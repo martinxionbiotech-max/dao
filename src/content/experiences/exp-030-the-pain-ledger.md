@@ -1,5 +1,7 @@
 ---
 title: "The Pain Ledger"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The archive's pain-summary episode: why the legs hurt again after they stopped hurting, which part of the body is being repaired at which sitting length, and the teacher's own injury made audible. The centerpiece is the repair schedule — skin 28 days, muscle 2–3 years, sinew 3–4 years, bone 7 years — and its consequence: the pain that arrives between 90 minutes and two hours is the sound of the sinews and bones being rebuilt, which is exactly why the two-hour sit is not an arbitrary number."
 series: "Taishi Q&A"
 episode: "Taishi episode 31 (double-lotus pain round-up), NetEase repost"
@@ -8,7 +10,6 @@ practice: "The pain phases of double-lotus sitting: the cell-turnover schedule (
 tradition: "Buddhist monastic practice (Chan), self-described"
 context: "Taishi Q&A episode 31 (太师修行问答31：双盘时身体的反应，各种痛感汇总, NetEase Hao repost dated 2021-02-18), retrieved 2026-10-07 from 163.com. The episode opens with a practitioner who had reached the comfortable one-hour sit and found the pain returning when he extended to 1h25m; the teacher's answer is the cell-turnover schedule and the claim that the returning pain is the sinew-and-bone repair beginning — with the ankle carrying all the body's weight, then the knee, then the hip joint, and the pain-window at 90 minutes to two hours; the two-hour sit, he says, is not an arbitrary number (这个两小时不是随便说的). Further exchanges: the heat phase needs only three months of breath practice, but the desire-realm dhyana takes 2–3 years because bone repair takes 7 years and the extra oxygen halves it; post-sitting pain extending into the next day and head-sweating during the sit (blood blocked below rises to the head, which relieves pressure by sweating); the leg assignment (demon-subduing sit burns the left leg, lotus sit burns the right leg); the numbness asymmetry (left leg goes numb when shifted, right leg only hurts — because the demon-subduing sit is the left leg's trial); the whole-body sequence (ankle, then hips, then back, then neck — 全身都疼一遍就好了); the prostrations-correct-the-spine answer; and the reader-layer exchanges: the terminology dispute among readers over 莲花坐/吉祥坐/降魔坐, the half-hour fire-heat in both feet as the channels opening, the deep pressure marks that fade as the body softens, the practitioner who transferred grief about his mother into Buddha-recitation and reported it stopped all other wandering thoughts"
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 sourceType: note
 anonymity: "anonymous"

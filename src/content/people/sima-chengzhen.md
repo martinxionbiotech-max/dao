@@ -1,12 +1,13 @@
 ---
 title: "Sima Chengzhen"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Sima Chengzhen 司马承祯 (647–735): the Shangqing patriarch of Tiantai who wrote the Zuowang Lun, taught three Tang emperors, and systematized Daoist seated meditation into seven stages."
 chinese: "司马承祯"
 pinyin: "Sīmǎ Chéngzhēn"
 period: "Tang dynasty, 647–735"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "PRIMARY SOURCE"]
 relatedTexts: ["zuowang-lun", "neiguan-jing", "qingjing-jing"]
 relatedConcepts: ["zuowang", "shouyi"]

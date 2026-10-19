@@ -1,5 +1,7 @@
 ---
 title: "EXP-003: Two Months of Leg Pain and a Felt 'Filling' of the Abdomen"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized report: after two months of cross-legged sitting, a practitioner describes the pain plateau, an odd sensation of the abdomen filling with air, and shoulder pain."
 experienceId: "EXP-003"
 practice: "Buddhist-style seated meditation (打坐), cross-legged"
@@ -23,7 +25,6 @@ sourceType: report
 confidence: "high"
 anonymity: "anonymous"
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 relatedConcepts: ["jingzuo", "qi", "jing-qi-shen"]
 relatedPractices: ["jingzuo"]

@@ -1,5 +1,7 @@
 ---
 title: "Daodejing (the Book)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Daodejing 道德经: the 81-chapter classic of the Way and Virtue — wuwei, the One, and the subtraction program. Manuscript history (Mawangdui 1973, Guodian 1993) and why chapter numbers vary."
 chinese: "道德经"
 pinyin: "Dàodéjīng"
@@ -7,7 +9,6 @@ author: "Laozi (traditional attribution; authorship uncertain)"
 dynasty: "Traditional date 6th c. BCE; earliest manuscripts pre-300 BCE (Guodian)"
 genre: "compiled aphorisms and verse on the Way and its power"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["wuwei", "shouyi", "qi", "zuowang"]
 relatedPeople: ["laozi"]

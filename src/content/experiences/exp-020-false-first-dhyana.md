@@ -1,5 +1,7 @@
 ---
 title: "EXP-020: 'That Wasn't First Dhyāna' — the False Alarm and the Gate"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized note: a practitioner's ecstatic 'first dhyāna' report (warmth, four entries, a glowing-eyed Buddha image), the teacher's correction — that is stillness, shamatha, not dhyāna — and the episode's two honest refusals: no one knows the three gates, and no shortcuts exist."
 experienceId: "EXP-020"
 practice: "Cross-legged sitting aimed at meditative concentration (question-and-answer series with a meditation teacher)"
@@ -21,7 +23,6 @@ relatedPractices: ["jingzuo"]
 relatedQuestions: ["what-counts-as-progress"]
 relatedResearch: ["farias-adverse-events-2020"]
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 ---
 

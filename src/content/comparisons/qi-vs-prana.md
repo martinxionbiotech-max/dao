@@ -1,13 +1,14 @@
 ---
 {
   "title": "Qi vs. Prana: A Structured Comparison",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "Two cultures' vital-substance terms: the mistranslation history ('energy'), what each term actually does in its own system, and why the analogy is useful but not an identity.",
   "entities": [
     "qi",
     "prana"
   ],
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "SCHOLARLY INTERPRETATION"

@@ -1,5 +1,7 @@
 ---
 title: "Shen"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: shen 神, 'spirit' — the third of jing-qi-shen, the mind's luminous and animating aspect, and what concentration condenses."
 chinese: "神"
 pinyin: "shén"
@@ -8,7 +10,6 @@ translationOptions: ["spirit", "spirit/mind", "numinous", "mind (in its luminous
 recommended: "spirit (with 'luminous-animating mind' glossed where the context is meditative)"
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["jingzuo", "shouyi", "qi", "yi"]
 sources:
   - "Zhuangzi ch. 19 (Dasheng): 'intention undivided, spirit condenses' (用志不分，乃凝于神)"

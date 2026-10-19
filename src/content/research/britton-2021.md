@@ -1,13 +1,14 @@
 ---
 {
   "title": "Measuring Meditation's Harms in Mindfulness Programs (Britton 2021)",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "The study that gave meditation's adverse effects a measurement instrument: 58% of MBSR/MBCT participants reported at least one adverse effect — and what that does and does not say about Daoist sitting.",
   "question": "How common are meditation-related adverse effects when measured systematically in mindfulness-based programs?",
   "method": "96 participants across three variants of MBSR and MBCT were assessed with a structured adverse-effects instrument (MRAES-MBP) covering 32 items of valence and impact on functioning.",
   "findingsSummary": "58% of participants reported at least one meditation-related adverse effect; 37% reported effects with negative impact on daily functioning; 6% reported 'lasting bad effects' — impairment lasting more than one month. Rates are comparable to those reported for other psychological treatments.",
   "limitations": "Clinical mindfulness samples, not Daoist sitting; adverse effects in MBSR/MBCT cannot be read as rates for zuowang or jingzuo; self-report measurement of harms is still maturing.",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "MODERN RESEARCH"
   ],

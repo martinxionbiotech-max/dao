@@ -1,12 +1,13 @@
 ---
 title: "Qiu Chuji (丘处机)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Qiu Chuji 丘处机 (1148–1227) — the youngest of the Seven, the founder of the Longmen lineage, the seventy-four-year-old who rode west to meet Genghis Khan, and the man whose famous 'one word to stop the killing' is both the tradition's favorite story and a documented historical dispute. The organizer arc's last act: the one who scaled the teaching."
 chinese: "丘处机"
 pinyin: "Qiū Chǔjī"
 period: "1148–1227 CE (Jin–Yuan transition)"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedPeople: ["wang-chongyang", "zhang-daoling", "kou-qianzhi", "sima-chengzhen"]
 relatedGlossary: ["zuowang", "shouyi"]

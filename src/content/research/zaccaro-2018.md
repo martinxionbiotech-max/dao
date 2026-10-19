@@ -1,13 +1,14 @@
 ---
 {
   "title": "What Slow Breathing Does to Body and Brain (Zaccaro 2018)",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "The systematic review of slow-breathing techniques: parasympathetic predominance under ten breaths per minute — the physiological cousin of tiaoxi's fine breath, with the boundary stated.",
   "question": "What psychophysiological changes accompany voluntary slow breathing?",
   "method": "Systematic review of studies of slow-breathing techniques (under ~10 breaths/minute) in healthy subjects, covering autonomic, cerebral (EEG/fMRI), and psychological outcomes.",
   "findingsSummary": "Slow breathing is consistently associated with parasympathetic predominance over sympathetic activity; it interacts with central-nervous-system activity related to emotional control and well-being. The authors propose slow breathing enhances autonomic-cerebral-psychological flexibility.",
   "limitations": "Heterogeneous techniques across studies (mostly pranayama and paced breathing — not Daoist tiaoxi or taixi); healthy-subject samples; mechanisms still under debate; no Daoist sitting studied.",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "MODERN RESEARCH"
   ],

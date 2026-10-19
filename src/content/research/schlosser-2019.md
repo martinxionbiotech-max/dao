@@ -1,13 +1,14 @@
 ---
 
 title: "Schlosser 2019: How Common Are Unpleasant Meditation Experiences?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The largest survey to date of unpleasant meditation-related experiences: roughly one in four regular meditators reports having had one — and the study's predictors map the conditions that make them likelier."
 question: "How common are unpleasant meditation-related experiences among regular meditators, and what predicts them?"
 method: "Cross-sectional online survey of 1,232 regular meditators (mean age 44.8; 53.6% female), asking about particularly unpleasant meditation-related experiences; logistic models of predictors."
 findingsSummary: "25.6% reported at least one particularly unpleasant meditation-related experience (95% CI 23.1-28.0); less likely in women and religious participants; more likely with deconstructive practices and repeated retreat attendance."
 limitations: "Cross-sectional self-report; single-item outcome; cannot establish causation or base rates across traditions; not Daoist sitting."
 status: published
-date: 2026-10-07
 evidence: ["MODERN RESEARCH"]
 relatedConcepts: []
 relatedResearch: ["lindahl-2017", "farias-adverse-events-2020"]

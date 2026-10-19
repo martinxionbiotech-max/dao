@@ -1,10 +1,11 @@
 ---
 title: "Looked for and Not Seen (Daodejing 14)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 14: the Way's three names for invisibility, the shapeless shape, and the chapter that named an immortal — plus the one line the book lets us use today."
 sourceText: "daodejing"
 chapter: "Ch. 14"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["dao", "ziran"]
 relatedPeople: ["chen-tuan"]

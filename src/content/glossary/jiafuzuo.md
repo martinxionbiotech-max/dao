@@ -1,5 +1,7 @@
 ---
 title: "Jiafuzuo"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: jiafuzuo 结跏趺坐, the crossed-leg sitting posture — the manual tradition's base position, with its two standard forms and its modern sitting-protocol translation."
 chinese: "结跏趺坐"
 pinyin: "jiéjiāfūzuò"
@@ -8,7 +10,6 @@ translationOptions: ["full-lotus posture", "cross-legged sitting (lotus)", "boun
 recommended: "'full-lotus posture' when the double-crossed form is meant; 'cross-legged sitting' for the general family (and never just 'lotus,' which is a flower loan)"
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["jingzuo"]
 relatedPractices: ["jingzuo", "tiaoxi"]
 relatedTools: ["sitting-protocol"]

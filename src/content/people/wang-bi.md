@@ -1,12 +1,13 @@
 ---
 title: "Wang Bi (王弼)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Wang Bi 王弼 (226–249) — the twenty-three-year-old genius whose Laozi commentary became the book's earliest surviving philosophical reading, and the other half of the received text's dual foundation."
 chinese: "王弼"
 pinyin: "Wáng Bì"
 period: "226–249 CE (Cao Wei)"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedPeople: ["heshang-gong", "laozi"]
 relatedTexts: ["daodejing"]

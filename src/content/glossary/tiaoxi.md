@@ -1,5 +1,7 @@
 ---
 title: "Tiaoxi (调息)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "'Regulating the breath' — the Tiantai manual's systematic pre-sitting adjustment of body, breath, and mind that became standard vocabulary across Chinese sitting traditions."
 chinese: "调息"
 pinyin: "tiáoxī"
@@ -7,7 +9,6 @@ literalMeaning: "regulating the breath"
 translationOptions: ["breath regulation", "regulating the breath", "adjusting the breath"]
 recommended: "'regulating the breath' — keep the tiao-shen/tiao-xi/tiao-xin trio visible in translation"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["jingzuo", "qi"]
 relatedPractices: ["jingzuo", "zuowang"]

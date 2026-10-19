@@ -1,10 +1,11 @@
 ---
 title: "The Ladder of Nü Yu: Putting Outside, Dawn-Clearing, and the Stillness Made in Disturbance"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of the Dazongshi passage where the woman teacher Nü Yu gives the tradition's first staged account of practice: three days, seven days, nine days — and the stillness that sends off and welcomes."
 sourceText: "zhuangzi"
 chapter: "Ch. 6 (Dazongshi, inner chapter)"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["yingning", "shouyi", "zuowang"]
 relatedQuestions: ["how-long-should-i-sit"]

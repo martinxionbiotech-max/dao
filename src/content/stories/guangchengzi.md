@@ -1,10 +1,11 @@
 ---
 title: "The Yellow Emperor Asks Guangchengzi"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Zhuangzi's foundational sitting instruction: 'see nothing, hear nothing, embrace the spirit with stillness' — retold with the full passage and its place in the tradition."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["jingzuo", "shouyi", "wuwei"]
 sources:

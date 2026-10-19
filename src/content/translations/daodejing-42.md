@@ -1,10 +1,11 @@
 ---
 title: "The Way Gives Birth to One (Daodejing 42)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 42: the Way gives birth to one, one to two, two to three, three to the ten thousand things — every thing carrying yin on its back and embracing yang in front, the surging qi making the harmony. Then the chapter turns to the names kings take for themselves, the reversal of loss and gain, and the old saying taken as the teaching's father."
 sourceText: "daodejing"
 chapter: "Ch. 42"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["qi", "xu", "ziran"]
 relatedGlossary: ["dao"]

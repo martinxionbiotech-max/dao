@@ -1,5 +1,7 @@
 ---
 title: "Dantian (丹田)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The 'cinnabar field' — the Huangting Jing's system of three body-fields that became the fixed map of Chinese contemplative practice, and its modern double life."
 chinese: "丹田"
 pinyin: "dāntián"
@@ -7,7 +9,6 @@ literalMeaning: "cinnabar field"
 translationOptions: ["dantian (transliterated)", "cinnabar field", "elixir field"]
 recommended: "dantian (transliterated) — 'cinnabar field' for explanatory contexts"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION", "CONTEMPORARY COMMUNITY OBSERVATION"]
 relatedConcepts: ["qi", "jing-qi-shen", "shouyi"]
 relatedPractices: ["jingzuo"]

@@ -1,10 +1,11 @@
 ---
 title: "The Way Is in the Dung"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Dongguo Zi asks Zhuangzi where the Way is, and demands a specific place. Zhuangzi walks him down the ladder: in the mole-crickets and ants, in the weeds, in the tiles and shards, in the dung and urine — and the lower he goes, the more evident it gets. The market-inspector's pig is the proof: pressing lower finds the fat. The chapter's most quoted descent, and the idiom it planted."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedStories: ["zhi-wen-wuwei", "tushan-shuo"]
 relatedGlossary: ["dao", "qiwu", "xiaoyao"]

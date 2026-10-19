@@ -1,12 +1,13 @@
 ---
 title: "Liangwang (两忘)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Liangwang 两忘, 'forgetting both' — the Zhuangzi's name for letting the pair of praise and blame dissolve together: 'rather than praising Yao and condemning Jie, better to forget both and transform along the Way.'"
 chinese: "两忘"
 pinyin: "liǎngwàng"
 meaning: "Forgetting both; mutual forgetting of the judged pair"
 category: "Practice term"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["zuowang", "xin"]
 relatedStories: ["fish-in-the-dry-spring"]

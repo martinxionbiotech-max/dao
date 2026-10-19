@@ -1,12 +1,13 @@
 ---
 title: "Can I Sit in Bed?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The bed question, answered from the record: the tradition's own texts show posture is a tool, not a requirement — and the teachers the site archives draw one specific line about beds: sitting up is sitting; lying down is the sleep boundary. So sit up, and describe honestly."
 question: "Is it okay to meditate sitting in bed? I sit cross-legged on my bed with pillows for support — or sometimes lying down because it feels more relaxed."
 context: "The question the site's lying-down page raised: if lying down 'makes dreams, not stillness' (the teacher in the archive), what about the middle position — sitting in bed? Asked by practitioners without floor space, and by people whose only quiet place is the bedroom."
 answerState: answered
 answerScope: "At the practice layer. What the archived teachers say about beds and lying down, what the classical texts actually show about posture, and the description rule that follows."
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "PRACTITIONER EXPERIENCE"]
 relatedQuestions: ["must-i-sit-cross-legged", "falling-asleep-during-meditation"]
 relatedExperiences: ["exp-025-lying-down-innovation", "exp-018-halflotus-to-full-lotus"]

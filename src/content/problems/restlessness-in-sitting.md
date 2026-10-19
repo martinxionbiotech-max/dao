@@ -1,10 +1,11 @@
 ---
 title: "Is restlessness or discomfort in sitting a sign I should stop?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "A problem page: physical restlessness and unease during sitting — the Chinese sources' explicit exit conditions (Taiping Jing) and the tradition's stance against forcing."
 question: "When sitting feels restless, tight, or unpleasant — should I push through or stop?"
 shortAnswer: "The earliest Chinese protocol says: stop. The Taiping Jing instructs leaving the chamber when restless or unwell and explicitly says not to force the practice. Forcing is counterproductive in these sources; endurance is not the method."
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE"]
 relatedConcepts: ["shouyi", "jingzuo"]
 relatedPractices: ["jingzuo", "zuowang"]

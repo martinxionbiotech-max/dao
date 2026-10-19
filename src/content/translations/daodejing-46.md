@@ -1,10 +1,11 @@
 ---
 title: "When the World Has the Way (Daodejing 46)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 46: the warhorse retired to the dung-heap, the warhorse foaling at the frontier — one horse, two worlds — and then the chapter's three superlatives: no crime greater than the desirable, no disaster greater than not knowing enough, no fault greater than wanting to acquire. The sufficiency of knowing enough is the constant sufficiency."
 sourceText: "daodejing"
 chapter: "Ch. 46"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedTranslations: ["daodejing-33", "daodejing-12", "daodejing-32"]
 relatedGlossary: ["zhi-shui"]

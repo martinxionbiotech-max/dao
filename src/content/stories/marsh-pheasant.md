@@ -1,10 +1,11 @@
 ---
 title: "The Marsh Pheasant: Ten Steps, One Peck"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The pheasant takes ten steps for one peck, a hundred for one drink — and does not ask to be kept in a cage. Even kept like a king, it would not be good."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedStories: ["turtle-in-the-mud", "phoenix-and-owl"]
 relatedConcepts: ["ziran"]

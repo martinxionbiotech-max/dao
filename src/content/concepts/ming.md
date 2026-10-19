@@ -1,13 +1,14 @@
 ---
 {
   "title": "Ming (命): Life, Fate, and the Allotted Force",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "Ming 命 — command, fate, and the life one is allotted: from the Zhuangzi's 'settling into fate' to the alchemical pair xingming, where it names the body's vitality.",
   "chinese": "命",
   "pinyin": "mìng",
   "literalMeaning": "command; fate; the life one is allotted",
   "tradition": "Daoist (Zhuangzi; later internal alchemy)",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "SCHOLARLY INTERPRETATION"

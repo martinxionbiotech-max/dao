@@ -1,11 +1,12 @@
 ---
 title: "Light-Brightness Asks Nothingness"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Radiance asks Absence: do you exist, or do you not exist? Absence does not answer. Radiance stares at its form — hollow and empty — looks all day without seeing it, listens without hearing it, grasps without touching it, and confesses the ladder in one breath: I can reach having-no-being, but I have not yet reached no-no-being — and once one is that, how could one arrive here from anywhere?"
 type: story
 sourceText: "Zhuangzi, Zhi Bei You 22 (知北游)"
 historicity: "legendary"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["xu", "wuwei"]
 relatedStories: ["zhi-wen-wuwei", "dongguo-zi-asks"]

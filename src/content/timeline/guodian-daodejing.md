@@ -1,12 +1,13 @@
 ---
 title: "Guodian Daodejing Manuscripts (c. 300 BCE or earlier)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The oldest surviving Daodejing fragments, excavated in 1993 from a Chu tomb at Guodian sealed around 300 BCE — the earliest material witness to the text."
 periodStart: "before 300 BCE"
 periodEnd: "1993 CE (excavation)"
 eventType: "manuscript discovery"
 evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedTexts: ["daodejing"]
 relatedPeople: ["laozi"]
 sources:

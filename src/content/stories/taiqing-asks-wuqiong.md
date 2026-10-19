@@ -1,11 +1,12 @@
 ---
 title: "Taiqing Asks the Infinite"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Zhuangzi's second-ranking system for the question 'do you know the dao?': the Infinite says no, the Non-Doing says yes and even lists its numbers, and the Beginningless hands down the verdict — not-knowing is deep, knowing is shallow. The chapter's sharpest line is the questioner's own sigh: not-knowing, that is knowing! knowing, that is not-knowing! And the follow-up completes the sentence: the dao cannot be heard, seen, or spoken."
 type: story
 sourceText: "Zhuangzi, Zhi Bei You 22 (知北游)"
 historicity: "legendary"
 status: published
-date: 2026-10-08
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["dao", "wuwei", "xu"]
 relatedStories: ["zhi-wen-wuwei", "dongguo-zi-asks", "light-brightness-asks-nothingness"]

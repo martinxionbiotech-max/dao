@@ -1,12 +1,13 @@
 ---
 title: "Pattern: Leg Numbness and Pain in Cross-Legged Sitting"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Recurring community pattern: early cross-legged sitting produces numbness, tingling pain, and the 'endure or adjust' dilemma — with the tradition's own safety caveat restored."
 phenomenon: "Leg numbness, pins-and-needles, and pain in cross-legged sitting, with contradictory community advice about endurance"
 reportCount: 2
 practices: ["jingzuo"]
 evidenceBasis: "partially-researched"
 status: published
-date: 2026-10-07
 evidence: ["CONTEMPORARY COMMUNITY OBSERVATION", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["jingzuo"]
 relatedQuestions: ["zuowang-safety-without-teacher"]

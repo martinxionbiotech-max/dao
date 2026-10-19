@@ -1,5 +1,7 @@
 ---
 title: "Finding a Teacher"
+date: 2026-10-10
+updated: 2026-10-10
 description: "From the teacher's official collection: is practice without a teacher all demonic? No — take the precepts as teacher, go deep into the canon, self-study works; and these years are full of swindlers, few true persons. The fate-connection answer, the try-and-see answer, the fraud analysis, and one reader's teacher on the only respect that matters: practice it, and surpass."
 series: "Taishi Q&A"
 episode: "Sit-in Q&A, ch. 11 (worldly matters), section 11 (official collection)"
@@ -8,7 +10,6 @@ practice: "Finding (or forgoing) a meditation teacher — the teacher-student bo
 tradition: "Buddhist monastic practice (Chan), self-described"
 context: "The teacher's official Sit-in Q&A collection, ch. 11 on worldly matters, section 11 ('Finding a teacher,' original posts dated 2014-02-22 to 2014-02-26), retrieved 2026-10-07 from taiguanglin.org: readers ask whether they should seek ordination under a famous abbot, how to approach a temple for guidance, and whether practice without a teacher is all demonic — and the teacher answers: the teacher-student bond is cultivated over many lifetimes; the purer the aspiration, the likelier the good teacher; try it and see beats sitting and waiting; take the precepts as teacher, go deep into the canon, self-study without a teacher also works; read the sutras yourself — these years are full of swindlers, few true persons; the fraud analysis (those who get cheated are those who wanted shortcuts; attainment cannot be bought); the ladder of teachers (one teacher raises you one step, another the next); plus one reader's reposted dialogue with her own teacher — the only respect that matters is practicing the teaching, well, and surpassing the teacher"
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 sourceType: note
 anonymity: "anonymous"

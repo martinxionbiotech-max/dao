@@ -1,12 +1,13 @@
 ---
 title: "Cheng Yi and Yang Shi: Standing in Snow (1093 CE)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The 'Cheng Men Li Xue' episode — Yang Shi standing respectfully in the snow rather than disturb Cheng Yi's sitting — becomes the iconic image of Neo-Confucian jingzuo."
 periodStart: "1093 CE"
 periodEnd: "1093 CE"
 eventType: "foundational episode"
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["jingzuo"]
 sources:
   - "Song shi, 'Yang Shi zhuan' (biography of Yang Shi), ch. 428"

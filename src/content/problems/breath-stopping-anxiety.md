@@ -1,10 +1,11 @@
 ---
 title: "Breath Stops, or Won't Behave — Should I Worry?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "A problem page: when the breath gets shallow, pauses, or feels fought during sitting — the tradition's name for the gentle version (taixi's arrival), its warning about the forced version, and the medical boundary."
 question: "During sitting my breathing sometimes becomes very shallow or seems to pause by itself, or I find myself holding or fighting the breath. What is this, and is it safe?"
 shortAnswer: "The tradition distinguishes two things that feel similar. The spontaneous version — breath becoming fine and nearly imperceptible, without effort, comfortable, reversible — is the classical ideal in its earliest form: the Baopuzi's taixi, 'breathing without nose or mouth,' and the Xiao Zhiguan's 'as if present, as if absent.' The forced version — holding the breath, racing it, or feeling it fought — is the manuals' named fault (the 'wind' breath), and the manuals explicitly warn against foods and efforts that make the qi 'strong and hard to close.' If breathing difficulty comes with distress, chest symptoms, or breathlessness outside sitting, it is a medical matter, not a meditation matter."
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 relatedConcepts: ["tiaoxi", "taixi", "qi"]
 relatedPractices: ["taixi", "jingzuo"]

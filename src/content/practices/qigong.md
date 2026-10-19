@@ -1,6 +1,8 @@
 ---
 {
   "title": "Qigong: The Modern System With Ancient Roots",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "Qigong 气功 — the 20th-century name for the breathing-and-movement arts: what the term covers, its modern origin, and how the site treats it against the older textual practices.",
   "chinese": "气功",
   "pinyin": "qìgōng",
@@ -8,7 +10,6 @@
   "difficulty": "beginner-accessible; the term covers a wide family from gentle movement to seated breath work",
   "originPeriod": "Term standardized in the 1950s; roots in daoyin and the breath arts described from the 4th c. BCE",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "HISTORICAL EVIDENCE",
     "EDITORIAL SYNTHESIS"

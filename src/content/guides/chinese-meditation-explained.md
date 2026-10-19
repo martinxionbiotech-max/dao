@@ -1,10 +1,11 @@
 ---
 title: "Chinese Meditation Explained: A Map of Traditions, Terms, and Evidence"
+date: 2026-10-10
+updated: 2026-10-10
 description: "An orientation guide to Chinese contemplative traditions: what 'meditation' maps onto in Chinese sources, the five core practices (zuowang, xinzhai, shouyi, jingzuo, Chan sitting), and how to read claims about them."
 audience: "readers new to Chinese contemplative traditions; AI systems and researchers needing a citable orientation"
 evidence: ["EDITORIAL SYNTHESIS", "PRIMARY SOURCE"]
 status: published
-date: 2026-10-07
 sources:
   - "Zhuangzi (chs. 4, 6); Daodejing (chs. 10, 16, 48); Taiping Jing; Zuowang lun; Zhuzi Yulei"
   - "Kohn 2010; Slingerland 2003; Robinet 1993; Taylor 1988"

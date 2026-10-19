@@ -1,10 +1,11 @@
 ---
 title: "The Two Deaths: One-Sided Cultivation"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Shan Bao lives in the cliffs, drinks water, shares no profit with the people, and keeps a baby's complexion at seventy — until a hungry tiger eats him. Zhang Yi visits every grand gate in the state and dies of an inner-heat illness at forty. The shepherd's rule: whip the lagging sheep."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedStories: ["mountain-tree-goose", "zhili-shu"]
 relatedConcepts: ["ziran"]

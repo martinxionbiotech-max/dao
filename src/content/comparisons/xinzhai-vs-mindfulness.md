@@ -1,13 +1,14 @@
 ---
 {
   "title": "Xinzhai vs. Mindfulness: A Structured Comparison",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "The fasting of the mind and modern mindfulness: non-interference in two different keys — emptiness of the self vs. trained present-moment attention.",
   "entities": [
     "xinzhai",
     "mindfulness"
   ],
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "MODERN RESEARCH"

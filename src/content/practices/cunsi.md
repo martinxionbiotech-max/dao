@@ -1,5 +1,7 @@
 ---
 title: "Cunsi: Inner Visualization"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Cunsi 存思, 'holding images in mind' — the imagistic pole of Daoist practice: the Huangting Jing's inner palaces, and how it contrasts with the emptying traditions of zuowang."
 chinese: "存思"
 pinyin: "cúnsī"
@@ -7,7 +9,6 @@ tradition: "Daoist (Shangqing visualization; earlier strata in Baopuzi)"
 difficulty: "structured; image-based; requires learned inner geography"
 originPeriod: "Practices recorded from the 3rd–4th c. CE (Baopuzi; Huangting Jing); Shangqing systematization"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["shouyi", "qi", "zuowang"]
 relatedTexts: ["huangting-jing"]

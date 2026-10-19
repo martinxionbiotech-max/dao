@@ -1,12 +1,13 @@
 ---
 title: "Baoguang (葆光)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Baoguang 葆光, the 'concealed light' — the Zhuangzi's term for a storehouse that pours in without filling and ladles out without emptying: the tradition's own light-word, which names not brightness but the hidden depth that nothing exhausts."
 chinese: "葆光"
 pinyin: "bǎoguāng"
 meaning: "The concealed light — 葆 (to shelter, hide away) + 光 (light); the book's term for the hidden radiance of the inexhaustible storehouse: a light that is known by not being shown"
 category: "Practice term"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["ziran"]
 relatedGlossary: ["xushi-sheng-bai"]

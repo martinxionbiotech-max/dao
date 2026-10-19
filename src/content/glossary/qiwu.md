@@ -1,12 +1,13 @@
 ---
 title: "Qiwu (齐物)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Qiwu 齐物, 'the leveling of things' — the term inside the book's second chapter title: 齐 (to level, to make equal) + 物 (things). And the title itself is the term's own puzzle: 齐物-论 (a discourse on leveling things) or 齐-物论 (leveling the discourses about things)? The tradition has read it both ways for a thousand years, and the chapter does both."
 chinese: "齐物"
 pinyin: "qíwù"
 meaning: "Leveling the things — 齐 (even, equal; to treat as one) + 物 (things, beings, including the self and its claims). The doctrine named by the chapter title Qi Wu Lun: all things and all claims about them, seen from the pivot, are one"
 category: "Core concept"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedGlossary: ["wu-sang-wo", "tian-lai", "bao-guang", "zhao-che"]
 relatedStories: ["three-in-the-morning", "butterfly-dream", "huzi-jixian"]

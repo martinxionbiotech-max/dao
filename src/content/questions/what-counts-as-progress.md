@@ -1,12 +1,13 @@
 ---
 title: "What Counts as Progress?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The progress question, answered from the record: the traditions' ladders disagree with each other, the teachers' markers are process markers you can actually check, and the research literature measures only symptom outcomes — so measure the practice, not the stage."
 question: "How do I know if my practice is progressing? Am I advancing toward something, or just sitting?"
 context: "The question every long-term practitioner asks, and the one the site's own archive keeps pressing: the classical texts describe stages (the seven stages of Zuowang, the dhyana ladders), the contemporary teachers give process markers, and the research literature gives symptom measures — three different definitions of the same word."
 answerState: answered
 answerScope: "At the practice layer. What each register of the record counts as progress, what can and cannot be checked from outside, and which markers the site itself trusts."
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION", "PRACTITIONER EXPERIENCE", "MODERN RESEARCH"]
 relatedQuestions: ["how-long-until-results", "i-feel-nothing-when-i-sit"]
 relatedExperiences: ["exp-016-nine-dhyanas-map", "exp-020-false-first-dhyana", "exp-021-prostrations-channel-circuit", "exp-023-breath-is-the-key", "exp-024-standing-and-sitting"]

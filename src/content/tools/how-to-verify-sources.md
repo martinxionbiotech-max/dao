@@ -1,9 +1,10 @@
 ---
 title: "How to Verify a Daoist Quote Yourself"
+date: 2026-10-10
+updated: 2026-10-10
 description: "A reader's tool: the exact procedure this site uses to check classical citations — from finding the original to flagging the variant — so any claim can be re-verified independently."
 purpose: "Hand readers the site's own source-verification method, so that every quotation on these pages can be checked from first principles"
 status: published
-date: 2026-10-07
 evidence: ["EDITORIAL SYNTHESIS"]
 relatedConcepts: ["dao"]
 sources:

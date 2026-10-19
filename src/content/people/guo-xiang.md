@@ -1,12 +1,13 @@
 ---
 title: "Guo Xiang (郭象)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Guo Xiang 郭象 (c. 252–312) — the man whose edition of the Zhuangzi is the Zhuangzi. Every quote on this site passes through his scissors and his commentary; the tradition has argued for seventeen centuries about how much of the book's meaning is his."
 chinese: "郭象"
 pinyin: "Guō Xiàng"
 period: "c. 252–312 CE (Western Jin)"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedPeople: ["zhuang-zhou", "wang-bi"]
 relatedTexts: ["zhuangzi"]

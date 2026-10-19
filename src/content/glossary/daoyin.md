@@ -1,6 +1,8 @@
 ---
 {
   "title": "Daoyin (导引): Guiding and Pulling",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "Term entry: daoyin 导引 — the classical movement-and-breath art. See the full practice page.",
   "chinese": "导引",
   "pinyin": "dǎoyǐn",
@@ -12,7 +14,6 @@
   ],
   "recommended": "daoyin, untranslated, with a gloss on first use",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "HISTORICAL EVIDENCE"

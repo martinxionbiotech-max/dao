@@ -1,10 +1,11 @@
 ---
 title: "Huishi's Five Cartloads"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The friend with five cartloads of books: Huishi's ten theses, the disputers' twenty-one paradoxes, and the book's verdict on the whole tournament — one gnat's worth of labor, a man chasing his own echo, a talent that never found its rest. And the drift to register: 'five cartloads' became modern Chinese's praise of erudition, with the verdict dropped."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedStories: ["yun-jin-cheng-feng", "phoenix-and-owl", "fish-happiness", "useless-gourd", "three-in-the-morning"]
 relatedGlossary: ["qiwu"]

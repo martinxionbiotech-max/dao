@@ -1,5 +1,7 @@
 ---
 title: "Neiguan (内观)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "'Inner contemplation' — the Sui-Tang term for turning attention inward and settling the mind, which the tradition itself identified with sitting in oblivion."
 chinese: "内观"
 pinyin: "nèiguān"
@@ -7,7 +9,6 @@ literalMeaning: "inner contemplation; inner vision"
 translationOptions: ["inner contemplation", "inner observation", "inner vision"]
 recommended: "'inner contemplation' — 'inner observation' for contexts emphasizing the inspecting function; avoid 'inner visualization' unless the source explicitly describes images"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["zuowang", "xinzhai", "jingzuo"]
 relatedPractices: ["zuowang"]

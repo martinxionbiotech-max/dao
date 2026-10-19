@@ -1,5 +1,7 @@
 ---
 title: "Taiping Jing (Scripture of Great Peace)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Taiping Jing 太平经: the Eastern Han scripture that turned guarding-the-One from a saying into a systematic meditation with a protocol — the site's primary source for the shouyi tradition."
 chinese: "太平经"
 pinyin: "Tàipíng Jīng"
@@ -7,7 +9,6 @@ author: "Traditionally revealed to Yu Ji 于吉; presented at court by Gong Chon
 dynasty: "Eastern Han (2nd c. CE); received text is a Ming Daoist Canon remnant"
 genre: "Daoist scripture; master-disciple dialogues; the canon of the early Taiping movement"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE"]
 relatedConcepts: ["shouyi", "qi", "jing-qi-shen"]
 relatedPractices: ["shouyi"]

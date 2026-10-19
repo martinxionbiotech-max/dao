@@ -1,12 +1,13 @@
 ---
 title: "Xu (虚): Emptiness"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Zhuangzi's working term for the state of stillness: 'the Dao gathers in emptiness' — and the one warning attached to it: stillness without emptiness is just sitting while racing (zuochi)."
 chinese: "虚"
 pinyin: "xū"
 literalMeaning: "empty; emptiness; the void"
 tradition: "Daoist"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["xinzhai", "zuowang", "wuwei"]
 relatedPractices: ["zuowang"]

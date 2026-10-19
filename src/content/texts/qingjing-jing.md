@@ -1,5 +1,7 @@
 ---
 title: "Qingjing Jing (Scripture of Clarity and Stillness)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Qingjing Jing 清静经: the ~400-character classic of Daoist stillness — 'if people can be constantly clear and still, heaven and earth all return to them.' Dating, structure, and the empty-emptiness ladder."
 chinese: "太上老君说常清静经"
 pinyin: "Qīngjìng Jīng"
@@ -7,7 +9,6 @@ author: "Anonymous (attributed to Taishang Laojun, the deified Laozi)"
 dynasty: "Composed Six Dynasties–early Tang (scholarly dating); traditionally much earlier"
 genre: "Daoist scripture; daily recitation text"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["wuwei", "qi", "xinzhai"]
 relatedTexts: ["neiguan-jing", "zuowang-lun"]

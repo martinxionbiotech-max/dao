@@ -1,12 +1,13 @@
 ---
 title: "Wang Chongyang (王重阳)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Wang Chongyang 王重阳 (1112/1113–1170) — the founder who organized what the alchemical poets had only taught: the Quanzhen order, built on inner alchemy, monastic discipline, and the doctrine that the three teachings are one — the last and most institutional of the tradition's great organizers."
 chinese: "王重阳"
 pinyin: "Wáng Chóngyáng"
 period: "1112/1113–1170 CE (Jin dynasty)"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedPeople: ["zhang-boduan", "lu-xiujing", "kou-qianzhi", "zhang-daoling", "chen-tuan"]
 relatedConcepts: ["jing-qi-shen"]

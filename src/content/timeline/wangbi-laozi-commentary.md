@@ -1,11 +1,12 @@
 ---
 title: "Wang Bi's Laozi Commentary (c. 249 CE)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The twenty-three-year-old's annotation that became the book's earliest surviving philosophical reading — no chapter titles, no qi-work, just mystery and emptiness: the received text's other foundation."
 periodStart: "c. 240s CE (composition, under Cao Wei)"
 periodEnd: "249 CE (Wang Bi's death); the commentary's rise as the standard philosophical text follows"
 eventType: "commentarial tradition"
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedPeople: ["wang-bi", "heshang-gong"]
 relatedTexts: ["daodejing"]

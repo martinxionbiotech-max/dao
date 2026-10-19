@@ -1,11 +1,12 @@
 ---
 title: "Ran Qiu Asks Zhongni"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Ran Qiu asks whether anything can be known about the time before heaven and earth existed. Zhongni's one-word answer — 'yes: ancient is like present' — dissolves the question, then dissolves it again the next day: no past, no present, no beginning, no end. The passage is the chapter's cosmology in miniature: what things things is not a thing, and the sage's unending love of people is drawn from this very source."
 type: story
 sourceText: "Zhuangzi, Zhi Bei You 22 (知北游)"
 historicity: "legendary"
 status: published
-date: 2026-10-08
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["dao", "ziran", "wuwei"]
 relatedStories: ["zhi-wen-wuwei", "four-friends", "drumming-basin"]

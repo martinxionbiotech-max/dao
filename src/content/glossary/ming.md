@@ -1,6 +1,8 @@
 ---
 {
   "title": "Ming (命): Fate and the Allotted Life",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "Term entry: ming 命 — command, fate, and the allotted vitality; the 'life' half of the xingming pair. See the full concept page.",
   "chinese": "命",
   "pinyin": "mìng",
@@ -13,7 +15,6 @@
   ],
   "recommended": "fate or life, by context (the 'command' sense is archaic)",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE"
   ],

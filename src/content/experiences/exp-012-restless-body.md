@@ -1,5 +1,7 @@
 ---
 title: "EXP-012: The Restless Body — Involuntary Movements, Phlegm, and the Lute-String Counsel"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized note: practitioners' reports of involuntary movement, restlessness at the twenty-fifth minute, phlegm discharge, and head pressure — and the teacher's answers, from 'habit-energy' to the Buddha's lute string."
 experienceId: "EXP-012"
 practice: "Cross-legged sitting with prostrations and breath practice"
@@ -19,7 +21,6 @@ sources:
   - "Taishi cultivation Q&A no. 36 (163.com community column, 2021) (https://c.m.163.com/news/a/G3C0P3HD0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
 relatedPractices: ["jingzuo"]
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 ---
 

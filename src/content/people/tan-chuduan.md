@@ -1,5 +1,7 @@
 ---
 title: "Tan Chuduan (谭处端)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Tan Chuduan (1123–1185), courtesy Boyu, dharma-name Chuduan, hao Changzhenzi — the Quanzhen Seven Perfected's member who came to Wang Chongyang on crutches and left them at the door. The wind-paralysis cure story, the Luoyang years of 'practicing the mind amid wine and flowers,' the third patriarchate, the lineage that taught renunciation was not required — and the teacher who recorded 'loyalty, filial piety, and mercy surpass leaving home.'"
 historicity: "historical"
 dynasty: "Jin"
@@ -9,7 +11,6 @@ death: "Luoyang, 1185"
 school: "Quanzhen (Complete Perfection)"
 lineage: "Disciple of Wang Chongyang; third patriarch of Quanzhen; founder of the Nanwu (南无) lineage"
 status: published
-date: 2026-10-08
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedPeople: ["wang-chongyang", "ma-yu", "qiu-chuji", "wang-chuyi"]
 relatedTexts: []

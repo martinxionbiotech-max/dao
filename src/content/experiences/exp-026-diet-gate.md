@@ -1,5 +1,7 @@
 ---
 title: "The Diet Gate: Meat and the First Step"
+date: 2026-10-10
+updated: 2026-10-10
 description: "From the teacher's official collection: meat-eating blocks even the desire-realm dhyana, the dream-test measures whether the meat-habit is dead, the seven-year frame, the animals-have-consciousness claim, and the nutrition exchange where the teacher and his readers converge on the one point that matters — change gradually, or the body pays."
 series: "Taishi Q&A"
 episode: "Sit-in Q&A, Precepts ch. 2, section 7 (official collection)"
@@ -8,7 +10,6 @@ practice: "Dietary precepts for sitting meditation — vegetarianism as the entr
 tradition: "Buddhist monastic practice (Chan), self-described"
 context: "The teacher's official Sit-in Q&A collection, ch. 2 on precepts, section 7 ('Vegetarianism is the necessary choice,' dated 2014-02-20), retrieved 2026-10-07 from taiguanglin.org: readers ask whether wine-and-meat 'through the gut' leaves the Buddha in the heart, what the difference is between eating animals and eating plants, how to get enough protein, and the teacher answers — the animals-have-consciousness claim, the meat-blocks-the-dhyanas rule, the dream-test protocol with its three stages and seven-year frame, the Buddha's two-stage teaching narrative, and the nutrition exchange with the community"
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 sourceType: note
 anonymity: "anonymous"

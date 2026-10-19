@@ -1,12 +1,13 @@
 ---
 title: "Xinzhai (Fasting of the Mind)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Xinzhai 心斋, from Zhuangzi ch. 4: not listening with the ear or the mind but with qi — the emptiness in which the Dao gathers. Original text, context, and interpretation."
 chinese: "心斋"
 pinyin: "xīnzhāi"
 literalMeaning: "fasting of the mind/heart"
 tradition: "Daoist (classical)"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["zuowang", "qi", "wuwei"]
 relatedTexts: ["zhuangzi"]

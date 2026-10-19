@@ -1,5 +1,7 @@
 ---
 title: "Dao"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: dao 道 — 'way' and everything the word carries; why it is left untranslated."
 chinese: "道"
 pinyin: "dào"
@@ -8,7 +10,6 @@ translationOptions: ["Way (capitalized)", "the Dao (romanized)", "path", "method
 recommended: "keep romanized as Dao/dào; capitalize 'Way' when the technical sense is meant"
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["dao", "wuwei"]
 relatedTexts: ["daodejing"]
 sources:

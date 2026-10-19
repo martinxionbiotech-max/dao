@@ -1,12 +1,13 @@
 ---
 title: "Wuwei (Non-action / Effortless Action)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Wuwei 无为: the Daodejing's central practical ideal — acting without forcing, letting things self-transform. Chapter citations, the wuwei-er-wu-buwei formula, and the meditation connection."
 chinese: "无为"
 pinyin: "wúwéi"
 literalMeaning: "no doing / non-action"
 tradition: "Daoist (classical); also used in Confucian and Legalist discourse"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["zuowang", "xinzhai", "qi"]
 relatedTexts: ["daodejing"]

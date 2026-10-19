@@ -1,12 +1,13 @@
 ---
 title: "Wu He You Zhi Xiang — 无何有之乡 (The Land of Not-Having-Anything)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Zhuangzi's name for a place that is defined by what it lacks: the land of not-having-anything, where the useless tree can finally be planted, where the world-ruler's advisor goes when tired of the world. Three appearances, three functions — a transplant site, an escape destination, a touring ground — and one grammar: the place exists only as the negation of the places that matter."
 category: "Daoist Terminology"
 chinese: "无何有之乡"
 pinyin: "wú hé yǒu zhī xiāng"
 translationNotes: "Recommended rendering: 'the land where nothing is' or 'the not-having-anything land' — the awkwardness is the point. 乡 (xiang) means a settlement or district, not a wild waste: the word names a habitable nowhere, a place with no content."
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["xu", "wuwei", "ziran"]
 relatedStories: ["peng-bird", "useless-gourd", "dongguo-zi-asks", "huzi-jixian"]

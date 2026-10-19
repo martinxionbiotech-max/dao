@@ -1,10 +1,11 @@
 ---
 title: "Lin Hui Drops the Jade"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The state of Jia falls, and Lin Hui throws away a jade disc worth a thousand gold to carry an infant on his back. The challengers do the arithmetic: the infant is worth less and weighs more. Lin Hui's answer cuts the arithmetic in half: that was joined by profit, this is joined by heaven — and the passage's closing sentence gives Confucius its quietest miracle: when the formalities stopped, the disciples' love increased."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedStories: ["yi-dai-niao", "shinan-yiliao", "xuzhou-empty-boat", "sanghu-friends", "four-friends"]
 relatedGlossary: ["liang-wang"]

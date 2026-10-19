@@ -1,12 +1,13 @@
 ---
 title: "Is Daoist Sitting Safe to Practice Without a Teacher?"
+date: 2026-10-10
+updated: 2026-10-10
 description: "A frequently asked question: can zuowang or jingzuo be practiced alone? What the tradition itself counsels, and what the research literature does and does not say."
 question: "Can I practice Daoist sitting (zuowang / jingzuo) without a teacher?"
 context: "A common question from modern practitioners approaching the tradition through books and the internet rather than lineage instruction."
 answerState: open
 evidence: ["PRIMARY SOURCE", "PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["zuowang", "jingzuo", "shouyi"]
 relatedPractices: ["zuowang", "jingzuo"]
 sources:

@@ -1,12 +1,13 @@
 ---
 title: "Jiren (畸人)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Jiren 畸人, the 'odd one' — the Zhuangzi's own name for its outsiders: odd among people, matched with Heaven. From the same passage that ends: Heaven's small man is the world's gentleman."
 chinese: "畸人"
 pinyin: "jīrén"
 meaning: "The odd person, the irregular one — 畸 (uneven, lopsided, out of the ordinary measure) + 人; the book's name for those who do not fit the human pattern, because they are matched to Heaven instead"
 category: "Person-term"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedStories: ["sanghu-friends", "four-friends"]
 relatedConcepts: ["ziran"]

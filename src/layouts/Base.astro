@@ -2,15 +2,21 @@
 interface Props {
   title: string;
   description?: string;
+  published?: Date;
+  updated?: Date;
 }
-const { title, description } = Astro.props;
+const { title, description, published, updated } = Astro.props;
 const pageTitle = title ? `${title} — Dao Knowledge Base` : 'Dao Knowledge Base';
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+const isoDate = (d?: Date) =>
+  d && !isNaN(d.getTime()) ? d.toISOString().slice(0, 10) : undefined;
 const webPageSchema = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
   name: pageTitle,
   ...(description ? { description } : {}),
+  ...(isoDate(published) ? { datePublished: isoDate(published) } : {}),
+  ...(isoDate(updated) ? { dateModified: isoDate(updated) } : {}),
   url: canonicalUrl.href,
   inLanguage: 'en',
   isPartOf: {

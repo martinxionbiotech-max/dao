@@ -1,12 +1,13 @@
 ---
 title: "Zhang Boduan (张伯端)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Zhang Boduan 张伯端 (984–1082) — the poet of inner alchemy: author of the Wuzhen pian, the verse classic that gave Daoist self-cultivation its body-first doctrine (nature and life, both cultivated, life first), and the founder of the Southern lineage's line of transmission."
 chinese: "张伯端"
 pinyin: "Zhāng Bóduān"
 period: "984–1082 CE (Northern Song)"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedPeople: ["lu-xiujing", "sima-chengzhen", "zhiyi"]
 relatedTimeline: ["daoshu-neiguan-zuowang"]

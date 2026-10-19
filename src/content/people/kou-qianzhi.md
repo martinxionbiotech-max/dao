@@ -1,12 +1,13 @@
 ---
 title: "Kou Qianzhi (寇谦之)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Kou Qianzhi 寇谦之 (365–448), the Northern Celestial Master reformer who brought Daoism into a northern imperial court — the man behind the 415 revelation, the de-Zhang reforms, and the first emperor to take Daoist registers."
 chinese: "寇谦之"
 pinyin: "Kòu Qiānzhī"
 period: "365–448 CE (Northern Wei)"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["shouyi"]
 relatedTimeline: ["kou-qianzhi-reform"]

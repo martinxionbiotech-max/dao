@@ -1,11 +1,12 @@
 ---
 title: "Daoshu: 'Inner Contemplation Is Sitting in Oblivion' (12th c.)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Zeng Zao's Song encyclopedia of Daoist methods preserves the tradition's own equation — 内观即坐忘 — the strongest classical warrant for treating the two names as one practice."
 periodStart: "1100"
 periodEnd: "1200"
 eventType: "compilation"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["zuowang", "xinzhai"]
 relatedPractices: ["zuowang"]

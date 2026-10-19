@@ -1,5 +1,7 @@
 ---
 title: "Xi"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: xi 息, 'breath' — the fourth and finest of the Xiao Zhiguan's four breath types, 'as if present, as if absent'; the target state of tiaoxi and the bridge word to taixi."
 chinese: "息"
 pinyin: "xī"
@@ -8,7 +10,6 @@ translationOptions: ["rest (breath)", "subtle breath", "the resting breath"]
 recommended: "'rest breath' in the four-breath ladder; plain 'breath' elsewhere (真人之息以踵 = 'the true person's breathing reaches the heels')"
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["tiaoxi", "taixi", "qi"]
 relatedTexts: ["xiao-zhiguan"]
 sources:

@@ -1,10 +1,11 @@
 ---
 {
   "title": "What Is Zuowang? A Plain-Language Introduction",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "The entry-level version of sitting-and-forgetting: what the term means, where it comes from, what it looks like in practice — with links down into the concept page, the manual, and the comparisons.",
   "audience": "readers who just met the term zuowang and want the orientation before the depth; search-entry point",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "EDITORIAL SYNTHESIS"

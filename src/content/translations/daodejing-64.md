@@ -1,10 +1,11 @@
 ---
 title: "A Journey of a Thousand Li Begins Under the Foot (Daodejing 64)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 64: the four early stages, the three staircases, the finish-line warning, and the chapter that ends the book's practice doctrine — with the disputed couplet registered, not adjudicated."
 sourceText: "daodejing"
 chapter: "Ch. 64"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["ziran", "wuwei"]
 relatedTranslations: ["daodejing-48", "daodejing-63"]

@@ -1,9 +1,10 @@
 ---
 title: "Daodejing 78 — Nothing in the World Is Softer than Water"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The chapter where the water theorem meets politics: nothing in the world is softer and weaker than water, yet nothing that attacks the hard and strong can beat it, because nothing can take its place. Everyone knows that the weak overcomes the strong, and no one puts it into practice — so the sage says: whoever takes on the country's filth is called its altars' lord; whoever takes on its inauspiciousness is called its king. Straight words seem reversed."
 sourceText: "Daodejing, Chapter 78"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["wuwei", "ziran"]
 relatedTexts: ["daodejing"]

@@ -1,11 +1,12 @@
 ---
 {
   "title": "Pressure or Tightness in the Head During Sitting",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "A problem page: head pressure in stillness — the archive's blood-pressure reading, the tension-pattern physiology, and the medical boundary.",
   "question": "Why do I feel pressure or tightness in my head during sitting?",
   "shortAnswer": "Head pressure in sitting is reported in the site's archive, and the two available readings agree on the practical rule: ease off. The archive teacher read head swelling after breath practice as a blood-pressure rise and advised easing off the breath work and adding exercise; the modern reading points to the tension-headache pattern — sustained contraction of scalp and neck muscles producing band-like pressure. No text in this site's corpus describes head pressure as a sign of progress, and new or worsening head pain is a medical matter.",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "CONTEMPORARY COMMUNITY OBSERVATION",
     "TRADITIONAL / LINEAGE INTERPRETATION",

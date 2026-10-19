@@ -1,12 +1,13 @@
 ---
 title: "Tianji (天机)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Tianji 天机, the 'heaven-mechanism' — the self-running order of things, moved by no known driver. The Zhuangzi's word for how the centipede walks its ten thousand feet — and what the modern idiom turned into a secret."
 chinese: "天机"
 pinyin: "tiānjī"
 meaning: "The heaven-mechanism; the self-running pattern of things — 天 (heaven, the natural) + 机 (mechanism, the trigger, the loom's working part)"
 category: "Process-term"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedStories: ["kui-xian-chain", "wang-liang-wen-jing"]
 relatedConcepts: ["ziran"]

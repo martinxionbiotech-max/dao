@@ -1,10 +1,11 @@
 ---
 title: "The Hook-Forger's One Thing"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Grand Marshal's hook-forger is eighty and has never missed by a hair. Asked whether it is skill or the Way, he answers: 'I have a keeping (有守).' Since twenty he has loved forging hooks; for other things he has no eyes, and only the hook gets his attention. What he uses, he borrows from what he does not use."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedStories: ["cicada-catcher", "cook-ding", "wheelwright-bian", "artisan-qing", "shanbao-zhangyi"]
 relatedTranslations: ["daodejing-11"]

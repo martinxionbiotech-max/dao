@@ -1,10 +1,11 @@
 ---
 title: "What Zuowang Can and Cannot Offer a Modern Practitioner"
+date: 2026-10-10
+updated: 2026-10-10
 description: "An editorial: reading the Zhuangzi's sitting-in-oblivion from the present — what transfers, what doesn't, and why the ancient text is more conservative than modern meditation culture."
 author: "Dao Knowledge Base Editorial"
 kind: editorial
 status: published
-date: 2026-10-07
 relatedConcepts: ["zuowang", "xinzhai", "wuwei", "jingzuo"]
 relatedTexts: ["zhuangzi", "zuowang-lun", "qingjing-jing"]
 sources:

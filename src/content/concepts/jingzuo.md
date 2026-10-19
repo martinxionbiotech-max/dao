@@ -1,12 +1,13 @@
 ---
 title: "Jingzuo (Quiet Sitting)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Jingzuo 静坐: the Neo-Confucian practice of quiet sitting, its Song-dynasty sources (Zhu Xi's 'half day sitting, half day reading'), Daoist and Chan antecedents, and what it does not claim."
 chinese: "静坐"
 pinyin: "jìngzuò"
 literalMeaning: "quiet sitting"
 tradition: "Neo-Confucian (Song–Ming); with Daoist and Chan antecedents"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["zuowang", "shouyi", "xinzhai"]
 relatedPractices: ["jingzuo"]

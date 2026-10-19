@@ -1,5 +1,7 @@
 ---
 title: "Liu Chuxuan (刘处玄)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Liu Chuxuan (1147–1203), courtesy Tongmiao, hao Changshengzi — the Quanzhen Seven Perfected's fourth patriarch, the wall-verse convert of 1169, the prison-calligraphy years, the 'few desires, light taxes' audience with Emperor Zhangzong, and the founder of the Suishan lineage."
 historicity: "historical"
 dynasty: "Jin"
@@ -9,7 +11,6 @@ death: "Lingxu Abbey, Wuguan village, 1203"
 school: "Quanzhen (Complete Perfection)"
 lineage: "Disciple of Wang Chongyang; fourth patriarch of Quanzhen; founder of the Suishan (随山) lineage"
 status: published
-date: 2026-10-08
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedPeople: ["wang-chongyang", "ma-yu", "tan-chuduan", "qiu-chuji", "wang-chuyi", "sun-buer", "hao-datong"]
 relatedTexts: []

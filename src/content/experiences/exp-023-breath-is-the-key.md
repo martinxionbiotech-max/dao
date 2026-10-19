@@ -1,5 +1,7 @@
 ---
 title: "EXP-023: Breathing Is the Key — the All-Day Breath and the 4-to-6 Standard"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized note: a practitioner with a lumbar injury and wet-cold knees is told the breath must be practiced all day, not one or two hours; another reports breathing dropping from 12 to 4-6 per minute and is told the abdominal breath is complete — with the episode's moderate corners: eat more, nap after lunch, and legs may hurt but dullness must stop the sit."
 experienceId: "EXP-023"
 practice: "Cross-legged sitting aimed at meditative concentration, with an all-day abdominal-breathing regimen (question-and-answer series with a meditation teacher)"
@@ -20,7 +22,6 @@ sources:
   - "Taishi cultivation Q&A no. 39 (163.com community column): the all-day breathing doctrine, the 4-6 breaths-per-minute standard, and the moderate corners (eat more, afternoon nap, legs may hurt but dullness stops the sit) (https://www.163.com/dy/article/G3FCB7LO0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
 relatedPractices: ["tiaoxi"]
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 ---
 

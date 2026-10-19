@@ -1,12 +1,13 @@
 ---
 title: "Fan (反): Reversal and Return"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Fan 反 — the Dao's characteristic motion: 反者道之动 (ch. 40), 远曰反 (ch. 25), 吾以观复 (ch. 16), 正言若反 (ch. 78), and the double reading of the word itself."
 chinese: "反"
 pinyin: "fǎn"
 literalMeaning: "turning back; reversal; return"
 tradition: "Daoist"
 status: published
-date: 2026-10-08
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["dao", "jing", "wu-you", "yin-yang"]
 relatedTexts: ["daodejing"]

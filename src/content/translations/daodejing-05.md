@@ -1,10 +1,11 @@
 ---
 title: "The Bellows of Heaven and Earth (Daodejing 5)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of the straw-dogs chapter: the bellows that is empty yet inexhaustible, and the last line the whole sitting tradition inherits — 'rather guard the center.'"
 sourceText: "daodejing"
 chapter: "Ch. 5"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["xu", "wuwei"]
 relatedGlossary: ["tuoyue"]

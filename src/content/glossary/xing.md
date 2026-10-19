@@ -1,6 +1,8 @@
 ---
 {
   "title": "Xing (性): Inborn Nature",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "Term entry: xing 性 — the nature a being is born with; the 'nature' half of the xingming pair. See the full concept page.",
   "chinese": "性",
   "pinyin": "xìng",
@@ -12,7 +14,6 @@
   ],
   "recommended": "nature (with the inborn sense kept visible)",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE"
   ],

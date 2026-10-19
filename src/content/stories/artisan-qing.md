@@ -1,10 +1,11 @@
 ---
 title: "Artisan Qing and the Bell-Stand: A Seven-Day Fast"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Dazheng chapter's craftsman who fasts for seven days before carving — forgetting reward, praise, and finally his own body — the Zhuangzi's own seven-stage description of emptying."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["zuowang", "xinzhai", "xu"]
 relatedPractices: ["zuowang"]

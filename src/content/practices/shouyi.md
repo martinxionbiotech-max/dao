@@ -1,5 +1,7 @@
 ---
 title: "Shouyi: Guarding the One"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Shouyi 守一 as practice: from the Daodejing's 'embracing the One' to the Taiping Jing's chamber protocol and the Baopuzi's economy argument — the holding-pole method with its classical conditions."
 chinese: "守一"
 pinyin: "shǒuyī"
@@ -7,7 +9,6 @@ tradition: "Daoist (Daodejing root; Han Taiping Jing protocol; Baopuzi consolida
 difficulty: "the classic beginner anchor; its full chamber form is elaborate"
 originPeriod: "Saying in Daodejing (6th–4th c. BCE); method systematized in Taiping Jing (2nd c. CE); ranked in Baopuzi (4th c.)"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["shouyi", "baoyi", "jing-qi-shen", "zuowang"]
 relatedTexts: ["daodejing", "taiping-jing", "baopuzi"]

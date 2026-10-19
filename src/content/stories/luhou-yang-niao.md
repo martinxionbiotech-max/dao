@@ -1,10 +1,11 @@
 ---
 title: "The Marquis of Lu's Seabird"
+date: 2026-10-10
+updated: 2026-10-10
 description: "A seabird lands in Lu, and the marquis throws it the grandest party a bird never asked for — temple, wine, the Nine Shao dances, a full ox-sheep-pig feast. Three days later the bird is dead, and the book delivers its verdict on good intentions."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedStories: ["hundun", "mountain-tree-goose"]
 relatedConcepts: ["ziran"]

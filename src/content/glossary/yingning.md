@@ -1,12 +1,13 @@
 ---
 title: "Yingning (撄宁)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Yingning 撄宁, 'stillness in disturbance' — the Zhuangzi's name for the stillness that is made inside the chaos, not away from it: 'disturbed, and only then complete.'"
 chinese: "撄宁"
 pinyin: "yīngníng"
 meaning: "Stillness amid disturbance; stillness achieved through disturbance"
 category: "State term"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["jing", "xu"]
 relatedGlossary: ["zhi-shui", "zuochi"]

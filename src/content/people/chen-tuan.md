@@ -1,12 +1,13 @@
 ---
 title: "Chen Tuan (陈抟)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Chen Tuan 陈抟 (871–989) — the 'Sleeping Immortal' of Mount Hua, whose two imperial audiences became the tradition's textbook cases of the Daoist refusing to be used: no alchemy for the emperor, no office for the hermit."
 chinese: "陈抟"
 pinyin: "Chén Tuán"
 period: "871–989 CE (late Tang through early Song)"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedPeople: ["laozi", "zhuang-zhou"]
 relatedTexts: ["daodejing"]

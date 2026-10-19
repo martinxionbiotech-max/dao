@@ -1,12 +1,13 @@
 ---
 title: "Pu (朴): The Uncarved Block"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Pu 朴 — uncarved wood as the image of the unworked original: 见素抱朴 (ch. 19), 复归于朴 (ch. 28), 道常无名，朴 (ch. 32), 无名之朴 (ch. 37), and the block's own warning: 朴散则为器."
 chinese: "朴"
 pinyin: "pǔ"
 literalMeaning: "uncarved block; unworked wood; simplicity"
 tradition: "Daoist"
 status: published
-date: 2026-10-08
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["ziran", "dao", "de", "wuwei"]
 relatedTexts: ["daodejing"]

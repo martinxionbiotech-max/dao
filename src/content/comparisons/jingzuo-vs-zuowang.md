@@ -1,9 +1,10 @@
 ---
 title: "Jingzuo vs Zuowang: Two Kinds of Quiet Sitting"
+date: 2026-10-10
+updated: 2026-10-10
 description: "A comparison page: Neo-Confucian 'quiet sitting' (moral cultivation, respect, self-examination) vs Daoist 'sitting in oblivion' (forgetting, emptying, returning) — same posture, different goals."
 entities: ["jingzuo", "zuowang"]
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["jingzuo", "zuowang", "xinzhai"]
 relatedPractices: ["jingzuo", "zuowang"]

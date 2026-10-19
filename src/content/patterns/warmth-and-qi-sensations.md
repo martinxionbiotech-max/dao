@@ -1,12 +1,13 @@
 ---
 title: "Pattern: Warmth, Sweating, and Felt Qi Movement in Sitting"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Recurring community pattern: warmth, sweating, tingling, and felt qi movement during or after sitting — with traditional, physiological, and interpretive readings kept separate."
 phenomenon: "Warmth, sweating, tingling, and felt qi movement during or after seated practice"
 reportCount: 2
 practices: ["jingzuo"]
 evidenceBasis: "partially-researched"
 status: published
-date: 2026-10-07
 evidence: ["CONTEMPORARY COMMUNITY OBSERVATION", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["qi", "jing-qi-shen", "jingzuo"]
 sources:

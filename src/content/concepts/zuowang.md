@@ -1,12 +1,13 @@
 ---
 title: "Zuowang (Sitting in Oblivion)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Zuowang 坐忘 is the Daoist contemplative ideal described in Zhuangzi ch. 6: dropping the body, dismissing intelligence, and merging with the Great Thoroughfare. Its textual basis, history, and contested interpretations."
 chinese: "坐忘"
 pinyin: "zuòwàng"
 literalMeaning: "sitting and forgetting"
 tradition: "Daoist (classical); developed in Daoist religion"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["xinzhai", "wuwei", "qi", "jingzuo"]
 relatedPractices: ["zuowang"]

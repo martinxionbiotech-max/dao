@@ -1,10 +1,11 @@
 ---
 {
   "title": "What Modern Research Can and Cannot Tell Us About Meditation",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "The research layer in one page: what the nine study records on this site establish, the adjacent-evidence boundary that runs through all of them, and why no study of Daoist sitting exists.",
   "audience": "readers asking what science says about meditation; skeptics and enthusiasts both",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "MODERN RESEARCH",
     "EDITORIAL SYNTHESIS"

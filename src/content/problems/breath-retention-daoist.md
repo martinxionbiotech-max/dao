@@ -1,11 +1,12 @@
 ---
 {
   "title": "Is Breath Retention Part of Daoist Meditation?",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "A problem page: whether holding the breath is a Daoist technique — the answer from Baopuzi and the breath manuals, the distinction from taixi, and the safety boundary.",
   "question": "Is breath retention part of Daoist meditation?",
   "shortAnswer": "No — the classical texts point the other way. The Daoist ideal is taixi, 'embryonic breathing': breath so fine and continuous it seems to stop, explicitly framed as an arrival after long practice, not a technique of holding. The texts attach conditions of softness and diet to it, and no classical manual this site covers teaches forced breath retention; attempts to force it are the documented source of the fear described on the breath-stopping page.",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "TRADITIONAL / LINEAGE INTERPRETATION"

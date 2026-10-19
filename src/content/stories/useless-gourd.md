@@ -1,10 +1,11 @@
 ---
 title: "The Giant Gourd: On the Uses of Uselessness"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Hui Shi's useless five-bushel gourd, Zhuangzi's raft on the rivers — and the useless tree under which the chapter finally finds its word: xiaoyao, free and easy wandering."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["wuwei", "ziran", "xu"]
 relatedStories: ["peng-bird"]

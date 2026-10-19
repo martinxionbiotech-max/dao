@@ -1,5 +1,7 @@
 ---
 title: "Baopuzi (The Master Who Embraces the Uncarved Block)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Baopuzi 抱朴子 by Ge Hong: the fourth-century encyclopedia of Daoist practice — the source of this site's taixi definition and its economy-argument for guarding the One."
 chinese: "抱朴子"
 pinyin: "Bàopǔzǐ"
@@ -7,7 +9,6 @@ author: "Ge Hong 葛洪 (283–343/363)"
 dynasty: "Eastern Jin (composed c. 314–320s CE)"
 genre: "Daoist compendium: inner chapters (esoteric practice), outer chapters (essays on government and society)"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE"]
 relatedConcepts: ["shouyi", "taixi"]
 relatedPeople: ["ge-hong"]

@@ -1,10 +1,11 @@
 ---
 title: "The Dao Follows What Is So of Itself (Daodejing 25)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of the chapter that names the four greats — and the line the whole tradition hangs on: 'the human follows the earth, the earth follows heaven, heaven follows the Dao, the Dao follows what is so of itself.'"
 sourceText: "daodejing"
 chapter: "Ch. 25"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["ziran", "dao"]
 relatedTranslations: ["daodejing-16"]

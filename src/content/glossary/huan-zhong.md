@@ -1,12 +1,13 @@
 ---
 title: "Huanzhong (环中)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Huanzhong 环中, 'the center of the ring' — the place the pivot stands: once the hinge of the Way is found, it sits at the ring's center and answers the endless without taking a side. The book's one-word geometry for how to respond to everything and be touched by nothing."
 chinese: "环中"
 pinyin: "huánzhōng"
 meaning: "The center of the ring — 环 (ring, circle) + 中 (center). The position from which the endless round of this-versus-that can be answered, because the center does not belong to any side"
 category: "Core concept"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedGlossary: ["tian-jun", "qiwu", "zhen-zai", "zhi-shui"]
 relatedTranslations: ["yongxin-ruo-jing-passage", "qiwulun-wu-sang-wo"]

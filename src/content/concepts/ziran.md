@@ -1,11 +1,12 @@
 ---
 tradition: "Daoist (classical); with Confucian echoes"
 title: "Ziran (自然)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Ziran, 'so of itself': the Daodejing's word for the way things go when nothing forces them — the deepest root of wuwei and the target the whole contemplative tradition aims at."
 chinese: "自然"
 pinyin: "zìrán"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["wuwei", "xu", "zuowang"]
 relatedTexts: ["daodejing", "zhuangzi"]

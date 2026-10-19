@@ -1,5 +1,7 @@
 ---
 title: "Neiguan: The Practice of Inner Observation"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Neiguan 内观 — the Neiguan Jing's method of inner observation: 内观己身，澄其心也. The scriptural instructions, the Tang identification with zuowang, and the boundary between historical method and modern reconstructions."
 chinese: "内观"
 pinyin: "nèiguān"
@@ -7,7 +9,6 @@ tradition: "Daoist (Sui–Tang scripture; built on earlier inner-cultivation voc
 difficulty: "structured; introspective; no posture requirement in the text itself"
 originPeriod: "Scripture dated Sui–Tang transition (scholarly dating; some sources place it in the Wei–Jin)"
 status: published
-date: 2026-10-08
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["xu", "xinzhai", "shouyi", "zuowang"]
 relatedPractices: ["cunsi", "zuowang"]

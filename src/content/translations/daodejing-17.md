@@ -1,10 +1,11 @@
 ---
 title: "The Best Ruler Is Barely Known (Daodejing 17)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 17: the four ranks of rule, trust and its failure, the value of scarce words — and the book's most beautiful political last line."
 sourceText: "daodejing"
 chapter: "Ch. 17"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["wuwei", "ziran"]
 relatedTranslations: ["daodejing-37", "daodejing-22"]

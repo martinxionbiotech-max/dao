@@ -1,6 +1,8 @@
 ---
 {
   "title": "Neigong (内功): Internal Work",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "Term entry: neigong 内功 — the counter-term to external exercise. See the full practice page.",
   "chinese": "内功",
   "pinyin": "nèigōng",
@@ -12,7 +14,6 @@
   ],
   "recommended": "neigong, untranslated",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "TRADITIONAL / LINEAGE INTERPRETATION",
     "UNCERTAIN"

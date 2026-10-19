@@ -1,5 +1,7 @@
 ---
 title: "EXP-008: The Breath That Seems to Stop on Its Own"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized note: in deep stillness the breath becomes so fine it appears to stop, with no strain or air hunger — and the community's distinction from forced breath-holding."
 experienceId: "EXP-008"
 practice: "Daoist-style quiet sitting"
@@ -16,7 +18,6 @@ sourceType: note
 confidence: "low"
 anonymity: "anonymous"
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 relatedConcepts: ["jingzuo", "qi"]
 relatedPractices: ["jingzuo"]

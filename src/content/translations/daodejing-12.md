@@ -1,10 +1,11 @@
 ---
 title: "The Five Colors Blind the Eye (Daodejing 12)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 12: the five colors, sounds, and flavors — the chapter that states the book's sense-discipline: the organs are dulled by their own delights, and the sage serves the belly, not the eye. The chapter the commentarial tradition titled 'Restraining Desire.'"
 sourceText: "daodejing"
 chapter: "Ch. 12"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["xu"]
 relatedTranslations: ["xinzhai-passage", "daodejing-02"]

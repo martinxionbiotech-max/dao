@@ -1,5 +1,7 @@
 ---
 title: "EXP-011: Closing the Session — the Shougong Protocol and Forced Breathing"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized note: practitioners' post-sitting symptoms (eye pain, bowel unease, one-sided leg tolerance), the teacher's closing protocol ('return the qi to the dantian') and his warning against forced abdominal breathing."
 experienceId: "EXP-011"
 practice: "Cross-legged sitting (double-lotus training) with breath work"
@@ -19,7 +21,6 @@ sources:
   - "Taishi cultivation Q&A no. 29 (163.com community column, 2021) (https://www.163.com/dy/article/G2V35NKQ0545316K.html). Full text retrieved and paraphrased per the archive rules (no verbatim quoting, no usernames)."
 relatedPractices: ["jingzuo", "tiaoxi"]
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 ---
 

@@ -1,12 +1,13 @@
 ---
 title: "Zhuang Zhou"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Zhuang Zhou 庄周, Master Zhuang: the lacquer-garden clerk who refused a kingdom's prime ministership — the Shiji biography, the butterfly dream, and how to separate the person from the parables."
 chinese: "庄周"
 pinyin: "Zhuāng Zhōu"
 period: "4th c. BCE (traditional); contemporary of King Hui of Liang and King Xuan of Qi"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedTexts: ["zhuangzi"]
 relatedConcepts: ["zuowang", "xinzhai", "wuwei"]

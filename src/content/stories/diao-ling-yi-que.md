@@ -1,10 +1,11 @@
 ---
 title: "The Magpie at Diaoling"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Zhuangzi stalks a strange magpie with a slingshot — and watches the chain: the cicada forgot its body in the shade, the mantis forgot its form at the catch, the magpie forgot its true nature at the gain. Then the gamekeeper chases him. The only story in the book where Zhuangzi himself is the one who fails: things pile onto each other, and the two kinds summon each other."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedStories: ["mantis-stalks-cicada", "shinan-yiliao", "yi-dai-niao", "luhou-yang-niao", "mountain-tree-goose"]
 relatedGlossary: ["qiwu"]

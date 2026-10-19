@@ -1,10 +1,11 @@
 ---
 title: "Three Cries, and Out: Qin Shi Mourns Laozi"
+date: 2026-10-10
+updated: 2026-10-10
 description: "When Laozi dies, his friend Qin Shi cries three times and leaves. The disciples object — and Qin Shi explains what the mourners are doing wrong, and what 'resting in the season' would be."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedPeople: ["laozi"]
 relatedStories: ["confucius-meets-laozi", "four-friends", "drumming-basin"]

@@ -1,12 +1,13 @@
 ---
 title: "Zhenzai (真宰)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Zhenzai 真宰, the 'true driver' — the Zhuangzi's name for the mover that might stand behind everything, put forward with an as-if and then left unfound. The word the tradition uses to say: no one is at the wheel."
 chinese: "真宰"
 pinyin: "zhēnzǎi"
 meaning: "The true driver, the true controller — 真 (true, genuine) + 宰 (the steward, the butcher-priest who carves, the one in charge); in the Zhuangzi, always under the shadow of 若 (as if): 'as if there were a true driver'"
 category: "Negated cosmological term"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedStories: ["wang-liang-wen-jing", "hundun"]
 relatedConcepts: ["ziran"]

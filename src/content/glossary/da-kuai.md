@@ -1,12 +1,13 @@
 ---
 title: "Dakuai (大块)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Dakuai 大块, the 'great clod' — the Zhuangzi's name for the world-process: no maker, no plan, things born 'clod-like, of themselves.' It breathes out and the breath is called wind."
 chinese: "大块"
 pinyin: "dàkuài"
 meaning: "The great clod, the great mass — 大 (great) + 块 (clod, lump, mass of earth); the book's impersonal name for the world-process that carries and engenders everything"
 category: "Cosmological term"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedStories: ["four-friends"]
 relatedConcepts: ["ziran"]

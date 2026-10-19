@@ -1,10 +1,11 @@
 ---
 title: "The Highest Good Is Like Water (Daodejing 8)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 8: water as the book's closest image of the Way — it benefits all things without contending, takes the place everyone dislikes, and its seven skills end in the formula the whole book keeps returning to."
 sourceText: "daodejing"
 chapter: "Ch. 8"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["ziran", "wuwei"]
 relatedTranslations: ["daodejing-22", "daodejing-45"]

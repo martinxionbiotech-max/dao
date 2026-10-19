@@ -1,5 +1,7 @@
 ---
 title: "Zhuangzi (the Book)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Zhuangzi 庄子: a 33-chapter anthology compiled from multiple hands, the source of zuowang and xinzhai, and the classical basis of Daoist contemplative language. Structure, authorship, and reception."
 chinese: "庄子"
 pinyin: "Zhuāngzǐ"
@@ -7,7 +9,6 @@ author: "Zhuang Zhou (traditional attribution for the Inner Chapters); multiple 
 dynasty: "Warring States (4th–2nd c. BCE); received edition fixed by Guo Xiang (d. 312)"
 genre: "philosophical anthology: parables, dialogues, satires"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["zuowang", "xinzhai", "qi", "wuwei"]
 relatedPeople: ["zhuang-zhou"]

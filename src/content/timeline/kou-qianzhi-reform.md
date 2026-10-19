@@ -1,11 +1,12 @@
 ---
 title: "Kou Qianzhi's Reform (415–442 CE)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Northern Celestial Master reform: the 415 revelation, the purge of the Zhangs' institutions, and the first emperor to take Daoist registers — Daoism's first imperial institution."
 periodStart: "c. 415 CE (the first revelation, the deified Laozi's commission)"
 periodEnd: "442 CE (Emperor Taiwu takes registers at the altar)"
 eventType: "institutional reform"
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["shouyi"]
 relatedPeople: ["kou-qianzhi"]

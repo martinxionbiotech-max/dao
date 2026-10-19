@@ -1,11 +1,12 @@
 ---
 {
   "title": "Body Feels Very Large During Sitting — What Is That?",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "A problem page: the body feeling huge, expanded, or boundaryless in stillness — the Zhuangzi's 'heaven and earth were born with me,' the practitioner archives, and the medical boundary.",
   "question": "Why does my body feel very large, swollen, or boundaryless during sitting?",
   "shortAnswer": "The tradition has a name for the felt edge of this: the Zhuangzi's 'heaven and earth were born together with me, and the myriad things and I are one' — the felt boundary of the body loosening in stillness is an old and documented report, not damage. Modern research can describe related changes in body perception but has not studied this in Daoist sitting, and any persistent or distressing change in body image is a medical matter, not a meditation matter.",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "CONTEMPORARY COMMUNITY OBSERVATION",

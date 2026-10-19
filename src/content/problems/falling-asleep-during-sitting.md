@@ -1,11 +1,12 @@
 ---
 {
   "title": "Falling Asleep During Sitting — What the Tradition Says",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "A problem page: sleep overtaking stillness — the drowsiness problem's sibling, the archive case, the posture and timing factors, and the medical boundary.",
   "question": "Why do I fall asleep during sitting meditation?",
   "shortAnswer": "The tradition knows the failure mode well: stillness and sleepiness are neighbors, and the manuals answer with posture, timing, and alertness — not with guilt. An under-rested body falls asleep in stillness exactly as it would in a lecture chair, and the archives record the same arc (sleep early on, stability later). The medical boundary is the same as the drowsiness page's: persistent daytime sleepiness is a sleep-medicine matter.",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "TRADITIONAL / LINEAGE INTERPRETATION",
     "PRACTITIONER EXPERIENCE"

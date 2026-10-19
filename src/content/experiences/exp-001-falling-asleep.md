@@ -1,5 +1,7 @@
 ---
 title: "EXP-001: Falling Asleep in Guided Mindfulness Sessions"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized note: a practitioner reports falling asleep in most guided mindfulness sessions over more than a year, and asks whether this is normal."
 experienceId: "EXP-001"
 practice: "mindfulness meditation (audio-guided)"
@@ -16,7 +18,6 @@ sourceType: note
 confidence: "high"
 anonymity: "anonymous"
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 relatedConcepts: ["jingzuo", "zuowang"]
 relatedPractices: ["jingzuo"]

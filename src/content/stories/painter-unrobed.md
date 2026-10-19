@@ -1,10 +1,11 @@
 ---
 title: "The Unrobed Painter: What the True Artist Does with Protocol"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The painter who undressed and sat cross-legged while the others stood at attention — the Zhuangzi's image of unselfconscious skill, and the tradition's word for why ceremony must give way before the work."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["ziran", "jing", "wuwei"]
 relatedStories: ["carpenter-shi", "artisan-qing"]

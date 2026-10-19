@@ -1,10 +1,11 @@
 ---
 title: "The Robber's Five Virtues"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Robber Zhi's disciple asks whether robbery has a Way. The robber lists the five virtues — sagacity, courage, righteousness, wisdom, benevolence — and names the price: without all five, no one has ever become a great robber. The Zhuangzi's sharpest institutional charge: the virtues are tools, and the tools serve whoever holds them."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedStories: ["bole-horses", "tushan-shuo", "cao-shang"]
 relatedConcepts: ["ziran", "wuwei"]

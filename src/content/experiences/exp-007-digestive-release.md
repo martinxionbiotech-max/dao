@@ -1,5 +1,7 @@
 ---
 title: "EXP-007: Belching, Passing Wind, and a Calmer Stomach in Sitting"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized note: during sitting, spontaneous belching and passing of wind, with the stomach feeling settled afterward — digestive-release reports from practice communities."
 experienceId: "EXP-007"
 practice: "Buddhist-style seated meditation (打坐)"
@@ -16,7 +18,6 @@ sourceType: note
 confidence: "medium"
 anonymity: "anonymous"
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 relatedConcepts: ["jingzuo", "qi"]
 relatedPractices: ["jingzuo"]

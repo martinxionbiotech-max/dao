@@ -1,5 +1,7 @@
 ---
 title: "EXP-014: The Double-Lotus Doctrine — One Teacher's Complete Physiology of Sitting"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized note: electric-shock sensations in single-lotus sitting, and the teacher's full system in answer — the closed circuit of qi, the five leaks, the 'sitting-and-forgetting' stage, and the rule that nothing else counts."
 experienceId: "EXP-014"
 practice: "Double-lotus sitting, prostrations, and breathing practice (one teacher's hard-line posture system)"
@@ -20,7 +22,6 @@ sources:
 relatedPractices: ["jingzuo"]
 relatedQuestions: ["must-i-sit-cross-legged"]
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 ---
 

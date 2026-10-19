@@ -1,10 +1,11 @@
 ---
 title: "The Joy of the Fish: Zhuangzi and Hui Shi on the Bridge"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Haoliang debate: 'how do you know the fish are happy?' — the Zhuangzi's fable about two kinds of knowing, and the tradition's word for the direct perception that sitting is supposed to restore."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["jing", "guan", "ziran"]
 relatedStories: ["carpenter-shi"]

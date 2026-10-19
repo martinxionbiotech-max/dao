@@ -1,11 +1,12 @@
 ---
 title: "The Zhuangzi Takes Shape (c. 4th–2nd c. BCE)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "From Zhuang Zhou's Inner Chapters through two centuries of follower writings to Guo Xiang's 33-chapter recension — how the anthology of Chinese contemplative literature was assembled."
 periodStart: "-350"
 periodEnd: "-150"
 eventType: "compilation"
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["zuowang", "xinzhai", "xu"]
 relatedTexts: ["zhuangzi"]

@@ -1,10 +1,11 @@
 ---
 title: "The Pity Chain: Kui, the Centipede, the Snake, the Wind"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Kui pities the centipede for its ten thousand feet, the centipede pities the snake for having none, the snake pities the wind — and the chain ends in the two creatures no one can pity, the eye and the mind."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedStories: ["wangyang-xingtan", "peng-bird"]
 relatedConcepts: ["ziran"]

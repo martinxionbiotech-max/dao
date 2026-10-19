@@ -1,5 +1,7 @@
 ---
 title: "Jingzuo: Quiet Sitting as a Practice"
+date: 2026-10-10
+updated: 2026-10-10
 description: "What the Song–Ming sources actually say about how to practice jingzuo 静坐 — posture, timing, the mind's work, and the tradition's own cautions. No invented universal technique."
 chinese: "静坐"
 pinyin: "jìngzuò"
@@ -7,7 +9,6 @@ tradition: "Neo-Confucian (Song–Ming); Daoist and Chan-influenced"
 difficulty: "simple form; sustained practice is demanding"
 originPeriod: "Practice current by the Northern Song (11th c.); classical roots in Zhuangzi (4th–3rd c. BCE)"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE"]
 relatedConcepts: ["jingzuo", "zuowang", "xinzhai", "shouyi"]
 relatedTexts: ["zhuangzi"]

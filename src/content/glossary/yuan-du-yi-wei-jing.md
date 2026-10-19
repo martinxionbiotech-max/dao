@@ -1,12 +1,13 @@
 ---
 title: "Yuandu Yiwei Jing (缘督以为经)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Yuandu yiwei jing 缘督以为经, 'following the middle as the constant' — the Yang Sheng Zhu's opening rule: do good without nearing fame, do bad without nearing punishment, follow the middle as the warp-thread. The word du names both the body's central line (the Du meridian of the back) and the middle course between the two named edges — the chapter's life-version of the butcher's gap."
 chinese: "缘督以为经"
 pinyin: "yuán dū yǐ wéi jīng"
 meaning: "Following the middle as the constant — 缘 (follow along) + 督 (the middle; traditionally glossed 中也, and read on the body-layer as the Du meridian, the back's central line) + 以为经 (take as the warp-thread, the constant). The Yang Sheng Zhu's named method between its two edges: 为善无近名，为恶无近刑 (good without nearing fame, bad without nearing punishment)"
 category: "Practice term"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION", "SCHOLARLY INTERPRETATION"]
 relatedGlossary: ["dao", "xu"]
 relatedConcepts: ["ziran", "xu"]

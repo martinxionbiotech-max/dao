@@ -1,10 +1,11 @@
 ---
 title: "The River God Looks Out to Sea: When the Flood Meets the Floodless"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The autumn floods fill the river; the river god thinks all beauty is in him; he reaches the sea and learns what a 'great standard' means. The Zhuangzi's opening fable about the moment of seeing one's own size."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["guan"]
 relatedStories: ["jingdi-zhiwa", "peng-bird"]

@@ -1,10 +1,11 @@
 ---
 title: "The Bend That Completes (Daodejing 22)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 22: the six reversals, embracing the One as the realm's gauge, the four self-refusals — and the oldest manuscripts' different word for it all."
 sourceText: "daodejing"
 chapter: "Ch. 22"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["wuwei", "xu"]
 relatedTranslations: ["daodejing-10-shouyi", "daodejing-37"]

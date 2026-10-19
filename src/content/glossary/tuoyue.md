@@ -1,5 +1,7 @@
 ---
 title: "Tuoyue"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: tuoyue 橐籥, the bellows — the Daodejing's image of the space between heaven and earth: empty yet inexhaustible, moved and yielding more. The tradition's machine-metaphor for emptiness as productivity."
 chinese: "橐籥"
 pinyin: "tuóyuè"
@@ -8,7 +10,6 @@ translationOptions: ["bellows", "the bellows of the forge", "the empty bag and i
 recommended: "bellows (with 'the smith's air machine' glossed where the emptiness-productivity point matters)"
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["xu", "jing", "dao"]
 relatedTexts: ["daodejing"]
 sources:

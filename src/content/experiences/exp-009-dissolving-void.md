@@ -1,5 +1,7 @@
 ---
 title: "EXP-009: Dissolving Into the Void — and the Teacher's Diagnosis"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Anonymized note: a practitioner's felt merger with emptiness during sitting, the teacher's blunt diagnostic ('that is blank staring'), and the three-layer reading of both."
 experienceId: "EXP-009"
 practice: "Mantra + visualization sitting, then a switch to repeated emptiness-of-nature sutra phrases"
@@ -20,7 +22,6 @@ sources:
 relatedPractices: ["jingzuo"]
 relatedQuestions: ["what-counts-as-progress"]
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 ---
 

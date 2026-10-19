@@ -1,11 +1,12 @@
 ---
 {
   "title": "Vibrations or Shaking During Sitting — What Does the Tradition Say?",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "A problem page: vibrations, buzzing, or fine shaking in stillness — qi-movement in the traditional frame, the practitioner archives, the physiological reading, and the medical boundary.",
   "question": "Why do I feel vibrations, buzzing, or shaking during sitting?",
   "shortAnswer": "The traditional frame for movement felt inside the body is qi-movement, and the manuals' rule is the site-wide one: observe without grasping. Muscle tremor as stillness deepens has ordinary physiological explanations (postural muscles settling, a tired body unclenching), but no research exists on vibration sensations in Daoist sitting, and persistent tremor or one-sided shaking is a medical matter.",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "TRADITIONAL / LINEAGE INTERPRETATION",
     "CONTEMPORARY COMMUNITY OBSERVATION"

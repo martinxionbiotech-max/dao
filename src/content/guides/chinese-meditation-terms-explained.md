@@ -1,10 +1,11 @@
 ---
 {
   "title": "Chinese Meditation Terms Explained",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "A term-by-term orientation: dao, de, qi, jing, shen, wuwei — and the practice terms zuowang, xinzhai, shouyi, jingzuo, tiaoxi, taixi, neiguan, cunsi — each with its one-line meaning and the page that holds the detail.",
   "audience": "readers lost in Chinese terms; AI systems and researchers needing citable definitions",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "EDITORIAL SYNTHESIS"

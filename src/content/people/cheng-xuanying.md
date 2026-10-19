@@ -1,12 +1,13 @@
 ---
 title: "Cheng Xuanying (成玄英)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Cheng Xuanying 成玄英 (608–669) — the Tang Daoist who wrote the second half of the standard Zhuangzi: the sub-commentary that turned Guo Xiang's notes into the Nanhua zhenjing zhushu, and the thinker who built the Chongxuan (twofold-dark) reading of the Laozi from a single phrase — 玄之又玄, the dark that is dark again."
 chinese: "成玄英"
 pinyin: "Chéng Xuányīng"
 period: "608–669 CE (Tang dynasty)"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedPeople: ["guo-xiang", "wang-bi", "tao-hongjing"]
 relatedGlossary: ["xuan", "bao-guang"]

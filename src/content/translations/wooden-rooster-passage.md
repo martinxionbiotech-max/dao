@@ -1,10 +1,11 @@
 ---
 title: "The Wooden Rooster Passage (Zhuangzi ch. 19)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Ji Xingzi training a fighting cock through four stages until it stands 'like wood' — the complete passage in annotated translation: the forty-day subtraction of display, reflex, and belligerence."
 sourceText: "zhuangzi"
 chapter: "19 (Dasheng)"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["xu", "jing", "jingzuo"]
 relatedStories: ["wooden-rooster"]

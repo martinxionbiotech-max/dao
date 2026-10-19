@@ -1,9 +1,10 @@
 ---
 title: "Zuowang vs. Shouyi: Forgetting vs. Guarding"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The two classical poles of Daoist sitting — emptying into oblivion versus holding the One — compared from their primary sources, with what the tradition itself says about their relationship."
 entities: ["zuowang", "shouyi"]
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["zuowang", "shouyi", "wuwei", "jingzuo"]
 sources:

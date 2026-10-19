@@ -1,5 +1,7 @@
 ---
 title: "Neiguan Jing (Scripture of Inner Observation)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Neiguan Jing 内观经: the Sui-Tang scripture of inner observation — 'still the spirit, settle the mind, let no wild thoughts arise.' The text behind Tang zuowang practice."
 chinese: "太上老君内观经"
 pinyin: "Nèiguān Jīng"
@@ -7,7 +9,6 @@ author: "Anonymous (attributed to Taishang Laojun)"
 dynasty: "Sui–Tang transition (scholarly dating)"
 genre: "Daoist scripture; contemplative method text"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["shouyi", "zuowang", "qi", "xinzhai"]
 relatedTexts: ["qingjing-jing", "zuowang-lun"]

@@ -21,8 +21,9 @@ const detail = [
 ].filter(([, v]) => v);
 ---
 
-<Base title={d.title} description={d.description}>
+<Base title={d.title} description={d.description} published={d.date} updated={d.updated}>
   <h1>{d.title}</h1>
+  {d.date && <p class="meta">Published {d.date.toISOString().slice(0, 10)} &middot; Updated {(d.updated || d.date).toISOString().slice(0, 10)}</p>}
   <p class="meta"><span class="tag">experience report</span><span class="tag">{d.anonymity}</span>{d.confidence && <span class="tag">confidence: {d.confidence}</span>}</p>
   <Content />
   {detail.length > 0 && (

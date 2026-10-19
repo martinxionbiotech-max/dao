@@ -1,5 +1,7 @@
 ---
 title: "Huangting Jing (the Book)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Huangting neijing jing 黄庭内景经: the Shangqing scripture that fixed the three-dantian map — the inner geography every later practice inherits, and its signature line."
 chinese: "黄庭内景经"
 pinyin: "Huángtíng Nèijǐng Jīng"
@@ -7,7 +9,6 @@ author: "Traditional attribution to Lady Wei Huacun (魏华存); actual author u
 dynasty: "Dated variously late Han to 4th c. CE; associated with the Shangqing (Highest Clarity) revelations"
 genre: "revealed scripture; inner visualization and alchemy in verse"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["qi", "shouyi"]
 sources:

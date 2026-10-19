@@ -1,10 +1,11 @@
 ---
 title: "The Mountain Tree and the Goose"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The useless tree lives out its years; the useless goose is killed for dinner. Asked which side he will take, Zhuang Zhou laughs: between timber and no-timber — and then leaves both."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedStories: ["useless-gourd", "turtle-in-the-mud"]
 relatedConcepts: ["ziran", "wuwei"]

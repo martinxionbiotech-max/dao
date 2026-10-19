@@ -1,5 +1,7 @@
 ---
 title: "Taixi: Embryonic Breathing"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Taixi 胎息, 'breathing as in the womb' — the classical ideal of breath so fine it forgets the nose and mouth, and why the tradition itself warns against forcing it."
 chinese: "胎息"
 pinyin: "tāixī"
@@ -7,7 +9,6 @@ tradition: "Daoist (Baopuzi; later internal alchemy)"
 difficulty: "advanced; traditionally framed as a consequence of long practice, not a technique to seize"
 originPeriod: "First explicit definition in Baopuzi (4th c. CE); roots in Zhuangzi's 'breathing from the heels' (大宗师)"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["qi", "xu"]
 relatedPractices: ["jingzuo"]

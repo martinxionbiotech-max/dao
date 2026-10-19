@@ -1,13 +1,14 @@
 ---
 
 title: "Varieties of Contemplative Experience (Lindahl 2017)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The first taxonomy of meditation-related challenges: interviews with Western Buddhist practitioners and teachers, mapping the phenomena, the influencing factors, and the remedies."
 question: "What kinds of difficult experiences arise in meditation, when do they arise, and how are they worked with?"
 method: "Mixed-methods qualitative study: interviews with Western Buddhist meditation practitioners and teachers across traditions (Theravada, Zen, Tibetan), producing a taxonomy of meditation-related challenges — phenomenology, influencing factors, and remedies."
 findingsSummary: "Challenges ranged from mild to severe and spanned somatic, emotional, and perceptual domains; onset varied from the first days of practice to 25+ years in (mean 7.1 years; 29% within the first year, 45% between 1–10 years, 25% after 10+ years; 12% within the first ten days). Participants reported challenges arising in many practice types, including sitting practices."
 limitations: "Qualitative interview study of self-selected Western Buddhist practitioners; no base-rate estimates (how common these are overall is not what it measures); Buddhist contexts, not Daoist sitting; the taxonomy describes and classifies, it does not establish causation."
 status: published
-date: 2026-10-07
 evidence: ["MODERN RESEARCH"]
 relatedConcepts: ["jingzuo", "zuowang"]
 relatedQuestions: ["can-sitting-go-wrong"]

@@ -1,5 +1,7 @@
 ---
 title: "Tiaoxi: Regulating the Breath"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Tiaoxi 调息 as practice: the Xiao Zhiguan's breath ladder from the 'wind' fault to the 'rest' breath, and the rule that governs every level — harmonize, never force."
 chinese: "调息"
 pinyin: "tiáoxī"
@@ -7,7 +9,6 @@ tradition: "Chinese sitting common vocabulary (systematized in the Buddhist Tian
 difficulty: "beginner-accessible; the refinement to the 'rest' breath is long-term"
 originPeriod: "Method systematized 6th c. CE (Zhiyi, Xiao zhiguan); classical roots in Zhuangzi's 'breathing from the heels'"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["qi", "tiaoxi", "taixi", "jing"]
 relatedTexts: ["xiao-zhiguan"]

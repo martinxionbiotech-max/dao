@@ -1,5 +1,7 @@
 ---
 title: "Guan"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: guan 观, 'to observe' — the Daodejing's word for contemplative seeing, from 'observing its subtleties' to 'observing the body with the body' — the gaze that the inner-contemplation classics inherit."
 chinese: "观"
 pinyin: "guān"
@@ -8,7 +10,6 @@ translationOptions: ["observation", "contemplative seeing", "inner observation",
 recommended: "observation (inner observation where the target is the interior); 'contemplation' only with Buddhist contexts flagged"
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["neiguan", "jingzuo"]
 relatedTexts: ["daodejing", "neiguan-jing"]
 sources:

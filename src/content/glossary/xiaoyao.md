@@ -1,12 +1,13 @@
 ---
 title: "Xiaoyao (逍遥)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Xiaoyao 逍遥, 'free wandering' — the Zhuangzi's name for the state the whole book opens with: not leisure but the movement that depends on nothing, wandering at ease beside a tree that nothing wants, in a business of no business."
 chinese: "逍遥"
 pinyin: "xiāoyáo"
 meaning: "Free wandering — 逍 (far, unmoored) + 遥 (distant, unconstrained); the book's title-word for moving through the world without being held by anything in it"
 category: "Core concept"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedConcepts: ["ziran", "wuwei"]
 relatedGlossary: ["ji-xin"]

@@ -1,5 +1,7 @@
 ---
 title: "Liezi (The Book of Master Lie)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Liezi 列子: the fable treasury of the Daoist canon — and the book with the most contested authorship in the tradition. The full controversy, stated with both sides."
 chinese: "列子"
 pinyin: "Lièzǐ"
@@ -7,7 +9,6 @@ author: "Attributed to Lie Yukou 列御寇 (Master Lie); received text tradition
 dynasty: "Attributed to the Warring States period; received text dated by modern scholarship to the Jin era (3rd–4th c. CE), with earlier material preserved within it"
 genre: "Daoist classic; fable collection; one of the 'Four True Classics' (四子真经) of the Tang Daoist canon"
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["xu", "ziran"]
 relatedTexts: ["zhuangzi", "daodejing"]

@@ -1,10 +1,11 @@
 ---
 title: "The Valley-Spirit Does Not Die (Daodejing 6)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of ch. 6 — the book's shortest chapter, twenty-five characters: the valley-spirit, the mysterious female, the gate that is the root, and the one sentence that describes what a settled sitting feels like."
 sourceText: "daodejing"
 chapter: "Ch. 6"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["dao", "xu"]
 relatedGlossary: ["xuan-pin", "tuoyue"]

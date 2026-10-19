@@ -1,12 +1,13 @@
 ---
 title: "Laozi"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Laozi 老子: the traditional author of the Daodejing — what the Shiji biography says, what it admits it does not know, and the deification of the Old Master in religious Daoism."
 chinese: "老子"
 pinyin: "Lǎozǐ"
 period: "Traditionally 6th c. BCE; historicity uncertain"
 historicity: uncertain
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedTexts: ["daodejing"]
 relatedConcepts: ["wuwei"]

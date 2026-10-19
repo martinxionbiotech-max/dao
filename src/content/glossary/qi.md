@@ -1,5 +1,7 @@
 ---
 title: "Qi (气): Translating the Term"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: qi 气 — why 'energy' is a partial translation, and how to handle the term in English."
 chinese: "气"
 pinyin: "qì"
@@ -8,7 +10,6 @@ translationOptions: ["qi (romanized)", "vital energy", "breath", "vital force", 
 recommended: "keep romanized as qi with a gloss; use 'breath' only in breathing contexts, 'energy' only with qualification"
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["qi"]
 sources:
   - "Zhuangzi chs. 4, 22; Daodejing ch. 10"

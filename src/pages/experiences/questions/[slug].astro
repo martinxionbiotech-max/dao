@@ -14,8 +14,9 @@ const { Content } = await render(entry);
 const d = entry.data;
 ---
 
-<Base title={d.question} description={d.description}>
+<Base title={d.question} description={d.description} published={d.date} updated={d.updated}>
   <h1>{d.question}</h1>
+  {d.date && <p class="meta">Published {d.date.toISOString().slice(0, 10)} &middot; Updated {(d.updated || d.date).toISOString().slice(0, 10)}</p>}
   <p class="meta"><span class="tag">{d.answerState}</span></p>
   <Content />
 </Base>

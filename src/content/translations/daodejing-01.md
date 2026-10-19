@@ -1,10 +1,11 @@
 ---
 title: "The Gate of All Subtleties (Daodejing 1)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Annotated translation of the first chapter: the Way that cannot be spoken, the two namings, the two observations, and the darkness twice darkened that is the gate of every subtlety."
 sourceText: "daodejing"
 chapter: "Ch. 1"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["dao", "xu", "guan"]
 relatedGlossary: ["xuan"]

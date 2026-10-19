@@ -1,10 +1,11 @@
 ---
 {
   "title": "A Map of Chinese Contemplative Traditions",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "One page, four families: Daoist, Buddhist, Confucian, and the health-cultivation arts — how they relate, where they borrowed from each other, and which site pages hold each one.",
   "audience": "readers who want the whole landscape before choosing a thread; orientation and graph-navigation node",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "EDITORIAL SYNTHESIS",
     "PRIMARY SOURCE"

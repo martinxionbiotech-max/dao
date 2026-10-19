@@ -1,10 +1,11 @@
 ---
 title: "The Turtle of Pu: Dragging Its Tail in the Mud"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The King of Chu sends two ministers to offer Zhuangzi the realm; Zhuangzi, without turning from his fishing rod, asks them about a three-thousand-year-old turtle in a box."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedPeople: ["zhuang-zhou", "tao-hongjing"]
 relatedStories: ["phoenix-and-owl"]

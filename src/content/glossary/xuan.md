@@ -1,5 +1,7 @@
 ---
 title: "Xuan"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: xuan 玄, 'dark' — the Daodejing's word for what is deep beyond naming; the root of 'Twofold Mystery' (chongxuan) and the family name of everything profound in the tradition."
 chinese: "玄"
 pinyin: "xuán"
@@ -8,7 +10,6 @@ translationOptions: ["dark", "dark-beyond-dark", "mysterious", "profound", "the 
 recommended: "dark/depth (with 'beyond naming' glossed); avoid 'mysterious' where it suggests the occult"
 evidence: ["PRIMARY SOURCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["dao"]
 relatedTexts: ["daodejing"]
 sources:

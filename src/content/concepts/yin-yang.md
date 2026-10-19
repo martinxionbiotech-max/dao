@@ -1,12 +1,13 @@
 ---
 title: "Yin-Yang (阴阳): The Paired Aspects"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Yin-Yang 阴阳 — shade and sun as the paired aspects of change: the one Daodejing mention (ch. 42), the Yijing's 一阴一阳之谓道, the Neijing's medical systematization, and the boundary with the Yin-Yang school."
 chinese: "阴阳"
 pinyin: "yīnyáng"
 literalMeaning: "the shady side and the sunny side (of a hill); the paired aspects"
 tradition: "Shared Warring States cosmology (Yin-Yang school); adopted into Daoism"
 status: published
-date: 2026-10-08
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["qi", "jing", "dao", "fan"]
 relatedTexts: ["daodejing"]

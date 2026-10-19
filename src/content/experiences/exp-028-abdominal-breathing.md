@@ -1,5 +1,7 @@
 ---
 title: "Abdominal Breathing"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The archive's breathing curriculum, full chapter: the purpose is not to lengthen the breath but to change a decades-old chest-breathing habit; inhale by releasing the belly, exhale by contracting it; stand to practice, sit only when it is already natural; ten to twelve breaths a minute, no more; and the teacher's own methodological confession — he describes dhyana only through breath-rates and body changes, because naming attainments makes people chase them."
 series: "Taishi Q&A"
 episode: "Sit-in Q&A, ch. 4 (abdominal breathing), sections 01–04, official collection"
@@ -8,7 +10,6 @@ practice: "Abdominal (diaphragmatic) breathing as the entry requirement for sitt
 tradition: "Buddhist monastic practice (Chan), self-described"
 context: "The teacher's official Sit-in Q&A collection, ch. 4 on abdominal breathing, sections 01–04 (为什么要练 / 如何练 / 练成的标准 / 练习须知, original posts dated 2014-06-03 through 2014-06-18), retrieved 2026-10-07 from taiguanglin.org: readers ask about reverse vs. forward abdominal breathing, whether they must make the hissing sound, breathing rates, practice timing, eating and menstruation and pregnancy constraints, chest pain and dizziness, and the teacher answers the full curriculum — the purpose (changing the breathing habit, not lengthening the breath), the mechanics (release the belly to inhale, contract to exhale), the standing rule, the ten-to-twelve-breaths-a-minute standard, the anti-overpractice warnings (constipation as the body's brake), the Anapanasati criticism, the four-dhyana blood doctrine, and the methodological confession (Inception's elephant: describing attainments makes people chase them, so he works only through breath-rates and body changes)"
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 sourceType: note
 anonymity: "anonymous"

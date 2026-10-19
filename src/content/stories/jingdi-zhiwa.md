@@ -1,10 +1,11 @@
 ---
 title: "The Well Frog and the Sea Turtle: The Three Limits of Knowing"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The frog who owned his well — and the sea turtle whose knee could not fit through the edge: the Zhuangzi's fable about the structure of all knowledge, and its maxim about the well, the summer, and the schooling."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["ziran"]
 relatedStories: ["handan-walk", "fish-happiness"]

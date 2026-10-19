@@ -1,12 +1,13 @@
 ---
 title: "Baopuzi Composed (c. 314–320s CE)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Ge Hong compiles the Baopuzi — inner chapters on practice, outer chapters on the world — while in seclusion; the fourth-century consolidation that turns scattered sitting instructions into a catalog."
 periodStart: "c. 314 CE"
 periodEnd: "c. 320s CE"
 eventType: "text compilation"
 evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["shouyi", "taixi"]
 relatedPeople: ["ge-hong"]
 relatedTexts: ["baopuzi"]

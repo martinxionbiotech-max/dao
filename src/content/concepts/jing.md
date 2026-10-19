@@ -1,11 +1,12 @@
 ---
 title: "Jing: Stillness"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Jing 静, the stillness at the root of all Daoist sitting — the Daodejing's 'returning to the root is stillness,' the mirror-mind of the Zhuangzi, and why stillness is a state, not a posture."
 chinese: "静"
 pinyin: "jìng"
 tradition: "Daoist (Daodejing, Zhuangzi); adopted by Neo-Confucian jingzuo"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 relatedConcepts: ["jingzuo", "zuowang", "xu", "wuwei"]
 relatedTexts: ["daodejing", "zhuangzi"]

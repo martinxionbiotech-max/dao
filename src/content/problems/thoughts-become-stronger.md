@@ -1,11 +1,12 @@
 ---
 {
   "title": "Thoughts Become Stronger When I Sit — Is That Backwards?",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "A problem page: why thinking seems louder in stillness — the tradition's answer (you are hearing what was always there), the archives, and the boundary.",
   "question": "Why do thoughts become stronger and louder when I start to meditate?",
   "shortAnswer": "The tradition's answer is that stillness does not add thoughts — it removes the noise that covered them. What feels like 'stronger thinking' is usually hearing what was always running. This is the expected starting condition, not a failure; the practice is the slow settling of it, and the only medical boundary is when thought content itself is distressing or intrusive.",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "PRIMARY SOURCE",
     "TRADITIONAL / LINEAGE INTERPRETATION"

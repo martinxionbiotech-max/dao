@@ -1,13 +1,14 @@
 ---
 {
   "title": "Interoception and Mental Health: The Roadmap (Khalsa 2018)",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "The consensus definition of interoception — the brain's moment-by-moment mapping of the body's interior — and why it matters for the body-sensation problem pages.",
   "question": "What is interoception, and how does it relate to mental health?",
   "method": "Multi-author consensus 'roadmap' review: defines interoception, surveys measurement approaches, and maps research directions linking interoceptive function to mental health.",
   "findingsSummary": "Interoception is 'the process by which the nervous system senses, interprets, and integrates signals originating from within the body' — a moment-by-moment map of the body's interior across conscious and unconscious levels, contributing to homeostasis, feelings, and emotional experience.",
   "limitations": "Definitions and measurement of interoception are still debated; the roadmap is a research agenda, not a set of findings about meditation; no Daoist sitting studied.",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "MODERN RESEARCH"
   ],

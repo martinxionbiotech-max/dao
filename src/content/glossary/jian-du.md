@@ -1,12 +1,13 @@
 ---
 title: "Jiandu (见独)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Jiandu 见独, the 'seeing of the alone' — the summit stage of the Nü Yu ladder: after the dawn-clearing, the practitioner sees the solitary, and only then does time fall away."
 chinese: "见独"
 pinyin: "jiàndú"
 meaning: "Seeing the alone; the direct perception of the solitary ground of things"
 category: "State term"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["dao"]
 relatedGlossary: ["zhao-che"]

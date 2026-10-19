@@ -1,12 +1,13 @@
 ---
 title: "Li Ao (李翱)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Li Ao 李翱 (772–841) — the Tang Confucian who spent his life opposing Buddhism and Daoism, and then, as Langzhou prefect, climbed the mountain to a Chan master and wrote the tradition's most famous poem about things being exactly where they are."
 chinese: "李翱"
 pinyin: "Lǐ Áo"
 period: "772–841 CE (Tang)"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "SCHOLARLY INTERPRETATION"]
 relatedPeople: ["fu-yi", "zhiyi"]
 relatedTexts: ["qingjing-jing"]

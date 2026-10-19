@@ -1,10 +1,11 @@
 ---
 title: "The Wooden Rooster"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Ji Shengzi trains the king's fighting cock through four stages until it stands like a wooden rooster — the Zhuangzi's parable of collected stillness as the highest strength."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["wuwei", "shouyi", "jingzuo"]
 sources:

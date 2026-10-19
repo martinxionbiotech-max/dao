@@ -1,5 +1,7 @@
 ---
 title: "Wuwei"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: wuwei 无为, 'non-action' — translation options and common mistranslations."
 chinese: "无为"
 pinyin: "wúwéi"
@@ -8,7 +10,6 @@ translationOptions: ["non-action", "effortless action", "non-coercive action", "
 recommended: "non-action, with the note that it is the negation of forced/contrived action, not of activity"
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["wuwei"]
 sources:
   - "Daodejing chs. 2, 37, 48; Slingerland, Effortless Action (2003)"

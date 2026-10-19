@@ -1,10 +1,11 @@
 ---
 title: "The Snail-Horn War"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Two kingdoms on the two horns of a snail, tens of thousands of corpses over disputed ground — told to a king who was about to start a real war, by the hermit Dai Jinren, who then asks how big his own kingdom is."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedStories: ["jingdi-zhiwa", "wangyang-xingtan", "peng-bird"]
 sources:

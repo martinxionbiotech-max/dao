@@ -1,5 +1,7 @@
 ---
 title: "Zuowang"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: zuowang 坐忘, 'sitting in oblivion' — translation options and why the term resists a single rendering."
 chinese: "坐忘"
 pinyin: "zuòwàng"
@@ -8,7 +10,6 @@ translationOptions: ["sitting in oblivion", "sitting in forgetfulness", "sitting
 recommended: "sitting in oblivion (Kohn 2010); gloss with pinyin on first use"
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["zuowang"]
 sources:
   - "Zhuangzi ch. 6; Kohn, Sitting in Oblivion (2010)"

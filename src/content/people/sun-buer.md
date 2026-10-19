@@ -1,5 +1,7 @@
 ---
 title: "Sun Bu'er (孙不二)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Sun Bu'er (1119–1182), original name Sun Fuchun — the only woman among the Quanzhen Seven Perfected, wife of Ma Yu, founder of the Qingjing (Clear-Stillness) lineage, remembered as Immortal Lady Sun. The Seven Cranes birth legend, the couple who became fellow disciples, and the retreat in the Fengxian'gu cave at Luoyang where she died in sitting."
 historicity: "historical"
 dynasty: "Jin"
@@ -9,7 +11,6 @@ death: "Luoyang, 1182 (1183 per one source)"
 school: "Quanzhen (Complete Perfection)"
 lineage: "Disciple of Wang Chongyang; founder of the Qingjing (清静) lineage"
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedPeople: ["wang-chongyang", "ma-yu", "qiu-chuji"]
 relatedTexts: []

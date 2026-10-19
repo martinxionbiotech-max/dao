@@ -1,12 +1,13 @@
 ---
 title: "Chen Nan (陈楠)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Chen Nan 陈楠 (d. 1213) — the barrel-hooper of Huizhou who became the fourth patriarch of the southern lineage: mud-pills for the sick, thunder-rites from a mountain god, poems composed drunk, and the widening of the school — from one-to-one transmission to four named disciples. The master who taught Bai Yuchan, and whose own poem names the date, the place, and the heir."
 chinese: "陈楠"
 pinyin: "Chén Nán"
 period: "d. 1213 CE (Southern Song)"
 historicity: historical
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
 relatedPeople: ["bai-yuchan", "zhang-boduan"]
 relatedGlossary: ["jing-qi-shen", "qi"]

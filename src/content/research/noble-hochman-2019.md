@@ -1,13 +1,14 @@
 ---
 {
   "title": "Why Slow Breathing Relaxes: The Pulmonary-Afferent Hypothesis (Noble & Hochman 2019)",
+  "date": "2026-10-10",
+  "updated": "2026-10-10",
   "description": "The proposed mechanism behind slow-breathing effects: respiratory and baroreceptor afferents cycling at 0.1 Hz entraining central autonomic networks — a hypothesis, stated as a hypothesis.",
   "question": "Through what mechanism might slow, deep breathing produce physiological relaxation?",
   "method": "Hypothesis-and-theory article reviewing respiratory neurophysiology; proposes that coincident respiratory and baroreceptor afferent activity cycling at ~0.1 Hz during slow, deep breathing entrains central autonomic networks, with slowly-adapting pulmonary afferents (SARs) recruited during prolonged inhalations.",
   "findingsSummary": "A mechanism proposal, not a demonstrated effect: slow, deep breathing produces afferent activity patterns that could entrain central autonomic networks at ~0.1 Hz, offering a physiological route from breath pattern to relaxation.",
   "limitations": "This is a hypothesis paper — the mechanism is proposed, not established; direct experimental confirmation is still pending; no relevance to Daoist claims of taixi beyond the general physiology of slow breath.",
   "status": "published",
-  "date": "2026-10-08",
   "evidence": [
     "MODERN RESEARCH"
   ],

@@ -1,9 +1,10 @@
 ---
 title: "Standing in the Snow at Cheng Yi's Gate"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Song-dynasty episode that made quiet sitting the founding image of Neo-Confucian cultivation — retold from the dynastic history, with its status as tradition made explicit."
 tradition: "Neo-Confucian"
 status: published
-date: 2026-10-07
 evidence: ["HISTORICAL EVIDENCE"]
 relatedConcepts: ["jingzuo"]
 sources:

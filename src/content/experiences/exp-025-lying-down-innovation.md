@@ -1,5 +1,7 @@
 ---
 title: "Lying Down Practice, and the Innovation Question"
+date: 2026-10-10
+updated: 2026-10-10
 description: "A practitioner argues that lying down is the most relaxed and open way to practice, and that forcing the lotus is against the Way. The teacher answers: lying down makes dreams, not stillness; the lotus was tested by the Buddha's own experiment; and the rule that follows — practice follows the footprints of predecessors, not personal innovation."
 series: "Taishi Q&A"
 episode: "26"
@@ -8,7 +10,6 @@ practice: "Question about lying-down practice versus cross-legged sitting (quest
 tradition: "Buddhist monastic practice (Chan), self-described"
 context: "Public teacher Q&A column, episode 26: a long letter from a practitioner trained in a contemporary liberation-stages teaching, arguing for lying-down practice as more relaxed and open and against forced lotus pain, and the teacher's reply — the four-dhyana framework in the letter is armchair theory, the eighteen-heavens challenge, the dreaming diagnosis of lying down, the auspicious reclining posture as a provisional method, the time-conditions ladder, the Buddha's fasting experiment, and the anti-innovation rule"
 status: published
-date: 2026-10-07
 evidence: ["PRACTITIONER EXPERIENCE", "CONTEMPORARY COMMUNITY OBSERVATION"]
 sourceType: note
 anonymity: "anonymous"

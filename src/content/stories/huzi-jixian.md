@@ -1,10 +1,11 @@
 ---
 title: "Huzi and the Shaman: Four Depths of Stillness"
+date: 2026-10-10
+updated: 2026-10-10
 description: "The Zhuangzi's four-stage demonstration of inner depth — earth pattern, heaven's soil, great surging without rival, and 'never left my source' — retold as the tradition's earliest map of contemplative stages."
 tradition: "Daoist"
 sourceText: "zhuangzi"
 status: published
-date: 2026-10-07
 evidence: ["PRIMARY SOURCE"]
 relatedConcepts: ["zuowang", "jingzuo", "qi"]
 sources:

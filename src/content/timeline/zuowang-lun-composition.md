@@ -1,12 +1,13 @@
 ---
 title: "Sima Chengzhen Writes the Zuowang Lun (Tang)"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Sima Chengzhen (647–735), twelfth Shangqing patriarch, writes the seven-stage Zuowang Lun at the height of Tang Daoism — the founding systematic treatise of seated meditation."
 periodStart: "early 8th c. CE"
 periodEnd: "735 CE"
 eventType: "text composition"
 evidence: ["PRIMARY SOURCE", "HISTORICAL EVIDENCE"]
 status: published
-date: 2026-10-07
 relatedPeople: ["sima-chengzhen"]
 relatedTexts: ["zuowang-lun", "neiguan-jing", "qingjing-jing"]
 relatedConcepts: ["zuowang"]

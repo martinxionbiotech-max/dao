@@ -1,5 +1,7 @@
 ---
 title: "De"
+date: 2026-10-10
+updated: 2026-10-10
 description: "Glossary: de 德 — virtue, power, integrity; the Dao's working in things."
 chinese: "德"
 pinyin: "dé"
@@ -8,7 +10,6 @@ translationOptions: ["virtue", "power", "integrity", "potency", "virtuosity"]
 recommended: "keep romanized as De/dé where technical; 'virtue/power' gloss on first use"
 evidence: ["PRIMARY SOURCE", "SCHOLARLY INTERPRETATION"]
 status: published
-date: 2026-10-07
 relatedConcepts: ["dao", "wuwei"]
 relatedTexts: ["daodejing"]
 sources:
