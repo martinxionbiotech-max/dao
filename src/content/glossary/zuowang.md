@@ -1,7 +1,7 @@
 ---
 title: "Zuowang"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: zuowang 坐忘, 'sitting in oblivion' — translation options and why the term resists a single rendering."
 chinese: "坐忘"
 pinyin: "zuòwàng"

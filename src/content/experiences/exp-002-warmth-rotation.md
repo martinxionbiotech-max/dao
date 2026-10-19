@@ -1,7 +1,7 @@
 ---
 title: "EXP-002: Warmth, Sweating, and a Turning Sensation in Early Sitting"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized report: a beginner in Buddhist-style sitting describes whole-body warmth, a sensation of rotation, and better daytime energy — and asks whether they have 'broken' themselves."
 experienceId: "EXP-002"
 practice: "Buddhist-style seated meditation (打坐)"

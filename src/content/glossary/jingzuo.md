@@ -1,7 +1,7 @@
 ---
 title: "Jingzuo"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: jingzuo 静坐, 'quiet sitting' — the Neo-Confucian seated practice and its translation."
 chinese: "静坐"
 pinyin: "jìngzuò"

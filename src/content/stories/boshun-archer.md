@@ -1,7 +1,7 @@
 ---
 title: "The Archer at the Cliff's Edge"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Lie Yukou shoots with a cup of water balanced on his elbow, still as a wooden statue — and Bo Hun Wuren calls it the mere shot of shooting. Then the teacher climbs a cliff above a hundred-fathom abyss and backs toward the edge until part of his foot hangs over, and the lesson begins."
 tradition: "Daoist"
 sourceText: "zhuangzi"

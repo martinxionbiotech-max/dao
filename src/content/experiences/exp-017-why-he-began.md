@@ -1,7 +1,7 @@
 ---
 title: "EXP-017: Why He Began: The Teacher's Own Account of the Path"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: the series' opening episode — the teacher's self-reported origin (a doctor's son, a hospital childhood, a spell tried on a sick body), his daily schedule, his retreat record, and his refusal to name a lineage."
 experienceId: "EXP-017"
 practice: "Chan-lineage monastic sitting, prostrations, and recitation (question-and-answer series with a meditation teacher)"

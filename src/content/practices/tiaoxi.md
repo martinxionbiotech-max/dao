@@ -1,7 +1,7 @@
 ---
 title: "Tiaoxi: Regulating the Breath"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Tiaoxi 调息 as practice: the Xiao Zhiguan's breath ladder from the 'wind' fault to the 'rest' breath, and the rule that governs every level — harmonize, never force."
 chinese: "调息"
 pinyin: "tiáoxī"

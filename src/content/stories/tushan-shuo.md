@@ -1,7 +1,7 @@
 ---
 title: "The Sheep-Butcher's Three Refusals"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "When King Zhao of Chu returns to his kingdom, he rewards his followers. Tu Yang the sheep-butcher refuses — three times, each refusal on a larger principle, until the king offers the three-banner rank and ten thousand measures of grain, and the butcher asks only to return to his stall."
 tradition: "Daoist"
 sourceText: "zhuangzi"

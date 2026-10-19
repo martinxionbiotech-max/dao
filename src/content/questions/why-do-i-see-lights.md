@@ -1,7 +1,7 @@
 ---
 title: "Why Do I See Lights?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The archive's teacher has one instruction for the light-seer: ignore it, fear nothing, keep going — and his correction of a practitioner who took warmth and lights for attainment is the series' most useful single correction. The site's own sources agree in a different key: the Zhuangzi's empty room gives rise to white light, and the manuals say the same thing the teacher says — do not grasp."
 question: "During sitting I sometimes see light, colors, or images. Is this progress? The archive's teacher seems to both name it and dismiss it, and this site's problem page says not to chase it — but what does it actually mean?"
 context: "Asked by readers of this site's seeing-light problem page, and by readers of the archive's episodes where a practitioner reports warmth, lights, and a Buddha image before entry — and the teacher corrects the progress-reading."

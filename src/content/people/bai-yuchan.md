@@ -1,7 +1,7 @@
 ---
 title: "Bai Yuchan (白玉蟾)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Bai Yuchan 白玉蟾 (1134–1229) — the child prodigy from Hainan who failed the examinations, fled after a killing, served Chen Nan nine years, and then did what the southern lineage had never done: stopped transmitting one-to-one and built the Nan Zong school. The poet-sage who ran through the streets half-mad, and the one who made the thunder-rites answer to the inner work."
 chinese: "白玉蟾"
 pinyin: "Bái Yùchán"

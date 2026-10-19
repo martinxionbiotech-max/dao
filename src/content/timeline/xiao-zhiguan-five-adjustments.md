@@ -1,7 +1,7 @@
 ---
 title: "Xiao Zhiguan: The Five Adjustments (6th c.)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zhiyi's beginner's manual codifies the five pre-sitting adjustments — diet, sleep, body, breath, mind — the vocabulary that crossed traditions."
 periodStart: "550"
 periodEnd: "600"

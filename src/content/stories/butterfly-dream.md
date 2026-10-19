@@ -1,7 +1,7 @@
 ---
 title: "Zhuang Zhou Dreams of a Butterfly"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The butterfly dream — the Zhuangzi's closing parable of waking and dreaming, retold with the full classical text and the two-millennium debate over what 'transformation of things' means."
 tradition: "Daoist"
 sourceText: "zhuangzi"

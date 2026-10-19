@@ -1,7 +1,7 @@
 ---
 title: "Ge Hong's Baopuzi: Shouyi Systematized (c. 320 CE)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Ge Hong's Baopuzi neipian 'Dizhen' chapter converts shouyi from scripture teaching into a codified practice with numbered versions and claimed signs of attainment."
 periodStart: "c. 320 CE"
 periodEnd: "c. 320 CE"

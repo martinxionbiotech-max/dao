@@ -1,8 +1,8 @@
 ---
 {
   "title": "Jingzuo vs. Zazen: A Structured Comparison",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "Neo-Confucian quiet sitting and Chan/Japanese Zen sitting: shared posture, different doctrines — and why the Confucians themselves insisted on the difference.",
   "entities": [
     "jingzuo",

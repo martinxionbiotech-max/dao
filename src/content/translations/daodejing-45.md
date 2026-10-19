@@ -1,7 +1,7 @@
 ---
 title: "The Great Completion Seems Broken (Daodejing 45)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of ch. 45: the great completion seems broken, yet its use never wears out; the great fullness seems empty, yet its use never ends — the chapter's five finished things, each in its worn form, and the closing pair: agitation overcomes cold, stillness overcomes heat, and clear-stillness is the world's true standard."
 sourceText: "daodejing"
 chapter: "Ch. 45"

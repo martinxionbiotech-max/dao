@@ -1,7 +1,7 @@
 ---
 title: "Lying Down Practice, and the Innovation Question"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "A practitioner argues that lying down is the most relaxed and open way to practice, and that forcing the lotus is against the Way. The teacher answers: lying down makes dreams, not stillness; the lotus was tested by the Buddha's own experiment; and the rule that follows — practice follows the footprints of predecessors, not personal innovation."
 series: "Taishi Q&A"
 episode: "26"

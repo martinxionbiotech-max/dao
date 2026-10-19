@@ -1,7 +1,7 @@
 ---
 title: "The Axe Sweeping the Wind"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The carpenter's axe flies like wind and takes the plaster off the man's nose without touching it. The king asks for a demonstration — and is told the other half of the skill is dead."
 tradition: "Daoist"
 sourceText: "zhuangzi"

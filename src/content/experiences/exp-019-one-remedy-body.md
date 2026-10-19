@@ -1,7 +1,7 @@
 ---
 title: "EXP-019: The Body's Problems, One Remedy"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: teeth-grinding, rhinitis, ulcers, bad breath, a vegetarian too thin — the teacher's single master key (breath practice until the abdomen warms) for the body's assorted troubles, and the site's careful handling of the health claims."
 experienceId: "EXP-019"
 practice: "Breath practice, prostrations, and cross-legged sitting as remedies for bodily complaints (question-and-answer series with a meditation teacher)"

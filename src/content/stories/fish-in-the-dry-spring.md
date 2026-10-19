@@ -1,7 +1,7 @@
 ---
 title: "The Fish in the Dried-Up Spring: Forgetting Each Other in the Rivers and Lakes"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The famous line everyone quotes is only the setup: fish keeping each other alive with spit — and the Zhuangzi's actual point, that the good is to be in the water and forget each other."
 tradition: "Daoist"
 sourceText: "zhuangzi"

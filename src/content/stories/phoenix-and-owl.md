@@ -1,7 +1,7 @@
 ---
 title: "The Phoenix and the Owl: What the Rotten Rat Is Worth"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Hui Shi searches the whole state for Zhuangzi, three days and three nights, to protect his post — and Zhuangzi answers with a bird that will not perch, eat, or drink except on its own three things."
 tradition: "Daoist"
 sourceText: "zhuangzi"

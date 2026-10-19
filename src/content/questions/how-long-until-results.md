@@ -1,7 +1,7 @@
 ---
 title: "How Long Until I See Results?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The timetable question, answered from the tradition's own statements: the classical ladders are schematic, the teachers' estimates run to years, and the modern record shows weeks-to-months for symptom outcomes — with no single timetable, and none promised."
 question: "How long until I see results from sitting practice? Days? Months? Years?"
 context: "A recurring beginner question, sharpened by the tradition's own numbers — the three-day, seven-day, nine-day ladders in the Zhuangzi; the teachers' two-to-three-year and ten-year estimates; the four-hour threshold — and by the modern record's eight-week programs."

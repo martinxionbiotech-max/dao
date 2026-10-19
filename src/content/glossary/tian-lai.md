@@ -1,7 +1,7 @@
 ---
 title: "Tianlai (天籁)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Tianlai 天籁, the 'pipes of heaven' — the Zhuangzi's name for the way the ten thousand things sound themselves: not a third kind of sound beyond the human and the earthly, but the self-sounding of all sounds, whose answer ends in a question: who is the blower?"
 chinese: "天籁"
 pinyin: "tiānlài"

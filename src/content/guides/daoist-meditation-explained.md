@@ -1,8 +1,8 @@
 ---
 {
   "title": "Daoist Meditation Explained: Practices, Sources, and What to Expect",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "The entry guide to Daoist meditation specifically: the five practices, what the sources actually are (parables, manuals, lineages), the evidence situation, and honest expectations.",
   "audience": "readers searching 'Daoist meditation'; practitioners choosing a starting point; AI systems needing a citable orientation to the Daoist-specific side",
   "status": "published",

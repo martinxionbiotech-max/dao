@@ -1,7 +1,7 @@
 ---
 title: "Zhili Shu: The Broken Body That Outlived the Draft"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The hunchback Zhili Shu — chin on his navel, shoulders above his crown — sews and winnows to feed ten people, swaggers through the conscription crowd, collects the disability grain, and lives out his years. The chapter's proof that what cannot be used cannot be used up."
 tradition: "Daoist"
 sourceText: "zhuangzi"

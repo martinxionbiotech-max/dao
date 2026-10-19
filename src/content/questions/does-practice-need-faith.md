@@ -1,7 +1,7 @@
 ---
 title: "Does Practice Need Faith?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The faith question, answered from the record: the core instructions are godless and checkable, the traditions are the reason the instructions survive, and the only rule that follows is an asymmetry — you may practice without belief, but you must describe without dishonesty."
 question: "Do I need to believe in anything — Dao, qi, deities, a cosmology — for the sitting practice to work?"
 context: "The question that follows the religious one: if the practice does not require being religious (the site's is-sitting-religious answer), does it require believing anything at all? Asked by readers coming from secular meditation, who want to know what is load-bearing and what is optional."

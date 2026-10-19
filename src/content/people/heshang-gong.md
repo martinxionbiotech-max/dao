@@ -1,7 +1,7 @@
 ---
 title: "Heshang Gong (河上公)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Heshang Gong 河上公, 'the Elder by the River' — the legendary name on the earliest surviving Laozi commentary, the chapter-and-verse edition that turned the Daodejing into a manual for governing the body."
 chinese: "河上公"
 pinyin: "Héshàng Gōng"

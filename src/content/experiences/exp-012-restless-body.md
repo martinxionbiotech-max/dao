@@ -1,7 +1,7 @@
 ---
 title: "EXP-012: The Restless Body — Involuntary Movements, Phlegm, and the Lute-String Counsel"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: practitioners' reports of involuntary movement, restlessness at the twenty-fifth minute, phlegm discharge, and head pressure — and the teacher's answers, from 'habit-energy' to the Buddha's lute string."
 experienceId: "EXP-012"
 practice: "Cross-legged sitting with prostrations and breath practice"

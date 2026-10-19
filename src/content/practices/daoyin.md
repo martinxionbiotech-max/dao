@@ -1,8 +1,8 @@
 ---
 {
   "title": "Daoyin: Guided Stretching and Breathing",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "Daoyin 导引, 'guiding and pulling' — the classical body-and-breath art the Zhuangzi calls 'the bear's strides and the bird's stretch,' and its modern afterlife.",
   "chinese": "导引",
   "pinyin": "dǎoyǐn",

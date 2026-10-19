@@ -1,7 +1,7 @@
 ---
 title: "Dao"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: dao 道 — 'way' and everything the word carries; why it is left untranslated."
 chinese: "道"
 pinyin: "dào"

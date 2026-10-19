@@ -1,8 +1,8 @@
 ---
 {
   "title": "Interoception and Mental Health: The Roadmap (Khalsa 2018)",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "The consensus definition of interoception — the brain's moment-by-moment mapping of the body's interior — and why it matters for the body-sensation problem pages.",
   "question": "What is interoception, and how does it relate to mental health?",
   "method": "Multi-author consensus 'roadmap' review: defines interoception, surveys measurement approaches, and maps research directions linking interoceptive function to mental health.",

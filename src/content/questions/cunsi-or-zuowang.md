@@ -1,7 +1,7 @@
 ---
 title: "Should I Visualize (Cunsi) or Empty (Zuowang)?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The two poles of Daoist practice and how the tradition itself would choose between them: visualization builds the inner map, forgetting dissolves it — and most practice paths use both in sequence."
 question: "Daoist meditation seems to have two opposite methods — filling the mind with inner images (cunsi) and emptying it entirely (zuowang). Which one should I practice?"
 context: "A beginner surveying the tradition's methods finds the two poles and reads them as a contradiction."

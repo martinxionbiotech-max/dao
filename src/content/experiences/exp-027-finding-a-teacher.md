@@ -1,7 +1,7 @@
 ---
 title: "Finding a Teacher"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "From the teacher's official collection: is practice without a teacher all demonic? No — take the precepts as teacher, go deep into the canon, self-study works; and these years are full of swindlers, few true persons. The fate-connection answer, the try-and-see answer, the fraud analysis, and one reader's teacher on the only respect that matters: practice it, and surpass."
 series: "Taishi Q&A"
 episode: "Sit-in Q&A, ch. 11 (worldly matters), section 11 (official collection)"

@@ -1,7 +1,7 @@
 ---
 title: "Zhang Sanfeng (张三丰)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zhang Sanfeng 张三丰 — the most famous and least documented of the Daoist patriarchs: recorded in the official Ming history as an eccentric mountain recluse the emperors searched for, credited by later tradition as the founder of Wudang martial arts and a master of inner alchemy, and claimed by no reliable early source for the things his name now carries."
 chinese: "张三丰"
 pinyin: "Zhāng Sānfēng"

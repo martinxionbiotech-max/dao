@@ -1,7 +1,7 @@
 ---
 title: "Non-Acting and Nothing Left Undone (Daodejing 37)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of ch. 37: the Way's constant non-action, the uncarved block that stills desire, and the world that rights itself."
 sourceText: "daodejing"
 chapter: "Ch. 37"

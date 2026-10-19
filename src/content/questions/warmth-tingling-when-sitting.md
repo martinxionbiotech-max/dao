@@ -1,7 +1,7 @@
 ---
 title: "Is It Normal to Feel Warmth or Tingling When I Sit?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Warmth, tingling, and 'qi sensations' during sitting practice: what the practitioner archive reports, what the tradition calls them, and where the safety line sits."
 question: "When I sit, I sometimes feel warmth spreading, or tingling and small movements. Is this normal, and should I do anything about it?"
 context: "A beginning sitter notices bodily sensations during practice and wonders whether they are a sign of progress, a warning, or nothing."

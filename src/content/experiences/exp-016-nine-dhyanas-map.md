@@ -1,7 +1,7 @@
 ---
 title: "EXP-016: What Is Concentration? One Teacher's Map of the Nine Dhyānas"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: the teacher's definition of sitting and entry (forgetting the body, senses doubled), the full ladder of the nine dhyānas and beyond — and the honest sentences that end the map."
 experienceId: "EXP-016"
 practice: "Double-lotus sitting, breath practice, and prostrations (question-and-answer series with a meditation teacher)"

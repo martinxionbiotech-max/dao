@@ -1,7 +1,7 @@
 ---
 title: "Xinzhai"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: xinzhai 心斋, 'fasting of the mind' — the Zhuangzian emptying practice and its translation."
 chinese: "心斋"
 pinyin: "xīnzhāi"

@@ -1,7 +1,7 @@
 ---
 title: "Zhiyi (智顗)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zhiyi 智顗 (538–597), the Tiantai founder whose beginner's manual supplied the operating language of Chinese sitting — the five adjustments and the four faulty breaths."
 chinese: "智顗"
 pinyin: "Zhìyǐ"

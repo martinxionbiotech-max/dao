@@ -1,7 +1,7 @@
 ---
 title: "Zhang Daoling (张道陵)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zhang Daoling 张道陵 (traditionally 34–156 CE) — the founder of the Way of the Celestial Masters, the first organized Daoist church on record: a recorded movement with a founding revelation, twenty-four parishes, and a hereditary line that continues today."
 chinese: "张道陵"
 pinyin: "Zhāng Dàolíng"

@@ -1,7 +1,7 @@
 ---
 title: "The Human Body"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The archive's physiology chapter, all six sections: breath-rate as the index of distraction (more breaths, more delusion, more distress), the brain's need for oxygen and glucose, the teacher's account of how blood pressure begins, the six-vessel heart, the two nervous systems, and the dantian as the two great vessels on the spine. With the teacher's own boundary declaration — 'here we part from current medicine' — registered as the chapter's centerpiece."
 series: "Taishi Q&A"
 episode: "Zuochan ch. 6 (the human body), sections 01–06, official collection"

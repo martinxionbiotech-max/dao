@@ -1,7 +1,7 @@
 ---
 title: "Pattern: Drowsiness During Sitting, Mistaken for Stillness"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Recurring community pattern: practitioners fall asleep or sink into drowsiness during sitting and struggle to distinguish it from entering stillness — with the tradition's own distinction documented."
 phenomenon: "Drowsiness (昏沉) during sitting, and uncertainty about whether it is stillness (入静)"
 reportCount: 1

@@ -1,7 +1,7 @@
 ---
 title: "Wuhua (物化)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Wuhua 物化, 'the transformation of things' — the last two words of the butterfly dream, and the book's answer to its own most famous question: the boundary between Zhuang Zhou and the butterfly is real (there must be a distinction), and it is exactly the boundary that transformation crosses. Not the self changing the world, but the world changing the self."
 chinese: "物化"
 pinyin: "wùhuà"

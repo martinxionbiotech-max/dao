@@ -1,7 +1,7 @@
 ---
 title: "Does Diet Matter for Sitting Practice?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The diet question, answered from the tradition's own split: the Zhuangzi replaces food-fasting with mind-fasting (the xinzhai passage says so in so many words), and the archive's teacher makes diet the first gate. Both kept, neither forced: what the sources agree on is smaller and more useful than either camp."
 question: "Do I need to change my diet to practice? Do Daoist traditions require vegetarianism, fasting, or giving up certain foods before or during sitting meditation?"
 context: "Asked by practitioners who have encountered Buddhist dietary rules (vegetarianism, fasting days) or the archive teacher's claims about meat and meditation, and want to know what the Daoist core texts and the site's sources actually require."

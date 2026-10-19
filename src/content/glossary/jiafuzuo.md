@@ -1,7 +1,7 @@
 ---
 title: "Jiafuzuo"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: jiafuzuo 结跏趺坐, the crossed-leg sitting posture — the manual tradition's base position, with its two standard forms and its modern sitting-protocol translation."
 chinese: "结跏趺坐"
 pinyin: "jiéjiāfūzuò"

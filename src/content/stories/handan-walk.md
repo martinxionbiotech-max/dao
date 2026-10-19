@@ -1,7 +1,7 @@
 ---
 title: "The Handan Walk: What the Imitator Loses on the Way"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The youth of Shouling who went to Handan to learn its famous walk and came home crawling — the Zhuangzi's warning about method-switching, aimed at a logician, and kept here as the tradition's own caution against chasing other people's practice."
 tradition: "Daoist"
 sourceText: "zhuangzi"

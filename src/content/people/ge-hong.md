@@ -1,7 +1,7 @@
 ---
 title: "Ge Hong"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Ge Hong 葛洪 (283–343/363), author of the Baopuzi — the fourth-century scholar who collected the sitting traditions of his day and gave this site its primary source for taixi and shouyi."
 chinese: "葛洪"
 pinyin: "Gě Hóng"

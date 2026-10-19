@@ -1,7 +1,7 @@
 ---
 title: "The Peng Bird: The Book's Opening Image of Scale"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The fish that becomes a bird whose wings are clouds — the Zhuangzi's first page, read as the tradition's statement that the practice is a matter of proportion: enough depth, enough wind, enough preparation."
 tradition: "Daoist"
 sourceText: "zhuangzi"

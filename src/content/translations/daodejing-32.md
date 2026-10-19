@@ -1,7 +1,7 @@
 ---
 title: "The Way Is Ever Nameless (Daodejing 32)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of ch. 32: the uncarved block — small, and nothing in the world can make it a subject; when the lords hold it, the ten thousand things arrive as guests of themselves. The chapter where naming begins, and therefore where knowing-where-to-stop begins."
 sourceText: "daodejing"
 chapter: "Ch. 32"

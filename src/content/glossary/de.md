@@ -1,7 +1,7 @@
 ---
 title: "De"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: de 德 — virtue, power, integrity; the Dao's working in things."
 chinese: "德"
 pinyin: "dé"

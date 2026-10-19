@@ -1,7 +1,7 @@
 ---
 title: "Huangting Jing: The Three-Dantian System (c. 3rd–4th c.)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The Shangqing scripture that first systematized the three cinnabar fields — the fixed inner geography of later Chinese contemplative practice."
 periodStart: "250"
 periodEnd: "400"

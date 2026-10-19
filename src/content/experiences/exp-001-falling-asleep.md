@@ -1,7 +1,7 @@
 ---
 title: "EXP-001: Falling Asleep in Guided Mindfulness Sessions"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: a practitioner reports falling asleep in most guided mindfulness sessions over more than a year, and asks whether this is normal."
 experienceId: "EXP-001"
 practice: "mindfulness meditation (audio-guided)"

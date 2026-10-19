@@ -1,7 +1,7 @@
 ---
 title: "Drumming on the Basin: Zhuangzi Sings When His Wife Dies"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The hardest story in the book — Zhuangzi drumming and singing at his wife's death — read with both its classical and modern interpretations, without flattening either."
 tradition: "Daoist"
 sourceText: "zhuangzi"

@@ -1,7 +1,7 @@
 ---
 title: "The Mantis Stalks the Cicada"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zhuangzi, stalking a strange magpie with his slingshot, sees the chain he stands in — cicada, mantis, bird, himself, and the gamekeeper behind him — and drops the slingshot. The book's lesson in being the last link."
 tradition: "Daoist"
 sourceText: "zhuangzi"

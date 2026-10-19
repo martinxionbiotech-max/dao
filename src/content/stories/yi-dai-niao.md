@@ -1,7 +1,7 @@
 ---
 title: "The Dithering Bird"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Confucius is besieged and starving, and Taigong Ren offers him the survival lesson of the bird called Yidai: it never leads, never trails, eats only leftovers — and no one ever harms it. Then the diagnosis: the straight tree is cut first, the sweet well drained first. Displaying knowledge to startle the ignorant is carrying sun and moon while walking."
 tradition: "Daoist"
 sourceText: "zhuangzi"

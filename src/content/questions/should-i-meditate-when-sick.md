@@ -1,7 +1,7 @@
 ---
 title: "Should I Meditate When I'm Sick?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The question the tradition's healing claims and the modern record both force: the classical texts promise health, the community teachers prescribe practice for illness — and the site's answer keeps the boundary: rest is the practice; medicine is the treatment."
 question: "Should I keep up my sitting practice when I'm sick? The classical texts claim these practices heal — and some teachers say medical rules don't apply to practitioners."
 context: "A recurring question, sharpened by the healing claims in the tradition's own texts (the Taiping Jing, the Baopuzi) and by community teachers who extend practice-claims into medicine."

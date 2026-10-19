@@ -1,7 +1,7 @@
 ---
 title: "Taixi: Embryonic Breathing"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Taixi 胎息, 'breathing as in the womb' — the classical ideal of breath so fine it forgets the nose and mouth, and why the tradition itself warns against forcing it."
 chinese: "胎息"
 pinyin: "tāixī"

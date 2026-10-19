@@ -1,7 +1,7 @@
 ---
 title: "The Metal That Demanded Its Shape"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Dying, Zi Lai answers his friend's question — will the maker turn you into a rat's liver, an insect's arm? — with the book's boldest image: the great smelter casts metal, and if the metal jumped up crying 'I must become a Moye sword!' the smelter would call it inauspicious metal. To have once taken human form and then cry 'human, human!' — the maker of things would call that an inauspicious person."
 tradition: "Daoist"
 sourceText: "zhuangzi"

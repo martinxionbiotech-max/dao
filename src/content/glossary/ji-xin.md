@@ -1,7 +1,7 @@
 ---
 title: "Jixin (机心)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Jixin 机心, the 'machine-mind' — the mind a machine breeds, the Zhuangzi's earliest argument that tools train the mind that uses them: machines bring machine-dealings, and machine-dealings lodge a machine-mind in the chest."
 chinese: "机心"
 pinyin: "jīxīn"

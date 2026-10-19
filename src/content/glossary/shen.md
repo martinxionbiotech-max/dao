@@ -1,7 +1,7 @@
 ---
 title: "Shen"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: shen 神, 'spirit' — the third of jing-qi-shen, the mind's luminous and animating aspect, and what concentration condenses."
 chinese: "神"
 pinyin: "shén"

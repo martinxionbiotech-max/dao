@@ -1,7 +1,7 @@
 ---
 title: "The Empty Boat"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "A boat drifts into yours on the river crossing. If it is empty, you do not rage. Put one person on it, and the same collision becomes an insult. The book's shortest experiment on anger — and its recipe for becoming unharmable."
 tradition: "Daoist"
 sourceText: "zhuangzi"

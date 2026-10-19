@@ -1,7 +1,7 @@
 ---
 title: "Three in the Morning: The Monkeys Who Confused the Order for the Amount"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The chestnut keeper who rearranged the same total and turned rage into delight — the Zhuangzi's fable of 'two ways at once,' and the tradition's picture of what the stilled mind stops doing."
 tradition: "Daoist"
 sourceText: "zhuangzi"

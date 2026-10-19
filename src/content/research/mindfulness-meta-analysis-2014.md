@@ -1,8 +1,8 @@
 ---
 
 title: "Do Meditation Programs Improve Psychological Stress and Well-being? (Goyal 2014)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The landmark 2014 JAMA Internal Medicine meta-analysis: moderate evidence for mindfulness meditation on anxiety, depression, and pain — and what it does not say about Daoist sitting."
 question: "Do meditation programs improve psychological stress and well-being compared with no treatment?"
 method: "Systematic review and meta-analysis of randomized clinical trials (47 trials, 3,515 participants) of mindfulness meditation programs and mantra meditation, with active and inactive controls; GRADE evidence grading."

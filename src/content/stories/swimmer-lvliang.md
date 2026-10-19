@@ -1,7 +1,7 @@
 ---
 title: "The Swimmer of Lüliang: Native, Grown, Complete"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "At the Lüliang cataract, where fish and turtles cannot swim, a man swims — and tells Confucius he has no method: 'I began in what was native, grew in what was nature, completed in what was allotted.'"
 tradition: "Daoist"
 sourceText: "zhuangzi"

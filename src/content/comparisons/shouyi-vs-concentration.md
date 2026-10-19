@@ -1,8 +1,8 @@
 ---
 {
   "title": "Shouyi vs. Concentration: A Structured Comparison",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "Guarding the One and focused attention: where they overlap, where they part — the Daodejing's 'embracing the One' against the modern skill of concentration.",
   "entities": [
     "shouyi",

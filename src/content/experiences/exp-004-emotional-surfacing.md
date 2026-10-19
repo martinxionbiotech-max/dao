@@ -1,7 +1,7 @@
 ---
 title: "EXP-004: Emotional Material Surfacing as Stillness Deepens"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: a practitioner reports that as sitting stills the mind, old unresolved feelings surface unbidden — described by the community as stillness 'treating' the heart."
 experienceId: "EXP-004"
 practice: "Daoist-style quiet sitting"

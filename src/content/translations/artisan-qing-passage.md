@@ -1,7 +1,7 @@
 ---
 title: "Artisan Qing's Seven-Day Fast (Zhuangzi 19)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The Dazheng chapter's graded fasting passage, translated with pinyin and commentary — the Zhuangzi's own stage-by-stage account of emptying before skilled work."
 sourceText: "zhuangzi"
 chinese: "梓庆削木为鐻……则以天合天"

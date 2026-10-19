@@ -1,7 +1,7 @@
 ---
 title: "Confucius Meets Laozi: The Dragon"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The Shiji account of Confucius consulting Laozi on ritual and emerging speechless — 'he is like a dragon' — retold with its historical status made explicit."
 tradition: "Daoist / Confucian encounter (traditional)"
 sourceText: "daodejing"

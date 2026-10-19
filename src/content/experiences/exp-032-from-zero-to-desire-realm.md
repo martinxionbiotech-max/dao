@@ -1,7 +1,7 @@
 ---
 title: "From Zero to the Desire-Realm Dhyana"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-08
+updated: 2026-10-08
 description: "The official collection's complete roadmap chapter, four sections: the karmic-debt ledger and the ban on empty talk, the no-fighting no-killing no-meat cascade (with the three-stage dream test for the meat precept), the lust-quota model of how craving leaves in waves (and the teacher's own account of the knife-thoughts episode), and the full ren-du meridian sequence ending in three-qi-returning-to-the-origin — the archive's own description of the first sitting milestone."
 series: "Taishi Q&A"
 episode: "Zuochan (坐禅) ch. 2, sections 01–04, official collection"

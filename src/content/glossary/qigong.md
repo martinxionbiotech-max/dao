@@ -1,8 +1,8 @@
 ---
 {
   "title": "Qigong (气功): The Modern Umbrella",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "Term entry: qigong 气功 — the 20th-century name for the breathing-and-movement arts. See the full practice page.",
   "chinese": "气功",
   "pinyin": "qìgōng",

@@ -1,7 +1,7 @@
 ---
 title: "Shiji Biographies of Laozi and Zhuang Zhou (c. 100 BCE)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Sima Qian's Records of the Grand Historian gives the oldest surviving accounts of Laozi and Zhuang Zhou — and candidly admits its own uncertainty about Laozi."
 periodStart: "c. 100 BCE"
 periodEnd: "c. 100 BCE"

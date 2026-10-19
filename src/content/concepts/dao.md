@@ -1,7 +1,7 @@
 ---
 title: "Dao (道): The Way"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-08
+updated: 2026-10-08
 description: "Dao 道 — the way things go, the way to go, and the unnameable source and pattern of everything: Daodejing chs. 1, 25, 32, 37 and Zhuangzi chs. 6 and 22, with the naming problem kept in view."
 chinese: "道"
 pinyin: "dào"

@@ -1,7 +1,7 @@
 ---
 title: "Wu Shi Wu Zhong — 无始无终 (No Beginning, No End)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-08
+updated: 2026-10-08
 description: "The Zhuangzi's four-character deletion of time: no past, no present, no beginning, no end — spoken by Confucius in the Zhi Bei You dialogue with Ran Qiu, where the question 'what was before heaven and earth?' is answered by removing the line the question presumes. The child-and-grandchildren example, the refusal to make the origin a thing, and the grammar: this is not a claim about the deep past but a correction of the question."
 category: "Daoist Terminology"
 chinese: "无始无终"

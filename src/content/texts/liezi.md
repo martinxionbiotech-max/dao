@@ -1,7 +1,7 @@
 ---
 title: "Liezi (The Book of Master Lie)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The Liezi 列子: the fable treasury of the Daoist canon — and the book with the most contested authorship in the tradition. The full controversy, stated with both sides."
 chinese: "列子"
 pinyin: "Lièzǐ"

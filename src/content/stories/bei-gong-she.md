@@ -1,7 +1,7 @@
 ---
 title: "Beigong She's Bell"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The tax collector who built a bell-stand in three months without bruising a single hair: when asked for his technique, he answers — in the space of the One, I dared set up no technique. Carved and polished, and then returning to the uncarved block. The least coercive official, doing the most coercive job, fastest."
 tradition: "Daoist"
 sourceText: "zhuangzi"

@@ -1,7 +1,7 @@
 ---
 title: "What Is Stillness (Jing), Really?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The central term of Daoist sitting, defined from its primary texts: stillness as return to the root, not absence of movement — and what the term does and does not promise."
 question: "What is 'stillness' (静 jing) in the Daoist sense — just being quiet, or something more?"
 context: "The word appears in every practice name (静坐, 入静, 归根曰静); beginners commonly take it as mere physical quiet or blankness."

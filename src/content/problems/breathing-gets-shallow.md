@@ -1,8 +1,8 @@
 ---
 {
   "title": "Breathing Becomes Very Shallow in Sitting — Problem or Progress?",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "A problem page: why breath thins out in stillness — the Xiao Zhiguan's breath hierarchy, the slow-breathing research, and the boundary between fine breath and air hunger.",
   "question": "Why does my breathing become very shallow during sitting?",
   "shortAnswer": "A quieting body breathes less loudly — the tradition's breath hierarchy runs from the faults (wind, panting, coarse) down to the ideal, breath 'as if present, as if absent.' Slow, shallow breath in stillness is the direction of travel, and modern slow-breathing research describes its physiology (parasympathetic predominance at under ten breaths per minute). The boundary is the sensation of needing air: fine breath never includes air hunger, and air hunger or breath discomfort is a medical matter.",

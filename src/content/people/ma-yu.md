@@ -1,7 +1,7 @@
 ---
 title: "Ma Yu (马钰)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Ma Yu 马钰 (1123–1183), style name Danyang Zi — the wealthy host who became Wang Chongyang's first disciple: the man known as 'Half of Ninghai' gave away the fortune, funded the Quanzhen Hermitage that named the school, followed the master west, buried him, and kept a three-year mourning so severe the records still quote it. Quanzhen's second patriarch, and its most expensive convert."
 chinese: "马钰"
 pinyin: "Mǎ Yù"

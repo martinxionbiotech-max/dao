@@ -1,8 +1,8 @@
 ---
 {
   "title": "Yi (意): Intention and the Directed Mind",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "Yi 意 — intention, the mind's directedness: the term that bridges sitting and acting, and its role in the practice manuals' breath work.",
   "chinese": "意",
   "pinyin": "yì",

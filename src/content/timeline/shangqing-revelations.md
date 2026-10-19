@@ -1,7 +1,7 @@
 ---
 title: "The Shangqing Revelations (364–370 CE)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The night sessions at Jurong: Yang Xi's mediumship, the claimed descent of the Lady Wei, the scriptures that became the Highest Clarity corpus — and their fifth-century compilation into the Zhengao."
 periodStart: "364 CE (first year of the revelations, Emperor Ai's reign)"
 periodEnd: "c. 500 CE (Tao Hongjing's Zhengao compilation, from his 492 retreat to Maoshan)"

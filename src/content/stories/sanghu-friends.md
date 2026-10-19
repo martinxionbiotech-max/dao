@@ -1,7 +1,7 @@
 ---
 title: "Singing at the Corpse: The Friends of Sang Hu"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Three friends who pledged to be together in not-being-together; when one dies, the other two weave songs and play the zither at his corpse — and Confucius, asked if this is ritual, answers with the river and the fish."
 tradition: "Daoist"
 sourceText: "zhuangzi"

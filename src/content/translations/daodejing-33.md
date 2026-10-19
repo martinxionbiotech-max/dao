@@ -1,7 +1,7 @@
 ---
 title: "To Know Others Is Wisdom, to Know Oneself Is Clarity (Daodejing 33)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of ch. 33: the four-pair ladder of inner victories — knowing, winning, sufficiency, endurance — each turned from the world toward the self, ending in the book's sharpest claim about what survives death."
 sourceText: "daodejing"
 chapter: "Ch. 33"

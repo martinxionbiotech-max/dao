@@ -1,7 +1,7 @@
 ---
 title: "Bole Manages the Horses"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Bole arrives with brands, clippers, halters and whips — and two or three horses in ten are dead. Then more than half. The potter and the carpenter stand beside him, each shaping a living thing to a template: the Zhuangzi's indictment of governing as the shaping of natures."
 tradition: "Daoist"
 sourceText: "zhuangzi"

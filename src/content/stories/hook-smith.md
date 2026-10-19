@@ -1,7 +1,7 @@
 ---
 title: "The Old Man Who Forged Belt-Hooks"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "An eighty-year-old belt-hook smith who has never lost a hair's-breadth of precision, asked whether he has skill or a dao. His answer is the craftsman-line's shortest formula: from the age of twenty he has loved forging belt-hooks, he has never looked at anything else, never examined anything that is not a hook — and the final clause turns his whole life into a theorem: the useful borrows the useless, so that it may long keep its use."
 type: story
 sourceText: "Zhuangzi, Zhi Bei You 22 (知北游)"

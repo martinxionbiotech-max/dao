@@ -1,7 +1,7 @@
 ---
 title: "The Duke Who Saw a Ghost"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Duke Huan of Qi sees a ghost while hunting, falls sick for days — and the scholar Huangzi Gaoao cures him by asking the right question: what did it look like? It had a wheel-sized body, a carriage-pole length, a purple robe and a vermilion cap, it covered its head at the sound of thunder — and to see it means you are about to become hegemon. 'That is exactly what I saw,' the duke laughs — and by the end of the day the illness is gone, and he does not know when it left."
 tradition: "Daoist"
 sourceText: "zhuangzi"

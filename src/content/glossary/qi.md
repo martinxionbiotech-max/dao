@@ -1,7 +1,7 @@
 ---
 title: "Qi (气): Translating the Term"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: qi 气 — why 'energy' is a partial translation, and how to handle the term in English."
 chinese: "气"
 pinyin: "qì"

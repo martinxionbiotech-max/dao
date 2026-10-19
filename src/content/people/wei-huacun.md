@@ -1,7 +1,7 @@
 ---
 title: "Wei Huacun (魏华存)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Wei Huacun 魏华存 (251/252–334), the Lady of the Southern Marchmount — the aristocratic woman behind the Shangqing tradition and the traditional attribution of the Huangting Jing: recorded history, deification, and text-attribution kept in separate layers."
 chinese: "魏华存"
 pinyin: "Wèi Huácún"

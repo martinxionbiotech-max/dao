@@ -1,8 +1,8 @@
 ---
 {
   "title": "Is the Breath Stopping Intentional or Spontaneous?",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "A problem page: whether the breath that seems to stop in deep sitting is something you do or something that arrives — the tradition's answer and the archive case.",
   "question": "Is the breath stopping during meditation intentional or spontaneous?",
   "shortAnswer": "In the tradition's own terms, spontaneous — the fine breath of deep stillness arrives, and the manuals never teach commanding it. The archive records the same shape from the practitioner side: the stoppage that came by itself was welcomed; the stoppage that was chased produced anxiety. The rule follows: never force the breath; the sensation of needing air is a signal to breathe, and breath discomfort is a medical boundary.",

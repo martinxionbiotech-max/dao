@@ -1,7 +1,7 @@
 ---
 title: "Xinzhai Passage (Zhuangzi ch. 4): Full Translation"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The complete fasting-of-the-mind passage 心斋 from Zhuangzi ch. 4, translated with word-by-word notes on the untranslatable terms qi, fu (符), and xinzhai itself."
 sourceText: "zhuangzi"
 term: "xinzhai"

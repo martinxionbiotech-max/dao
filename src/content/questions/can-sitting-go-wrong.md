@@ -1,7 +1,7 @@
 ---
 title: "Can Sitting Go Wrong? The 'Fire Deviation' Fear"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "A frequently asked question in Chinese communities: what is 走火入魔, can quiet sitting cause it, and what does the modern adverse-events literature actually show?"
 question: "Can quiet sitting go wrong? What is 'fire deviation and demon entrance' (走火入魔), and should I be afraid of it?"
 context: "A recurring fear question in Chinese practice communities, especially among beginners reading qigong and meditation forums."

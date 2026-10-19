@@ -1,7 +1,7 @@
 ---
 title: "What Is the Difference Between Zuowang and Jingzuo?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zuowang (sitting in oblivion) and jingzuo (quiet sitting): one is a specific classical description and Tang system, the other a broad cross-tradition term. The terminology-level answer with sources."
 question: "What is the difference between zuowang and jingzuo?"
 context: "Both are commonly translated as 'seated meditation'; readers encounter them as near-synonyms."

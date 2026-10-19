@@ -1,8 +1,8 @@
 ---
 {
   "title": "Dizziness During or After Sitting — Breathing, Blood, and the Stop Rule",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "A problem page: feeling dizzy in sitting — the archive's stop-at-first-dizziness rule, the over-breathing physiology, and the medical boundary.",
   "question": "Why do I feel dizzy during or after sitting meditation?",
   "shortAnswer": "Dizziness in sitting has two honest readings. It can come from the breath work itself: over-breathing lowers the blood's carbon dioxide, which narrows the brain's blood vessels — lightheadedness is the classic sign. Or it can come from the body's ordinary states around practice: rising too quickly after a long sit, sitting on an empty stomach, a held neck posture. The site's archive contains one explicit rule, and it is blunt: stop at the first dizziness. No text in this site's corpus describes dizziness as a stage or a sign of progress, and persistent or recurrent dizziness is a medical matter.",

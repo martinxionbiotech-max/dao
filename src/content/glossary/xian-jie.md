@@ -1,7 +1,7 @@
 ---
 title: "Xianjie (县解)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Xianjie 县解, 'release from the hanging' — the Zhuangzi's name for what rest-in-the-season achieves: not escape from death, but untying from the terror of it. Spoken once over a death, once over a sickness."
 chinese: "县解"
 pinyin: "xuánjiě"

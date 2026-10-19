@@ -1,7 +1,7 @@
 ---
 title: "The Four Friends: Sickness as Transformation"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Four men pledge friendship on the body's death: 'who can take nothingness as head, life as spine, death as rump?' Then sickness comes — and they hold it, mock it, and use it: arm for rooster, rump for wheels, dying as rest."
 tradition: "Daoist"
 sourceText: "zhuangzi"

@@ -1,7 +1,7 @@
 ---
 title: "Drumming on the Basin: The Four Transformations (Word by Word)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of Zhuangzi's answer at his wife's death — the cosmology of the four transformations, the great chamber, and the decree of things."
 sourceText: "zhuangzi"
 chapter: "Ch. 18 (Zhile), the basin scene"

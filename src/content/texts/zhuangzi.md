@@ -1,7 +1,7 @@
 ---
 title: "Zhuangzi (the Book)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The Zhuangzi 庄子: a 33-chapter anthology compiled from multiple hands, the source of zuowang and xinzhai, and the classical basis of Daoist contemplative language. Structure, authorship, and reception."
 chinese: "庄子"
 pinyin: "Zhuāngzǐ"

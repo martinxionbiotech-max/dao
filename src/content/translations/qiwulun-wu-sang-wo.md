@@ -1,7 +1,7 @@
 ---
 title: "'I Have Lost Myself' — the Qiwulun's Opening (Zhuangzi 2)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Nanguo Ziqi sits leaning on his armrest, 'body like dead wood, heart like dead ashes' — and announces the sentence the whole tradition echoes: 'just now I lost myself.' Translated with commentary."
 sourceText: "zhuangzi"
 chinese: "南郭子綦隐机而坐……今者吾丧我"

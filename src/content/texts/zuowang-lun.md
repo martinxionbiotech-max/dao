@@ -1,7 +1,7 @@
 ---
 title: "Zuowang Lun (Treatise on Sitting in Oblivion)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Sima Chengzhen's Zuowang Lun 坐忘论: the Tang seven-stage system that turned the Zhuangzi's classical state description into a graduated method — reverent faith to attaining the Dao."
 chinese: "坐忘论"
 pinyin: "Zuòwàng Lùn"

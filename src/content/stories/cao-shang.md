@@ -1,7 +1,7 @@
 ---
 title: "Cao Shang's Chariots"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Cao Shang returns from his embassy with a hundred chariots and tells Zhuangzi exactly what he is good at. Zhuangzi answers with the Qin king's price list: lancing a boil pays one chariot, licking a pile pays five — the lower the service, the more chariots."
 tradition: "Daoist"
 sourceText: "zhuangzi"

@@ -1,7 +1,7 @@
 ---
 title: "Being and Non-Being Give Rise to Each Other (Daodejing 2)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of ch. 2: the six mutual pairs that found the book's relativism, the two doings of the sage — non-action and wordless teaching — and the four verbs of not-claiming that close it."
 sourceText: "daodejing"
 chapter: "Ch. 2"

@@ -1,7 +1,7 @@
 ---
 title: "The Three Answers That Aren't"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Knowledge goes north to the Dark Water and asks the three questions of the Way — what thinking, what dwelling, what path — of a being named for not-doing, who does not answer. Then he asks a madman, who knows and forgets mid-sentence. Then he asks the Yellow Emperor, who answers in full — and names himself the furthest from it. The chapter's opening inversion: the one who cannot answer is truly right; the one who answers fluently is, by his own verdict, far."
 tradition: "Daoist"
 sourceText: "zhuangzi"

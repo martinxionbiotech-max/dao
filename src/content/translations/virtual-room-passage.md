@@ -1,7 +1,7 @@
 ---
 title: "The Empty Room: Brightness Is Born (Xuzhi Sheng Bai)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Word-for-word translation of the Zhuangzi's meditation core: 'gaze at what is empty — the empty room gives birth to brightness, auspicious things stop in the stopping. If it does not keep stopping, this is called sitting while galloping.'"
 sourceText: "zhuangzi"
 chapter: "Ch. 4 (Renjianshi), closing of the heart-fasting dialogue"

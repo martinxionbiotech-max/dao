@@ -1,7 +1,7 @@
 ---
 title: "Zhaoche (朝彻)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zhaoche 朝彻, the 'dawn-clearing' — the turning point of the Nü Yu ladder: after the three puttings-outside, the mind clears like daybreak, and only then can it see the alone."
 chinese: "朝彻"
 pinyin: "zhāochè"

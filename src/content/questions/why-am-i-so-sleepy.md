@@ -1,7 +1,7 @@
 ---
 title: "Why Am I So Sleepy When I Sit?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Sleepiness in sitting is the most common beginner report, and the archive's teacher has one first answer: most people are simply sleep-deprived, and stillness shows it. The deeper answer: drowsiness and stillness look identical from the outside and are opposites from the inside — and the teacher's physiology claims (oxygen, brain cells) are registered, not endorsed."
 question: "Every time I sit down to meditate I get drowsy — sometimes I actually fall asleep. Am I doing it wrong? Is this a sign that meditation isn't for me, or that I'm too tense?"
 context: "Asked repeatedly in the archive by beginners, and by readers of this site's drowsiness pages, who want the archive's answers and the site's boundary together in one place."

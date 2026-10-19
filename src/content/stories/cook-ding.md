@@ -1,7 +1,7 @@
 ---
 title: "Cook Ding Carves an Ox"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The Zhuangzi's butcher who follows the grain rather than force — a parable of effortless skill as contemplative practice, retold with the classical text and its framing."
 tradition: "Daoist"
 sourceText: "zhuangzi"

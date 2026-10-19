@@ -1,7 +1,7 @@
 ---
 title: "Daodejing ch. 10 (shouyi line): Full Translation"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "'Carrying your bodily soul and embracing the One, can you keep them from separating?' — the Daodejing line behind the shouyi tradition, with the translation problems of yingpo and the One."
 sourceText: "daodejing"
 term: "shouyi"

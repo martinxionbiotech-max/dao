@@ -1,7 +1,7 @@
 ---
 title: "Xin"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: xin 心 — the heart-mind; why the classical word is not 'mind' and not 'heart'."
 chinese: "心"
 pinyin: "xīn"

@@ -1,7 +1,7 @@
 ---
 title: "EXP-022: 'It's All Theatre' — the Skeptic, the Deep Concentration Fear, and Yoga's Ceiling"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: a skeptic's three-reason case against the Buddha's indestructible body; a practitioner's fear of dying in deep concentration; and the episode's most useful correction — menstruation stopping is not the exhaustion of outflows, and yoga, however complete, cannot pass the second dhyāna."
 experienceId: "EXP-022"
 practice: "Cross-legged sitting aimed at meditative concentration (question-and-answer series with a meditation teacher)"

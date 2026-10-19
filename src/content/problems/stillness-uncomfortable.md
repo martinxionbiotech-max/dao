@@ -1,8 +1,8 @@
 ---
 {
   "title": "Stillness Feels Uncomfortable — Why Is Quiet Hard?",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "A problem page: why stillness itself can feel unpleasant early on — the Zhuangzi's 'sitting while galloping,' what discomfort in quiet is and is not, and the boundary.",
   "question": "Why does stillness feel uncomfortable when I sit?",
   "shortAnswer": "Because stillness removes the noise that covers the mind's racing — and a mind that races finds quiet uncomfortable, the way silence makes a ringing ear audible. The Zhuangzi already names this as the condition practice begins from ('the body sits, the mind gallops'), so early discomfort in quiet is the expected starting point, not a sign of failure. The boundary: discomfort that is physical pain or emotional distress is a different matter, and each has its own page.",

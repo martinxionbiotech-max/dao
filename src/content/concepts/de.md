@@ -1,7 +1,7 @@
 ---
 title: "De (德): Virtue, Power, Integrity"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-08
+updated: 2026-10-08
 description: "De 德 — the Dao's working in things: Daodejing ch. 38's two kinds of virtue, ch. 51's four-agent pipeline, and why 'virtue' misleads."
 chinese: "德"
 pinyin: "dé"

@@ -1,7 +1,7 @@
 ---
 title: "The Tip of an Autumn Hair"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The scale-reversing climax of the Qi Wu Lun: the tip of an autumn hair is larger than Mount Tai, a child dead young is longer-lived than Pengzu, heaven and earth are born with me and the ten thousand things are one with me — and then the chapter catches its own sentence in the act: as soon as the oneness is spoken, the speaking adds a second thing. Better to stop the counting, and rest in the going."
 tradition: "Daoist"
 sourceText: "zhuangzi"

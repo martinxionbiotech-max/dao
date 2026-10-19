@@ -1,7 +1,7 @@
 ---
 title: "Three Cries, and Out: Qin Shi Mourns Laozi"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "When Laozi dies, his friend Qin Shi cries three times and leaves. The disciples object — and Qin Shi explains what the mourners are doing wrong, and what 'resting in the season' would be."
 tradition: "Daoist"
 sourceText: "zhuangzi"

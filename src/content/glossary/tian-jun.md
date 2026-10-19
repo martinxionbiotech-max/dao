@@ -1,7 +1,7 @@
 ---
 title: "Tianjun (天钧)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Tianjun 天钧, 'Heaven's wheel' — the Zhuangzi's image for where the sage rests: not choosing between this and that, but letting both go their way on the turning rim."
 chinese: "天钧"
 pinyin: "tiānjūn"

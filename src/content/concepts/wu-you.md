@@ -1,7 +1,7 @@
 ---
 title: "Wu and You (无/有): Non-being and Being"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-08
+updated: 2026-10-08
 description: "Wu 无 and You 有 — the Daodejing's founding pair: nameless/being at the start (ch. 1), 有无相生 (ch. 2), the empty hub (ch. 11), and 有生于无 (ch. 40), with Zhuangzi ch. 22's ladder past the pair itself."
 chinese: "无 / 有"
 pinyin: "wú / yǒu"

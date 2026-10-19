@@ -1,7 +1,7 @@
 ---
 title: "Dragon-Slaying Skill"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zhu Pingman studied dragon-slaying under Zhili Yi, spent his family's thousand gold, and after three years had the skill complete — with no way to use it. The book's three-sentence joke about expensive uselessness, and its chapter's own answer: the skilled labor, the clever worry — the one without ability has nothing to seek."
 tradition: "Daoist"
 sourceText: "zhuangzi"

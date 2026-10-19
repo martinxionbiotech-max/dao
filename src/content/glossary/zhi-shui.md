@@ -1,7 +1,7 @@
 ---
 title: "Zhishui (止水)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zhishui 止水, 'still water' — the Zhuangzi's companion image to the mirror: the mind can only reflect when it stops moving, and 'only the still can still the many.'"
 chinese: "止水"
 pinyin: "zhǐshuǐ"

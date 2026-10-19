@@ -1,7 +1,7 @@
 ---
 title: "Neiguan: The Practice of Inner Observation"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-08
+updated: 2026-10-08
 description: "Neiguan 内观 — the Neiguan Jing's method of inner observation: 内观己身，澄其心也. The scriptural instructions, the Tang identification with zuowang, and the boundary between historical method and modern reconstructions."
 chinese: "内观"
 pinyin: "nèiguān"

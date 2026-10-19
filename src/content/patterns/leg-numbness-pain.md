@@ -1,7 +1,7 @@
 ---
 title: "Pattern: Leg Numbness and Pain in Cross-Legged Sitting"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Recurring community pattern: early cross-legged sitting produces numbness, tingling pain, and the 'endure or adjust' dilemma — with the tradition's own safety caveat restored."
 phenomenon: "Leg numbness, pins-and-needles, and pain in cross-legged sitting, with contradictory community advice about endurance"
 reportCount: 2

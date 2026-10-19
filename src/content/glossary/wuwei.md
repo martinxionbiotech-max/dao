@@ -1,7 +1,7 @@
 ---
 title: "Wuwei"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: wuwei 无为, 'non-action' — translation options and common mistranslations."
 chinese: "无为"
 pinyin: "wúwéi"

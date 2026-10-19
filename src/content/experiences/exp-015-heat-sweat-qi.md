@@ -1,7 +1,7 @@
 ---
 title: "EXP-015: Heat, Sweat, and the Two Kinds of Inner Motion — One Teacher's Map of Sitting's Bodily Responses"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: double-lotus heat and sweat, spontaneous belly-waves and belching, and the teacher's standing distinction between qi-sensation and blood-flow sensation — the body's responses mapped, not feared."
 experienceId: "EXP-015"
 practice: "Double-lotus sitting with breathing practice (question-and-answer series with a meditation teacher)"

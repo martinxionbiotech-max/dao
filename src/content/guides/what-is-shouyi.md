@@ -1,8 +1,8 @@
 ---
 {
   "title": "What Is Shouyi? A Plain-Language Introduction",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "The entry-level version of guarding the One: the Daodejing's question, the Han practice, what guarding means in practice — with links into the concept, practice, and text pages.",
   "audience": "readers who just met the term shouyi; search-entry point",
   "status": "published",

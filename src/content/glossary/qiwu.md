@@ -1,7 +1,7 @@
 ---
 title: "Qiwu (齐物)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Qiwu 齐物, 'the leveling of things' — the term inside the book's second chapter title: 齐 (to level, to make equal) + 物 (things). And the title itself is the term's own puzzle: 齐物-论 (a discourse on leveling things) or 齐-物论 (leveling the discourses about things)? The tradition has read it both ways for a thousand years, and the chapter does both."
 chinese: "齐物"
 pinyin: "qíwù"

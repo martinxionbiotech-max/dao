@@ -1,7 +1,7 @@
 ---
 title: "The Fish in the Dried-Up Rut"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zhuangzi, out of grain, asks the river-warden for a loan. The warden promises a fortune once his tax silver arrives — and Zhuangzi answers with a fish dying in a cart-rut, whose only request is a cup of water."
 tradition: "Daoist"
 sourceText: "zhuangzi"

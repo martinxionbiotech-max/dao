@@ -1,7 +1,7 @@
 ---
 title: "I Sit and Feel Nothing — Am I Doing It Wrong?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The beginner's most common worry, answered at the practice layer: 'nothing' is not the failure state — it is the baseline the tradition's own texts describe, and the measure is continuity, not intensity."
 question: "I sit and feel nothing. No warmth, no tingling, no peace — just quiet boredom. Am I doing it wrong?"
 context: "A recurring beginner question across Chinese and Western practice communities, sharpened by the vivid sensation reports in the site's own experience records (warmth, tingling, qi movement)."

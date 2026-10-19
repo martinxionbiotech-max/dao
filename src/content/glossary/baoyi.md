@@ -1,7 +1,7 @@
 ---
 title: "Baoyi"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: baoyi 抱一, 'embracing the One' — the Daodejing's phrase for holding to unity, the verbal root of the whole guarding-the-One (shouyi) family."
 chinese: "抱一"
 pinyin: "bàoyī"

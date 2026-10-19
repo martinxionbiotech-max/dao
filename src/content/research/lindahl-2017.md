@@ -1,8 +1,8 @@
 ---
 
 title: "Varieties of Contemplative Experience (Lindahl 2017)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The first taxonomy of meditation-related challenges: interviews with Western Buddhist practitioners and teachers, mapping the phenomena, the influencing factors, and the remedies."
 question: "What kinds of difficult experiences arise in meditation, when do they arise, and how are they worked with?"
 method: "Mixed-methods qualitative study: interviews with Western Buddhist meditation practitioners and teachers across traditions (Theravada, Zen, Tibetan), producing a taxonomy of meditation-related challenges — phenomenology, influencing factors, and remedies."

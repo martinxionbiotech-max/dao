@@ -1,7 +1,7 @@
 ---
 title: "Lord Ren's Giant Fish"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Lord Ren fashions an enormous hook and a thick black line, baits it with fifty oxen, squats on Mount Kuaiji, and casts into the Eastern Sea — and fishes daily for a full year without a catch. The small-minded who later marvel at the fish, fishing in ditches for minnows, never learn what scale made it possible."
 tradition: "Daoist"
 sourceText: "zhuangzi"

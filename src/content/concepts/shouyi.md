@@ -1,7 +1,7 @@
 ---
 title: "Shouyi (Guarding the One)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Shouyi 守一: the early Daoist meditation of holding the One — from Daodejing ch. 10's 'embrace the One' to the Taiping Jing's chamber method and Ge Hong's longevity practice."
 chinese: "守一"
 pinyin: "shǒuyī"

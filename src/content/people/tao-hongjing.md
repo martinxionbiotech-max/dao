@@ -1,7 +1,7 @@
 ---
 title: "Tao Hongjing (陶弘景)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Tao Hongjing 陶弘景 (456–536), the compiler of the Zhengao and the 'prime minister in the mountains' — the scholar-adept who turned the Yang–Xu household notes into the charter documents of the Shangqing tradition."
 chinese: "陶弘景"
 pinyin: "Táo Hóngjǐng"

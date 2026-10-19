@@ -1,7 +1,7 @@
 ---
 title: "EXP-018: From Half-Lotus to Full: The Teacher's Method and Its Costs"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: the teacher's full training program for the double-lotus — diet, prostrations, cushions, four-hour thresholds, butterfly and frog stretches — and the site's explicit non-adoption of its demands."
 experienceId: "EXP-018"
 practice: "Double-lotus sitting, prostrations, and hip-opening stretches (question-and-answer series with a meditation teacher)"

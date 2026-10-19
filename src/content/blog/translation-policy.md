@@ -1,7 +1,7 @@
 ---
 title: "The Words Are Not the Thing: How This Site Translates"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "An editorial on the translation policy of this knowledge base — why qi stays romanized, why wuwei is 'non-action,' why some sentences are marked untranslatable, and what translation choices can and cannot do."
 kind: editorial
 status: published

@@ -1,7 +1,7 @@
 ---
 title: "Daodejing (the Book)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The Daodejing 道德经: the 81-chapter classic of the Way and Virtue — wuwei, the One, and the subtraction program. Manuscript history (Mawangdui 1973, Guodian 1993) and why chapter numbers vary."
 chinese: "道德经"
 pinyin: "Dàodéjīng"

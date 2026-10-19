@@ -1,7 +1,7 @@
 ---
 title: "The Heshang Gong Commentary (c. 2nd c. CE)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The anonymous elder by the river becomes the name on the earliest surviving full Laozi commentary — the chapter-titled, body-governing recension that carried the Daodejing into practice."
 periodStart: "c. Eastern Han (conventional scholarly dating, c. 1st–2nd c. CE); the legend places it under Emperor Wen of Han"
 periodEnd: "c. 300 CE (the recension's rise as the standard received text; Tang examination use later)"

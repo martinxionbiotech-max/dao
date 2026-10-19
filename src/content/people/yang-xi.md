@@ -1,7 +1,7 @@
 ---
 title: "Yang Xi (杨羲)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Yang Xi 杨羲 (fl. c. 364–370), the medium of the Shangqing revelations — the young Celestial Master adept through whom, the tradition records, the Lady Wei transmitted the Highest Clarity scriptures at Jurong in the 360s."
 chinese: "杨羲"
 pinyin: "Yáng Xī"

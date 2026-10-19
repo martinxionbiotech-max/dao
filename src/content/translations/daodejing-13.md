@@ -1,7 +1,7 @@
 ---
 title: "Favor and Disgrace Both Startle (Daodejing 13)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of ch. 13: favor and disgrace both startle; honor great trouble as your own body — the chapter about the self that has trouble because it has a self, and the body held lightly enough to be trusted with the world."
 sourceText: "daodejing"
 chapter: "Ch. 13"

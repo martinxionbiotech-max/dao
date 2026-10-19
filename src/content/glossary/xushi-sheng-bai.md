@@ -1,7 +1,7 @@
 ---
 title: "Xushi sheng bai (虚室生白)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Xushi sheng bai 虚室生白, 'the empty room gives birth to brightness' — the climax of the fasting-of-the-mind passage: when the heart's room is emptied, the light appears, and the auspicious comes to rest. The Zhuangzi's one-line answer to what the emptied mind finds."
 chinese: "虚室生白"
 pinyin: "xūshì shēng bái"

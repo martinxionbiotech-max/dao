@@ -1,8 +1,8 @@
 ---
 {
   "title": "Yi (意): Intention, the Mind's Directedness",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "Term entry: yi 意 — the aiming edge of the mind. See the full concept page.",
   "chinese": "意",
   "pinyin": "yì",

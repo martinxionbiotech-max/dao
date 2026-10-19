@@ -1,7 +1,7 @@
 ---
 title: "EXP-021: 864 Prostrations and the Channel Circuit"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: a practitioner's 300-prostration soreness and a lost heat-flow between the kidneys; the teacher's full answer — the circuit the qi must travel, the one-meal-a-day regime, the body as air-conditioner, and the joke about wearing a padded jacket in summer."
 experienceId: "EXP-021"
 practice: "Cross-legged sitting, prostration practice, and channel-opening work (question-and-answer series with a meditation teacher)"

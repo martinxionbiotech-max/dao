@@ -1,8 +1,8 @@
 ---
 {
   "title": "What Slow Breathing Does to Body and Brain (Zaccaro 2018)",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "The systematic review of slow-breathing techniques: parasympathetic predominance under ten breaths per minute — the physiological cousin of tiaoxi's fine breath, with the boundary stated.",
   "question": "What psychophysiological changes accompany voluntary slow breathing?",
   "method": "Systematic review of studies of slow-breathing techniques (under ~10 breaths/minute) in healthy subjects, covering autonomic, cerebral (EEG/fMRI), and psychological outcomes.",

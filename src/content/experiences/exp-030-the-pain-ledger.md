@@ -1,7 +1,7 @@
 ---
 title: "The Pain Ledger"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The archive's pain-summary episode: why the legs hurt again after they stopped hurting, which part of the body is being repaired at which sitting length, and the teacher's own injury made audible. The centerpiece is the repair schedule — skin 28 days, muscle 2–3 years, sinew 3–4 years, bone 7 years — and its consequence: the pain that arrives between 90 minutes and two hours is the sound of the sinews and bones being rebuilt, which is exactly why the two-hour sit is not an arbitrary number."
 series: "Taishi Q&A"
 episode: "Taishi episode 31 (double-lotus pain round-up), NetEase repost"

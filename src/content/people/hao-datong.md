@@ -1,7 +1,7 @@
 ---
 title: "Hao Datong (郝大通)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-08
+updated: 2026-10-08
 description: "Hao Datong (1140–1212), the Quanzhen Seven Perfected's diviner: the young master of the Book of Changes who joined Wang Chongyang from divination, the six silent years under the Zhao bridge, and the Huashan lineage he founded."
 historicity: "historical"
 dynasty: "Jin"

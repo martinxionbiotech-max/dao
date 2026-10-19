@@ -1,7 +1,7 @@
 ---
 title: "Must I Sit Cross-Legged (Full Lotus)?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The posture question: what the manuals actually require, where the one-lineage hard line comes from, and why the documented spectrum — chair, kneeling, half-lotus, full-lotus — is the real tradition."
 question: "Do I have to sit in full lotus (cross-legged) for meditation to 'count'? My legs hurt badly when I try."
 context: "A beginner reads that real meditation requires the full-lotus posture and worries that chair-sitting or pain-limited sessions invalidate the practice."

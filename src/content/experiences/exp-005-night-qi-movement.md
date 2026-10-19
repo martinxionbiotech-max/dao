@@ -1,7 +1,7 @@
 ---
 title: "EXP-005: Nighttime Body-Movement and Heat Sensations After Sitting"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: waking at night with a clenching at the dantian, felt qi moving through the body, back heat, and sweating — several consecutive nights."
 experienceId: "EXP-005"
 practice: "Daoist-style quiet sitting"

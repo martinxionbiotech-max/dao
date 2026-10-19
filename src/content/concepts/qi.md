@@ -1,7 +1,7 @@
 ---
 title: "Qi"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Qi 气: the classical Chinese term for vital energy/breath/substrate — what Zhuangzi means by 'listening with qi', why 'energy' is a partial translation, and how the term works in contemplative texts."
 chinese: "气"
 pinyin: "qì"

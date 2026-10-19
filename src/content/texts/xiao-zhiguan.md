@@ -1,7 +1,7 @@
 ---
 title: "Xiao Zhiguan (the Book)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zhiyi's beginner's meditation manual 童蒙止观: the five adjustments and four faulty breaths that became the common operating manual of Chinese sitting across traditions."
 chinese: "童蒙止观"
 pinyin: "Tóngméng Zhǐguān"

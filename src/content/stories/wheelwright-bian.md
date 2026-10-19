@@ -1,7 +1,7 @@
 ---
 title: "Wheelwright Bian: What Cannot Be Put into Words"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The wheelwright who tells a duke that books are 'the dregs of the ancients' — because the number in his craft cannot be spoken, only handed from hand to hand: the Zhuangzi's own warning to every text-based tradition, including this site's."
 tradition: "Daoist"
 sourceText: "zhuangzi"

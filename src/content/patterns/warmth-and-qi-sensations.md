@@ -1,7 +1,7 @@
 ---
 title: "Pattern: Warmth, Sweating, and Felt Qi Movement in Sitting"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Recurring community pattern: warmth, sweating, tingling, and felt qi movement during or after sitting — with traditional, physiological, and interpretive readings kept separate."
 phenomenon: "Warmth, sweating, tingling, and felt qi movement during or after seated practice"
 reportCount: 2

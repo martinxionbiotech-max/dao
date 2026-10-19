@@ -1,7 +1,7 @@
 ---
 title: "The Mantis, the Tiger-Keeper, and the Horse-Lover: Talent Against Force"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Three fables in one counsel: the mantis that raises its arms against a chariot, the tiger-keeper who studies hunger, the horse-lover whose kindness spooks his horse — the Zhuangzi's manual for working with the unteachable."
 tradition: "Daoist"
 sourceText: "zhuangzi"

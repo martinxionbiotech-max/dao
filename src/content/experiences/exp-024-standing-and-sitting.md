@@ -1,7 +1,7 @@
 ---
 title: "EXP-024: Standing Post, Sitting Lotus — the Habit Seeds That Surface and the Legs That Alternate"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: a practitioner finds standing post quieter than sitting and asks about combining them; a mantra-retreat participant finds anger rising after six weeks and is told the habit seeds surfacing is the point; and a sitter whose lotus and demon-subduing postures both opened after breath practice is told to alternate legs daily — with the episode's moderate corners: eat less, move more, and fix the present."
 experienceId: "EXP-024"
 practice: "Cross-legged sitting (lotus and demon-subduing postures) with standing-post practice, abdominal breathing, and mantra recitation (question-and-answer series with a meditation teacher)"

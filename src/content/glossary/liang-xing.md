@@ -1,7 +1,7 @@
 ---
 title: "Liangxing (两行)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Liangxing 两行, 'walking two roads' — the Qi Wu Lun's word for the sage's motion after the morning-and-evening story: holding right and wrong in harmony while resting on the heavenly balance. Not taking one side; taking both, and so being held by neither."
 chinese: "两行"
 pinyin: "liǎngxíng"

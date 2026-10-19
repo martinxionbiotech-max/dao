@@ -1,7 +1,7 @@
 ---
 title: "'Reach Emptiness at the Limit' (Daodejing 16)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The stillness-and-return chapter of the Daodejing, translated with commentary — the method sentence of the whole quiet tradition: empty to the limit, keep stillness firmly, watch the return."
 sourceText: "daodejing"
 chinese: "致虚极，守静笃。万物并作，吾以观复……"

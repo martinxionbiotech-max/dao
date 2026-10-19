@@ -1,7 +1,7 @@
 ---
 title: "Daoshu (道枢)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Daoshu 道枢, 'the hinge of the Way' — the pivot point the Qi Wu Lun names between the paired opposites: when that and this no longer get their counterparts, what remains is the hinge, and the hinge comes to rest at the ring's center, answering the endless. The hinge is an achievement, not a default."
 chinese: "道枢"
 pinyin: "dàoshū"

@@ -1,7 +1,7 @@
 ---
 title: "Yan Zun (严遵)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Yan Zun 严遵, also Zhuang Zun 庄遵, courtesy name Junping (d. c. 6 CE, aged over ninety) — the Chengdu fortune-teller whose Laozi zhiguì is the earliest surviving Western Han commentary on the Daodejing, and whose counter was the lecture hall where Yang Xiong learned the old book."
 chinese: "严遵"
 pinyin: "Yán Zūn"

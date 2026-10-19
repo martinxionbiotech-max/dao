@@ -1,7 +1,7 @@
 ---
 title: "The Gardener and the Well-Sweep"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Zigong offers the Han river gardener a lever that waters a hundred beds a day. The gardener, furious and laughing, answers with the book's earliest argument that tools train the mind that uses them — and Zigong, a Confucius student, walks away shaken."
 tradition: "Daoist"
 sourceText: "zhuangzi"

@@ -1,7 +1,7 @@
 ---
 title: "Can I Combine Zuowang with Mindfulness Meditation?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Whether a Daoist emptying practice and mindfulness-based practice can be combined — what the traditions share, where they differ, and what combining actually means."
 question: "Can I practice zuowang (or jingzuo) and mindfulness meditation together, or should I pick one?"
 context: "A common question from practitioners who come to Daoist sitting from MBSR-style mindfulness, and vice versa."

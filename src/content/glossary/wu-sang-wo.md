@@ -1,7 +1,7 @@
 ---
 title: "Wu Sang Wo (吾丧我)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Wu sang wo 吾丧我, 'I have lost my me' — the opening of the Qiwu Lun: Nan-Guo Ziqi sits at the armrest, breathes up to heaven, and looks as if he has lost his companion. The book's name for the state every one of its practices aims at: the subject who has let go of the object he took himself to be."
 chinese: "吾丧我"
 pinyin: "wú sàng wǒ"

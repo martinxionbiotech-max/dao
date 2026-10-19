@@ -1,7 +1,7 @@
 ---
 title: "The Ferryman and the Diver: When the Water Is Forgotten"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "A ferryman handles his boat like a spirit; Confucius explains: the swimmer forgets the water. The Zhuangzi's fable on the forgetting that skill requires — and the stakes that make us clumsy."
 tradition: "Daoist"
 sourceText: "zhuangzi"

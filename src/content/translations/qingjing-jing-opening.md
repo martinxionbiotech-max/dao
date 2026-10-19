@@ -1,7 +1,7 @@
 ---
 title: "Qingjing Jing Opening and Core: Full Translation"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The opening negative theology of the Qingjing Jing 清静经 ('the Dao has no form, yet gives birth to heaven and earth') and its core promise ('if people can be constantly clear and still, heaven and earth all return to them'), translated with notes."
 sourceText: "qingjing-jing"
 term: "清静"

@@ -1,7 +1,7 @@
 ---
 title: "Do I Need a Teacher?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The teacher question, answered from both of the site's sources at once: the Zhuangzi says the Way can be transmitted but not received — and its own transmission chain runs through ink, not people; the archive's teacher says the sutras are the teacher, self-study works, and the years are full of frauds. What both agree on is smaller and stricter: try, and describe honestly."
 question: "Do I need a teacher to practice sitting meditation, or can I learn from books and forums? Is self-study without a teacher safe, or is it — as one forum claim puts it — 'demonic practice'?"
 context: "Asked by practitioners who have heard the traditional claim that meditation requires transmission from a living teacher, and the opposite claim from the archive's community that self-study leads nowhere — or worse."

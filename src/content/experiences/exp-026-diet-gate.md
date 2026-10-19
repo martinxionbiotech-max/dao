@@ -1,7 +1,7 @@
 ---
 title: "The Diet Gate: Meat and the First Step"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "From the teacher's official collection: meat-eating blocks even the desire-realm dhyana, the dream-test measures whether the meat-habit is dead, the seven-year frame, the animals-have-consciousness claim, and the nutrition exchange where the teacher and his readers converge on the one point that matters — change gradually, or the body pays."
 series: "Taishi Q&A"
 episode: "Sit-in Q&A, Precepts ch. 2, section 7 (official collection)"

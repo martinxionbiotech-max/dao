@@ -1,7 +1,7 @@
 ---
 title: "Seeing Light or Images During Sitting — What Does It Mean?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "A problem page: visual phenomena during stillness — the Zhuangzi's 'empty room gives rise to white light,' the tradition's counsel not to grasp, and the medical boundary."
 question: "During sitting I sometimes see light, colors, or images. Is this progress, illusion, or a warning sign?"
 shortAnswer: "The phenomenon is named in the earliest sources — the Zhuangzi's 'the empty room gives rise to white light' (虚室生白) — and the tradition's counsel across manuals is consistent: notice without grasping, neither chase nor fear. But no dedicated research exists on visual phenomena in Daoist sitting, and persistent or distressing visual symptoms are a medical matter, not a meditation matter."

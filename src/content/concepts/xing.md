@@ -1,8 +1,8 @@
 ---
 {
   "title": "Xing (性): The Inborn Nature",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "Xing 性 — the nature a being is born with: what the Daoist sources do with the term, and its career as the 'nature' half of the nature-and-life pair (xingming).",
   "chinese": "性",
   "pinyin": "xìng",

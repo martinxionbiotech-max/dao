@@ -1,7 +1,7 @@
 ---
 title: "Zuochi"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Glossary: zuochi 坐驰, 'sitting while galloping' — the Zhuangzi's named failure state of meditation: the body sits, the mind races. The negative twin of zuowang."
 chinese: "坐驰"
 pinyin: "zuòchí"

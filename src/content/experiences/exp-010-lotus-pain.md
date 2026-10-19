@@ -1,7 +1,7 @@
 ---
 title: "EXP-010: The Beginner's Lotus Pain — and the Endurance Counsel"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Anonymized note: beginners' pain reports from double-lotus training, the teacher's endurance doctrine ('endure the pain, endure the time'), and the site's three-layer handling of the disagreement."
 experienceId: "EXP-010"
 practice: "Cross-legged sitting (full-lotus training), with prostrations as conditioning"

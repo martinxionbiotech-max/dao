@@ -1,7 +1,7 @@
 ---
 title: "Xuanpin (玄牝)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Xuanpin 玄牝, the 'mysterious female' — the Daodejing's most explicit maternal image: the valley-spirit that does not die, whose gate is the root of heaven and earth."
 chinese: "玄牝"
 pinyin: "xuánpìn"

@@ -1,7 +1,7 @@
 ---
 title: "Daodejing 51 — The Dao Gives Them Life, the De Nurtures Them"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-08
+updated: 2026-10-08
 description: "The chapter that names the two powers and their division of labor: the dao gives birth, the de nurtures, things give shape, circumstances complete. All things honor the dao and value the de — yet no one commands this, and it stays constant of itself. The closing is the book's second signature: gives life without owning, acts without relying, grows without ruling — this is called the dark de."
 sourceText: "Daodejing, Chapter 51"
 status: published

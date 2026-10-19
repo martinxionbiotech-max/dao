@@ -1,7 +1,7 @@
 ---
 title: "Does the Daoist Tradition Believe in a Creator?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The short answer from the source texts: the tradition raises the creator-question itself, in the 'as-if' form, and then declines it — no maker, no driver, things born 'clod-like, of themselves.'"
 question: "Does the Daoist tradition believe in a creator — a god or driver who made or runs the world?"
 shortAnswer: "No — but the honest version matters more than the one-word answer: the source texts raise the creator-question themselves, always in the as-if form, and then decline it. The Zhuangzi's word is 'as if there were a true driver' (若有真宰) — and its traces cannot be found. The world-process has no face, no plan, and no one at the wheel."

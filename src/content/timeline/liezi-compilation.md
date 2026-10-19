@@ -1,7 +1,7 @@
 ---
 title: "Liezi Compiled (Jin Era, c. 285–400 CE)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "From the lost Han bibliography entry to the received eight-chapter book: the Liezi's Jin-era compilation, with the 285 CE terminus, Zhang Zhan's commentary, and the Tang canonization."
 periodStart: "c. 285 CE (terminus post quem: the Sheng Jing borrowing demonstrated by Ji Xianlin)"
 periodEnd: "c. 400 CE (Zhang Zhan's commentary, late Eastern Jin)"

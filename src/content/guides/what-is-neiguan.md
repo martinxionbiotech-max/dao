@@ -1,8 +1,8 @@
 ---
 {
   "title": "What Is Neiguan? A Plain-Language Introduction",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "The entry-level version of inner observation: the Neiguan Jing's instruction, what is observed, how it differs from visualization — with links into the practice, glossary, and text pages.",
   "audience": "readers who just met the term neiguan; search-entry point",
   "status": "published",

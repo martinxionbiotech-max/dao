@@ -1,7 +1,7 @@
 ---
 title: "Zuowang Passage (Zhuangzi ch. 6): Full Translation"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The complete sitting-in-oblivion passage 坐忘 from Zhuangzi ch. 6, with the translation problems of 'drop the body', 'expel knowledge', and 'Great Thoroughfare' worked through."
 sourceText: "zhuangzi"
 term: "zuowang"

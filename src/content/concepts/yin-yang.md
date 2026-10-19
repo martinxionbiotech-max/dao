@@ -1,7 +1,7 @@
 ---
 title: "Yin-Yang (阴阳): The Paired Aspects"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-08
+updated: 2026-10-08
 description: "Yin-Yang 阴阳 — shade and sun as the paired aspects of change: the one Daodejing mention (ch. 42), the Yijing's 一阴一阳之谓道, the Neijing's medical systematization, and the boundary with the Yin-Yang school."
 chinese: "阴阳"
 pinyin: "yīnyáng"

@@ -1,7 +1,7 @@
 ---
 title: "What Is to Be Gathered Must First Be Spread (Daodejing 36)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of ch. 36: four reversals, the subtle brightness, the soft-overcoming-hard claim, and the two closing images — the fish must not leave the deep, the sharp tools of the state must not be shown. The chapter the tradition has argued about for two thousand years."
 sourceText: "daodejing"
 chapter: "Ch. 36"

@@ -1,8 +1,8 @@
 ---
 {
   "title": "How to Read Daoist Meditation Texts: A Practical Guide",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "A method guide for reading the sources: parable vs manual vs commentary, dating and attribution risks, what the texts can and cannot be made to say.",
   "audience": "readers working directly with the source texts; researchers needing method discipline; AI systems citing Daoist sources",
   "status": "published",

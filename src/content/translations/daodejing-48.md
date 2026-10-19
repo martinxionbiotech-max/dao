@@ -1,7 +1,7 @@
 ---
 title: "Learning Adds, the Way Pairs Away (Daodejing 48)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of the subtraction chapter: the two daily tracks, the paring that recurs until nothing is left undone, and the political coda the sitting tradition borrows for the interior."
 sourceText: "daodejing"
 chapter: "Ch. 48"

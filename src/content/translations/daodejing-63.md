@@ -1,7 +1,7 @@
 ---
 title: "Planning the Hard in Its Easy Stage (Daodejing 63)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of ch. 63: the three inverted practices, the debt repaid with de, and the book's doctrine of beginnings — plus the promise it refuses to make."
 sourceText: "daodejing"
 chapter: "Ch. 63"

@@ -1,8 +1,8 @@
 ---
 {
   "title": "What Does 'Forgetting the Body' Mean in Daoist Texts?",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "A problem page: the exact meaning of 'dropping the limbs and body' in Zhuangzi ch. 6 — forgetting as quieting of claim, not loss of reality, with the classical commentary.",
   "question": "What does 'forgetting the body' (忘身 / 堕肢体) mean in Daoist texts?",
   "shortAnswer": "In Zhuangzi ch. 6, 'dropping away the limbs and body' is the first item in the definition of sitting-and-forgetting, and it means the felt solidity of the body relaxing its claim on attention — not harm to the body and not loss of contact with reality. The word 'forget' (忘) is doing precise work: forgetting a thing one still has, the way one forgets shoes when they fit well (Zhuangzi ch. 19).",

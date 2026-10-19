@@ -1,7 +1,7 @@
 ---
 title: "Huangting Jing (the Book)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The Huangting neijing jing 黄庭内景经: the Shangqing scripture that fixed the three-dantian map — the inner geography every later practice inherits, and its signature line."
 chinese: "黄庭内景经"
 pinyin: "Huángtíng Nèijǐng Jīng"

@@ -1,7 +1,7 @@
 ---
 title: "Fu Yi (傅奕)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Fu Yi 傅奕 (555–639) — the Tang court astronomer who tried to have Buddhism abolished, and who produced the Daodejing's most respected ancient recension: the one whose textual instinct the whole later tradition of critical Laozi scholarship descends from."
 chinese: "傅奕"
 pinyin: "Fù Yì"

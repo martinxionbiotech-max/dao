@@ -1,7 +1,7 @@
 ---
 title: "Neiguan (内观)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "'Inner contemplation' — the Sui-Tang term for turning attention inward and settling the mind, which the tradition itself identified with sitting in oblivion."
 chinese: "内观"
 pinyin: "nèiguān"

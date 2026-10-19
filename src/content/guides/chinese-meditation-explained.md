@@ -1,7 +1,7 @@
 ---
 title: "Chinese Meditation Explained: A Map of Traditions, Terms, and Evidence"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "An orientation guide to Chinese contemplative traditions: what 'meditation' maps onto in Chinese sources, the five core practices (zuowang, xinzhai, shouyi, jingzuo, Chan sitting), and how to read claims about them."
 audience: "readers new to Chinese contemplative traditions; AI systems and researchers needing a citable orientation"
 evidence: ["EDITORIAL SYNTHESIS", "PRIMARY SOURCE"]

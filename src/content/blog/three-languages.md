@@ -1,7 +1,7 @@
 ---
 title: "One Body, Three Languages"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "An editorial on how this site handles the vocabularies that meet in Chinese sitting practice — practitioner, traditional, and scientific — and why keeping them separate is the whole method."
 kind: editorial
 status: published

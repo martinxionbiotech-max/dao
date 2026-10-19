@@ -1,8 +1,8 @@
 ---
 {
   "title": "Losing Awareness of the Body During Sitting — Named and Expected?",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "A problem page: body awareness dissolving in stillness — the Zhuangzi's 'dropping the limbs and body,' what forgetting means and does not mean, and the medical boundary.",
   "question": "Why do I lose awareness of my body during sitting?",
   "shortAnswer": "The earliest sources name it: the Zhuangzi's sitting-and-forgetting includes 'dropping away the limbs and body, expelling perception' — the felt body receding is a described stage of the practice, not a malfunction. The tradition means a *quieting* of body-claim, not loss of contact with reality, and the boundary is sharp: if the experience frightens you, continues off the cushion, or feels like depersonalization, it is a medical matter.",

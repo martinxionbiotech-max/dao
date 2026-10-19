@@ -1,7 +1,7 @@
 ---
 title: "The Lotus Posture Chapter"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The archive's complete posture chapter, all eight sections of the official collection: why single lotus is only quiet sitting, the closed-circuit account of why only double lotus opens the channels (with the teacher's own 'I don't know why the body is like this'), the beginner's opening-hips methods, the food-and-sitting rule, the body-reaction ledger (purple feet as detox, the repair schedule behind the pain window, the head-sweat circuit, the saliva sign), the illness Q&A including the shadow-body method for the disabled, and the meridian sequence from the kidneys to the crown and back."
 series: "Taishi Q&A"
 episode: "Zuochan Q&A ch. 6 (lotus posture), sections 01–08, official collection"

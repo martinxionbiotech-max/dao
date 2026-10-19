@@ -1,7 +1,7 @@
 ---
 title: "Hua (化)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Hua 化, 'transformation' — the book's cosmic verb: the fish becomes the bird, the worm becomes the butterfly, the body becomes soil, the words become new words. And the book's own warning about it: when it is time to transform, do not ask whether you are transforming."
 chinese: "化"
 pinyin: "huà"

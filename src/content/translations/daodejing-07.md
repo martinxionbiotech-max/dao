@@ -1,7 +1,7 @@
 ---
 title: "Heaven Is Long-Enduring (Daodejing 7)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of ch. 7: heaven and earth last because they do not live for themselves; the sage puts himself last and stands first — the chapter that states the book's inversion in its purest form: the selfless completes the self."
 sourceText: "daodejing"
 chapter: "Ch. 7"

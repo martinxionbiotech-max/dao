@@ -1,7 +1,7 @@
 ---
 title: "The Woman Who Copied the Frown: Imitation Without Its Ground"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The ugly neighbor who learned Xishi's frown but not why it was beautiful — the Tianyun chapter's warning aimed at Confucius about institutions, and the mirror-twin of the Handan walk."
 tradition: "Daoist"
 sourceText: "zhuangzi"

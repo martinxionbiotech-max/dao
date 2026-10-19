@@ -1,7 +1,7 @@
 ---
 title: "Taiping Jing (Scripture of Great Peace)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The Taiping Jing 太平经: the Eastern Han scripture that turned guarding-the-One from a saying into a systematic meditation with a protocol — the site's primary source for the shouyi tradition."
 chinese: "太平经"
 pinyin: "Tàipíng Jīng"

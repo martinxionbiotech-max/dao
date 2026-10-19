@@ -1,8 +1,8 @@
 ---
 {
   "title": "Cunsi vs. Zuowang: A Structured Comparison",
-  "date": "2026-10-10",
-  "updated": "2026-10-10",
+  "date": "2026-10-08",
+  "updated": "2026-10-08",
   "description": "The two poles of Daoist meditation — holding inner images versus letting everything go — compared across the sources, with the tradition's own answer: they are phases of one path, not rival schools.",
   "entities": [
     "cunsi",

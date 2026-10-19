@@ -1,7 +1,7 @@
 ---
 title: "Can Meditation Cure Illness?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The boundary question the tradition's own texts and the modern record both force: the sources make healing claims, the research does not back them as cures, and the site's answer is drawn at the line where practice ends and medicine begins."
 question: "Can meditation cure illness — the Daoist and Buddhist sitting practices in particular?"
 shortAnswer: "At the boundary layer, which is the layer this question lives in: no — meditation is not a medical treatment, and the site treats every source-claim of healing as a traditional claim to be registered, not a medical fact to be acted on. The modern research supports meditation for some symptom-related outcomes (anxiety, depression, pain — moderate-to-low-grade evidence), not for curing disease. The tradition's own texts claim healing; those claims belong to the tradition's record, kept apart from medical advice."

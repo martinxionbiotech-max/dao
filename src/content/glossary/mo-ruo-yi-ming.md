@@ -1,7 +1,7 @@
 ---
 title: "Moruo Yiming (莫若以明)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Moruo yiming 莫若以明, 'nothing equals using the clear light' — the Qi Wu Lun's method-sentence, spoken twice: once against the Ru-Mo dispute of affirming each other's negations, once as the close of the hinge passage. Not a doctrine to hold but the light by which both infinities are seen without either needing to win."
 chinese: "莫若以明"
 pinyin: "mòruò yǐ míng"

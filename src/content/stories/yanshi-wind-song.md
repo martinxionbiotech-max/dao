@@ -1,7 +1,7 @@
 ---
 title: "The Song of the Yanshi Wind"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Seven days without cooked food, Confucius beats time on a dead tree and a dead branch, singing the wind-song of the Yanshi with instruments but no score, sounds but no notes — and it strikes the heart like a plow. When Yan Hui stares, the Master teaches the four formulas: accepting heaven's losses is easy, not accepting people's gains is hard, no beginning that is not an end, and human and heaven are one."
 tradition: "Daoist"
 sourceText: "zhuangzi"

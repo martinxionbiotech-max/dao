@@ -1,7 +1,7 @@
 ---
 title: "Holding Virtue Thick as a Newborn (Daodejing 55)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Annotated translation of ch. 55: the one who holds virtue thick is like a newborn — soft-boned yet gripping firm, crying all day without going hoarse. Then the chapter's ladder of knowing: knowing harmony is the constant, knowing the constant is clarity — and the warnings that follow: over-nourishing life is ominous, the heart driving the breath is force, and what peaks in strength has already begun to age."
 sourceText: "daodejing"
 chapter: "Ch. 55"

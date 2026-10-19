@@ -1,7 +1,7 @@
 ---
 title: "What Counts as Progress?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The progress question, answered from the record: the traditions' ladders disagree with each other, the teachers' markers are process markers you can actually check, and the research literature measures only symptom outcomes — so measure the practice, not the stage."
 question: "How do I know if my practice is progressing? Am I advancing toward something, or just sitting?"
 context: "The question every long-term practitioner asks, and the one the site's own archive keeps pressing: the classical texts describe stages (the seven stages of Zuowang, the dhyana ladders), the contemporary teachers give process markers, and the research literature gives symptom measures — three different definitions of the same word."

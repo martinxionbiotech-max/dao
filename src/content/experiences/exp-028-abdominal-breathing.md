@@ -1,7 +1,7 @@
 ---
 title: "Abdominal Breathing"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The archive's breathing curriculum, full chapter: the purpose is not to lengthen the breath but to change a decades-old chest-breathing habit; inhale by releasing the belly, exhale by contracting it; stand to practice, sit only when it is already natural; ten to twelve breaths a minute, no more; and the teacher's own methodological confession — he describes dhyana only through breath-rates and body changes, because naming attainments makes people chase them."
 series: "Taishi Q&A"
 episode: "Sit-in Q&A, ch. 4 (abdominal breathing), sections 01–04, official collection"

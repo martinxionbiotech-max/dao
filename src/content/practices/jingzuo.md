@@ -1,7 +1,7 @@
 ---
 title: "Jingzuo: Quiet Sitting as a Practice"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "What the Song–Ming sources actually say about how to practice jingzuo 静坐 — posture, timing, the mind's work, and the tradition's own cautions. No invented universal technique."
 chinese: "静坐"
 pinyin: "jìngzuò"

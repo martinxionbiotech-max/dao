@@ -1,7 +1,7 @@
 ---
 title: "Hundun: The Story of the Seven Holes"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The closing parable of the Zhuangzi's inner chapters — the emperors who drilled seven holes into the god of wholeness, and killed him with kindness: the book's final warning against improving on the complete."
 tradition: "Daoist"
 sourceText: "zhuangzi"

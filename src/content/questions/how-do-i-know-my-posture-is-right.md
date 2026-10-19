@@ -1,7 +1,7 @@
 ---
 title: "How Do I Know My Posture Is Right?"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-08
+updated: 2026-10-08
 description: "The classical answer is a priority list, not a measurement: the breath is the test. The archive's concrete checklist (crown, chin, eyes, mouth, teeth, tongue, hands, hips), the tilt-to-watch-for warning, and the rule that a posture that hurts progressively is wrong even if it looks canonical. Plus the classical limit: no mirror, no ruler — the tradition judges the sitting by its symptoms, not its silhouette."
 question: "How do I know if my sitting posture is right? I keep adjusting my back and legs and I don't know what 'correct' means."
 context: "A recurring beginner question; the classical manuals name the components but anchor correctness to the breath, and the archive adds a concrete symptom-based checklist."

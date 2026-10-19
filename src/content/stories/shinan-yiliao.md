@@ -1,7 +1,7 @@
 ---
 title: "The Fox's Fur Is Its Disaster"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "The minister Shinan Yiliao tells a worried Duke of Lu what his kingdom is: a pelt. The careful fox and the striped leopard do everything right — stillness, watchfulness, steadiness — and still die for their fur. The cure he proposes is the book's most complete going-away: flay the body, shed the pelt, and the shore is where the well-wishers turn back."
 tradition: "Daoist"
 sourceText: "zhuangzi"

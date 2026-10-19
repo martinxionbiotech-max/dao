@@ -1,7 +1,7 @@
 ---
 title: "Wang Chuyi (王处一)"
-date: 2026-10-10
-updated: 2026-10-10
+date: 2026-10-07
+updated: 2026-10-07
 description: "Wang Chuyi 王处一 (1142–1217) — the Iron-Foot Immortal, Quanzhen's ascetic wing: fatherless from childhood, devoted to his mother, taken by Wang Chongyang in 1168 and sent into nine years of solitary mountain practice, nicknamed for what he did with his feet. The hermit-severity answer to his fellow disciple Qiu Chuji's court path — one master, two ways."
 chinese: "王处一"
 pinyin: "Wáng Chǔyī"
