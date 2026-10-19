@@ -1,0 +1,52 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  title="About"
+  description="About DaoismHub — an educational reference on Chinese contemplative traditions, operated by meditation practitioner Ding.W."
+>
+  <h1>About DaoismHub</h1>
+  <p class="lede">Last updated: October 19, 2026 &middot; Applies to daoismhub.com and data.daoismhub.com</p>
+
+  <h2>What this site is</h2>
+  <p>
+    DaoismHub is an educational reference about Chinese contemplative traditions — articles,
+    translations, data records and practitioner reports on meditation theory and practice.
+    It is built for readers, researchers and practitioners who want a structured, sourced
+    entry point to the tradition.
+  </p>
+
+  <h2>Editor &amp; Author</h2>
+  <p>
+    <strong>Ding.W</strong> — a meditation practitioner dedicated to sharing traditional
+    Chinese meditation theory and the experience of fellow meditators with the world.
+  </p>
+  <p lang="zh">
+    禅修练习者，致力于分享中国传统禅修理论和其他禅修者的经验到世界。
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    Email: <a href="mailto:martinwang2024@gmail.com">martinwang2024@gmail.com</a> —
+    corrections, sourcing questions and collaboration inquiries welcome. See the
+    <a href="/contact/">contact page</a> for details.
+  </p>
+
+  <h2>Editorial standards</h2>
+  <p>
+    Content follows evidence-first practice: sources are cited inline, records carry data
+    tier and update stamps, and traditional terminology is explained rather than asserted.
+    Read the <a href="/disclaimer/">disclaimer</a> for the site's scope and limits.
+  </p>
+
+  <script type="application/ld+json" set:html={JSON.stringify({
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name: 'Ding.W',
+    description: 'A meditation practitioner dedicated to sharing traditional Chinese meditation theory and the experience of fellow meditators with the world.',
+    email: 'mailto:martinwang2024@gmail.com',
+    knowsAbout: ['Chinese meditation', 'Daoist contemplative traditions'],
+    url: 'https://daoismhub.com/about/',
+  })} />
+</Base>
