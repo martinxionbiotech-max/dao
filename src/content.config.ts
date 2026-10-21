@@ -157,7 +157,7 @@ const tools = defineCollection({
   }),
 });
 
-// Experience system (§6-§15) — notes (100-400w), reports (400-1500w+)
+// Experience system (§6-§15) — notes and reports
 const experiences = defineCollection({
   schema: z.object({
     ...base,

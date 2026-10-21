@@ -9,7 +9,7 @@ const entries = (await getCollection('experiences'))
 
 <Base title="Experience Notes" description="Short anonymized practitioner experiences.">
   <h1>Experience Notes</h1>
-  <p class="lede">Short, useful experiences — 100–400 words, anonymized.</p>
+  <p class="lede">Short, useful experiences — anonymized.</p>
   {entries.length === 0 && <p class="meta">No published notes yet.</p>}
   {entries.map((e) => (
     <div class="card">
