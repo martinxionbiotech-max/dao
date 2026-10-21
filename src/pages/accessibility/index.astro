@@ -1,0 +1,134 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+
+<Base
+  title="Accessibility"
+  description="Accessibility statement for DaoismHub — the standard the site aims at, what is currently supported, known limitations and how to report a barrier."
+>
+  <h1>Accessibility</h1>
+  <p class="lede">Version 1.0 &middot; Last updated: October 21, 2026 &middot; Applies to daoismhub.com and data.daoismhub.com</p>
+
+  <h2>Our commitment</h2>
+  <p>
+    DaoismHub is a reading site: its value is text, and text should be readable by everyone.
+    We aim to meet the <strong>Web Content Accessibility Guidelines (WCAG) 2.2 at Level AA</strong>
+    for the pages of both sites. This page describes what the site currently does, where we
+    know it falls short, and how to tell us about a barrier we have missed.
+  </p>
+  <p>
+    We do not claim certification or third-party audit. The statement below is an honest
+    description of the site's current state and its intent, written and maintained by the
+    editor rather than by an accessibility vendor.
+  </p>
+
+  <h2>What the site does</h2>
+  <ul>
+    <li>
+      <strong>Semantic structure.</strong> Pages use real headings in a logical order, real
+      lists, real tables where tabular data is presented, and a single main heading per page.
+    </li>
+    <li>
+      <strong>Landmarks and navigation.</strong> The layout uses navigation, main and content
+      landmarks, and a skip link so keyboard users can bypass the navigation.
+    </li>
+    <li>
+      <strong>Keyboard operation.</strong> Links, navigation and interactive controls can be
+      reached and operated with a keyboard, and focus is visible when you tab through a page.
+    </li>
+    <li>
+      <strong>Text and contrast.</strong> Body text is set at a readable size with a line
+      length intended for sustained reading, and the palette is designed so that text meets
+      the AA contrast ratio against its background. Information is not conveyed by colour
+      alone.
+    </li>
+    <li>
+      <strong>Resizing and reflow.</strong> Text can be enlarged with browser zoom, and
+      content reflows rather than requiring horizontal scrolling at narrow viewports.
+    </li>
+    <li>
+      <strong>Language.</strong> The page language is declared in the document itself, and key
+      passages in Chinese carry a language attribute so that screen readers switch pronunciation
+      for those passages.
+    </li>
+    <li>
+      <strong>Motion.</strong> The site does not autoplay video or audio and does not use
+      animated content that flashes. The site also honours the operating system's
+      reduced-motion setting, suppressing non-essential motion for visitors who enable it.
+    </li>
+    <li>
+      <strong>No time limits, no CAPTCHAs, no interstitials.</strong> Pages do not expire, do
+      not ask you to prove you are human to read, and do not interrupt reading with pop-ups.
+    </li>
+    <li>
+      <strong>Search without tracking.</strong> The Data Registry's search runs in the browser
+      and works without an account.
+    </li>
+  </ul>
+
+  <h2>Known limitations</h2>
+  <p>We are aware of the following, and would rather name them than hide them:</p>
+  <ul>
+    <li>
+      <strong>Classical Chinese and transliterations.</strong> Passages in literary Chinese and
+      diacritic-bearing romanisations (for example <em>dàodé jīng</em>) can be pronounced
+      imperfectly by screen readers, depending on the voice and language pack installed. The
+      text and its translation are always given together to reduce reliance on pronunciation.
+    </li>
+    <li>
+      <strong>Diagrams and tables in the data pages.</strong> Some structured records are
+      presented as tables; on very small screens these may require scrolling within the table
+      region. We are working to improve reflow for these.
+    </li>
+    <li>
+      <strong>PDF and external sources.</strong> Some linked scholarly sources are PDFs or
+      third-party pages whose accessibility we do not control.
+    </li>
+    <li>
+      <strong>Older pages.</strong> Pages written earlier in the project may not yet have been
+      re-checked against the current heading and landmark patterns.
+    </li>
+  </ul>
+
+  <h2>Assistive technology</h2>
+  <p>
+    The site is built as static HTML with no client-side framework required to read the text,
+    which is the most compatible arrangement for assistive technology. It should work with
+    current versions of screen readers (NVDA, JAWS, VoiceOver, TalkBack), with browser zoom, and
+    with operating-system high-contrast and reduced-motion settings. We test by reading the
+    site with a keyboard and a screen reader; we do not have the resources to test every
+    browser and assistive-technology combination.
+  </p>
+
+  <h2>How to report a barrier</h2>
+  <p>
+    If something on either site is difficult or impossible to use — a control you cannot reach,
+    text you cannot read, a heading that makes no sense aloud, a table that breaks when
+    enlarged — please email <strong>martinwang2024@gmail.com</strong> with:
+  </p>
+  <ul>
+    <li>the page URL;</li>
+    <li>what you were trying to do;</li>
+    <li>what happened instead;</li>
+    <li>the browser, device and assistive technology you were using, if you are willing to share them.</li>
+  </ul>
+  <p>
+    We aim to acknowledge accessibility reports within seven days and to fix confirmed barriers
+    as soon as practicable. Fixes are made to the page itself, not only to this statement.
+  </p>
+
+  <h2>Standards and references</h2>
+  <p>
+    The target standard is WCAG 2.2 Level AA, published by the World Wide Web Consortium
+    (W3C). Where this statement and the standard differ, the standard governs and the
+    statement is out of date — tell us and we will correct it.
+  </p>
+
+  <h2>Related pages</h2>
+  <p>
+    <a href="/privacy/">Privacy Policy</a> &middot;
+    <a href="/compliance/">Compliance &amp; Terms of Use</a> &middot;
+    <a href="/disclaimer/">Disclaimer</a> &middot;
+    <a href="/contact/">Contact</a>
+  </p>
+</Base>

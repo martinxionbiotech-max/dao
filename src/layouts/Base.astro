@@ -107,6 +107,17 @@ const breadcrumbSchema = (() => {
         background: var(--bg);
         line-height: 1.7;
       }
+      .skip {
+        position: absolute; left: -9999px; top: 0; z-index: 100;
+        background: var(--card); color: var(--ink);
+        padding: 10px 16px; border: 2px solid var(--accent); border-radius: 4px;
+        font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.9rem;
+      }
+      .skip:focus { left: 12px; top: 12px; text-decoration: underline; }
+      a:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+      @media (prefers-reduced-motion: reduce) {
+        * { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
+      }
       a { color: var(--accent); text-decoration: none; }
       a:hover { text-decoration: underline; }
       .wrap { max-width: 880px; margin: 0 auto; padding: 0 20px; }
@@ -157,6 +168,7 @@ const breadcrumbSchema = (() => {
     </style>
   </head>
   <body>
+    <a class="skip" href="#main">Skip to content</a>
     <header>
       <div class="wrap">
         <a class="brand" href="/" aria-label="DaoismHub — home">
@@ -183,7 +195,7 @@ const breadcrumbSchema = (() => {
         <a href="/search/">Search</a>
       </nav>
     </header>
-    <main>
+    <main id="main">
       <div class="wrap">
         <slot />
       </div>
@@ -210,13 +222,14 @@ const breadcrumbSchema = (() => {
           entities, relationships, sources and schemas.
         </p>
         <p class="meta" style="margin-top:8px;">
-          Contact: Martin.W &middot; Phone / WhatsApp: <a href="tel:+8613323237275">+86 13323237275</a> &middot;
-          Email: <a href="mailto:landengltd@gmail.com">landengltd@gmail.com</a>
+          Editor: Ding.W &middot;
+          Email: <a href="mailto:martinwang2024@gmail.com">martinwang2024@gmail.com</a>
         </p>
         <p class="meta" style="margin-top:8px;">
           <a href="/compliance/">Compliance &amp; Terms of Use</a> &middot;
           <a href="/privacy/">Privacy Policy</a> &middot;
-          <a href="/disclaimer/">Disclaimer</a>
+          <a href="/disclaimer/">Disclaimer</a> &middot;
+          <a href="/accessibility/">Accessibility</a>
         </p>
         <p class="meta" style="margin-top:8px;">&copy; 2026 DaoismHub. All rights reserved.</p>
       </div>
