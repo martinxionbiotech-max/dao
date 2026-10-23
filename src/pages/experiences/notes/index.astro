@@ -7,9 +7,9 @@ const entries = (await getCollection('experiences'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Experience Notes" description="Short anonymized practitioner experiences.">
+<Base title="Experience Notes" description="Short practitioner experiences — anonymized community accounts or the editor's own reflections.">
   <h1>Experience Notes</h1>
-  <p class="lede">Short, useful experiences — anonymized.</p>
+  <p class="lede">Short, useful experiences — mostly anonymized, with the editor's own reflections labelled as such.</p>
   {entries.length === 0 && <p class="meta">No published notes yet.</p>}
   {entries.map((e) => (
     <div class="card">
