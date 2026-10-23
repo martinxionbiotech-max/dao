@@ -7,7 +7,7 @@ import Base from '../../layouts/Base.astro';
   description="About DaoismHub — an independent educational reference on Chinese contemplative traditions: who writes it, how content is sourced and checked, editorial independence, funding and corrections."
 >
   <h1>About DaoismHub</h1>
-  <p class="lede">Version 2.0 &middot; Last updated: October 21, 2026 &middot; Applies to daoismhub.com and data.daoismhub.com</p>
+  <p class="lede">Version 2.1 &middot; Last updated: October 23, 2026 &middot; Applies to daoismhub.com and data.daoismhub.com</p>
 
   <h2>What this site is</h2>
   <p>
@@ -31,6 +31,48 @@ import Base from '../../layouts/Base.astro';
     <li>It is not a scholarly edition. Translations are editorial renderings, one documented reading among several; scholarly work should consult the Chinese text and standard critical editions.</li>
     <li>It is not a directory of organisations, teachers or products, and it does not accept payment for inclusion or coverage.</li>
   </ul>
+
+  <h2>What you will find here</h2>
+  <p>The site is organised into collections, each with a distinct job:</p>
+  <ul>
+    <li><strong>Concepts</strong> (dao, de, wuwei, zuowang, jing, qi and the rest) — the core terms, defined from the texts and from scholarship, with the Chinese alongside.</li>
+    <li><strong>Practices</strong> (zuowang, jingzuo, shouyi, cunsi, neiguan, neigong, daoyin, qigong, taixi, tiaoxi) — what each practice is, where it comes from, and what it is not.</li>
+    <li><strong>Texts and translations</strong> — the Daodejing, Zhuangzi, Liezi, Baopuzi, Qingjing Jing, Neiguan Jing, Zuowang Lun and others, with annotated English renderings beside the original.</li>
+    <li><strong>People</strong> — the figures of the tradition, from Laozi and Zhuang Zhou to the Quanzhen masters and the scholars who transmitted and reinterpreted them.</li>
+    <li><strong>Stories</strong> — the Zhuangzi's fables and the anecdotes that carry the tradition's arguments.</li>
+    <li><strong>Research</strong> — modern studies on meditation and its effects, reported with their methods, sample sizes and limits stated.</li>
+    <li><strong>Glossary, timeline, comparisons, problems and questions</strong> — reference layers that connect terms, dates, contrasts and the difficulties practitioners actually report.</li>
+    <li><strong>Experiences</strong> — anonymized practitioner accounts from public discussions, plus a small number of first-person reflections by the editor, each labelled for what it is.</li>
+    <li><strong>Guides, tools and patterns</strong> — reading orders, verification methods and recurring-phenomenon maps.</li>
+  </ul>
+  <p>
+    A <a href="https://data.daoismhub.com/">Data Registry</a> publishes the same material as
+    structured, machine-readable records — entities, relationships, sources and schemas — for
+    research and interoperability.
+  </p>
+
+  <h2>How to use the site</h2>
+  <p>
+    There is no required order, and the site is built to be entered from wherever a question
+    starts. Three entry points cover most readers:
+  </p>
+  <ul>
+    <li><strong>Start from a term.</strong> Look up <a href="/concepts/">a concept</a> or
+    <a href="/glossary/">a term</a> and follow the links outward to the texts and people
+    that define it.</li>
+    <li><strong>Start from a question.</strong> The <a href="/experiences/questions/">questions</a>
+    and <a href="/problems/">problems</a> collections answer the things practitioners and
+    newcomers actually ask, from "can meditation go wrong" to "why am I so sleepy".</li>
+    <li><strong>Start from a text.</strong> Begin with the <a href="/tools/reading-order/">reading order</a>
+    and work through the <a href="/texts/">primary texts</a> with the
+    <a href="/translations/">translations</a> beside them.</li>
+  </ul>
+  <p>
+    Full-text <a href="/search/">search</a> covers the site, and the Data Registry has its own
+    in-browser search over the structured records. If you want to check a claim before relying
+    on it, the <a href="/tools/how-to-verify-sources/">verification guide</a> shows how the
+    editor checks a source — and how you can.
+  </p>
 
   <h2>Editor and author</h2>
   <p>
@@ -77,6 +119,32 @@ import Base from '../../layouts/Base.astro';
     </li>
   </ol>
 
+  <h2>The evidence classes</h2>
+  <p>
+    Every content page carries an evidence class so a reader can see what kind of claim they
+    are reading. The classes are kept distinct and never conflated:
+  </p>
+  <ul>
+    <li><strong>Primary source</strong> — a claim traced to a classical text, quoted in the original.</li>
+    <li><strong>Scholarly interpretation</strong> — a claim attributed to an edition, a study or a named scholar.</li>
+    <li><strong>Practitioner report</strong> — an anonymized account of lived practice, presented as self-report only.</li>
+    <li><strong>Editorial analysis</strong> — the editor's own synthesis or judgement, labelled as such.</li>
+  </ul>
+  <p>
+    The full classification, including how the classes are assigned and how uncertainty is
+    flagged, is documented in the
+    <a href="https://data.daoismhub.com/schemas/evidence-system/">Evidence System</a>.
+  </p>
+
+  <h2>Languages and translation</h2>
+  <p>
+    The site is written in English, with the original Chinese given alongside where it
+    matters — for a term, a passage or a disputed reading. Translations are editorial
+    renderings for a general reader: one documented reading among several, not a claim to be
+    definitive. Where the received text has variants, or where scholarship disputes a date,
+    an attribution or a reading, the page flags it rather than resolving it silently.
+  </p>
+
   <h2>Editorial independence and funding</h2>
   <p>
     DaoismHub carries no advertising, no sponsored content, no affiliate links and no paid
@@ -91,6 +159,19 @@ import Base from '../../layouts/Base.astro';
     that kind on this site.
   </p>
 
+  <h2>How you can help</h2>
+  <p>
+    The site is maintained by one editor, and corrections and suggestions genuinely help. You
+    can help by reporting a factual error or a mistranslation with the page URL and the
+    specific passage; by pointing to a source — a text, edition or study — that changes or
+    contradicts what a page says; by flagging a broken citation or a dead link; or by
+    proposing a translation, a reading or a topic that is missing. Substantiated corrections
+    are made and dated, and useful source pointers are folded into the relevant pages with
+    attribution where that is wanted. Everything is welcome through the
+    <a href="/contact/">contact page</a>; nothing is ever published without being checked
+    against the source.
+  </p>
+
   <h2>Corrections</h2>
   <p>
     Errors happen, and corrections are part of how the site is maintained. If you find a
@@ -100,12 +181,13 @@ import Base from '../../layouts/Base.astro';
     page rather than made silently.
   </p>
 
-  <h2>Privacy</h2>
+  <h2>Privacy and cookies</h2>
   <p>
     The sites run no accounts, no analytics, no advertising and no cookies, and collect no
     personal data through the browser. Email correspondence is used only to answer you. The
     full position, including your rights and how to exercise them, is in the
-    <a href="/privacy/">Privacy Policy</a>.
+    <a href="/privacy/">Privacy Policy</a>; the cookies position is stated in full in the
+    <a href="/cookies/">Cookie Policy</a>.
   </p>
 
   <h2>Contact</h2>
@@ -113,8 +195,9 @@ import Base from '../../layouts/Base.astro';
     Email: <a href="mailto:martinwang2024@gmail.com">martinwang2024@gmail.com</a> —
     corrections, sourcing questions, permission requests and collaboration inquiries are
     welcome. See the <a href="/contact/">contact page</a> for what to include and how quickly
-    to expect a reply. For terms of use, see
-    <a href="/compliance/">Compliance &amp; Terms of Use</a>.
+    to expect a reply. For the terms on which the sites may be used, see the
+    <a href="/terms-of-service/">Terms of Service</a>; for the editorial and regulatory
+    commitments behind the content, see <a href="/compliance/">Compliance</a>.
   </p>
 
   <script type="application/ld+json" set:html={JSON.stringify({
