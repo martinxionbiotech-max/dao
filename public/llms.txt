@@ -1,0 +1,49 @@
+# Dao — Chinese Contemplative Traditions Knowledge Base
+
+> English-language knowledge infrastructure connecting Chinese contemplative traditions, classical texts, historical scholarship, modern research, and anonymized practitioner experience — with explicit evidence classification and a structured knowledge graph. Contact: martinwang2024@gmail.com.
+
+## Core Pages
+
+- [Home](https://daoismhub.com/): Entry point to the knowledge base.
+- [Concepts](https://daoismhub.com/concepts/): Core concepts (individual pages via /concepts/[slug]/).
+- [Practices](https://daoismhub.com/practices/): Contemplative practices (individual pages via /practices/[slug]/).
+- [Texts](https://daoismhub.com/texts/): Classical texts (individual pages via /texts/[slug]/).
+- [Translations](https://daoismhub.com/translations/): Text translations (individual pages via /translations/[slug]/).
+- [People](https://daoismhub.com/people/): Historical and modern figures (individual pages via /people/[slug]/).
+- [Timeline](https://daoismhub.com/timeline/): Historical timeline (individual pages via /timeline/[slug]/).
+- [Glossary](https://daoismhub.com/glossary/): Terminology glossary (individual pages via /glossary/[slug]/).
+- [Stories](https://daoismhub.com/stories/): Traditional stories (individual pages via /stories/[slug]/).
+- [Research](https://daoismhub.com/research/): Modern research synthesis (individual pages via /research/[slug]/).
+- [Comparisons](https://daoismhub.com/comparisons/): Comparative analyses (individual pages via /comparisons/[slug]/).
+- [Problems](https://daoismhub.com/problems/): Common problems and issues (individual pages via /problems/[slug]/).
+- [Tools](https://daoismhub.com/tools/): Tools and frameworks (individual pages via /tools/[slug]/).
+- [Guides](https://daoismhub.com/guides/): Practical guides (individual pages via /guides/[slug]/).
+- [Blog](https://daoismhub.com/blog/): Blog posts (individual posts via /blog/[slug]/).
+- [Experiences](https://daoismhub.com/experiences/): Anonymized practitioner experiences.
+- [Experience Patterns](https://daoismhub.com/experiences/patterns/): Recurring experience patterns.
+- [Experience Questions](https://daoismhub.com/experiences/questions/): Practitioner questions.
+- [Experience Notes](https://daoismhub.com/experiences/notes/): Experience notes.
+- [Experience Reports](https://daoismhub.com/experiences/reports/): Experience reports.
+- [Data](https://daoismhub.com/data/): Structured datasets and knowledge graph.
+- [Search](https://daoismhub.com/search/): Site search.
+
+## About & Policy
+
+- [About](https://daoismhub.com/about/): About the project.
+- [Contact](https://daoismhub.com/contact/): Contact page.
+- [Compliance](https://daoismhub.com/compliance/): Compliance and safety policy.
+- [Disclaimer](https://daoismhub.com/disclaimer/): Disclaimer.
+- [Privacy](https://daoismhub.com/privacy/): Privacy policy.
+- [Cookies](https://daoismhub.com/cookies/): Cookie policy.
+- [Terms of Service](https://daoismhub.com/terms-of-service/): Terms of service.
+- [Accessibility](https://daoismhub.com/accessibility/): Accessibility statement.
+
+## Sub-site
+
+- [Dao Data](https://data.daoismhub.com/): Structured data hub (entities, relationships, sources, schemas).
+
+## Notes
+
+- The domain is a placeholder pending final DNS/Cloudflare Pages setup.
+- Content follows explicit evidence classification; see the project's source policy and schema documentation for how claims are sourced and labeled.
+- Practitioner experience is anonymized; this is informational, not medical or psychological advice.
