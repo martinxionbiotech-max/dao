@@ -1,0 +1,164 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+
+// Every content collection that has a public detail route, in the same order as
+// the site navigation. `href` maps a collection entry to the URL its dynamic
+// route actually generates — the experience-style collections live one level
+// deeper than the rest, so they can't use a single pattern.
+const SECTIONS = [
+  { name: 'Concepts',  coll: 'concepts',     desc: 'Core ideas of Daoist and Chan thought, defined and dated.',                 href: (id) => `/concepts/${id}/` },
+  { name: 'Practices', coll: 'practices',    desc: 'Seated, moving and daily-life practices, with method and cautions.',        href: (id) => `/practices/${id}/` },
+  { name: 'Problems',  coll: 'problems',     desc: 'Recurring difficulties practitioners meet, and how the tradition frames them.', href: (id) => `/problems/${id}/` },
+  { name: 'Comparisons', coll: 'comparisons', desc: 'Side-by-side treatments of closely related ideas, texts and schools.',      href: (id) => `/comparisons/${id}/` },
+  { name: 'Texts',     coll: 'texts',        desc: 'Primary texts: provenance, structure and what they actually say.',          href: (id) => `/texts/${id}/` },
+  { name: 'Translations', coll: 'translations', desc: 'Passage-level translations with the source text beside them.',           href: (id) => `/translations/${id}/` },
+  { name: 'People',    coll: 'people',       desc: 'Historical figures, what is documented, and what is legend.',                href: (id) => `/people/${id}/` },
+  { name: 'Stories',   coll: 'stories',      desc: 'Traditional narratives and what they were told to teach.',                   href: (id) => `/stories/${id}/` },
+  { name: 'Research',  coll: 'research',     desc: 'What modern scholarship does and does not establish.',                       href: (id) => `/research/${id}/` },
+  { name: 'Glossary',  coll: 'glossary',     desc: 'Term-by-term reference: Chinese, pinyin, literal meaning, usage.',           href: (id) => `/glossary/${id}/` },
+  { name: 'Timeline',  coll: 'timeline',     desc: 'Dates and periods, with the evidence behind each placement.',                href: (id) => `/timeline/${id}/` },
+  { name: 'Guides',    coll: 'guides',       desc: 'Longer practical guides that pull several strands together.',                href: (id) => `/guides/${id}/` },
+  { name: 'Tools',     coll: 'tools',        desc: 'Small utilities for reading, dating and comparing material.',                href: (id) => `/tools/${id}/` },
+  { name: 'Experiences', coll: 'experiences', desc: 'First-person practitioner accounts, published with permission.',            href: (id, data) => `/experiences/${data.sourceType === 'report' ? 'reports' : 'notes'}/${id}/` },
+  { name: 'Patterns',  coll: 'patterns',     desc: 'Recurring shapes across accounts, stated as patterns rather than findings.', href: (id) => `/experiences/patterns/${id}/` },
+  { name: 'Questions', coll: 'questions',    desc: 'Direct questions, answered directly and then qualified.',                    href: (id) => `/experiences/questions/${id}/` },
+  { name: 'Blog',      coll: 'blog',         desc: 'Notes on the archive itself — what changed and why.',                        href: (id) => `/blog/${id}/` },
+];
+
+const PUBLIC = (e) => !['draft', 'internal', 'noindex'].includes(e.data.status ?? 'published');
+
+const sections = await Promise.all(
+  SECTIONS.map(async (s) => {
+    const entries = await getCollection(s.coll);
+    const items = entries
+      .filter(PUBLIC)
+      .map((e) => {
+        const id = e.id.replace(/\.mdx?$/, '');
+        return { title: e.data.title, href: s.href(id, e.data), description: e.data.description };
+      })
+      .sort((a, b) => a.title.localeCompare(b.title, 'en'));
+    return { ...s, items, count: items.length };
+  })
+);
+
+const total = sections.reduce((n, s) => n + s.count, 0);
+
+const STATIC_PAGES = [
+  ['Home', '/'],
+  ['About', '/about/'],
+  ['Contact', '/contact/'],
+  ['Data Registry', '/data/'],
+  ['Search', '/search/'],
+  ['Compliance', '/compliance/'],
+  ['Accessibility', '/accessibility/'],
+  ['Privacy Policy', '/privacy/'],
+  ['Cookies', '/cookies/'],
+  ['Terms of Service', '/terms-of-service/'],
+  ['Disclaimer', '/disclaimer/'],
+];
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebPage',
+    name: 'Sitemap',
+    url: 'https://daoismhub.com/sitemap/',
+    description: `Complete index of the archive: ${total} pages across ${sections.length} sections.`,
+    isPartOf: { '@type': 'WebSite', name: 'DaoismHub', url: 'https://daoismhub.com/' },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://daoismhub.com/' },
+      { '@type': 'ListItem', position: 2, name: 'Sitemap', item: 'https://daoismhub.com/sitemap/' },
+    ],
+  },
+];
+---
+
+<Base
+  title={`Sitemap — all ${total} pages`}
+  description={`Complete index of DaoismHub: ${total} pages across ${sections.length} sections — concepts, practices, texts, translations, people, stories, research, glossary, timeline, guides, practitioner experience and more.`}
+  canonical="/sitemap/"
+  jsonLd={jsonLd}
+>
+  <h1>Sitemap</h1>
+  <p class="lede">
+    Every published page in the archive, grouped by section and listed alphabetically.
+    <strong>{total}</strong> pages in <strong>{sections.length}</strong> sections.
+    For machines, use <a href="/sitemap-index.xml">sitemap-index.xml</a>.
+  </p>
+
+  <nav class="section-nav" aria-label="Sections on this page">
+    {sections.map((s) => (
+      <a href={`#${s.coll}`}>{s.name} <span>{s.count}</span></a>
+    ))}
+    <a href="#pages">Site pages</a>
+  </nav>
+
+  {sections.map((s) => (
+    <section id={s.coll} class="sitemap-section">
+      <h2>
+        <a href={`/${s.coll === 'experiences' ? 'experiences' : s.coll === 'patterns' || s.coll === 'questions' ? 'experiences' : s.coll}/`}>{s.name}</a>
+        <span class="count">{s.count}</span>
+      </h2>
+      <p class="section-desc">{s.desc}</p>
+      {s.count > 0 ? (
+        <ul class="link-list">
+          {s.items.map((it) => (
+            <li>
+              <a href={it.href}>{it.title}</a>
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="empty">No published entries yet.</p>
+      )}
+    </section>
+  ))}
+
+  <section id="pages" class="sitemap-section">
+    <h2>Site pages</h2>
+    <p class="section-desc">Static pages: about, policies, tools and search.</p>
+    <ul class="link-list">
+      {STATIC_PAGES.map(([name, href]) => (
+        <li><a href={href}>{name}</a></li>
+      ))}
+    </ul>
+  </section>
+</Base>
+
+<style>
+  .lede { color: var(--muted); max-width: 70ch; }
+  .section-nav {
+    display: flex; flex-wrap: wrap; gap: 8px 14px;
+    margin: 22px 0 8px; font-size: 0.9rem;
+  }
+  .section-nav a {
+    border: 1px solid var(--line); border-radius: 999px;
+    padding: 4px 11px; text-decoration: none;
+  }
+  .section-nav a span { color: var(--muted); font-size: 0.8em; margin-left: 4px; }
+  .sitemap-section { margin-top: 38px; scroll-margin-top: 20px; }
+  .sitemap-section h2 {
+    display: flex; align-items: baseline; gap: 10px;
+    border-bottom: 1px solid var(--line); padding-bottom: 8px;
+  }
+  .sitemap-section h2 a { text-decoration: none; }
+  .count {
+    font-size: 0.72em; font-weight: 400; color: var(--muted);
+    border: 1px solid var(--line); border-radius: 999px; padding: 1px 8px;
+  }
+  .section-desc { color: var(--muted); font-size: 0.9rem; margin: 8px 0 14px; max-width: 70ch; }
+  .link-list {
+    columns: 2; column-gap: 34px; list-style: none;
+    padding: 0; margin: 0; font-size: 0.94rem;
+  }
+  .link-list li { break-inside: avoid; margin-bottom: 7px; line-height: 1.4; }
+  .empty { color: var(--muted); font-size: 0.9rem; }
+  @media (max-width: 640px) {
+    .link-list { columns: 1; }
+  }
+</style>
