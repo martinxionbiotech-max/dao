@@ -42,8 +42,6 @@ const sections = await Promise.all(
   })
 );
 
-const total = sections.reduce((n, s) => n + s.count, 0);
-
 const STATIC_PAGES = [
   ['Home', '/'],
   ['About', '/about/'],
@@ -57,6 +55,9 @@ const STATIC_PAGES = [
   ['Terms of Service', '/terms-of-service/'],
   ['Disclaimer', '/disclaimer/'],
 ];
+
+// Content entries plus the static pages listed above.
+const total = sections.reduce((n, s) => n + s.count, 0) + STATIC_PAGES.length;
 
 const jsonLd = [
   {
