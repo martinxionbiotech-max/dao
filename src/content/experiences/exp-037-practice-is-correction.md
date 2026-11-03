@@ -124,3 +124,9 @@ What is worth noticing is that the argument does not need the frame. Strip the f
 ## Source and date
 
 Contributed by Lingen, dated 3 November 2026, published with permission. Translated from the Chinese; the original is reproduced above, unedited apart from paragraph breaks. Classical passages are cited to 《大学》, 《论语·学而》, 《论语·里仁》, 《孟子·离娄上》, 《六祖坛经》 (行由品, 般若品), 《传习录》, 《道德经》 (ch. 7, 8, 54, 67, 81), 《庄子·人间世》 and 《庄子·知北游》. The three readings of 错误 in section 4, and the observations in sections 5 and 6, are the editor's, and are marked as such.
+
+## Disclaimer
+
+> 本文观点由道友提出，本站仅作转述，不对内容负责。
+
+The views expressed in this entry are the contributor's own — those of a fellow practitioner (道友), reproduced as given. This site acts only as a channel: it relays the contribution, does not adopt or endorse the views, does not verify the factual claims, and accepts no responsibility for the content or for any reliance placed on it. It is published for reference and discussion, not as instruction or advice.
