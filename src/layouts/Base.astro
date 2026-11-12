@@ -11,6 +11,34 @@ const { title, description, published, updated } = Astro.props;
 const noindex = NOINDEX_PATHS.includes(Astro.url.pathname);
 const pageTitle = title ? `${title} — Dao Knowledge Base` : 'Dao Knowledge Base';
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
+const personId = new URL('/#author', Astro.site).href;
+const orgId = new URL('/#organization', Astro.site).href;
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  '@id': personId,
+  name: 'Ding.W',
+  url: new URL('/about/', Astro.site).href,
+  description: 'A meditation practitioner writing on Chinese contemplative traditions, their texts, history and practice.',
+  knowsAbout: ['Chinese meditation', 'Daoist contemplative traditions'],
+  email: 'admin@daoismhub.com',
+};
+const organizationSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': orgId,
+  name: 'DaoismHub',
+  url: Astro.site.href,
+  logo: new URL('/logo-horizontal.svg', Astro.site).href,
+  founder: { '@id': personId },
+  contactPoint: {
+    '@type': 'ContactPoint',
+    contactType: 'editorial',
+    email: 'admin@daoismhub.com',
+    url: new URL('/contact/', Astro.site).href,
+  },
+};
+
 const isoDate = (d?: Date) =>
   d && !isNaN(d.getTime()) ? d.toISOString().slice(0, 10) : undefined;
 const webPageSchema = {
@@ -21,6 +49,8 @@ const webPageSchema = {
   ...(isoDate(published) ? { datePublished: isoDate(published) } : {}),
   ...(isoDate(updated) ? { dateModified: isoDate(updated) } : {}),
   url: canonicalUrl.href,
+  author: { '@id': personId },
+  publisher: { '@id': orgId },
   inLanguage: 'en',
   isPartOf: {
     '@type': 'WebSite',
@@ -96,6 +126,8 @@ const breadcrumbSchema = (() => {
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(personSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
     {breadcrumbSchema && <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />}
     <style is:global>
@@ -152,6 +184,7 @@ const breadcrumbSchema = (() => {
       }
       .card h2 { margin: 0 0 6px; font-size: 1.15rem; }
       .meta { font-family: ui-sans-serif, system-ui, sans-serif; font-size: 0.78rem; color: var(--muted); }
+      .byline { margin-top: 30px; border-top: 1px solid var(--line); padding-top: 12px; line-height: 1.6; }
       .tag {
         display: inline-block;
         font-family: ui-sans-serif, system-ui, sans-serif;
@@ -205,6 +238,13 @@ const breadcrumbSchema = (() => {
     <main id="main">
       <div class="wrap">
         <slot />
+        {(published || updated) && (
+          <p class="meta byline">
+            Written and reviewed by <a href="/about/">Ding.W</a> · according to
+            <a href="/compliance/">the editorial standards</a>
+            {updated && <> · Last updated {isoDate(updated)}</>}
+          </p>
+        )}
       </div>
     </main>
     <footer>
