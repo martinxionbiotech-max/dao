@@ -1,4 +1,6 @@
 ---
+import { NOINDEX_PATHS } from '../data/noindex.js';
+
 interface Props {
   title: string;
   description?: string;
@@ -6,6 +8,7 @@ interface Props {
   updated?: Date;
 }
 const { title, description, published, updated } = Astro.props;
+const noindex = NOINDEX_PATHS.includes(Astro.url.pathname);
 const pageTitle = title ? `${title} — Dao Knowledge Base` : 'Dao Knowledge Base';
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 const isoDate = (d?: Date) =>
@@ -81,7 +84,7 @@ const breadcrumbSchema = (() => {
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
     {description && <meta name="description" content={description} />}
-    <meta name="robots" content="index, follow" />
+    <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow'} />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Dao Knowledge Base" />
