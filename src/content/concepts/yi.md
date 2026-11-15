@@ -49,3 +49,7 @@ The term layer lives at [yi in the glossary](/glossary/yi/) alongside its family
 ## What is uncertain
 
 Yi is everywhere in the manuals and nowhere given a single definition — the term slides between "intention," "attention," and "directedness" depending on the text. The modern habit of translating yi as "intention" (and then importing Western debates about intention) is a modern convention, not the classical usage. Where exactly the yi discipline sits between cognitive aiming and the felt steadiness of attention is the tradition's own unsettled ground.
+
+## In our view
+
+We read *Yi* as the aiming of attention, not as a force, and we treat the manuals' breath instructions as instructions about where intention rests. The page's analysis supports this: the faulty breaths are failures of steadiness rather than of effort, and the remedy is adjustment rather than grip. The exception is the modern translation of yi as intention, carrying Western debates about intention; that is a modern convention, and where those debates are imported our reading does not hold.

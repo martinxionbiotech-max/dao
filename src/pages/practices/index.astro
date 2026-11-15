@@ -7,7 +7,7 @@ const entries = (await getCollection('practices'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Practices" description="Meditation and self-cultivation methods with origins, instructions and textual evidence.">
+<Base title="Practices" description="Meditation and self-cultivation methods in detail — zuowang, neiguan, cunsi, tiaoxi, daoyin, taixi — with origins, instructions and sources.">
   <h1>Practices</h1>
   <p class="lede">Meditation and self-cultivation methods with origins, instructions and textual evidence.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

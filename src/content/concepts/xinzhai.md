@@ -65,3 +65,7 @@ Xinzhai matters because it supplies the earliest Chinese account of a *methodolo
 **Uncertainty is preserved:** the exact experiential referent of "listening with qi" cannot be recovered from the text, and modern reconstructions differ.
 
  The proximity of the fasting of the mind to modern mindfulness — and the asymmetry of evidence between them — is weighed in [xinzhai vs mindfulness](/comparisons/xinzhai-vs-mindfulness/).
+
+## In our view
+
+We read *Xinzhai* as a discipline for acting well under pressure, not as a withdrawal technique, and we keep the political frame of the parable in view. The page's context supports it: Yan Hui is preparing to speak to a dangerous ruler, and the emptying is what lets his words arise from the situation. The exception is the later use of xinzhai as purely contemplative instruction; the text permits that reading, but the ethical edge is lost, and the two are not identical.

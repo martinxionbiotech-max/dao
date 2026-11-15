@@ -1,5 +1,5 @@
 ---
-title: "EXP-013: The Boundary Question — A Buddhist Teacher Draws the Line Against Daoist Visualization"
+title: "EXP-013: Buddhist Teacher Draws the Line on Visualization"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Anonymized note: a practitioner's hybrid of abdominal breathing and Daoist energy-visualization meets the teacher's boundary answer — 'Buddhist practice does not inhale qi' — with a forced-lotus injury warning recorded alongside."

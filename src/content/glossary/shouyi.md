@@ -2,7 +2,7 @@
 title: "Shouyi"
 date: 2026-10-07
 updated: 2026-10-07
-description: "Glossary: shouyi 守一, 'guarding the One' — the early Daoist meditation term and its translation."
+description: "Shouyi 守一 (shǒuyī), 'guarding the One', is the Han Daoist practice of holding attention on the unity of essence, qi and spirit, from Daodejing 10 onward."
 chinese: "守一"
 pinyin: "shǒuyī"
 literalMeaning: "guarding-keeping the One"

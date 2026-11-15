@@ -35,3 +35,7 @@ sources:
 The sitting tradition inherited ziran as its north star. The Daodejing ch. 16 — [translated here](/translations/daodejing-16/) — gives the method: reach emptiness at the limit, keep stillness firmly; then watch the ten thousand things arise and *return*; returning to the root is stillness; stillness is returning to one's destiny (归根曰静，静曰复命). The practice described is not effort *at* emptiness but the *observation of return* — of things going back by themselves. Zuowang's "forgetting," xinzhai's "fasting," the subtraction program of ch. 48: all are ways of getting the forcer out of the way so that what remains goes *so of itself*.
 
 **Uncertainty preserved:** "道法自然" admits of a strong reading — that the Dao *imitates nothing but itself* — and the ancient commentators (notably Wang Bi: "自然者，无称之言，穷极之辞也" — "ziran is a word beyond naming, a phrase at the limit of speech") read it as the end of the modeling chain rather than a further entity. The entry point is uncontested: *ziran* is the standard to which even the Dao answers.
+
+## In our view
+
+We read *Ziran* as the result of training rather than its absence, which is why we keep it as the target of practice instead of a permission to drift. The page's own example grounds this: the Dazheng craftsmen practice for months in order to arrive at not-forcing. The exception is the popular rendering spontaneous, which imports doing whatever arises; where ziran is taken as a license for impulse, our reading does not hold.

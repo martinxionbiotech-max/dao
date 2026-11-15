@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Dizziness During or After Sitting — Breathing, Blood, and the Stop Rule",
+  "title": "Dizziness During Sitting — Breathing and the Stop Rule",
   "date": "2026-10-08",
   "updated": "2026-10-08",
   "description": "A problem page: feeling dizzy in sitting — the archive's stop-at-first-dizziness rule, the over-breathing physiology, and the medical boundary.",

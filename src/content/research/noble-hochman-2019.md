@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Why Slow Breathing Relaxes: The Pulmonary-Afferent Hypothesis (Noble & Hochman 2019)",
+  "title": "Why Slow Breathing Relaxes (Noble & Hochman 2019)",
   "date": "2026-10-08",
   "updated": "2026-10-08",
   "description": "The proposed mechanism behind slow-breathing effects: respiratory and baroreceptor afferents cycling at 0.1 Hz entraining central autonomic networks — a hypothesis, stated as a hypothesis.",

@@ -1,5 +1,5 @@
 ---
-title: "EXP-014: The Double-Lotus Doctrine — One Teacher's Complete Physiology of Sitting"
+title: "EXP-014: The Double-Lotus Doctrine of Sitting"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Anonymized note: electric-shock sensations in single-lotus sitting, and the teacher's full system in answer — the closed circuit of qi, the five leaks, the 'sitting-and-forgetting' stage, and the rule that nothing else counts."

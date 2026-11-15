@@ -43,3 +43,7 @@ The manual's fourth chapter is its most borrowed section. Before and during sitt
 - **A different lineage from the Daoist emptying texts.** Zhiyi's method is Buddhist calm-and-insight, with Buddhist metaphysics; the Daoist texts (zuowang, xinzhai) are emptying-and-forgetting. The two systems share technique and diverge in aim. Both claims are stated, neither is flattened (see the [three-craftsmen editorial](/blog/three-craftsmen-dazheng/) for the same boundary).
 
 **Boundary note:** this is a Buddhist text documented on a Daoist-centered site *because the later Chinese sitting traditions absorbed its vocabulary* — provenance is stated on every page that uses it, and no Buddhist metaphysical claim is adopted here.
+
+## In our view
+
+We read the *Xiao Zhiguan* as the common operating manual of Chinese sitting, and we use its five adjustments as the practical spine of this site's guidance. The page supports this: the body-breath-mind triad and the four faulty breaths were absorbed across Buddhist, Daoist, and Confucian instruction. The exception is its Buddhist metaphysics, which we do not adopt; where that calm-and-insight frame is doing real work, our borrowing stops and we say so.

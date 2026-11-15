@@ -60,3 +60,7 @@ Dao is the root node of this site's graph: every other core term (de, wu-you, zi
 The two that issue from the One are treated on the [Yin-Yang (阴阳): The Paired Aspects](/concepts/yin-yang/) page.
 
  The entry-level orientation that starts from this page is [Daoist meditation explained](/guides/daoist-meditation-explained/).
+
+## In our view
+
+We treat *Dao* as a pattern to be tracked rather than an entity to be defined: read the chapters for what it does and where it is found, and the naming problem stops being an obstacle. The page supports this, since it describes both texts refusing a definition and then spending their length on exactly those two questions. The exception is later religious Daoism, where the Dao is personified as Taishang Laojun; there the term names a deity to be approached.

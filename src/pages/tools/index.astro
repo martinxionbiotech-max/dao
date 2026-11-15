@@ -7,7 +7,7 @@ const entries = (await getCollection('tools'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Tools" description="Explorers and interfaces into the structured knowledge base.">
+<Base title="Tools" description="Working tools, not readings: a primary-text reading order, a sitting protocol built from classical instructions, and a method for checking a Daoist quote.">
   <h1>Tools</h1>
   <p class="lede">Explorers and interfaces into the structured knowledge base.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

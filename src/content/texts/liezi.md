@@ -39,3 +39,7 @@ The *Liezi* is treated here with the same layer discipline as the [Zhuangzi comp
 **Uncertainty preserved:** authorship and date are genuinely disputed; both positions are live in scholarship; this page's own citations of the book carry the Jin-era dating as the conservative default.
 
 Its compilation history is summarized at [Liezi Compiled (Jin Era, c. 285–400 CE)](/timeline/liezi-compilation/).
+
+## In our view
+
+We read the *Liezi* with the Jin-era dating as the working attribution, and we flag quotations by chapter so that the frame stays visible. The page's survey supports this: authorship is genuinely disputed, and even the skeptics grant that early material survives inside a late compilation. The exception is the fables themselves, which travel independently of the dating question; where a story is used as a parable rather than as evidence, our caution about the frame does not apply.

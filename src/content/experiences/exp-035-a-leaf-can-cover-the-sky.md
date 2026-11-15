@@ -1,5 +1,5 @@
 ---
-title: "EXP-035: A Leaf Can Cover the Sky — On Not Being Used by Things"
+title: "EXP-035: A Leaf Can Cover the Sky — Not Used by Things"
 date: 2026-10-30
 updated: 2026-10-30
 description: "A first-person reflection on 入局 — how a small thing held close enough can block the whole sky, why being moved by externals is already a kind of entering the game, and what it means to strive hard without being commanded by the thing one strives for."

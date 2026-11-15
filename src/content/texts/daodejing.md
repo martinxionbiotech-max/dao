@@ -66,3 +66,7 @@ The earliest material witness to the text is [Guodian Daodejing Manuscripts (c. 
 Chapter 46 (knowing-enough) is translated at [When the World Has the Way (Daodejing 46)](/translations/daodejing-46/).
 
  For how the site reads texts of this age, see [how to read Daoist meditation texts](/guides/how-to-read-daoist-meditation-texts/).
+
+## In our view
+
+We read the *Daodejing* as a program text, subtract and empty and still and return, and we cite it by chapter rather than paraphrasing it into mysticism. The page supports this: its three contemplative passages are stated as program rather than as description, and the book contains no posture or technique. The exception is the political material on ruling, war, and survival, which uses the same vocabulary for statecraft; there the contemplative reading is one application among others.

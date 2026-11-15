@@ -4,6 +4,7 @@ date: 2026-10-07
 updated: 2026-10-07
 description: "The most practical beginner question: session length. What the classical manuals say (regulation, not clocks), what communities report, and why the honest answer is a range, not a number."
 question: "How long should a sitting session be? Is there a classical minimum or maximum?"
+shortTitle: "How long should I sit? A classical range"
 context: "The most common practical question from beginners; classical texts rarely give clock times, and modern advice varies widely."
 answerState: answered
 status: published

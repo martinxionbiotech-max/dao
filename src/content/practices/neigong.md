@@ -46,3 +46,7 @@
 - Routes its actual practices to the pages that hold their sources: the breath arts ([tiaoxi](/glossary/tiaoxi/), [taixi](/practices/taixi/)), the body art ([daoyin](/practices/daoyin/)), and the triad ([jing-qi-shen](/glossary/jing-qi-shen/)).
 
  The term layer, with the modern-history caveats, is the [neigong glossary entry](/glossary/neigong/).
+
+## In our view
+
+We would use neigong as a category label and nothing more — a name for the internal side of movement training, not a claim of depth or antiquity. The page's reason is explicit: the term's early attestation is loose, and ranking internal above external work is a lineage claim rather than a textual fact. The exception: inside a living martial lineage that uses the term for its own curriculum, the label is descriptive and the ranking is the school's teaching, not history.

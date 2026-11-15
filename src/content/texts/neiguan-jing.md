@@ -48,3 +48,7 @@ Tang and Song sources explicitly equate the two: the *Daoshu* records Lü Dongbi
 The *Neiguan Jing* is the missing middle term in the history this site documents: shouyi (Han visualization) → neiguan (Sui-Tang inward observation) → zuowang (Tang seven stages) → inner alchemy (Tang-Song onward). It shows the tradition itself renaming and re-absorbing its practice across centuries — evidence that "Chinese meditation" is one continuously reinterpreted lineage rather than several unrelated techniques.
 
 **Uncertainty is preserved:** the Louguan attribution and the exact relationship between the *Neiguan Jing* and the *Dingguan Jing* rest on scholarly reconstruction, not direct evidence of transmission.
+
+## In our view
+
+We read the *Neiguan Jing* as a bridge document and use it to show the tradition renaming its own practice, rather than as a manual to be followed. The page's chain supports this: shouyi, neiguan, zuowang, and inner alchemy are linked by shared vocabulary and by an explicit traditional equation. The exception is its deity-and-qi anatomy, which belongs to the visualization heritage and cannot be detached from it; there the bridge reading flattens the text.

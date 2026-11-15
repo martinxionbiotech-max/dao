@@ -1,5 +1,5 @@
 ---
-title: "EXP-018: From Half-Lotus to Full: The Teacher's Method and Its Costs"
+title: "EXP-018: From Half-Lotus to Full Lotus — Method and Cost"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Anonymized note: the teacher's full training program for the double-lotus — diet, prostrations, cushions, four-hour thresholds, butterfly and frog stretches — and the site's explicit non-adoption of its demands."

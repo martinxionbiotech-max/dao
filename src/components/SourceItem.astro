@@ -1,0 +1,12 @@
+---
+import { sourceHref } from '../lib/sources';
+
+interface Props {
+  text: string;
+}
+
+const { text } = Astro.props;
+const href = sourceHref(text);
+---
+
+<li>{href ? <a href={href} rel="noopener">{text}</a> : text}</li>

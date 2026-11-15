@@ -1,5 +1,5 @@
 ---
-title: "A Journey of a Thousand Li Begins Under the Foot (Daodejing 64)"
+title: "A Thousand-Li Journey Begins Under the Foot (Daodejing 64)"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Annotated translation of ch. 64: the four early stages, the three staircases, the finish-line warning, and the chapter that ends the book's practice doctrine — with the disputed couplet registered, not adjudicated."

@@ -55,3 +55,7 @@
 - **Choose by aim, not by label.** What do you want — the Dao? clarity? calm? Each family serves a different end, and the site's pages say which.
 - **The question of religion** — whether sitting is inherently religious — has its own answer at [is sitting religious?](/experiences/questions/is-sitting-religious/).
 - **The broader orientation** (traditions, terms, evidence) is at [Chinese meditation explained](/guides/chinese-meditation-explained/).
+
+## In our view
+
+We would choose a practice by aim rather than by label. The page's reason is that the borrowings run deep — Daoist ladders built from Buddhist stages, Confucian sitting keeping the posture and dropping the doctrine — so the four family names are editorial convenience, not history. The exception: for institutional or lineage questions the labels do matter, because a school's own self-description is a fact about the school, not a convenience of this map.

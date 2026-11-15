@@ -64,3 +64,7 @@ The mid-Tang precursor usually credited for the quiet-sitting revival is [Li Ao 
 The zuowang-or-jingzuo question is treated at [What Is the Difference Between Zuowang and Jingzuo?](/experiences/questions/zuowang-vs-jingzuo/).
 
 The founding anecdote of the quiet-sitting school is [Cheng Yi and Yang Shi: Standing in Snow (1093 CE)](/timeline/cheng-men-li-xue/).
+
+## In our view
+
+We treat *Jingzuo* as Confucian practice in its own right, not as Daoist meditation under another name, and we say so wherever the vocabulary overlaps. The page's sources support that: Zhu Xi preferred 敬 to 靜 precisely to mark the distance from Chan, and the stated purpose is collecting the mind for study. The exception is the modern research section; findings from Buddhist-derived meditation cannot be transferred to jingzuo, and where they are, our reading stops.

@@ -1,5 +1,5 @@
 ---
-title: "EXP-033: Disenchantment — Seeing Teachers, Leaders and Experts as Ordinary Beings"
+title: "EXP-033: Disenchantment — Teachers as Ordinary Beings"
 date: 2026-10-21
 updated: 2026-10-21
 description: "A first-person reflection on 祛魅 (disenchantment) as a baseline capacity in cultivating an ordinary mind — taking the glow off teachers, leaders, professors and public figures, and finding them to be ordinary sentient beings with the same emotions and the same sufferings."

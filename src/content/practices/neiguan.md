@@ -60,3 +60,7 @@ Two boundaries are also worth stating:
 Neiguan is the site's bridge practice: it links the classical emptying vocabulary (xu, xinzhai) to the later systematization (zuowang), and it gives the *observing* verb that the modern contemplative tradition still uses. The page keeps three layers separate: what the scripture says, what the later tradition identified it with, and what modern teachers reconstruct.
 
 The modern term 'vipassana' shares neiguan's Chinese characters — the two are separated dimension by dimension in the [neiguan vs vipassana comparison](/comparisons/neiguan-vs-vipassana/).
+
+## In our view
+
+We would practice neiguan as observation that adds nothing — watching what is already present until it clarifies — and read modern step-by-step protocols as reconstructions rather than as the scripture's method. The page's reason is its vocabulary: the verb observes, the goal is clarification, and no posture or staged sequence appears in the text. The exception: if you are studying the Tang identification with zuowang, the staged program is the right frame, since the Daoshu treats the two as one work.

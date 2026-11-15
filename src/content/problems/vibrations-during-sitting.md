@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Vibrations or Shaking During Sitting — What Does the Tradition Say?",
+  "title": "Vibrations During Sitting — What Does Tradition Say?",
   "date": "2026-10-08",
   "updated": "2026-10-08",
   "description": "A problem page: vibrations, buzzing, or fine shaking in stillness — qi-movement in the traditional frame, the practitioner archives, the physiological reading, and the medical boundary.",

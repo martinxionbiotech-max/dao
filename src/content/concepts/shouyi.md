@@ -54,3 +54,7 @@ The verbal root of this practice family is the [Baoyi](/glossary/baoyi/) entry.
 Ge Hong's codification of this practice is dated at [Ge Hong's Baopuzi: Shouyi Systematized (c. 320 CE)](/timeline/baopuzi-shouyi/).
 
  The plain-language introduction is [what is shouyi](/guides/what-is-shouyi/).
+
+## In our view
+
+We read *Shouyi* as a practice technology with stated exit conditions, and we treat the Taiping Jing's cautions as part of the method rather than as footnotes to it. The page's own description justifies this: the chamber protocol includes coming out when uneasy, and the text says not to force the sitting. The exception is the visualization material; the colors and inner images cannot be reconstructed across two millennia, so we report the text's vocabulary without issuing it as instruction.

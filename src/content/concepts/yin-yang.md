@@ -53,3 +53,7 @@ sources:
 ## Editorial synthesis
 
 Yin-yang is registered here as *shared equipment*: it explains the paired logic running through the Daoist texts without being their invention. Its one appearance in the *Daodejing* and its one appearance in the *Xici* are both quoted in full, so the boundary with the Yin-Yang school stays visible.
+
+## In our view
+
+We treat *Yin-Yang* as shared cosmological equipment that Daoist texts use rather than invent, and we say so before using the pair to explain anything. The page's count supports the caution: the Daodejing mentions the pair once, in ch. 42, while its grammar of paired opposites runs throughout without the word. The exception is the medical canon, where yin-yang becomes a diagnostic framework; there the terms carry physiological claims that our pattern reading cannot adjudicate.

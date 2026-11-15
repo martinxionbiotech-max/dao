@@ -54,3 +54,7 @@ sources:
 ## Editorial synthesis
 
 Pu is the site's image for the *original*: the state before the cuts, available as both goal (return to it) and instrument (settle desires with it). It links the cosmology (the Dao is nameless like the block) to the ethics (show plain silk, hold the block) and the method (the block as restraint).
+
+## In our view
+
+We read *Pu* as a state available inside ordinary life rather than a call to return to a primitive society, and we use it as an instrument rather than a destination. The page's evidence is ch. 28 itself: the block scattered becomes utensils, and the sage becomes chief of the officials, so the block is what one governs from. The exception is ch. 19's pairing with undyed silk and reduced desire, where the image works as a plainer ascetic standard and our instrumental reading is too weak.

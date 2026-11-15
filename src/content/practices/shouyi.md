@@ -37,3 +37,7 @@ sources:
 The practice is documented; its effects are traditional claims (the Taiping Jing's "returning the spirit," the Baopuzi's protective promises), not measured findings. No dedicated modern research exists on shouyi; the nearest evidence (meditation programs' general stress effects, Goyal 2014 [here](/research/mindfulness-meta-analysis-2014/)) is adjacent, not confirmatory, and this page keeps that boundary explicit.
 
 **Uncertainty preserved:** the chamber details come from a fragmentary Han text; the internal visualization descriptions are traditional doctrine, not anatomy; the page reports the method as the sources state it, conditions and all.
+
+## In our view
+
+We would teach shouyi as gentle holding rather than concentration clamped onto one point. The page supplies the reason: the manuals that prescribe guarding also prescribe softness, and the restlessness page documents what happens when the guard turns into a fight. The exception is textual: the Taiping Jing's chamber protocol — visceral images, fasting, incense, seasonal qi — is a condition-bound method, and a reader who wants that form has to take the conditions with it, not the minimal modern reading alone.

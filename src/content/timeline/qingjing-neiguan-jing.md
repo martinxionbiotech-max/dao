@@ -1,5 +1,5 @@
 ---
-title: "Qingjing Jing and Neiguan Jing Composed (Six Dynasties–Early Tang)"
+title: "Qingjing Jing and Neiguan Jing Composed (Six Dynasties)"
 date: 2026-10-07
 updated: 2026-10-07
 description: "The two anonymous scriptures that bridge Han visualization and Tang zuowang — the Qingjing Jing's emptying ladder and the Neiguan Jing's inner observation — take shape between the sixth and seventh centuries."

@@ -1,5 +1,5 @@
 ---
-title: "EXP-009: Dissolving Into the Void — and the Teacher's Diagnosis"
+title: "EXP-009: Dissolving Into the Void and the Diagnosis"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Anonymized note: a practitioner's felt merger with emptiness during sitting, the teacher's blunt diagnostic ('that is blank staring'), and the three-layer reading of both."

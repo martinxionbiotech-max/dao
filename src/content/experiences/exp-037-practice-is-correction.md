@@ -1,5 +1,5 @@
 ---
-title: "EXP-037: Practice Is Correction — On Not Making the Path Mysterious"
+title: "EXP-037: Practice Is Correction — Not a Mystery"
 date: 2026-11-03
 updated: 2026-11-03
 description: "A contributed reflection arguing that cultivation is the continual correction of one's own thought and conduct in ordinary life — not sitting, mantra or powers."

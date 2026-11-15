@@ -54,3 +54,7 @@ sources:
 ## Editorial synthesis
 
 Wu and You are the pair that generates everything else in the *Daodejing*'s structure: naming, function, and origin all run through them. The site keeps the pair as one node — they are defined against each other and cannot be treated separately.
+
+## In our view
+
+We keep *Wu* and *You* as a single node, because neither term means anything without the other, and we read 无 primarily as functional absence. The page's ch. 11 examples justify the emphasis: the hub's hole, the vessel's hollow, and the room's space all locate use in what is not there. The exception is ch. 40's 有生於無, which pushes toward a metaphysical claim; there the functional reading runs out, and we record the passage as undecided.

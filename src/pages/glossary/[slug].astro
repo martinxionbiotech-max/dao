@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import EntityFooter from '../../components/EntityFooter.astro';
 import { getCollection, render } from 'astro:content';
+import SourceItem from '../../components/SourceItem.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('glossary');
@@ -50,7 +51,7 @@ const definedTermSchema = d.description ? {
   {(d.sources?.length > 0) && (
     <>
       <h2>Sources</h2>
-      <ul>{d.sources.map((s) => <li>{s}</li>)}</ul>
+      <ul>{d.sources.map((s) => <SourceItem text={s} />)}</ul>
     </>
   )}
 </Base>

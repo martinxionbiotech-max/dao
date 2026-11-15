@@ -2,7 +2,7 @@
 title: "Wuwei"
 date: 2026-10-07
 updated: 2026-10-07
-description: "Glossary: wuwei 无为, 'non-action' — translation options and common mistranslations."
+description: "Wuwei 无为 (wúwéi) is action without forcing, not inactivity: Daodejing 37's 'nothing left undone', the mistranslation history, and a workable English gloss."
 chinese: "无为"
 pinyin: "wúwéi"
 literalMeaning: "no-doing"

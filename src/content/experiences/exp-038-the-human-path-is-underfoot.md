@@ -1,5 +1,5 @@
 ---
-title: "EXP-038: The Human Path Is Underfoot — On Conduct, Equality and Not Teaching Others"
+title: "EXP-038: Human Path Is Underfoot — Conduct and Equality"
 date: 2026-11-04
 updated: 2026-11-04
 description: "A contributed note arguing that practice begins in daily conduct rather than technique — and setting out the manners a group of practitioners owes one another."

@@ -8,7 +8,7 @@ import relationships from '../../data/relationships.json';
 import sources from '../../data/sources.json';
 ---
 
-<Base title="Data" description="Structured datasets powering the knowledge graph.">
+<Base title="Data" description="Machine-readable JSON datasets behind the knowledge graph: concepts, practices, experiences, patterns, relationships and sources, each traced to a page.">
   <h1>Structured Data</h1>
   <p class="lede">
     Machine-readable JSON datasets behind the knowledge graph. Every entry links back to
@@ -17,6 +17,15 @@ import sources from '../../data/sources.json';
     sources, schemas and a graph explorer.
   </p>
   <p class="meta">Dataset snapshot from git history: 2026-10-10 (all registry JSON files).</p>
+
+  <p>
+    Each dataset is a flat JSON file with one record per entity, a stable identifier, an evidence
+    class and links back to the authored page it came from. The files are published for reuse:
+    quote them with the page URL and the snapshot date above, because the registry is versioned in
+    git rather than served live. What the datasets do not contain is equally deliberate — no
+    practitioner identities, no teacher lineage claims that cannot be documented, and no derived
+    scores that would imply a measurement the sources do not support.
+  </p>
   <div class="grid">
     <div class="card"><h2>Concepts</h2><p class="meta">{concepts.items.length} records</p></div>
     <div class="card"><h2>Practices</h2><p class="meta">{practices.items.length} records</p></div>

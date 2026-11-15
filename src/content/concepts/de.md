@@ -53,3 +53,7 @@ sources:
 ## Editorial synthesis
 
 De is the answer to "what does the Dao look like once it has entered a particular thing?" — the same pattern in each vessel, without coercion, without display, and without clinging to itself.
+
+## In our view
+
+We read *De* as the Dao's working in a particular thing, not as moral virtue, and that is how we gloss it on first use. The page's evidence is the ch. 38 ladder itself: the highest De does not display itself as De, which rules out any reading in which De means being good. The exception is Zhou-dynasty usage, where 德 names a ruler's charisma that heaven rewards; there the moral and political sense is primary, and our practice reading has to be set aside.

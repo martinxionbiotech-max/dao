@@ -56,3 +56,7 @@ For this knowledge base, wuwei is the bridge concept between the *political* and
 **Uncertainty is preserved:** how wuwei as a political doctrine relates to wuwei as a personal practice in the pre-Han period is debated; the texts themselves move between registers without a systematic account.
 
  For what the standard English rendering loses, see [wuwei vs "non-action"](/comparisons/wuwei-vs-non-action/).
+
+## In our view
+
+We read *Wuwei* as the end of a subtraction program, not as an excuse for inaction, and we keep the political and contemplative senses in one frame. The page's key line supports this: the formula is 無為而無不為, doing nothing and nothing left undone, which is positive by construction. The exception is the modern comparison with flow states and skill automaticity; that is an interpretive move, not an identity, and it is not evidence about wuwei.

@@ -1,5 +1,5 @@
 ---
-title: "EXP-003: Two Months of Leg Pain and a Felt 'Filling' of the Abdomen"
+title: "EXP-003: Two Months of Leg Pain and a Felt Filling"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Anonymized report: after two months of cross-legged sitting, a practitioner describes the pain plateau, an odd sensation of the abdomen filling with air, and shoulder pain."

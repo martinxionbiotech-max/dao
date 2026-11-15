@@ -7,7 +7,7 @@ const entries = (await getCollection('stories'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Stories" description="Narratives and legends — explicitly framed as legend where applicable.">
+<Base title="Stories" description="Zhuangzi's parables and other tales from the tradition, retold with their sources and marked as legend where the story is legend rather than record.">
   <h1>Stories</h1>
   <p class="lede">Narratives and legends — explicitly framed as legend where applicable.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

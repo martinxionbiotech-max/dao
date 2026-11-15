@@ -7,7 +7,7 @@ const entries = (await getCollection('timeline'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Timeline" description="The historical development of Chinese contemplative traditions.">
+<Base title="Timeline" description="Dated entries on how Chinese contemplative traditions developed, from the Guodian manuscripts to Song quiet-sitting, with each event placed and sourced.">
   <h1>Timeline</h1>
   <p class="lede">The historical development of Chinese contemplative traditions.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

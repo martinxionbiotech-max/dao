@@ -1,5 +1,5 @@
 ---
-title: "EXP-011: Closing the Session — the Shougong Protocol and Forced Breathing"
+title: "EXP-011: Closing the Session — Shougong and Forced Breath"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Anonymized note: practitioners' post-sitting symptoms (eye pain, bowel unease, one-sided leg tolerance), the teacher's closing protocol ('return the qi to the dantian') and his warning against forced abdominal breathing."

@@ -45,3 +45,7 @@
 ## The tool companion
 
 The site's [how to verify sources](/tools/how-to-verify-sources/) tool page holds the practical method — what counts as a primary source, what a secondary source may claim, and how the site labels evidence on every page.
+
+## In our view
+
+We would classify a text before taking any instruction from it. The page's reason is that most errors in the popular literature come from reading a parable as a manual, or a commentary as a source, and the three kinds give different things: states valued, instructions with conditions, later interpretation. The exception: where a text announces its genre, as the Zuowang lun does with its seven stages, the classification is given rather than inferred, and the work moves on to dating and attribution.

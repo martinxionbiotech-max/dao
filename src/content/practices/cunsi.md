@@ -38,3 +38,7 @@ Cunsi's images are **traditional doctrine** — contemplative geography, not ana
 **Uncertainty preserved:** the sources describe methods in coded, partial language (the Baopuzi repeatedly says the essentials are oral and secret); this page describes the family of practices as the texts state it, not a complete working protocol.
 
 The two poles side by side, with the tradition's own ranking, are in the [cunsi vs zuowang comparison](/comparisons/cunsi-vs-zuowang/).
+
+## In our view
+
+We would practice cunsi as the page presents it: structured imagination with traditional aims, not a description of the body's actual interior. The reason sits in the sources — the inner palaces are contemplative geography, and the Baopuzi says the essentials were transmitted orally, so no complete protocol survives to follow. The exception: for a historian rather than a practitioner, the palaces are evidence of how a tradition imagined the body, and building them in your own attention is beside the point.

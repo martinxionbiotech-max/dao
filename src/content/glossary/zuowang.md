@@ -2,7 +2,7 @@
 title: "Zuowang"
 date: 2026-10-07
 updated: 2026-10-07
-description: "Glossary: zuowang 坐忘, 'sitting in oblivion' — translation options and why the term resists a single rendering."
+description: "Zuowang 坐忘 (zuòwàng), 'sitting in oblivion', is Zhuangzi ch. 6's dropping of body, senses and knowledge, later Sima Chengzhen's Tang method, not 'trance'."
 chinese: "坐忘"
 pinyin: "zuòwàng"
 literalMeaning: "sitting-forgetting"
@@ -20,3 +20,7 @@ sources:
 **Translation note:** "oblivion" captures the forgetting of self and world; "forgetfulness" is closer to the word's everyday sense but risks sounding like absent-mindedness. Render with the Chinese and pinyin on first use; never translate as "trance" (which imports a Western category) or "mindfulness" (which imports a different practice).
 
 See the full [concept page](/concepts/zuowang/) and the [practice page](/practices/zuowang/).
+
+## Scope note
+
+This entry defines the term and its textual range. For posture, duration and what a session looks like, see [Zuowang as a practice](/practices/zuowang/); the two pages are kept separate so a definition is not padded with instruction.

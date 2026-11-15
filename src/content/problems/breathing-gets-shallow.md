@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Breathing Becomes Very Shallow in Sitting — Problem or Progress?",
+  "title": "Shallow Breathing in Sitting — Problem or Progress?",
   "date": "2026-10-08",
   "updated": "2026-10-08",
   "description": "A problem page: why breath thins out in stillness — the Xiao Zhiguan's breath hierarchy, the slow-breathing research, and the boundary between fine breath and air hunger.",

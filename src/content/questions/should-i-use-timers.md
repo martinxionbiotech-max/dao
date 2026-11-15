@@ -4,6 +4,7 @@ date: 2026-10-07
 updated: 2026-10-07
 description: "Whether to sit with a clock, an alarm, or a phone. The classical manuals' answer (the breath is the unit, not the minute), the modern case for and against timers, and the one function no timer should have: measuring progress."
 question: "Should I use a timer when I sit? Some people say set an alarm; others say sit open-ended."
+shortTitle: "Should I use a timer when I sit?"
 context: "A recurring practical question from beginners; the classical texts are silent on clocks, and modern advice splits."
 answerState: "answered"
 status: published

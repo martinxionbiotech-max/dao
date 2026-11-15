@@ -2,7 +2,7 @@
 title: "Qi (气): Translating the Term"
 date: 2026-10-07
 updated: 2026-10-07
-description: "Glossary: qi 气 — why 'energy' is a partial translation, and how to handle the term in English."
+description: "Qi 气 (qì) names the substrate of breath, vapor and vitality. Why 'energy' misleads, how Zhuangzi ch. 4 and Daodejing 10 use it, when 'breath' is honest."
 chinese: "气"
 pinyin: "qì"
 literalMeaning: "vapor, breath, vital substrate"

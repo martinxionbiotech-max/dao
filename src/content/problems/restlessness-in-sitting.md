@@ -1,5 +1,5 @@
 ---
-title: "Is restlessness or discomfort in sitting a sign I should stop?"
+title: "Is Restlessness in Sitting a Sign I Should Stop?"
 date: 2026-10-07
 updated: 2026-10-07
 description: "A problem page: physical restlessness and unease during sitting — the Chinese sources' explicit exit conditions (Taiping Jing) and the tradition's stance against forcing."

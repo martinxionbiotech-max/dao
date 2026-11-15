@@ -7,7 +7,7 @@ const entries = (await getCollection('research'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Research" description="Modern meditation research reviewed with methods and limitations.">
+<Base title="Research" description="Peer-reviewed meditation research summarised closely: the question asked, the study design, the numbers reported, and the boundary the evidence leaves.">
   <h1>Research</h1>
   <p class="lede">Modern meditation research reviewed with methods and limitations.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

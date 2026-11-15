@@ -39,3 +39,7 @@ No modern research validates taixi as physiology; "breathing without nose or mou
 **Uncertainty preserved:** the Baopuzi's definition is rhetorical in part (breathing "as in the womb" is imagery, and the text treats the actual attainment as the end of the path, 道成); the page reports the ideal as the tradition states it, not as an achievable checklist.
 
 The finest of the four breath types named by the Xiao Zhiguan is [Xi](/glossary/xi/).
+
+## In our view
+
+We would treat taixi as a criterion rather than a drill: something the breath arrives at as quiet deepens, never something to seize and hold. The page's reason is that the Baopuzi frames it as the end of the path, and the tradition's own rule is harmonize, never force — retention is the wind fault at intensity. The exception: the Baopuzi's dietary conditions belong to a fourth-century regimen this page reports but does not recommend, so following them literally is reading, not practice.

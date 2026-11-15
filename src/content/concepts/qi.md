@@ -50,3 +50,7 @@ For this knowledge base, qi is infrastructure rather than topic: it is the term 
 **Uncertainty is preserved:** whether the term refers to one thing or a family of related notions across periods is itself debated; this page follows the standard scholarly practice of treating it as polysemous.
 
  The comparison with the Indian term — [qi vs prana](/comparisons/qi-vs-prana/) — weighs how far the analogy can be pressed.
+
+## In our view
+
+We treat *Qi* as a family of related usages rather than one substance, and we keep it romanized so that no single English word settles the question. The page shows why: the term covers cosmic substrate, breath, vital condition, and perceptual subtlety, and the Zhuangzi's instruction to listen with qi does not define which. The exception is modern qigong research, where modest effects on relaxation appear; those findings concern practices, not a qi substance, and our reading settles neither side.

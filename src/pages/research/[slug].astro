@@ -2,6 +2,8 @@
 import Base from '../../layouts/Base.astro';
 import EntityFooter from '../../components/EntityFooter.astro';
 import { getCollection, render } from 'astro:content';
+import SourceItem from '../../components/SourceItem.astro';
+import { articleLd } from '../../lib/articleLd';
 
 export async function getStaticPaths() {
   const entries = await getCollection('research');
@@ -13,11 +15,12 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
+const ld = articleLd({ title: d.title, description: d.description, date: d.date, updated: d.updated, path: Astro.url.pathname });
 const ev = (d.evidence || []).length ? d.evidence : undefined;
 const slug = entry.id.replace(/\.md$/, '');
 ---
 
-<Base title={d.title} description={d.description} published={d.date} updated={d.updated}>
+<Base title={d.title} description={d.description} published={d.date} updated={d.updated} jsonLd={[ld]}>
   <h1>{d.title}</h1>
   {d.description && <p class="lede">{d.description}</p>}
   {d.date && <p class="meta">Published {d.date.toISOString().slice(0, 10)} &middot; Updated {(d.updated || d.date).toISOString().slice(0, 10)}</p>}
@@ -37,7 +40,7 @@ const slug = entry.id.replace(/\.md$/, '');
   {(d.sources?.length > 0) && (
     <>
       <h2>Sources</h2>
-      <ul>{d.sources.map((s) => <li>{s}</li>)}</ul>
+      <ul>{d.sources.map((s) => <SourceItem text={s} />)}</ul>
     </>
   )}
 </Base>

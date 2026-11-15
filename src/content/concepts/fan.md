@@ -56,3 +56,7 @@ The law shows up everywhere in the book, always in pairs:
 ## Editorial synthesis
 
 Fan is the Dao's signature: the one-directional flows we assume (growth, gain, strength) are each half of an arc that completes itself by turning. It links the cosmology (ch. 25), the method (ch. 16), the ethics of weakness (ch. 40), and the book's own rhetoric (ch. 78) into a single pattern.
+
+## In our view
+
+We read *Fan* as one arc with two descriptions, reversal and return, and use it to explain why emptying practices are expected to work at all. The page shows the fusion is not our invention: the text writes both 反 and 返, and ch. 16's 观复 makes the turn something a practitioner watches. The exception is ch. 36's tactical lines, where the pattern reads as strategic advice about politics; there the cosmological sense thins out and the contemplative reading should not be pressed.

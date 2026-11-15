@@ -7,7 +7,7 @@ const entries = (await getCollection('problems'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Problems" description="Real difficulties meditators report — with evidence-classed answers.">
+<Base title="Problems" description="Difficulties meditators report — drowsiness, pain, breath that will not settle — with named causes, cited sources and answers graded by evidence.">
   <h1>Problems</h1>
   <p class="lede">Real difficulties meditators report — with evidence-classed answers.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

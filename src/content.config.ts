@@ -204,6 +204,7 @@ const questions = defineCollection({
   schema: z.object({
     ...base,
     question: z.string(),
+    shortTitle: z.string().optional(),
     context: z.string().optional(),
     answerState: z.enum(['open', 'investigating', 'answered']).default('open'),
   }),

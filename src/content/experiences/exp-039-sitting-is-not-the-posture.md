@@ -1,5 +1,5 @@
 ---
-title: "EXP-039: Sitting Is Not the Posture — A Group Exchange on Meditation, Stillness and Attainment"
+title: "EXP-039: Sitting Is Not the Posture — A Group Exchange"
 date: 2026-11-05
 updated: 2026-11-05
 description: "An anonymized group exchange on whether meditation is a posture, a duration or the act of watching the mind — with an editorial judgment on each side."

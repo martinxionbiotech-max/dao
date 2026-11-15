@@ -3,7 +3,7 @@
   "title": "Neigong (内功): Internal Work",
   "date": "2026-10-08",
   "updated": "2026-10-08",
-  "description": "Term entry: neigong 内功 — the counter-term to external exercise. See the full practice page.",
+  "description": "Neigong 内功 (nèigōng), 'internal work', is the modern counter-term to external martial training: inward breath, alignment and intent, and its loose dating.",
   "chinese": "内功",
   "pinyin": "nèigōng",
   "literalMeaning": "internal work",

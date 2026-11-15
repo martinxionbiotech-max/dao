@@ -1,5 +1,5 @@
 ---
-title: "Wu He You Zhi Xiang — 无何有之乡 (The Land of Not-Having-Anything)"
+title: "Wu He You Zhi Xiang — 无何有之乡, the Land of Nothing"
 date: 2026-10-07
 updated: 2026-10-07
 description: "The Zhuangzi's name for a place that is defined by what it lacks: the land of not-having-anything, where the useless tree can finally be planted, where the world-ruler's advisor goes when tired of the world. Three appearances, three functions — a transplant site, an escape destination, a touring ground — and one grammar: the place exists only as the negation of the places that matter."

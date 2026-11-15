@@ -39,3 +39,7 @@ The received text descends from a Song-era collation (the Siku Quanshu editors r
 **Uncertainty preserved:** juan numbering varies across the tradition's bibliographies; Ge Hong's authorship of the inner chapters is secure, the fine transmission details are documented as imperfect.
 
 Its composition date is pinned at [Baopuzi Composed (c. 314–320s CE)](/timeline/baopuzi-composition/).
+
+## In our view
+
+We read the *Baopuzi* as a witness rather than a canon, and we use it for what it documents: that these practices were taught, ranked, and argued about in the fourth century. The page's own framing supports this, since Ge Hong distinguishes what he practiced from what he only heard, and admits the essentials could not be written. The exception is the alchemical and amulet material, which we report without recommending; there the witness reading holds but the practical use does not.

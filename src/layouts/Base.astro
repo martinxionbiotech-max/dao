@@ -6,10 +6,31 @@ interface Props {
   description?: string;
   published?: Date;
   updated?: Date;
+  jsonLd?: Record<string, unknown>[];
 }
-const { title, description, published, updated } = Astro.props;
+const { title, description, published, updated, jsonLd = [] } = Astro.props;
 const noindex = NOINDEX_PATHS.includes(Astro.url.pathname);
-const pageTitle = title ? `${title} — Dao Knowledge Base` : 'Dao Knowledge Base';
+// Append the brand only when the result still fits in 60 characters; a long
+// editorial title is better alone than truncated in the SERP.
+const BRAND_SUFFIX = ' — Dao Knowledge Base';
+const pageTitle = title
+  ? (title.length + BRAND_SUFFIX.length <= 60 ? `${title}${BRAND_SUFFIX}` : title)
+  : 'Dao Knowledge Base';
+
+// Keep descriptions inside the 120-155 window: cut on a word boundary and drop
+// a trailing comma or colon rather than ending mid-clause.
+const fitDescription = (s?: string) => {
+  if (!s) return s;
+  let out = s.trim();
+  if (out.length > 155) {
+    out = out.slice(0, 155);
+    const cut = out.lastIndexOf(' ');
+    if (cut > 100) out = out.slice(0, cut);
+    out = out.replace(/[,;:]$/, '');
+  }
+  return out;
+};
+const metaDescription = fitDescription(description);
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 const personId = new URL('/#author', Astro.site).href;
 const orgId = new URL('/#organization', Astro.site).href;
@@ -45,7 +66,7 @@ const webPageSchema = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
   name: pageTitle,
-  ...(description ? { description } : {}),
+  ...(metaDescription ? { description: metaDescription } : {}),
   ...(isoDate(published) ? { datePublished: isoDate(published) } : {}),
   ...(isoDate(updated) ? { dateModified: isoDate(updated) } : {}),
   url: canonicalUrl.href,
@@ -113,13 +134,13 @@ const breadcrumbSchema = (() => {
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{pageTitle}</title>
-    {description && <meta name="description" content={description} />}
+    {description && <meta name="description" content={metaDescription} />}
     <meta name="robots" content={noindex ? 'noindex, follow' : 'index, follow'} />
     <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site)} />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Dao Knowledge Base" />
     <meta property="og:title" content={pageTitle} />
-    {description && <meta property="og:description" content={description} />}
+    {description && <meta property="og:description" content={metaDescription} />}
     <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site)} />
     <meta property="og:image" content={new URL('/og-image.png', Astro.site)} />
     <meta property="og:image:width" content="1200" />
@@ -206,6 +227,9 @@ const breadcrumbSchema = (() => {
       pre { padding: 12px; overflow-x: auto; margin: 12px 0; }
       blockquote { border-left: 3px solid var(--line); padding-left: 14px; color: var(--muted); margin: 12px 0; }
     </style>
+      {jsonLd.map((block) => (
+      <script type="application/ld+json" set:html={JSON.stringify(block)} />
+    ))}
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>

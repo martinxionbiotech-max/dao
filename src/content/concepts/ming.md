@@ -50,3 +50,7 @@ Ming enters practice through the body: the breath arts' respect for the body's o
 Two things are genuinely unsettled. First, the range of ming itself — "command," "fate," "life" — is a translation problem with no consensus resolution; every English choice drops something. Second, the alchemical ming (vitality to be cultivated) is a later, technical narrowing of the word, and how directly it descends from the Zhuangzi's usage rather than from other streams is not established. The practice claim "you cannot seize the breath; it settles" is the tradition's framing, recorded here as such, not a physiological statement.
 
  The term layer for the "life" half of the pair is the [ming glossary entry](/glossary/ming/).
+
+## In our view
+
+We read *Ming* as the boundary of what effort can reach, not as resignation, and that is how we present it to practitioners. The page's Zhuangzi citation grounds this: settling into what cannot be helped is called the utmost virtue, and the same chapter pairs that settling with self-cultivation rather than with passivity. The exception is the later alchemical sense, where ming names the body's vitality to be deliberately cultivated; there the term is technical, and our reading of it as a limit does not apply.

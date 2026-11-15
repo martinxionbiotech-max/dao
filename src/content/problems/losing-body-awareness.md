@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Losing Awareness of the Body During Sitting — Named and Expected?",
+  "title": "Losing Body Awareness in Sitting — Named and Expected?",
   "date": "2026-10-08",
   "updated": "2026-10-08",
   "description": "A problem page: body awareness dissolving in stillness — the Zhuangzi's 'dropping the limbs and body,' what forgetting means and does not mean, and the medical boundary.",

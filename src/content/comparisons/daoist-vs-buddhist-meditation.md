@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Daoist Meditation vs. Buddhist Meditation: A Structured Comparison",
+  "title": "Daoist vs. Buddhist Meditation: A Structured Comparison",
   "date": "2026-10-08",
   "updated": "2026-10-08",
   "description": "Two contemplative traditions that cross-pollinated for two thousand years: aims, methods, and the shared vocabulary that hides real differences.",

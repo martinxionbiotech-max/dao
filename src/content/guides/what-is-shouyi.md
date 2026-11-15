@@ -50,3 +50,7 @@
 - Depth: the [concept page](/concepts/shouyi/)
 - Practice: the [practice page](/practices/shouyi/)
 - Comparison: [shouyi vs concentration](/comparisons/shouyi-vs-concentration/) and [zuowang vs shouyi](/comparisons/zuowang-vs-shouyi/)
+
+## In our view
+
+We would start readers on the plain reading — sit, settle, stop chasing — and leave the Han chamber protocol for later. The page's reason is that the earliest sources describe a state more than a technique, while the operational detail grew in the Han manuals; the minimal form is the part a beginner can actually do. The exception: where the Taiping Jing itself is the subject, the chamber protocol is the material, and the minimal reading would flatten what the text is doing.

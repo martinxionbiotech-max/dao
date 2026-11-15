@@ -7,7 +7,7 @@ const entries = (await getCollection('questions'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Questions" description="Real practitioner questions worth preserving and investigating.">
+<Base title="Questions" description="Questions practitioners actually ask — do I need a teacher, must I sit cross-legged, why do I keep quitting — with the answer state recorded for each.">
   <h1>Practitioner Questions</h1>
   <p class="lede">Real questions from practice — question discovery signals for deeper content.</p>
   {entries.length === 0 && <p class="meta">No published questions yet.</p>}

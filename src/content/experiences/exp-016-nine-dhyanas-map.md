@@ -1,5 +1,5 @@
 ---
-title: "EXP-016: What Is Concentration? One Teacher's Map of the Nine Dhyānas"
+title: "EXP-016: What Is Concentration? A Map of the Nine Dhyānas"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Anonymized note: the teacher's definition of sitting and entry (forgetting the body, senses doubled), the full ladder of the nine dhyānas and beyond — and the honest sentences that end the map."

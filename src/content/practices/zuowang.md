@@ -62,3 +62,7 @@ Modern secular readers sometimes take zuowang as "Daoist mindfulness." The analo
 ## Editorial synthesis
 
 Zuowang-as-practice is the clearest example in the Chinese tradition of a *classical ideal converted into a graduated method*. Its historical importance: it shows Tang Daoism building a complete contemplative program — preliminaries, main practice, signposts, and goal — in explicit dialogue with Buddhist technique. For the modern knowledge map it connects the *Zhuangzi* (text), xinzhai and wuwei (concepts), and the later Daoist/Neo-Confucian sitting traditions (jingzuo) into one lineage of seated practice.
+
+## In our view
+
+We would read zuowang as a graduated program with lifestyle preconditions, not as an instant dissolution to be attempted in a first sitting. The reason is in Sima Chengzhen's table: each stage presupposes the earlier ones, and its second and fourth stages concern reducing entanglements and commitments. The exception: none of that belongs to the Zhuangzi passage, which is a parable describing a state; a reader after the classical text's sense should not read the seven stages back into it.

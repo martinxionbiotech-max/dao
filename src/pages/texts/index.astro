@@ -7,7 +7,7 @@ const entries = (await getCollection('texts'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Texts" description="Classical Chinese texts with original, translations and context.">
+<Base title="Texts" description="Profiles of the classical texts — Daodejing, Zhuangzi, Liezi, Huangting Jing, Zuowang Lun — with what each is, its history and where to begin reading.">
   <h1>Texts</h1>
   <p class="lede">Classical Chinese texts with original, translations and context.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

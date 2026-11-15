@@ -57,3 +57,7 @@ Clinical research studies standardized, manualized programs, because those are w
 - **If you want to know whether meditation can hurt:** start at [Farias 2020](/research/farias-adverse-events-2020/) and [Britton 2021](/research/britton-2021/), then the [can sitting go wrong](/experiences/questions/can-sitting-go-wrong/) question.
 - **If you want the tradition's own safety language:** start at [breath safety](/problems/breath-retention-daoist/) and the archive's stop rules on the [dizziness](/problems/dizziness-during-sitting/) and [head pressure](/problems/head-pressure-during-sitting/) pages.
 - **If you want the honest verdict:** the research supports modest, specific, real effects of *modern* meditation programs — and says nothing about Daoist sitting, one way or the other. Anyone claiming more is claiming more than the literature contains.
+
+## In our view
+
+We would use this research for two things: a realistic sense of what meditation programs can do, and a warning that they can also go wrong. The page's reason is that none of the nine records studied zuowang, shouyi, or jingzuo, so nothing here paraphrases into evidence for a classical practice. The exception runs toward safety: the adverse-event records come from general meditation populations, and we would let their caution reach any sitting practice while refusing to let the benefit claims travel the same way.

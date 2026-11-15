@@ -50,3 +50,7 @@
 - **Health claims require modern evidence** — the tradition's longevity language is the tradition's language, not a clinical finding. See the [cure question](/experiences/questions/can-meditation-cure-illness/) for the boundary.
 
  The term layer, including the 1950s coinage, is the [qigong glossary entry](/glossary/qigong/).
+
+## In our view
+
+We would keep the classical names for the classical practices and reserve qigong for the modern umbrella that gathered them in the 1950s. The page's reason is that the term postdates its sources and blurs evidence, gathering arts the manuals kept distinct, so research on the modern package is not research on daoyin or tiaoxi. The exception runs toward modern readers: where the subject is a twentieth-century qigong form or its clinical literature, qigong is the accurate term and classical vocabulary would misdescribe it.

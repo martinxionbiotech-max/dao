@@ -37,3 +37,7 @@ The received text is a **fragment**: the Ming Daoist Canon carries 57 juan of th
 **Uncertainty preserved:** the revelation story (Yu Ji, the immortals) is tradition; the dating and social context are scholarly reconstruction; what is secure is the text's age, its content, and its role as the earliest systematic shouyi source.
 
 The earliest shouyi teaching is dated at [Taiping Jing: Shouyi and the Exit Conditions (Eastern Han)](/timeline/taiping-jing-shouyi/).
+
+## In our view
+
+We read the *Taiping Jing* as the earliest systematic shouyi source and use it for the protocol, not for its cosmology. The page's case supports this: the chamber practice, the inner viewing, and the graded curriculum are all present, and the received text is a fragment that nonetheless witnesses a taught practice. The exception is the ritual apparatus of viscera images and spirit conversations, which we report without reconstructing.

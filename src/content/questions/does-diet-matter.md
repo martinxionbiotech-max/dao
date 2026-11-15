@@ -4,6 +4,7 @@ date: 2026-10-07
 updated: 2026-10-07
 description: "The diet question, answered from the tradition's own split: the Zhuangzi replaces food-fasting with mind-fasting (the xinzhai passage says so in so many words), and the archive's teacher makes diet the first gate. Both kept, neither forced: what the sources agree on is smaller and more useful than either camp."
 question: "Do I need to change my diet to practice? Do Daoist traditions require vegetarianism, fasting, or giving up certain foods before or during sitting meditation?"
+shortTitle: "Does diet matter for Daoist sitting practice?"
 context: "Asked by practitioners who have encountered Buddhist dietary rules (vegetarianism, fasting days) or the archive teacher's claims about meat and meditation, and want to know what the Daoist core texts and the site's sources actually require."
 answerState: answered
 answerScope: "At the source-text layer and the practice layer. What the Zhuangzi says (the xinzhai passage's explicit replacement of food-fasting), what the archive's teacher claims (diet as the first gate, with its Buddhist frame registered), and the one point where all the site's sources converge."

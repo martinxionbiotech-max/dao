@@ -34,3 +34,7 @@ sources:
 **Uncertainty preserved:** author unknown, date contested, text layered. The Huangting is cited here as what it is — a received scripture of contested date whose vocabulary shaped the later tradition — not as a historical report.
 
 The dantian idea's textual arrival is dated at [Huangting Jing: The Three-Dantian System (c. 3rd–4th c.)](/timeline/huangting-jing-dantian/).
+
+## In our view
+
+We read the *Huangting Jing* as the imagistic pole of the tradition, not as an early version of the emptying practices this site centers. The page's own contrast supports this: its method is to see the inner court, its colors and residents, while zuowang and xinzhai empty the field of images. The exception is the dantian map, which outlived the method and became the default geography of later practice; there the map is doctrine, not anatomy.

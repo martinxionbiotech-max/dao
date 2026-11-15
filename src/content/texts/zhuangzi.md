@@ -56,3 +56,7 @@ The *Zhuangzi* supplies the classical descriptions that later Chinese sitting tr
 The *Zhuangzi* is the root text of this knowledge base not because it is a meditation manual — it is not — but because it is the earliest Chinese literature describing *what it is like* for the self to fall away in sitting, and because later traditions' technical vocabulary (emptiness, qi, forgetting, merging) borrows from it. Reading its practice passages as literal technique is anachronistic; reading them as the description-and-ideal later technicians systematized is exactly right.
 
 The Tang commentary tradition is personified in [Cheng Xuanying (成玄英)](/people/cheng-xuanying/).
+
+## In our view
+
+We read the *Zhuangzi* as the phenomenology of the emptied state, not as a meditation manual, and we resist turning its parables into technique. The page's editorial line supports this: the practice passages describe what it is like for the self to fall away, and later traditions did the systematizing. The exception is the division into inner and outer chapters; where a passage comes from a later stratum, its weight for a practice claim differs.

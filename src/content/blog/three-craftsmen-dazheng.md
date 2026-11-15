@@ -1,5 +1,5 @@
 ---
-title: "Three Craftsmen: What the Dazheng Chapter Teaches About Practice"
+title: "Three Craftsmen: What the Dazheng Chapter Teaches"
 date: 2026-10-07
 updated: 2026-10-07
 description: "An editorial synthesis of the Dazheng chapter's three parables — the wooden rooster, Artisan Qing, the cicada-catcher — and what they jointly say about training, emptying, and non-forcing."

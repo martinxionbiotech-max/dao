@@ -4,6 +4,7 @@ date: 2026-10-07
 updated: 2026-10-07
 description: "The belief question, answered from the record: the practice grew inside religious institutions, but the classical core instructions do not invoke gods — while the tradition's deeper claims are religious and cannot be separated from practice by the texts themselves."
 question: "Is sitting meditation religious? Do I have to be a Daoist or Buddhist — or believe anything — to practice zuowang, jingzuo, or the breathing methods?"
+shortTitle: "Is sitting meditation religious? Do I need belief?"
 context: "A recurring reader question, made sharper by the sources themselves: the practice texts are framed by soteriology (immortality, dhyana stages, channel systems), yet the core instructions — settle the body, breathe fine, return the attention — are framed in no religion's language at all."
 answerState: answered
 answerScope: "At the practice layer and the textual layer. What the record shows about where the practice grew, what the core instructions actually require, and what claims cannot be separated from their religious frame."

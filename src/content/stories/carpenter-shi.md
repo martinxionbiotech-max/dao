@@ -1,5 +1,5 @@
 ---
-title: "The Carpenter and the Plaster: What Practice Loses Without a Partner"
+title: "The Carpenter and the Plaster — Practice Needs a Partner"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Carpenter Shi's axe and the man of Ying who never flinched — the Zhuangzi's elegy for his dead debating partner Hui Shi, and the tradition's image of the mutual trust that makes real training possible."

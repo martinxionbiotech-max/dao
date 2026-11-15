@@ -4,6 +4,7 @@ date: 2026-10-07
 updated: 2026-10-07
 description: "A frequently asked question from Chinese practitioner communities: sleep during sitting — the tradition's drowsiness-vs-stillness distinction, the modern fatigue reading, and what neither covers."
 question: "Why do I keep falling asleep during meditation, and does it mean meditation doesn't suit me?"
+shortTitle: "Why do I fall asleep during meditation?"
 context: "A recurring question in Chinese practice communities, asked by beginners who fall asleep in guided or seated sessions."
 answerState: answered
 status: published

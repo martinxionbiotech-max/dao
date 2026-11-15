@@ -1,5 +1,5 @@
 ---
-title: "EXP-040: Why Do the Wicked Prosper? — A Room Argues Itself into 'There Is No Good and Evil'"
+title: "EXP-040: Why Do the Wicked Prosper? — A Room Debate"
 date: 2026-11-07
 updated: 2026-11-07
 description: "An exchange that opens with the oldest question in moral philosophy and ends by dissolving it — with an editorial judgment on what each answer costs."

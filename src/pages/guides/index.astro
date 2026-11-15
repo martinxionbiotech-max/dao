@@ -7,7 +7,7 @@ const entries = (await getCollection('guides'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Guides" description="Practical guides to reading, practice and study.">
+<Base title="Guides" description="Practical guides to reading the classics, sitting, and studying Chinese contemplative traditions: where to start and what the evidence can bear.">
   <h1>Guides</h1>
   <p class="lede">Practical guides to reading, practice and study.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

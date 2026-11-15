@@ -1,5 +1,5 @@
 ---
-title: "EXP-034: One Thought, One World — A Bad Moment Is Not a Bad Life"
+title: "EXP-034: One Thought, One World — A Bad Moment, Not a Life"
 date: 2026-10-29
 updated: 2026-10-29
 description: "A first-person reflection on why a thing that feels bad is not absolutely bad — time keeps moving, life keeps going, and how it ends turns on what one chooses in that moment: to sink with the current, or to rise the harder one is struck."

@@ -2,7 +2,7 @@
 title: "Dao"
 date: 2026-10-07
 updated: 2026-10-07
-description: "Glossary: dao 道 — 'way' and everything the word carries; why it is left untranslated."
+description: "Dao 道 (dào) means way, path and to speak — the pun behind Daodejing 1. Why translators romanize it, and what 'the Way', 'God' and 'the Force' get wrong."
 chinese: "道"
 pinyin: "dào"
 literalMeaning: "way, path, road; to speak"

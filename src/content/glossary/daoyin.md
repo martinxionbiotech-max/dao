@@ -3,7 +3,7 @@
   "title": "Daoyin (导引): Guiding and Pulling",
   "date": "2026-10-08",
   "updated": "2026-10-08",
-  "description": "Term entry: daoyin 导引 — the classical movement-and-breath art. See the full practice page.",
+  "description": "Daoyin 导引 (dǎoyǐn), 'guiding and pulling', is the classical movement-and-breath art behind modern qigong, attested in Zhuangzi ch. 15 and Mawangdui silk.",
   "chinese": "导引",
   "pinyin": "dǎoyǐn",
   "literalMeaning": "guiding and pulling",

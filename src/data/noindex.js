@@ -14,15 +14,9 @@ export const NOINDEX_PATHS = [
   '/glossary/qigong/',
   '/glossary/neigong/',
   '/glossary/daoyin/',
-  '/glossary/yi/',
-  '/glossary/ming/',
-  '/glossary/xing/',
   '/glossary/baoyi/',
   '/glossary/tuoyue/',
-  '/glossary/xi/',
   '/glossary/xuan/',
-  '/glossary/de/',
-  '/glossary/xin/',
 
   // thin timeline entries
   '/timeline/baopuzi-shouyi/',

@@ -2,7 +2,7 @@
 title: "Jingzuo"
 date: 2026-10-07
 updated: 2026-10-07
-description: "Glossary: jingzuo 静坐, 'quiet sitting' — the Neo-Confucian seated practice and its translation."
+description: "Jingzuo 静坐 (jìngzuò), 'quiet sitting', is the Song-Ming Neo-Confucian seated practice behind Zhu Xi's half-day rule, not Buddhist 'meditation'."
 chinese: "静坐"
 pinyin: "jìngzuò"
 literalMeaning: "still/quiet sitting"
@@ -20,3 +20,7 @@ sources:
 **Translation note:** a comparatively easy term — "quiet sitting" is literal and idiomatic. Avoid "meditation" alone (it obscures the Confucian rationale); avoid "still sitting" (loses the everyday sense of *jing* as quiet/calm).
 
 See the full [concept page](/concepts/jingzuo/) and [practice page](/practices/jingzuo/).
+
+## Scope note
+
+This entry defines the term and its textual history. For instructions and session structure, see [Jingzuo as a practice](/practices/jingzuo/); the glossary stays a glossary.

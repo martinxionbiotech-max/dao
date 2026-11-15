@@ -2,7 +2,7 @@
 title: "Jing-Qi-Shen"
 date: 2026-10-07
 updated: 2026-10-07
-description: "Glossary: jing-qi-shen 精气神 — the 'three treasures' of Daoist cultivation, and what they are not."
+description: "Jing-qi-shen 精气神 (jīng-qì-shén) are the 'three treasures' of Daoist cultivation: essence, qi and spirit as registers of one continuum, not substances."
 chinese: "精气神"
 pinyin: "jīng-qì-shén"
 literalMeaning: "essence–vitality–spirit"

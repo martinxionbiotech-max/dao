@@ -1,5 +1,5 @@
 ---
-title: "EXP-020: 'That Wasn't First Dhyāna' — the False Alarm and the Gate"
+title: "EXP-020: Not First Dhyāna — the False Alarm and the Gate"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Anonymized note: a practitioner's ecstatic 'first dhyāna' report (warmth, four entries, a glowing-eyed Buddha image), the teacher's correction — that is stillness, shamatha, not dhyāna — and the episode's two honest refusals: no one knows the three gates, and no shortcuts exist."

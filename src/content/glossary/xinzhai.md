@@ -2,7 +2,7 @@
 title: "Xinzhai"
 date: 2026-10-07
 updated: 2026-10-07
-description: "Glossary: xinzhai 心斋, 'fasting of the mind' — the Zhuangzian emptying practice and its translation."
+description: "Xinzhai 心斋 (xīnzhāi), 'fasting of the mind', is Zhuangzi ch. 4's emptying practice — listening with qi rather than ear or mind — and not blankness."
 chinese: "心斋"
 pinyin: "xīnzhāi"
 literalMeaning: "mind/heart-fasting"

@@ -1,5 +1,5 @@
 ---
-title: "The River God Looks Out to Sea: When the Flood Meets the Floodless"
+title: "The River God Looks to the Sea — Flood Meets Floodless"
 date: 2026-10-07
 updated: 2026-10-07
 description: "The autumn floods fill the river; the river god thinks all beauty is in him; he reaches the sea and learns what a 'great standard' means. The Zhuangzi's opening fable about the moment of seeing one's own size."

@@ -53,3 +53,7 @@ Eight centuries later, the Tang Daoist **Sima Chengzhen** wrote a manual called 
 - The manual: [Zuowang Lun](/texts/zuowang-lun/)
 - Comparison: [zuowang vs jingzuo](/comparisons/jingzuo-vs-zuowang/)
 - The modern parallel: [zuowang vs mindfulness](/comparisons/zuowang-vs-mindfulness/)
+
+## In our view
+
+We would not hand zuowang to a beginner as a first practice. The page's own reason: forgetting cannot be gripped, and the tradition's usable system is graduated, with preliminaries that assume a settled life. The exception: a reader who only wants the phrase's meaning needs no sitting at all — the concept page and the manual carry that sense, and the page already sends anyone who does want to sit to jingzuo for posture.

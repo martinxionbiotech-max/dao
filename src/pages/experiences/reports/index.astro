@@ -7,7 +7,7 @@ const entries = (await getCollection('experiences'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Experience Reports" description="Substantial anonymized practitioner experience reports.">
+<Base title="Experience Reports" description="In-depth first-person accounts of meditation practice, anonymized and structured: what was done, what happened, and how the practitioner understood it.">
   <h1>Experience Reports</h1>
   <p class="lede">Substantial individual experiences — anonymized.</p>
   {entries.length === 0 && <p class="meta">No published reports yet.</p>}

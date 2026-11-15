@@ -7,7 +7,7 @@ const entries = (await getCollection('comparisons'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Comparisons" description="Daoist vs Chan, Zuowang vs mindfulness, and other structured comparisons.">
+<Base title="Comparisons" description="Where the practices meet and where the analogy breaks: zuowang against mindfulness, neiguan against vipassana, qi against prana, and other pairings.">
   <h1>Comparisons</h1>
   <p class="lede">Daoist vs Chan, Zuowang vs mindfulness, and other structured comparisons.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

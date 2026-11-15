@@ -1,5 +1,5 @@
 ---
-title: "EXP-041: The Heart Makes the Face — A Forwarded Chan Reflection on Fate, Karma and the Eight Sufferings"
+title: "EXP-041: The Heart Makes the Face — Fate, Karma, Suffering"
 date: 2026-11-09
 updated: 2026-11-09
 description: "A four-paragraph Chan reflection circulated as a forwarded message: the good heart and the good fate, karma on a longer ledger, the eight sufferings with one item quietly swapped out, and a closing argument for living outside other people's opinions — with an editorial reading of what holds and what does not."

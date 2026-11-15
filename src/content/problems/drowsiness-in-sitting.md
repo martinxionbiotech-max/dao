@@ -1,5 +1,5 @@
 ---
-title: "Why do I get drowsy or fall asleep during sitting — and is that stillness?"
+title: "Why Do I Get Drowsy in Sitting — Is That Stillness?"
 date: 2026-10-07
 updated: 2026-10-07
 description: "A problem page: drowsiness (昏沉) vs stillness (入静) — the manuals' explicit distinction, the named causes, and the remedies, plus the modern fatigue reading."

@@ -51,3 +51,7 @@ No clinical research addresses "emptiness" as a contemplative state; the modern 
 ## Editorial synthesis
 
 Xu is the tradition's answer to the question "what should the mind *do* in sitting?" — and the answer is: stop doing, become empty, and the Dao gathers. The image-pair the tradition left us — the empty room's white light, and the seated racer — remains the most economical diagnosis tool in Chinese contemplative literature: light in the room means the mind rests; racing while seated means it doesn't.
+
+## In our view
+
+We read *Xu* as the testable condition of sitting rather than a mood, and we use the page's two images to diagnose practice: white light in the empty room, or a body seated while the mind races. The reason is the text's own definition, that emptiness is what awaits things, so the sitting that pre-forms nothing is the one that counts. The exception is the visual reading of 虚室生白 as a report of phenomena in deep quiet; the text does not settle it, and neither do we.

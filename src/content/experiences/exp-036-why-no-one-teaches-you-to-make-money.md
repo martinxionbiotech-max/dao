@@ -1,5 +1,5 @@
 ---
-title: "EXP-036: Why No One Teaches You to Make Money — A Contributed Note on Self-Learning and the Peasant Ethic"
+title: "EXP-036: Why No One Teaches You to Make Money"
 date: 2026-10-31
 updated: 2026-10-31
 description: "A verbatim note from a correspondent arguing that no one teaches the earning of money because an ethic of clear boundaries makes profit-taking unrighteous, and that people who want to earn it keep waiting for a copyable model. Published with the contributor's own caveat that it is one person's view, not the site's."

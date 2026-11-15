@@ -7,7 +7,7 @@ const entries = (await getCollection('blog'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Blog" description="Original editorial essays, research synthesis and timely analysis.">
+<Base title="Blog" description="Editorial essays on translation, practice and the craft of reading Chinese sources — arguments and working notes rather than reference entries.">
   <h1>Blog</h1>
   <p class="lede">Original editorial essays, research synthesis and timely analysis.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

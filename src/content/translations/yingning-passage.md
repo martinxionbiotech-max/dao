@@ -1,5 +1,5 @@
 ---
-title: "The Ladder of Nü Yu: Putting Outside, Dawn-Clearing, and the Stillness Made in Disturbance"
+title: "The Ladder of Nü Yu: Stillness Made in Disturbance"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Annotated translation of the Dazongshi passage where the woman teacher Nü Yu gives the tradition's first staged account of practice: three days, seven days, nine days — and the stillness that sends off and welcomes."

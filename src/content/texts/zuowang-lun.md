@@ -55,3 +55,7 @@ Sima Chengzhen drew on the *Zhuangzi* for the name and the end state, on the *Ne
 The *Zuowang Lun* is the pivot document of Chinese contemplative history: before it, zuowang was a famous passage; after it, zuowang is a named, teachable system. Every later Daoist sitting tradition, and much of the Neo-Confucian jingzuo vocabulary, stands downstream of this treatise. Its most modern feature is its honesty about preconditions: the text insists that mind-collection cannot succeed while one's life remains over-entangled — a claim that survives as practical counsel even for secular readers.
 
 **Uncertainty is preserved:** the extent of direct dependence on specific Buddhist texts (versus general shared vocabulary) remains a scholarly question; the treatise itself cites no Buddhist sources by name.
+
+## In our view
+
+We read the *Zuowang Lun* as a pivot document, the point where a classical description becomes a teachable system, and we use its seven stages as a map rather than a ladder to climb. The page supports the caution: the treatise insists the stages are progressive and cannot be skipped, and it opens with disposition and simplified life. The exception is the reader with none of those preconditions, for whom the early stages are counsel, not technique.

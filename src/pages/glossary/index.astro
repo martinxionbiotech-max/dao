@@ -7,7 +7,7 @@ const entries = (await getCollection('glossary'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Glossary" description="Chinese contemplative dictionary: characters, pinyin, translations.">
+<Base title="Glossary" description="A working dictionary of Chinese contemplative terms: characters, pinyin, literal sense, translation options and a recommended English rendering.">
   <h1>Glossary</h1>
   <p class="lede">Chinese contemplative dictionary: characters, pinyin, translations.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

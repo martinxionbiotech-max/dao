@@ -1,6 +1,6 @@
 ---
 {
-  "title": "Daoist Meditation Explained: Practices, Sources, and What to Expect",
+  "title": "Daoist Meditation Explained: Practices and Sources",
   "date": "2026-10-08",
   "updated": "2026-10-08",
   "description": "The entry guide to Daoist meditation specifically: the five practices, what the sources actually are (parables, manuals, lineages), the evidence situation, and honest expectations.",
@@ -66,3 +66,7 @@
 - **Nothing in the tradition requires belief** — see [does practice need faith?](/experiences/questions/does-practice-need-faith/).
 
  Where this practice sits among the wider families — Daoist, Buddhist, Confucian, and modern — is drawn in the [map of Chinese contemplative traditions](/guides/map-of-chinese-contemplative-traditions/).
+
+## In our view
+
+Start with zuowang or jingzuo rather than a lineage's full ritual system: those two have the clearest primary-text trail and the fewest unverifiable claims attached. The exception is a reader who already has a teacher — follow that teacher's sequence, and use these pages only to check what the tradition says the practice is for.

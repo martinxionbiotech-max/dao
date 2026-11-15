@@ -1,6 +1,6 @@
 ---
 
-title: "Schlosser 2019: How Common Are Unpleasant Meditation Experiences?"
+title: "Schlosser 2019: Unpleasant Meditation Experiences"
 date: 2026-10-07
 updated: 2026-10-07
 description: "The largest survey to date of unpleasant meditation-related experiences: roughly one in four regular meditators reports having had one — and the study's predictors map the conditions that make them likelier."

@@ -1,6 +1,6 @@
 ---
 
-title: "Can Meditation Go Wrong? Adverse Events in Meditation (Farias 2020)"
+title: "Can Meditation Go Wrong? Farias 2020 on Adverse Events"
 date: 2026-10-07
 updated: 2026-10-07
 description: "The first systematic review of meditation adverse events: 8.3% overall prevalence, anxiety and depression most common — and what it does and does not say about Daoist sitting."

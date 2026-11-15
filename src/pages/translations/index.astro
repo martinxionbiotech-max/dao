@@ -7,7 +7,7 @@ const entries = (await getCollection('translations'))
   .sort((a, b) => (a.data.title || '').localeCompare(b.data.title || ''));
 ---
 
-<Base title="Translations" description="Term and passage translation studies — options, problems, recommended renderings.">
+<Base title="Translations" description="Passage-level translation studies: the Chinese text, the renderings on offer, the problems in each, and a recommended version with reasons for it.">
   <h1>Translations</h1>
   <p class="lede">Term and passage translation studies — options, problems, recommended renderings.</p>
   <p class="meta">{entries.length} published entr{entries.length === 1 ? 'y' : 'ies'}</p>

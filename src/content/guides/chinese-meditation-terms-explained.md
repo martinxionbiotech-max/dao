@@ -69,3 +69,7 @@
 - Every one-liner above is a compression; the full pages carry the sources, the disagreements between commentators, and the uncertainty. When a claim depends on a term, read the term's page.
 - Romanization here follows the site's convention (pinyin without tone marks); historical texts use no romanization at all, and translations vary.
 - The [map of Chinese contemplative traditions](/guides/map-of-chinese-contemplative-traditions/) places these terms inside their traditions; this page only names them.
+
+## In our view
+
+Learn ten terms properly rather than fifty approximately. A reader who can distinguish zuowang from jingzuo, and qi from jing, will read a primary text more accurately than one who has collected a hundred romanised labels. The exception is translation work: there the divergent renderings matter, and the individual entries carry them.

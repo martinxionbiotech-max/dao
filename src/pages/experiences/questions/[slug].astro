@@ -12,9 +12,26 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
+
+// QAPage: the page is one question with one editorial answer, not an FAQ list.
+const plain = (entry.body || '')
+  .split(/\n\s*\n/)
+  .map((p) => p.replace(/^#+\s*/, '').replace(/[*_`>]/g, '').trim())
+  .find((p) => p.length > 120) || d.description || '';
+const qaLd = {
+  '@context': 'https://schema.org',
+  '@type': 'QAPage',
+  mainEntity: {
+    '@type': 'Question',
+    name: d.question,
+    text: d.question,
+    answerCount: 1,
+    acceptedAnswer: { '@type': 'Answer', text: plain.slice(0, 1200) },
+  },
+};
 ---
 
-<Base title={d.question} description={d.description} published={d.date} updated={d.updated}>
+<Base title={d.shortTitle ?? d.question} description={d.description} jsonLd={[qaLd]} published={d.date} updated={d.updated}>
   <h1>{d.question}</h1>
   {d.date && <p class="meta">Published {d.date.toISOString().slice(0, 10)} &middot; Updated {(d.updated || d.date).toISOString().slice(0, 10)}</p>}
   <p class="meta"><span class="tag">{d.answerState}</span></p>

@@ -38,3 +38,7 @@ Stillness as a *felt state* (calm, low arousal, non-reactivity) is well describe
 **Uncertainty preserved:** jing's definition is stable across the primary texts; its causal claims (stillness governs; return is life) are traditional, not empirical.
 
 The third member of the jing-qi-shen triad has its own [Shen](/glossary/shen/) entry.
+
+## In our view
+
+We read *Jing* as a ground state rather than a posture, and we use the page's two images, the mirror and the empty room, as the test of whether stillness is actually present. The reason is the text's own contrast: the mirror responds to everything and stores nothing, so stillness cannot mean inactivity. The exception is the Neo-Confucian adoption, where jing becomes reverent composure serving moral cultivation; the Daoist sense of return does not carry over intact.

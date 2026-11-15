@@ -1,5 +1,5 @@
 ---
-title: "The Mind of the Perfected Is Like a Mirror (Zhuangzi, Yingdiwang)"
+title: "The Mind of the Perfected Is Like a Mirror (Zhuangzi)"
 date: 2026-10-07
 updated: 2026-10-07
 description: "Annotated translation of the mirror passage — 'it does not escort things out, does not welcome them in, responds and does not store' — the Zhuangzi's shortest account of the still mind, with its companion image from the Dechongfu chapter."

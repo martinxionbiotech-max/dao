@@ -46,3 +46,7 @@ Placed at the head of the daily recitation canon; commented on by numerous maste
 If the *Zhuangzi* supplies the phenomenology of emptying and the *Daodejing* the program, the *Qingjing Jing* supplies the *formula* — compressed, chantable, and endlessly commented. Its "observe that the observer is also empty" movement anticipates, in a different register, later non-dual contemplative instruction across traditions; but the genealogy is historical, not an equivalence claim.
 
 **Uncertainty is preserved:** the composition date range is a scholarly inference; the traditional attribution is a religious claim, recorded here as such.
+
+## In our view
+
+We read the *Qingjing Jing* as the formula of the removal logic, useful precisely because it is short enough to hold in mind. The page's structure supports this: dispel desire and the mind stills itself, clarify the mind and the spirit clears, the same movement as Daodejing 48 in chantable form. The exception is the emptying ladder, which carries Madhyamaka dialectics into Daoist writing; there the text is doing philosophy, and our formula reading is too thin.

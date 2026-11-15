@@ -50,3 +50,7 @@
 - The sibling question — [why do I see lights](/experiences/questions/why-do-i-see-lights/) — shows the boundary where inner observation meets inner imagery.
 
 The shared characters with modern 'vipassana' are sorted out in the [neiguan vs vipassana comparison](/comparisons/neiguan-vs-vipassana/).
+
+## In our view
+
+We would begin with the scripture's single line and treat every added step as editorial. The page says why: the Neiguan Jing gives the principle and the state — observe the body, clarify the mind — but no posture, no session structure, no stages, so a minute-by-minute protocol is a modern reconstruction wearing an old name. The exception: a reader who needs something to do this week is better served by a labeled reconstruction than by nothing, provided the label stays visible.

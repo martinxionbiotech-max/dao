@@ -67,3 +67,7 @@ A modern-application essay built on this page is kept separately: [What Zuowang 
  The plain-language introduction is [what is zuowang](/guides/what-is-zuowang/).
 
  What "forgetting the body" means in the texts themselves — and what it does not mean — is set out in [forgetting the body in Daoist texts](/problems/forgetting-the-body-daoist-texts/).
+
+## In our view
+
+We read *Zuowang* as a description of an attained state that a later tradition converted into a method, and we keep those two registers apart. The page's history supports it: the term appears once in the Zhuangzi with no posture instructions, and Sima Chengzhen's seven stages are a Tang construction on that passage. The exception is the modern application literature, where zuowang is offered as a technique; that is a legitimate extension, but it is not what the classical text says.
