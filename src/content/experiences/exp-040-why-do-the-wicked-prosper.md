@@ -17,6 +17,9 @@ confidence: "medium"
 anonymity: "anonymized"
 status: published
 evidence: ["CONTEMPORARY COMMUNITY OBSERVATION", "TRADITIONAL / LINEAGE INTERPRETATION", "EDITORIAL SYNTHESIS"]
+sources:
+  - "Anonymized group-chat transcript; no external source is attached."
+
 ---
 
 ## Why this record matters

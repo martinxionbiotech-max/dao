@@ -17,6 +17,9 @@ confidence: "low"
 anonymity: "anonymized"
 status: published
 evidence: ["PRIMARY SOURCE", "CONTEMPORARY COMMUNITY OBSERVATION", "TRADITIONAL / LINEAGE INTERPRETATION", "EDITORIAL SYNTHESIS"]
+sources:
+  - "De-identified contributed note supplied to the site; transcript reproduced in translation; no external source is attached."
+
 ---
 
 ## A note on what this is

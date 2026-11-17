@@ -17,6 +17,9 @@ confidence: "medium"
 anonymity: "with-permission"
 status: published
 evidence: ["PRACTITIONER EXPERIENCE", "TRADITIONAL / LINEAGE INTERPRETATION", "EDITORIAL SYNTHESIS"]
+sources:
+  - "Contributed note by the site administrator, published with permission; no external source is attached."
+
 ---
 
 ## Why this record matters

@@ -17,6 +17,9 @@ confidence: "medium"
 anonymity: "with-permission"
 status: published
 evidence: ["PRACTITIONER EXPERIENCE", "TRADITIONAL / LINEAGE INTERPRETATION"]
+sources:
+  - "First-person reflection by the site editor (Ding.W), published with permission; no external source is attached."
+
 ---
 
 ## Why this record matters

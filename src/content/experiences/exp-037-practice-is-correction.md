@@ -17,6 +17,9 @@ confidence: "medium"
 anonymity: "with-permission"
 status: published
 evidence: ["PRACTITIONER EXPERIENCE", "TRADITIONAL / LINEAGE INTERPRETATION", "EDITORIAL SYNTHESIS"]
+sources:
+  - "Contributed by Lingen and published with permission; no external source is attached."
+
 ---
 
 ## Why this record matters

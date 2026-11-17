@@ -17,6 +17,9 @@ confidence: "medium"
 anonymity: "anonymous"
 status: published
 evidence: ["TRADITIONAL / LINEAGE INTERPRETATION", "CONTEMPORARY COMMUNITY OBSERVATION", "EDITORIAL SYNTHESIS"]
+sources:
+  - "Forwarded Chinese devotional text; author and date unknown; no external source is attached."
+
 ---
 
 ## Why this record matters
