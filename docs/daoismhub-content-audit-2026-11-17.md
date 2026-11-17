@@ -8,6 +8,13 @@
 **Scope:** 376 actual content files (393 Markdown minus 17 `_template.md` files); 17 collections; local build and live checks  
 **Related:** `data.daoismhub.com` (not deeply audited in this pass)
 
+## Post-audit remediation (2026-11-17)
+
+- The build failure described below was fixed by installing the declared `node-html-markdown` dependency. `npm run build` now exits 0 with 408 HTML files, 378 sitemap URLs and 378 Markdown sidecars.
+- The earlier “44 missing status” count was a parser artifact: many frontmatter blocks are JSON rather than YAML. Actual status coverage is now **373 published / 3 noindex / 0 missing**.
+- The three thin glossary entries (`daoyin`, `neigong`, `qigong`) are explicitly `noindex`.
+- Live and local sitemaps still match exactly: 378 URLs, 0 local-only / 0 live-only.
+
 ---
 
 ## 1. Executive summary
