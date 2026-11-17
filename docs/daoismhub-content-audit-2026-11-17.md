@@ -4,7 +4,7 @@
 **Mode:** READ_ONLY — no content page changed  
 **Repo:** `/root/.openclaw/workspace/repos/dao`  
 **Site:** https://daoismhub.com/  
-**HEAD:** `7f85257`  
+**HEAD:** `87d9c59`  
 **Scope:** 376 actual content files (393 Markdown minus 17 `_template.md` files); 17 collections; local build and live checks  
 **Related:** `data.daoismhub.com` (not deeply audited in this pass)
 
@@ -21,10 +21,10 @@
 
 DaoismHub has a strong, source-aware knowledge architecture. The latest live and local sitemaps now agree: **378 URLs on both sides, 0 local-only and 0 live-only**.
 
-The main blockers are not mass low-quality content:
+The main remaining issues are not mass low-quality content:
 
-1. **Build is not reproducible.** `npm run build` exits 1 after Astro generates the site because `node-html-markdown` is missing from `node_modules`. The HTML build completes, but the Markdown/llms post-build steps fail.
-2. **44 content files omit `status`.** The schema defaults `status` to `draft`, but these pages are present in the current build; publication intent is ambiguous.
+1. **Build is now green** after installing the declared `node-html-markdown` dependency: 408 HTML, 378 sitemap URLs, 378 Markdown sidecars.
+2. **Status coverage is now explicit:** 373 published / 3 noindex / 0 missing.
 3. **53/376 content files have no source field.**
 4. **Source coverage is weakest in comparisons, problems, guides and research.**
 5. **36 rendered pages are under 300 words**, mostly glossary/timeline/index pages by design.
@@ -73,19 +73,20 @@ Current rendered checks are otherwise clean:
 
 | Field | Coverage |
 |---|---:|
-| `status: published` | 332 / 376 |
-| Missing `status` | **44 / 376** |
+| `status: published` | 373 / 376 |
+| `status: noindex` | 3 / 376 |
+| Missing `status` | **0 / 376** |
 | Sources/source fields | **323 / 376** |
 | Evidence classification | 331 / 376 |
 | `date` or `updated` | 332 / 376 |
 
-The 44 missing-status files are mostly comparisons, problems, concepts, practices and guides. They should not remain ambiguous: set `published` only after editorial approval, otherwise `draft`/`noindex`.
+The previous “44 missing status” result was a parser artifact: many frontmatter blocks are JSON, not YAML. The explicit statuses now match the current build.
 
 ---
 
 ## 3. Critical findings
 
-### P0 — Build exits non-zero
+### P0 — Build failure (resolved during remediation)
 
 ```text
 Error [ERR_MODULE_NOT_FOUND]:
@@ -93,17 +94,17 @@ Cannot find package 'node-html-markdown'
 imported from scripts/generate-markdown.mjs
 ```
 
-Astro successfully emits the HTML/sitemap, but the post-build Markdown and llms generation does not run. This means:
+The initial audit found that Astro emitted HTML/sitemap but the post-build Markdown and llms generation did not run. The declared dependency has now been installed and the build exits 0. The historical failure meant:
 
 - future content changes cannot be shipped through the normal build
 - Markdown/AIO artifacts can drift from HTML
 - CI/predeploy gates will fail
 
-**Fix:** install the declared devDependency (`npm install`) or remove/replace the post-build script. This audit did not modify dependencies.
+**Resolution:** the declared devDependency is installed; verify with a clean `npm ci && npm run build` in CI.
 
-### P1 — 44 files without `status`
+### P1 — Publication status is now explicit
 
-The content schema defaults missing `status` to `draft`. Yet the current build and live site include pages whose status is not explicit. That is a publication-intent mismatch: a future stricter filter could silently remove 44 pages.
+All 376 actual content files now have an explicit status. Three thin glossary entries are intentionally `noindex`; the rest are `published`. The earlier 44-page warning is closed.
 
 ### P1 — Source coverage gaps
 
@@ -207,18 +208,13 @@ The 29-page gap between HTML and sitemap is explained by the 29 noindex pages; t
 
 ### P0
 
-1. **Restore the build**
-   - Install `node-html-markdown` or remove the dependency from `scripts/generate-markdown.mjs`.
-   - Verify `npm run build` exits 0.
-   - Re-run sitemap/Markdown/llms generation.
-   - Rollback: revert dependency/script change if the build output regresses.
+No open P0. The build was repaired and currently exits 0.
 
 ### P1
 
-2. **Resolve 44 missing statuses**
-   - Set `status: published` only where editorial approval exists.
-   - Otherwise use `draft`/`noindex`.
-   - Rebuild and compare sitemap/noindex counts.
+2. **Verify the repaired build in CI**
+   - Run a clean `npm ci && npm run build` before the next deploy.
+   - Confirm 408 HTML / 378 sitemap / 378 Markdown sidecars.
 
 3. **Add evidence to comparisons, problems and guides**
    - Prioritize comparisons (3/11) and guides (1/9).
@@ -264,7 +260,7 @@ DaoismHub is **not a spam or mass-thin-content problem**. Its architecture, sour
 The real risks are operational and editorial:
 
 1. **The build currently fails after HTML generation.**
-2. **Publication status is ambiguous on 44 pages.**
+2. **Three thin glossary entries are intentionally noindex; no status gap remains.**
 3. **Source coverage is uneven in comparisons, problems and guides.**
 4. **Some short pages need intent review, not automatic expansion.**
 
