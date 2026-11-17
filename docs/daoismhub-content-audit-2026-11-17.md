@@ -13,6 +13,7 @@
 - The build failure described below was fixed by installing the declared `node-html-markdown` dependency. `npm run build` now exits 0 with 408 HTML files, 378 sitemap URLs and 378 Markdown sidecars.
 - The earlier “44 missing status” count was a parser artifact: many frontmatter blocks are JSON rather than YAML. Actual status coverage is now **373 published / 3 noindex / 0 missing**.
 - The three thin glossary entries (`daoyin`, `neigong`, `qigong`) are explicitly `noindex`.
+- All 376 content files now carry a source/provenance field: 367 have external or traditional source lists; 9 experience notes carry provenance-only statements.
 - Live and local sitemaps still match exactly: 378 URLs, 0 local-only / 0 live-only.
 
 ---
@@ -25,7 +26,7 @@ The main remaining issues are not mass low-quality content:
 
 1. **Build is now green** after installing the declared `node-html-markdown` dependency: 408 HTML, 378 sitemap URLs, 378 Markdown sidecars.
 2. **Status coverage is now explicit:** 373 published / 3 noindex / 0 missing.
-3. **53/376 content files have no source field.**
+3. **All 376 content files have a source/provenance field; 9 experience notes are provenance-only.**
 4. **Source coverage is weakest in comparisons, problems, guides and research.**
 5. **36 rendered pages are under 300 words**, mostly glossary/timeline/index pages by design.
 
@@ -46,19 +47,19 @@ Current rendered checks are otherwise clean:
 
 ### Collections
 
-| Collection | Files | Word range | Sources |
+| Collection | Files | Word range | Source/provenance field |
 |---|---:|---:|---:|
-| concepts | 18 | 453–914 | 15/18 |
-| comparisons | 11 | 285–655 | 3/11 |
-| problems | 17 | 238–502 | 5/17 |
-| experiences | 41 | 161–2,878 | 32/41 |
-| glossary | 55 | 34–699 | 49/55 |
-| guides | 9 | 360–1,617 | 1/9 |
+| concepts | 18 | 453–914 | 18/18 |
+| comparisons | 11 | 285–655 | 11/11 |
+| problems | 17 | 238–502 | 17/17 |
+| experiences | 41 | 161–2,878 | 41/41 (9 provenance-only) |
+| glossary | 55 | 34–699 | 55/55 |
+| guides | 9 | 360–1,617 | 9/9 |
 | patterns | 3 | 222–304 | 3/3 |
 | people | 31 | 363–771 | 31/31 |
-| practices | 10 | 379–1,793 | 7/10 |
+| practices | 10 | 379–1,793 | 10/10 |
 | questions | 28 | 293–683 | 28/28 |
-| research | 9 | 235–471 | 5/9 |
+| research | 9 | 235–471 | 9/9 |
 | stories | 70 | 349–1,301 | 70/70 |
 | texts | 10 | 522–760 | 10/10 |
 | timeline | 18 | 101–472 | 18/18 |
@@ -76,7 +77,7 @@ Current rendered checks are otherwise clean:
 | `status: published` | 373 / 376 |
 | `status: noindex` | 3 / 376 |
 | Missing `status` | **0 / 376** |
-| Sources/source fields | **323 / 376** |
+| Source/provenance fields | **376 / 376** |
 | Evidence classification | 331 / 376 |
 | `date` or `updated` | 332 / 376 |
 
@@ -216,8 +217,12 @@ No open P0. The build was repaired and currently exits 0.
    - Run a clean `npm ci && npm run build` before the next deploy.
    - Confirm 408 HTML / 378 sitemap / 378 Markdown sidecars.
 
-3. **Add evidence to comparisons, problems and guides**
-   - Prioritize comparisons (3/11) and guides (1/9).
+3. **Review the nine provenance-only experience notes**
+   - Confirm their source statement is accurate.
+   - Do not add generic external links merely to increase source counts.
+
+4. **Add evidence to comparisons, problems and guides where claims are unsupported**
+   - Prioritize comparisons and guides.
    - Add primary text citations or a clear “evidence insufficient / editorial synthesis” label.
    - Do not add generic web links.
 
@@ -261,7 +266,7 @@ The real risks are operational and editorial:
 
 1. **The build currently fails after HTML generation.**
 2. **Three thin glossary entries are intentionally noindex; no status gap remains.**
-3. **Source coverage is uneven in comparisons, problems and guides.**
+3. **Source fields are complete; the remaining gap is evidence quality, not field coverage.**
 4. **Some short pages need intent review, not automatic expansion.**
 
 Do not add another content batch until the build is green and the 44 statuses are resolved.
