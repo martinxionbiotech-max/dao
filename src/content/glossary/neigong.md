@@ -13,7 +13,7 @@
     "internal training"
   ],
   "recommended": "neigong, untranslated",
-  "status": "published",
+  "status": "noindex",
   "evidence": [
     "TRADITIONAL / LINEAGE INTERPRETATION",
     "UNCERTAIN"

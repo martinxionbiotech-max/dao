@@ -13,7 +13,7 @@
     "Chinese health exercise"
   ],
   "recommended": "qigong, untranslated",
-  "status": "published",
+  "status": "noindex",
   "evidence": [
     "HISTORICAL EVIDENCE"
   ],

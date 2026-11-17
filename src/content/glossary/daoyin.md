@@ -13,7 +13,7 @@
     "leading-and-guiding"
   ],
   "recommended": "daoyin, untranslated, with a gloss on first use",
-  "status": "published",
+  "status": "noindex",
   "evidence": [
     "PRIMARY SOURCE",
     "HISTORICAL EVIDENCE"
